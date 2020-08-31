@@ -4,15 +4,12 @@ So far, just a bunch of source material. Send me anything you have and I'll add 
 
 ### Videos
 
-- Harry Studs Vol. 4: [Is your dick hard? Remix](./hairy-studs-4-audio.mp4)
-- Harry Studs Vol. 4: [Is your dick hard? LP](./hairy-studs-4-audio-long.mp4)
+- ``2003`` Harry Studs Vol. 4: [Is your dick hard? Remix](./hairy-studs-4-audio.mp4)
+- ``2003`` Harry Studs Vol. 4: [Is your dick hard? LP](./hairy-studs-4-audio-long.mp4)
 
 ### Documents
 
-- Jewish Defense Organization: [The story of a Jew who fell in love with a Nazi: The Glenn Greenwald / Matt Hale Affair](./glenn-greenwald-matt-hale-affair.pdf)
-<!--
-[Original Link](http://docshare.tips/the-story-of-a-jew-who-fell-in-love-with-a-nazi-the-glenn-greenwald-matt-hale-affair_58aa1654b6d87f6f5d8b5237.html)
--->
+- ``01 Feb 2017`` [Jewish Defense Organization: [Dossier on Glenn Greenwald](./glenn-greenwald-matt-hale-affair.pdf)
 
 ### Links
 
@@ -34,3 +31,7 @@ So far, just a bunch of source material. Send me anything you have and I'll add 
 - ``01 Aug 2019`` Better Call Glenn: [A sexual predator named Glenn Greenwald (Act I)](https://web.archive.org/web/20190803233858/https://bettercallglenn.com/um-predador-sexual-chamado-glenn-greenwald-ato-i/)
 - ``03 Aug 2019`` Better Call Glenn: [A sexual predator named Glenn Greenwald (Act II)](https://web.archive.org/web/20190803233858/https://bettercallglenn.com/um-predador-sexual-chamado-glenn-greenwald-ato-ii/)
 - ``28 Sep 2019`` Better Call Glenn: [Glenn Greenwald ex-actor talks about his adult films VOL 1](https://web.archive.org/web/20191012162650/https://bettercallglenn.com/ex-ator-de-glenn-greenwald-fala-sobre-seus-filmes-adultos-vol-1/)
+
+<!--
+[Original Link](http://docshare.tips/the-story-of-a-jew-who-fell-in-love-with-a-nazi-the-glenn-greenwald-matt-hale-affair_58aa1654b6d87f6f5d8b5237.html)
+-->
