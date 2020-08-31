@@ -1,4 +1,4 @@
-# Greenwald Porn Research
+## Greenwald Porn Research
 
 So far, just a bunch of links.
 
