@@ -1,6 +1,6 @@
 ## Greenwald Porn Research
 
-So far, just a bunch of links.
+So far, just a bunch of source material. Send me anything else you have and I'll add it.
 
 ### Files
 
