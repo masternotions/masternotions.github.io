@@ -1,7 +1,6 @@
 ---
-title: "Home"
+title: Home
 layout: default
-filename: index.md
 ---
 
 ## Home
