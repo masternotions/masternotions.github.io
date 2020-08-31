@@ -4,7 +4,8 @@ So far, just a bunch of source material. Send me anything you have and I'll add 
 
 ### Videos
 
-- Harry Studs Vol. 4: [Is your dick hard?](./hairy-studs-4-audio.mp4)
+- Harry Studs Vol. 4: [Is your dick hard? Remix](./hairy-studs-4-audio.mp4)
+- Harry Studs Vol. 4: [Is your dick hard?](./hairy-studs-4-audio-long.mp4)
 
 ### Documents
 
