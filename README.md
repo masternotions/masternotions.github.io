@@ -4,12 +4,12 @@ So far, just a bunch of source material. Send me anything you have and I'll add 
 
 ### Videos
 
-- ``2003`` Harry Studs Vol. 4: [Is your dick hard? Remix](./hairy-studs-4-audio.mp4)
-- ``2003`` Harry Studs Vol. 4: [Is your dick hard? LP](./hairy-studs-4-audio-long.mp4)
+- ``2003`` Harry Studs Vol. 4: [Is your dick hard?](/media/hairy-studs-4-audio.mp4)
+- ``2003`` Harry Studs Vol. 4: [Is your dick hard? Remix](/media/hairy-studs-4-audio-remix.mp4)
 
 ### Documents
 
-- ``01 Feb 2017`` Jewish Defense Organization: [The Glenn Greenwald / Matt Hale Love Affair](./glenn-greenwald-matt-hale-affair.pdf)
+- ``01 Feb 2017`` Jewish Defense Organization: [The Glenn Greenwald / Matt Hale Love Affair](/docs/glenn-greenwald-matt-hale-affair.pdf)
 
 ### Links
 
