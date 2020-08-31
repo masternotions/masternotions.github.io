@@ -9,7 +9,7 @@ So far, just a bunch of source material. Send me anything you have and I'll add 
 
 ### Documents
 
-- ``01 Feb 2017`` [Jewish Defense Organization: [Dossier on Glenn Greenwald](./glenn-greenwald-matt-hale-affair.pdf)
+- ``01 Feb 2017`` Jewish Defense Organization: [Glenn Greenwald / Matt Hale Love Affair](./glenn-greenwald-matt-hale-affair.pdf)
 
 ### Links
 
