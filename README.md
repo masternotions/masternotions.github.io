@@ -2,7 +2,11 @@
 
 So far, just a bunch of source material. Send me anything you have and I'll add it. You want edit access? You got it.
 
-### Files
+### Videos
+
+- Harry Studs Vol. 4: [Is your dick hard?](./hairy-studs-4-audio.mp4)
+
+### Documents
 
 - Jewish Defense Organization: [The story of a Jew who fell in love with a Nazi: The Glenn Greenwald / Matt Hale Affair](./glenn-greenwald-matt-hale-affair.pdf)
 <!--
@@ -29,3 +33,7 @@ So far, just a bunch of source material. Send me anything you have and I'll add 
 - The Guardian: [The personal side of taking on the NSA: emerging smears](https://www.theguardian.com/commentisfree/2013/jun/26/nsa-revelations-response-to-smears)
 - Politico: [Greenwald aims to pre-empt 'smears'](https://www.politico.com/blogs/media/2013/06/greenwald-aims-to-pre-empt-smears-167191)
 - Wikipedia: [Glenn Greenwald](https://en.wikipedia.org/wiki/Glenn_Greenwald)
+
+### More Links
+
+- Novak Archive: [Why Does Glenn Greenwald Keep Appearing on Tucker Carlson's Show?](https://www.novakarchive.com/foias/2019/4/20/why-does-glenn-greenwald-keep-going-on-tucker-carlsons-show)
