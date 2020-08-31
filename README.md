@@ -2,13 +2,19 @@
 
 So far, just a bunch of links.
 
+### Files
+
+- Jewish Defense Organization: [The story of a Jew who fell in love with a Nazi: The Glenn Greenwald / Matt Hale Affair](./glenn-greenwald-matt-hale-affair.pdf)
+<!--
+[Original Link](http://docshare.tips/the-story-of-a-jew-who-fell-in-love-with-a-nazi-the-glenn-greenwald-matt-hale-affair_58aa1654b6d87f6f5d8b5237.html)
+-->
+
 ### Links
 
 - NY Daily News: [Glenn Greenwald, journalist who broke Edward Snowden story, was once lawyer sued over porn business](https://www.nydailynews.com/news/national/greenwald-reporter-broke-nsa-story-lawyer-sued-porn-biz-article-1.1383448)
 - The Other McCain: [Glenn Greenwald Is a Ridiculous Joke (And Alas, the Internet Never Forgets)](https://theothermccain.com/2013/06/27/glenn-greenwald-is-a-ridiculous-joke-and-alas-the-internet-never-forgets/)
 - Jake Jaxson: [I am Jake Jaxson](https://jakejaxson.com/post/54490441032/i-am-jake-jaxson)
 - Maritaca News: [According to the bad language, the @DomMascHry31 profile on Twitter belongs to Glenn from IntercePT](https://maritaca-news.blogspot.com/2019/07/segundo-as-mas-linguas-o-perfil.html)
-- Doc Share: [The story of a Jew who fell in love with a Nazi: The Glenn Greenwald / Matt Hale Affair](http://docshare.tips/the-story-of-a-jew-who-fell-in-love-with-a-nazi-the-glenn-greenwald-matt-hale-affair_58aa1654b6d87f6f5d8b5237.html)
 - Better Call Glenn: [A sexual predator named Glenn Greenwald (Act I)](https://web.archive.org/web/20190803233858/https://bettercallglenn.com/um-predador-sexual-chamado-glenn-greenwald-ato-i/)
 - Better Call Glenn: [A sexual predator named Glenn Greenwald (Act II)](https://web.archive.org/web/20190803233858/https://bettercallglenn.com/um-predador-sexual-chamado-glenn-greenwald-ato-ii/)
 - Better Call Glenn: [Glenn Greenwald ex-actor talks about his adult films VOL 1](https://web.archive.org/web/20191012162650/https://bettercallglenn.com/ex-ator-de-glenn-greenwald-fala-sobre-seus-filmes-adultos-vol-1/)
