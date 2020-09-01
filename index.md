@@ -39,6 +39,13 @@ layout: home
 - [https://www.out.com/news-opinion/2013/10/24/behind-story-glenn-greenwald-enemy-state]()
 - [https://www.out.com/news-opinion/2013/08/19/glenn-greenwalds-partner-detained-heathrow]()
 - [https://www.out.com/entertainment/popnography/2013/06/07/glenn-greenwald-whistleblower-bradley-manning]()
+- [https://law.justia.com/cases/federal/district-courts/FSupp2/159/1116/2384296/]()
+- [https://www.tercalivre.com.br/glenn-greenwald-ja-foi-processado-por-pornografia-segundo-site-estrangeiro/]()
+- [http://brianjohnspencer.blogspot.com/2014/02/glenn-greenwald-lawyer-blogger-partisan.html]()
+- [https://polizeros.com/2019/07/05/brazil-investigating-glenn-greenwald-for-money-laundering/]()
+- [https://en.wikipedia.org/wiki/Operation_Car_Wash]()
+- [https://www.nytimes.com/reuters/2020/08/21/business/21reuters-brazil-corruption.html]()
+- [https://www.fbi.gov/wanted/cyber/evgeniy-mikhailovich-bogachev]()
 
 ### More
 
