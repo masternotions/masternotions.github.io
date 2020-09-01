@@ -9,8 +9,8 @@
 
     <!-- twitter card -->
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:site" content="@wokyleeks" />
-    <meta name="twitter:creator" content="@squirtleh2o" />
+    <meta name="twitter:site" content="{{ site.twitter_site }}" />
+    <meta name="twitter:creator" content="{{ site.twitter_creator }}" />
     <meta name="twitter:title" content="{{ relative_url }}" />
     <meta name="twitter:description" content="{{ site.description }}" />
     <meta name="twitter:image" content="{{ site.twitter_card }}" />
@@ -23,8 +23,6 @@
     <!-- HEADER -->
     <div id="header_wrap" class="outer">
         <header class="inner">
-          <h1 id="project_title">{{ site.title }}</h1>
-          <h2 id="project_tagline">{{ site.description }}</h2>
         </header>
     </div>
 
@@ -38,7 +36,7 @@
     <!-- FOOTER  -->
     <div id="footer_wrap" class="outer">
       <footer class="inner">
-        <p>MADE IN U.S.A.</p>
+        <p>{{ site.footer }}</p>
       </footer>
     </div>
 
