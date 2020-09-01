@@ -17,6 +17,9 @@ layout: default
 - ``2003`` Hairy Studs Vol. 4: [Is your dick hard?](/media/hairy-studs-4-audio.mp4)
 - ``2003`` Hairy Studs Vol. 4: [Is your dick hard? Remix](/media/hairy-studs-4-audio-remix.mp4)
 
+### Documents
+
+- ``Feb 2017`` Jewish Defense Organization: [Dossier on Glenn Greenwald](/docs/jewish-defense-organization-dossier.pdf)
 
 ### Links
 
