@@ -3,22 +3,20 @@ title: Home
 layout: default
 ---
 
-### Navigation
 
-This will eventually become the side nav bar.
+### Documents
 
-- [Articles](articles.md)
-- [Twitter](twitter.md)
-- [Blog](blog.md)
+- ``Current`` [List of pornography videos directed by David Miranda](https://www.gayeroticvideoindex.com/D/3/2013.html)
+- ``Current`` [List of pornography videos producced by StudMall](https://www.gayeroticvideoindex.com/C/7/6277.html)
+- ``08 Feb 2005`` [Phone contact information on StudMall.com](http://web.archive.org/web/20050208081923/http://www.studmall.com/contact.php)
+- ``08 Feb 2005`` [Phone contact information for Glenn Greenwald's Legal Offices](https://archive.is/7CM2z)
+- ``01 Feb 2017`` Jewish Defense Organization: [The Glenn Greenwald / Matt Hale Love Affair](/docs/glenn-greenwald-matt-hale-affair.pdf)
 
 ### Videos
 
 - ``2003`` Hairy Studs Vol. 4: [Is your dick hard?](/media/hairy-studs-4-audio.mp4)
 - ``2003`` Hairy Studs Vol. 4: [Is your dick hard? Remix](/media/hairy-studs-4-audio-remix.mp4)
 
-### Documents
-
-- ``01 Feb 2017`` Jewish Defense Organization: [The Glenn Greenwald / Matt Hale Love Affair](/docs/glenn-greenwald-matt-hale-affair.pdf)
 
 ### Links
 
