@@ -23,12 +23,6 @@ layout: default
 - ``27 Jul 2019`` Maritaca News: [According to the bad language, the @DomMascHry31 profile on Twitter belongs to Glenn from IntercePT](https://maritaca-news.blogspot.com/2019/07/segundo-as-mas-linguas-o-perfil.html)
 - ``21 Jan 2020`` Ernesto Londoño and Letícia Casado for The New York Times: [Glenn Greenwald Charged With Cybercrimes in Brazil](https://www.nytimes.com/2020/01/21/world/americas/glenn-greenwald-brazil-cybercrimes.html)
 
-### Glenn's old blog posts
-
-- ``2005 to 2007`` Glenn Greenwald on Blogger: [Unclaimed Territory](http://glenngreenwald.blogspot.com/)
-- ``2006 to 2014`` Glenn Greenwald on Blogger: [UT Documents](http://utdocuments.blogspot.com/)
-- ``04 Aug 2010`` Glenn Greenwald on Blogger: [Cato Surveillance Draft](http://surveillancedraft.blogspot.com/)
-
 ### Tweets with attached media
 
 - ``16 Jul 2019`` [@telesurenglish](https://twitter.com/telesurenglish/status/1151144461738446848)
@@ -49,4 +43,10 @@ layout: default
 
 <!--
 [Original Link](http://docshare.tips/the-story-of-a-jew-who-fell-in-love-with-a-nazi-the-glenn-greenwald-matt-hale-affair_58aa1654b6d87f6f5d8b5237.html)
+-->
+
+<!--
+- ``2005 to 2007`` Glenn Greenwald on Blogger: [Unclaimed Territory](http://glenngreenwald.blogspot.com/)
+- ``2006 to 2014`` Glenn Greenwald on Blogger: [UT Documents](http://utdocuments.blogspot.com/)
+- ``04 Aug 2010`` Glenn Greenwald on Blogger: [Cato Surveillance Draft](http://surveillancedraft.blogspot.com/)
 -->
