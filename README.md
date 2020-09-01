@@ -2,9 +2,9 @@
 
 So far, just a bunch of source material.
 
-### Pages
+### Main Files
 
-- [index.md]()
-- [twitter.md]()
-- [articles.md]()
-- [blog.md]()
+- [index.md](index.md)
+- [articles.md](articles.md)
+- [twitter.md](twitter.md)
+- [blog.md](blog.md)
