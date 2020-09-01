@@ -22,3 +22,7 @@ layout: home
 - ``01 Aug 2019`` Better Call Glenn: [A sexual predator named Glenn Greenwald (Act I)](https://web.archive.org/web/20190803233858/https://bettercallglenn.com/um-predador-sexual-chamado-glenn-greenwald-ato-i/)
 - ``03 Aug 2019`` Better Call Glenn: [A sexual predator named Glenn Greenwald (Act II)](https://web.archive.org/web/20190803233858/https://bettercallglenn.com/um-predador-sexual-chamado-glenn-greenwald-ato-ii/)
 - ``28 Sep 2019`` Better Call Glenn: [Glenn Greenwald ex-actor talks about his adult films VOL 1](https://web.archive.org/web/20191012162650/https://bettercallglenn.com/ex-ator-de-glenn-greenwald-fala-sobre-seus-filmes-adultos-vol-1/)
+
+### More
+
+- [Articles](articles.md)
