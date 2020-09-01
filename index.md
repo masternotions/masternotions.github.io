@@ -29,10 +29,16 @@ layout: home
 - [https://rota2014.blogspot.com/2019/10/gravacao-de-conversa-entre-jornalistas.html]()
 - [https://www.buzzfeednews.com/article/jtes/how-glenn-greenwald-became-glenn-greenwald]()
 - [https://www.nycbar.org/member-and-career-services/committees/reports-listing/reports/detail/formal-opinion-2003-02-undisclosed-taping-of-conversations-by-lawyers-1]()
-- [https://www.out.com/news-commentary/2011/04/18/glenn-greenwald-life-beyond-borders]()
 - [https://aficwomendirect.org/director/jenkleiner/]()
 - [https://gay.aebn.com/gay/movies/43962/hot-hairy-real---4]()
+- [https://www.out.com/news-commentary/2011/04/18/glenn-greenwald-life-beyond-borders]()
 - [https://www.out.com/entertainment/popnography/2013/07/03/glenn-greenwald-former-lover-porn-jake-jaxson-jason-buchtel]()
+- [https://www.out.com/glenn-greenwald/2013/10/24/10-things-we-learned-glenn-greenwald]()
+- [https://www.out.com/popnography/2015/2/24/why-whistleblowers-winning-academy-awards-matters]()
+- [https://www.out.com/entertainment/popnography/2013/08/21/watch-anderson-cooper-interviews-glenn-greenwald-david-miranda]()
+- [https://www.out.com/news-opinion/2013/10/24/behind-story-glenn-greenwald-enemy-state]()
+- [https://www.out.com/news-opinion/2013/08/19/glenn-greenwalds-partner-detained-heathrow]()
+- [https://www.out.com/entertainment/popnography/2013/06/07/glenn-greenwald-whistleblower-bradley-manning]()
 
 ### More
 
