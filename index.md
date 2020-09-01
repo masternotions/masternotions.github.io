@@ -46,9 +46,9 @@ layout: home
 - [https://en.wikipedia.org/wiki/Operation_Car_Wash]()
 - [https://www.nytimes.com/reuters/2020/08/21/business/21reuters-brazil-corruption.html]()
 - [https://www.fbi.gov/wanted/cyber/evgeniy-mikhailovich-bogachev]()
-- [https://noticias.r7.com/eleicoes-2018/jornalista-americano-usa-site-para-alavancar-carreira-do-marido-09072019]
-- [https://pulsemedia.org/2016/10/28/sympathy-for-the-devil-exorcising-greenwald-and-assad/]
-- [https://threader.app/thread/1018533571689099265]
+- [https://noticias.r7.com/eleicoes-2018/jornalista-americano-usa-site-para-alavancar-carreira-do-marido-09072019]()
+- [https://pulsemedia.org/2016/10/28/sympathy-for-the-devil-exorcising-greenwald-and-assad/]()
+- [https://threader.app/thread/1018533571689099265]()
 
 ### More
 
