@@ -3,9 +3,13 @@ title: Home
 layout: default
 ---
 
-## Home
+### Navigation
 
-So far, just a bunch of source material. Send me anything you have and I'll add it. You want edit access? You got it.
+This will eventually become the side nav bar.
+
+- [Articles](articles.md)
+- [Twitter](twitter.md)
+- [Blog](blog.md)
 
 ### Videos
 
