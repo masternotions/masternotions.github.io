@@ -3,7 +3,7 @@ title: Articles
 layout: default
 ---
 
-[Go Home](index.md)
+[Go Back](index.md)
 
 ### Articles and posts
 
