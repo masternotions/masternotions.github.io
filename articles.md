@@ -3,7 +3,9 @@ title: Articles
 layout: default
 ---
 
-### Articles and posts not being used
+[Go Home](index.md)
+
+### Articles and posts
 
 - ``26 Jun 2013`` Abby Ohlheiser for The Atlantic: [Here Comes the Glenn Greenwald Hit Piece](https://www.theatlantic.com/national/archive/2013/06/here-comes-glenn-greenwald-hit-piece/313861/)
 - ``26 Jun 2013`` Glenn Greenwald for The Guardian: [The personal side of taking on the NSA: emerging smears](https://www.theguardian.com/commentisfree/2013/jun/26/nsa-revelations-response-to-smears)
