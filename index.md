@@ -26,6 +26,7 @@ layout: home
 
 ### Unsorted
 
+- [https://threader.app/thread/1018533571689099265]()
 - [https://rota2014.blogspot.com/2019/10/gravacao-de-conversa-entre-jornalistas.html]()
 - [https://www.buzzfeednews.com/article/jtes/how-glenn-greenwald-became-glenn-greenwald]()
 - [https://www.nycbar.org/member-and-career-services/committees/reports-listing/reports/detail/formal-opinion-2003-02-undisclosed-taping-of-conversations-by-lawyers-1]()
@@ -48,7 +49,24 @@ layout: home
 - [https://www.fbi.gov/wanted/cyber/evgeniy-mikhailovich-bogachev]()
 - [https://noticias.r7.com/eleicoes-2018/jornalista-americano-usa-site-para-alavancar-carreira-do-marido-09072019]()
 - [https://pulsemedia.org/2016/10/28/sympathy-for-the-devil-exorcising-greenwald-and-assad/]()
-- [https://threader.app/thread/1018533571689099265]()
+- [https://newrepublic.com/article/116253/edward-snowden-glenn-greenwald-julian-assange-what-they-believe]()
+- [https://noticias.r7.com/eleicoes-2018/jornalista-americano-usa-site-para-alavancar-carreira-do-marido-09072019]()
+- [https://www.datalounge.com/thread/12942466-gay-ballet-dancer-ditches-ballet-to-do-porn-because-it-is-art-]()
+- [https://medium.com/@thegrugq/agent-of-influence-2-0-e1f20bed4aec]()
+- [https://m.facebook.com/permalink.php?story_fbid=912037985810130&id=109223329424937]()
+- [https://g1.globo.com/rj/rio-de-janeiro/noticia/2019/09/11/coaf-aponta-movimentacao-atipica-de-r-25-milhoes-em-conta-do-deputado-federal-david-miranda.ghtml]()
+- [http://brianjohnspencer.blogspot.com/2014/02/glenn-greenwald-lawyer-blogger-partisan.html]()
+- [https://www.buzzfeed.com/natashavc/david-miranda-is-nobodys-errand-boy]()
+- [https://nymag.com/intelligencer/2018/01/glenn-greenwald-russia-investigation.html]()
+- [https://www.thedailybeast.com/laura-poitras-co-founder-of-the-intercept-barred-from-company-meeting-after-snowden-archive-shutdown]()
+- [https://www.facebook.com/Gesara.Brasil/posts/um-predador-sexual-chamado-glenn-greenwald-ato-iiposted-on-agosto-3-2019-by-room/2442549029101496/]()
+- [https://camera-uk.org/2012/08/26/background-on-glenn-greenwald-for-guardian-readers-sock-puppets-smart-spam/]()
+- [http://patterico.com/2006/07/27/annotated-wuzzadem-the-facts-behind-the-greenwald-sock-puppetry/]()
+- [https://hotair.com/archives/allahpundit/2006/07/25/greenwalds-sock-puppets-the-worst-blog-scandal-ever/]()
+- [https://camera-uk.org/2012/07/25/my-times-of-israel-essay-glenn-greenwald-the-guardian-and-the-anti-imperialism-of-fools/]()
+- [https://www.jornalopcao.com.br/colunas-e-blogs/conexao/por-que-profissionais-como-glenn-greenwald-e-patricia-campos-mello-incomodam-tanto-militantes-da-direita-237490/]()
+- [https://ricardoantunes.com.br/exclusivo-milionario-glenn-greenwald-advogou-para-lider-nazista-goldman-sachs-e-vendeu-ate-filme-porno-conheca-sua-trajetoria/]()
+- [https://en.wikipedia.org/wiki/Age_of_consent_in_Brazil]()
 
 ### More
 
