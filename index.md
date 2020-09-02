@@ -24,7 +24,7 @@ layout: home
 - ``03 Aug 2019`` Better Call Glenn: [A sexual predator named Glenn Greenwald (Act II)](https://web.archive.org/web/20190803233858/https://bettercallglenn.com/um-predador-sexual-chamado-glenn-greenwald-ato-ii/)
 - ``28 Sep 2019`` Better Call Glenn: [Glenn Greenwald ex-actor talks about his adult films VOL 1](https://web.archive.org/web/20191012162650/https://bettercallglenn.com/ex-ator-de-glenn-greenwald-fala-sobre-seus-filmes-adultos-vol-1/)
 
-### Unsorted
+### Unorganized links
 
 - [https://threader.app/thread/1018533571689099265]()
 - [https://rota2014.blogspot.com/2019/10/gravacao-de-conversa-entre-jornalistas.html]()
@@ -67,6 +67,129 @@ layout: home
 - [https://www.jornalopcao.com.br/colunas-e-blogs/conexao/por-que-profissionais-como-glenn-greenwald-e-patricia-campos-mello-incomodam-tanto-militantes-da-direita-237490/]()
 - [https://ricardoantunes.com.br/exclusivo-milionario-glenn-greenwald-advogou-para-lider-nazista-goldman-sachs-e-vendeu-ate-filme-porno-conheca-sua-trajetoria/]()
 - [https://en.wikipedia.org/wiki/Age_of_consent_in_Brazil]()
+
+### Unorganized tweets
+
+- https://twitter.com/AlanVRK/status/1299509065035517952
+- https://twitter.com/AlanVRK/status/1299553813632876545
+- https://twitter.com/AlanVRK/status/1300520297771171840
+- https://twitter.com/soonergrunt/status/1300489103713001472
+- https://twitter.com/DavidNeiwert/status/1130553596091613184
+- https://twitter.com/AlanVRK/status/1300480968919310337
+- https://twitter.com/AlanVRK/status/1300475031399608321
+- https://twitter.com/yesthatkarim/status/1300186016511295489
+- https://twitter.com/AlanVRK/status/1300457855708000260
+- https://twitter.com/AlanVRK/status/1300454156415709191
+- https://twitter.com/AlanVRK/status/1300216048608858112
+- https://twitter.com/AlanVRK/status/1300216378377605123
+- https://twitter.com/AlanVRK/status/1300199773153226767
+- https://twitter.com/AlanVRK/status/1300190475048095749
+- https://twitter.com/AlanVRK/status/1300187749044097024
+- https://twitter.com/AlanVRK/status/1300179042445004800
+- https://twitter.com/AlanVRK/status/1300175564930723840
+- https://twitter.com/AlanVRK/status/1300171770494963712
+- https://twitter.com/AlanVRK/status/1300157666061414401
+- https://twitter.com/AlanVRK/status/1299553813632876545
+- https://twitter.com/wokyleeks/status/1298341148486901760
+- https://twitter.com/OGYumYumSauce/status/1298345499620077568
+- https://twitter.com/forensicnewsnet/status/1140458072235597827
+- https://twitter.com/LiveFree_76/status/1140463115966046208
+- https://twitter.com/Loveon999/status/1297978614911139840
+- https://twitter.com/AlanVRK/status/1299776571482476548
+- https://twitter.com/im_PULSE/status/1018635652903161857
+- https://twitter.com/im_PULSE/status/1018533571689099265
+- https://twitter.com/AlanVRK/status/1298323770743152640
+- https://twitter.com/AlanVRK/status/1298365739494244353
+- https://twitter.com/AlanVRK/status/1298396468844396545
+- https://twitter.com/AlanVRK/status/1298637904877674496
+- https://twitter.com/StudioUnspoken/status/1297933764643811328
+- https://twitter.com/AlanVRK/status/1298698166544596993
+- https://twitter.com/AlanVRK/status/1298697450631331840
+- https://twitter.com/AlanVRK/status/1298626981848899585
+- https://twitter.com/AlanVRK/status/1298706588199460865
+- https://twitter.com/AlanVRK/status/1298709576695472130
+- https://twitter.com/AlanVRK/status/1298715175051079687
+- https://twitter.com/AlanVRK/status/1298717258919813122
+- https://twitter.com/AlanVRK/status/1300454156415709191
+- https://twitter.com/AlanVRK/status/1300457855708000260
+- https://twitter.com/AlanVRK/status/1298715175051079687
+- https://twitter.com/AlanVRK/status/1298727516736233472
+- https://twitter.com/wokyleeks/status/1298729753889763328
+- https://twitter.com/AlanVRK/status/1298731668048613376
+- https://twitter.com/AlanVRK/status/1298734275601281025
+- https://twitter.com/AlanVRK/status/1298729862618927105
+- https://twitter.com/AlanVRK/status/1298731008389509125
+- https://twitter.com/wokyleeks/status/1298731932344184832
+- https://twitter.com/AlanVRK/status/1298766036079120395
+- https://twitter.com/AlanVRK/status/1298769529858859009
+- https://twitter.com/wokyleeks/status/1298791518224801793
+- https://twitter.com/wokyleeks/status/1298797028630118402
+- https://twitter.com/wokyleeks/status/1298804323250405377
+- https://twitter.com/AlanVRK/status/1298804589442011137
+- https://twitter.com/wokyleeks/status/1298828643171471362
+- https://twitter.com/wokyleeks/status/1298827978164453378
+- https://twitter.com/wokyleeks/status/1298828944561430530
+- https://twitter.com/AlanVRK/status/1298848881321664512
+- https://twitter.com/wokyleeks/status/1298999605372182528
+- https://twitter.com/AlanVRK/status/1298997710817640449
+- https://twitter.com/AlanVRK/status/1298995252284362752
+- https://twitter.com/wokyleeks/status/1299021151352393728
+- https://twitter.com/AlanVRK/status/1298626981848899585
+- https://twitter.com/AlanVRK/status/1298715175051079687
+- https://twitter.com/AlanVRK/status/1298717258919813122
+- https://twitter.com/AlanVRK/status/1300454156415709191
+- https://twitter.com/AlanVRK/status/1300457855708000260
+- https://twitter.com/AlanVRK/status/1299010779866370051
+- https://twitter.com/AlanVRK/status/1299012303669559301
+- https://twitter.com/AlanVRK/status/1299100678938398726
+- https://twitter.com/AlanVRK/status/1299105381910802445
+- https://twitter.com/AlanVRK/status/1299119861809975297
+- https://twitter.com/AlanVRK/status/1299120863107837953
+- https://twitter.com/AlanVRK/status/1298830036619988992
+- https://twitter.com/SurlyBobbys/status/1298827102444310528
+- https://twitter.com/AlanVRK/status/1298828087522713601
+- https://twitter.com/AlanVRK/status/1298821581259636736
+- https://twitter.com/AlanVRK/status/1298819929400127495
+- https://twitter.com/AlanVRK/status/1299124529961340931
+- https://twitter.com/AlanVRK/status/1299080322919862272
+- https://twitter.com/AlanVRK/status/1299081614513840128
+- https://twitter.com/SurlyBobbys/status/1299131556334886912
+- https://twitter.com/AlanVRK/status/1299165239376859137
+- https://twitter.com/AlanVRK/status/1299166387571691520
+- https://twitter.com/AlanVRK/status/1299192159304929281
+- https://twitter.com/AlanVRK/status/1299166387571691520
+- https://twitter.com/AlanVRK/status/1299170908804984833
+- https://twitter.com/AlanVRK/status/1299185960417136640
+- https://twitter.com/AlanVRK/status/1299188334842044416
+- https://twitter.com/AlanVRK/status/1299190605617278976
+- https://twitter.com/AlanVRK/status/1299192159304929281
+- https://twitter.com/wokyleeks/status/1299236652217298945
+- https://twitter.com/AlanVRK/status/1299334655527858176
+- https://twitter.com/AlanVRK/status/1299379173304266755
+- https://twitter.com/DavidNeiwert/status/1130553596091613184
+- https://twitter.com/AlanVRK/status/1299380059439075335
+- https://twitter.com/AlanVRK/status/1299390048106885121
+- https://twitter.com/AlanVRK/status/1299396169089548290
+- https://twitter.com/AlanVRK/status/1299485805514293250
+- https://twitter.com/yesthatkarim/status/1299437565007847424
+- https://twitter.com/AlanVRK/status/1299485805514293250
+- https://twitter.com/AlanVRK/status/1299509065035517952
+- https://twitter.com/AlanVRK/status/1299553813632876545
+- https://twitter.com/AlanVRK/status/1299714827372376064 (BANNER)
+- https://twitter.com/AlanVRK/status/1299848325546549248 (BANNER)
+- https://twitter.com/AlanVRK/status/1299719735131635712
+- https://twitter.com/AlanVRK/status/1299738075908706304
+- https://twitter.com/AlanVRK/status/1299762747266215937
+- https://twitter.com/wokyleeks/status/1299768526836699136
+- https://twitter.com/AlanVRK/status/1299769069382569986
+- https://twitter.com/AlanVRK/status/1299770551062401024
+- https://twitter.com/AlanVRK/status/1299776571482476548
+- https://twitter.com/AlanVRK/status/1299770551062401024
+- https://twitter.com/AlanVRK/status/1299788774382211072
+- https://twitter.com/wokyleeks/status/1299809826067816448
+- https://twitter.com/xeni/status/1299813106558754816
+- https://twitter.com/wokyleeks/status/1299906001919856641
+- https://twitter.com/wokyleeks/status/1299920651738779651
 
 ### More
 
