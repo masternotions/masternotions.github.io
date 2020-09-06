@@ -7,6 +7,7 @@ Start Here:
 
 - https://twitter.com/AlanVRK/status/1299105381910802445
 - https://twitter.com/AlanVRK/status/1299188334842044416
+- https://twitter.com/AlanVRK/status/1299718665345134594
 
 The rest of this site is in progress.
 
