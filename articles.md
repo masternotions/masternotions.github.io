@@ -21,7 +21,6 @@ layout: default
 - ``Oct 19, 2016`` Thaddeus T. Grugq on Medium: [Age of Influence 2.0](https://medium.com/@thegrugq/agent-of-influence-2-0-e1f20bed4aec)
 - ``Oct 28, 2016`` Idrees Ahmad for Pulse: [Glenn Greenwald's Sympathy for the Devil](https://pulsemedia.org/2016/10/28/sympathy-for-the-devil-exorcising-greenwald-and-assad/)
 - ``Feb 01, 2017`` Jewish Defense Organization: [Dossier on Glenn Greenwald](/docs/jewish-defense-organization-dossier.pdf)
-- ``Feb 09, 2017`` Ryan Bahan on Medium: [Who Are The Royal Order of Jesters?](https://medium.com/@HeapingHelping/who-are-the-royal-order-of-jesters-55ffe6f6acea)
 - ``Oct 26, 2017`` Lawyers, Guns & Money: [Dishonest Actors at The Intercept](https://www.lawyersgunsmoneyblog.com/2017/10/dishonest-actors-intercept)
 - ``Oct 29, 2017`` Lawyers, Guns & Money: [Pretending Your Publication Doesn’t Have A Race Problem](https://www.lawyersgunsmoneyblog.com/2017/10/intercept-the-root-fight)
 - ``Nov 07, 2017`` Lawyers, Guns & Money: [Tucker and Glenn Go Together Like Chocolate and Peanut Butter](https://www.lawyersgunsmoneyblog.com/2017/11/tucker-glenn-go-together-like-chocolate-peanut-butter)
@@ -83,9 +82,7 @@ layout: default
 
 http://docshare.tips/the-story-of-a-jew-who-fell-in-love-with-a-nazi-the-glenn-greenwald-matt-hale-affair_58aa1654b6d87f6f5d8b5237.html
 https://www.facebook.com/Gesara.Brasil/posts/um-predador-sexual-chamado-glenn-greenwald-ato-iiposted-on-agosto-3-2019-by-room/2442549029101496/
--->
 
-<!--
 - ``2005 to 2007`` Glenn Greenwald on Blogger: [Unclaimed Territory](http://glenngreenwald.blogspot.com/)
 - ``2006 to 2014`` Glenn Greenwald on Blogger: [UT Documents](http://utdocuments.blogspot.com/)
 - ``04 Aug 2010`` Glenn Greenwald on Blogger: [Cato Surveillance Draft](http://surveillancedraft.blogspot.com/)
