@@ -14,6 +14,10 @@ Start Here:
 - [twitter](https://twitter.com/AlanVRK/status/1299718665345134594)
 - [twitter](https://twitter.com/wokyleeks/status/1298731932344184832)
 
+The rest of this site is in progress.
+
+Last updated: Sept 6, 2020
+
 ### Timeline
 
 How they met: [DM](https://twitter.com/wokyleeks/status/1298827978164453378) [GG](https://twitter.com/AlanVRK/status/1298322296579522564)
@@ -27,10 +31,6 @@ DM Director in 2005: [link](https://twitter.com/wokyleeks/status/129882894456143
 By July 2005, the porn company where he "was" directing Mr Legal is shooting in Rio.
 
 David Miranda turned 18 in May 2003.
-
-The rest of this site is in progress.
-
-Last updated: Sept 6, 2020
 
 ### Movie Credits
 
