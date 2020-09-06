@@ -32,6 +32,15 @@ The rest of this site is in progress.
 
 Last updated: Sept 6, 2020
 
+### Movie Credits
+
+In 2005, David Miranda directed movies for Bareback Inc and StudMall.
+[link](https://twitter.com/AlanVRK/status/1298731668048613376)
+[link](https://twitter.com/AlanVRK/status/1298727516736233472)
+
+Bareback Inc is StudMall.
+[link](https://twitter.com/AlanVRK/status/1298734275601281025)
+
 ### Documents
 
 - ``Current`` [List of pornography videos directed by David Miranda](https://www.gayeroticvideoindex.com/D/3/2013.html)
