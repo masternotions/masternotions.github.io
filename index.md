@@ -9,6 +9,8 @@ Start Here:
 - https://twitter.com/AlanVRK/status/1299188334842044416
 - https://twitter.com/AlanVRK/status/1299718665345134594
 
+David Miranda turned 18 in May 2003.
+
 The rest of this site is in progress.
 
 Last updated: Sept 6, 2020
