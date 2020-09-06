@@ -7,10 +7,13 @@ layout: default
 
 ### Articles and posts
 
+- ``25 Jul 2012``: Adam Levick for The Times of Israel: [The Guardian and Glenn Greenwald: The anti-imperialism of fools](https://blogs.timesofisrael.com/the-guardian-and-glenn-greenwald-the-anti-imperialism-of-fools/)
+- ``26 Aug 2012`` Adam Levick for Camera UK: [Background on Glenn Greenwald for Guardian Readers: 'Sock Pupppets' & 'Smart Spam'](https://camera-uk.org/2012/08/26/background-on-glenn-greenwald-for-guardian-readers-sock-puppets-smart-spam/)
 - ``26 Jun 2013`` Abby Ohlheiser for The Atlantic: [Here Comes the Glenn Greenwald Hit Piece](https://www.theatlantic.com/national/archive/2013/06/here-comes-glenn-greenwald-hit-piece/313861/)
 - ``26 Jun 2013`` Glenn Greenwald for The Guardian: [The personal side of taking on the NSA: emerging smears](https://www.theguardian.com/commentisfree/2013/jun/26/nsa-revelations-response-to-smears)
 - ``26 Jun 2013`` Jessica Testa for BuzzFeed News: [How Glenn Greenwald Became Glenn Greenwald](https://www.buzzfeednews.com/article/jtes/how-glenn-greenwald-became-glenn-greenwald)
 - ``27 Jun 2013`` Robert Stacy McCain on The Other McCain: [Glenn Greenwald Is a Ridiculous Joke (And Alas, the Internet Never Forgets)](https://theothermccain.com/2013/06/27/glenn-greenwald-is-a-ridiculous-joke-and-alas-the-internet-never-forgets/)
+- ``11 Jul 2013``: Adam Levick for The Algemeiner: [Glenn Greenwald's Anti-Semitism Exposed](https://www.algemeiner.com/2013/07/11/glenn-greenwalds-anti-semitism-exposed/)
 - ``14 Nov 2013`` Natasha Vargas-Cooper for BuzzFeed News: [David Miranda Is Nobody's Errand Boy](https://www.buzzfeed.com/natashavc/david-miranda-is-nobodys-errand-boy) _Updated 21 Aug 2020_
 - ``12 May 2014`` Michael Paterniti for GQ: [The Man Who Knows Too Much](https://www.gq.com/story/glenn-greenwald-edward-snowden-no-place-to-hide)
 - ``03 Sep 2014`` Michael Hirsh for Politico: [Has Greenwald, Inc. Peaked?](https://www.politico.com/magazine/story/2014/09/glenn-greenwald-inc-peaked-110576)
@@ -18,6 +21,7 @@ layout: default
 - ``26 Oct 2017`` Lawyers, Guns & Money: [Dishonest Actors at The Intercept](https://www.lawyersgunsmoneyblog.com/2017/10/dishonest-actors-intercept)
 - ``29 Oct 2017`` Lawyers, Guns & Money: [Pretending Your Publication Doesn’t Have A Race Problem](https://www.lawyersgunsmoneyblog.com/2017/10/intercept-the-root-fight)
 - ``07 Nov 2017`` Lawyers, Guns & Money: [Tucker and Glenn Go Together Like Chocolate and Peanut Butter](https://www.lawyersgunsmoneyblog.com/2017/11/tucker-glenn-go-together-like-chocolate-peanut-butter)
+- ``21 Jan 2018`` Simon van Zuylen-Wood for New York Magazine (https://nymag.com/intelligencer/2018/01/glenn-greenwald-russia-investigation.html)
 - ``14 Jun 2018`` Lawyers, Guns & Money: [Today on Tucker's White Power Hour… Mr. Glenn Greenwald, Again!](https://www.lawyersgunsmoneyblog.com/2018/06/today-tuckers-white-power-hour-mr-glenn-greenwald)
 - ``13 Sep 2018`` Tamsin Shaw for The New York Review of Books: [Edward Snowden Reconsidered](https://www.nybooks.com/daily/2018/09/13/edward-snowden-reconsidered/)
 - ``15 Mar 2019`` Charles R. Davis for Columbia Journalism Review: [The Intercept, a billionaire-funded public charity, cuts back](https://www.cjr.org/business_of_news/layoffs-the-intercept.php)
@@ -43,7 +47,6 @@ layout: default
 - [https://www.tercalivre.com.br/glenn-greenwald-ja-foi-processado-por-pornografia-segundo-site-estrangeiro/]()
 - [http://brianjohnspencer.blogspot.com/2014/02/glenn-greenwald-lawyer-blogger-partisan.html]()
 - [https://polizeros.com/2019/07/05/brazil-investigating-glenn-greenwald-for-money-laundering/]()
-- [https://en.wikipedia.org/wiki/Operation_Car_Wash]()
 - [https://www.nytimes.com/reuters/2020/08/21/business/21reuters-brazil-corruption.html]()
 - [https://www.fbi.gov/wanted/cyber/evgeniy-mikhailovich-bogachev]()
 - [https://noticias.r7.com/eleicoes-2018/jornalista-americano-usa-site-para-alavancar-carreira-do-marido-09072019]()
@@ -52,18 +55,15 @@ layout: default
 - [https://noticias.r7.com/eleicoes-2018/jornalista-americano-usa-site-para-alavancar-carreira-do-marido-09072019]()
 - [https://www.datalounge.com/thread/12942466-gay-ballet-dancer-ditches-ballet-to-do-porn-because-it-is-art-]()
 - [https://medium.com/@thegrugq/agent-of-influence-2-0-e1f20bed4aec]()
-- [https://m.facebook.com/permalink.php?story_fbid=912037985810130&id=109223329424937]()
 - [https://g1.globo.com/rj/rio-de-janeiro/noticia/2019/09/11/coaf-aponta-movimentacao-atipica-de-r-25-milhoes-em-conta-do-deputado-federal-david-miranda.ghtml]()
 - [http://brianjohnspencer.blogspot.com/2014/02/glenn-greenwald-lawyer-blogger-partisan.html]()
-- [https://nymag.com/intelligencer/2018/01/glenn-greenwald-russia-investigation.html]()
 - [https://www.thedailybeast.com/laura-poitras-co-founder-of-the-intercept-barred-from-company-meeting-after-snowden-archive-shutdown]()
-- [https://www.facebook.com/Gesara.Brasil/posts/um-predador-sexual-chamado-glenn-greenwald-ato-iiposted-on-agosto-3-2019-by-room/2442549029101496/]()
-- [https://camera-uk.org/2012/08/26/background-on-glenn-greenwald-for-guardian-readers-sock-puppets-smart-spam/]()
 - [http://patterico.com/2006/07/27/annotated-wuzzadem-the-facts-behind-the-greenwald-sock-puppetry/]()
 - [https://hotair.com/archives/allahpundit/2006/07/25/greenwalds-sock-puppets-the-worst-blog-scandal-ever/]()
-- [https://camera-uk.org/2012/07/25/my-times-of-israel-essay-glenn-greenwald-the-guardian-and-the-anti-imperialism-of-fools/]()
 - [https://www.jornalopcao.com.br/colunas-e-blogs/conexao/por-que-profissionais-como-glenn-greenwald-e-patricia-campos-mello-incomodam-tanto-militantes-da-direita-237490/]()
 - [https://ricardoantunes.com.br/exclusivo-milionario-glenn-greenwald-advogou-para-lider-nazista-goldman-sachs-e-vendeu-ate-filme-porno-conheca-sua-trajetoria/]()
+- [https://m.facebook.com/permalink.php?story_fbid=912037985810130&id=109223329424937]()
+- [https://en.wikipedia.org/wiki/Operation_Car_Wash]()
 - [https://en.wikipedia.org/wiki/Age_of_consent_in_Brazil]()
 - [https://threader.app/thread/1018533571689099265]()
 
@@ -86,7 +86,8 @@ layout: default
 - ``03 Dec 2019`` [@BetterCallGlenn](https://twitter.com/BetterCallGlenn/status/1201923855360647168)
 
 <!--
-[Original Link](http://docshare.tips/the-story-of-a-jew-who-fell-in-love-with-a-nazi-the-glenn-greenwald-matt-hale-affair_58aa1654b6d87f6f5d8b5237.html)
+http://docshare.tips/the-story-of-a-jew-who-fell-in-love-with-a-nazi-the-glenn-greenwald-matt-hale-affair_58aa1654b6d87f6f5d8b5237.html
+https://www.facebook.com/Gesara.Brasil/posts/um-predador-sexual-chamado-glenn-greenwald-ato-iiposted-on-agosto-3-2019-by-room/2442549029101496/
 -->
 
 <!--
