@@ -14,15 +14,15 @@ Start Here:
 - [twitter](https://twitter.com/AlanVRK/status/1299718665345134594)
 - [twitter](https://twitter.com/wokyleeks/status/1298731932344184832)
 
-###
+### Timeline
 
-![https://twitter.com/wokyleeks/status/1298827978164453378](https://pbs.twimg.com/media/EgZdKXnUMAkh97g?format=png&name=900x900)
+How they met: [DM](https://twitter.com/wokyleeks/status/1298827978164453378) [GG](https://twitter.com/AlanVRK/status/1298322296579522564)
 
-![https://twitter.com/wokyleeks/status/1298828944561430530](https://pbs.twimg.com/media/EgZeCqfVAAAKNQo?format=png&name=900x900)
+February 2005 GG goes to Rio for a two month vacation to Brazil. On his first day at Ipanema beach GG meets DM, and they move in together within a week. After two of living together they became common-law husbands. GG was 38; DM was 19.
 
-February 2005 GG goes to Rio for a two month vacation.
+DM Director in 2005: [link](https://twitter.com/wokyleeks/status/1298828944561430530)
 
-On the first or second day he's at the beach and meets David. Falls in love. Decides to stay.
+2-year adjustment: [link](https://twitter.com/AlanVRK/status/1298323770743152640)
 
 By July 2005, the porn company where he "was" directing Mr Legal is shooting in Rio.
 
