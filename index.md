@@ -10,7 +10,7 @@ Start Here:
 
 The rest of this site is in progress.
 
-Last updated: Sept 6, 22020
+Last updated: Sept 6, 2020
 
 ### Documents
 
