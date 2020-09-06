@@ -10,6 +10,7 @@ Start Here:
 [twitter](https://twitter.com/AlanVRK/status/1299767507654529025)
 [twitter](https://twitter.com/AlanVRK/status/1300520297771171840)
 [twitter](https://twitter.com/AlanVRK/status/1299188334842044416)
+[twitter](https://twitter.com/AlanVRK/status/1299754728897863685)
 
 The rest of this site is in progress.
 
@@ -56,7 +57,13 @@ After two years of living together they became common-law husbands.
 
 But they may have met earlier than 2005.
 [link](https://twitter.com/AlanVRK/status/1300520297771171840)
-[link](https://twitter.com/wokyleeks/status/1299809826067816448)
+
+Hairy Studs 4 was filmed in Brazil in 2002.
+[link](https://twitter.com/AlanVRK/status/1299754728897863685)
+[link](https://twitter.com/AlanVRK/status/1299761145922945027)
+[link](https://twitter.com/AlanVRK/status/1299767507654529025)
+[link](https://twitter.com/AlanVRK/status/1299769069382569986)
+[link](https://twitter.com/AlanVRK/status/1299770551062401024)
 
 ### By Subject
 
@@ -64,7 +71,8 @@ But they may have met earlier than 2005.
 - StudMall: [link](https://twitter.com/AlanVRK/status/1298396468844396545) [link](https://twitter.com/wokyleeks/status/1299021151352393728)
 - Bareback Inc: [link](https://twitter.com/AlanVRK/status/1298734275601281025)
 - Ravana: [link](https://twitter.com/AlanVRK/status/1298626981848899585) [link](https://twitter.com/AlanVRK/status/1298717258919813122) [link](https://twitter.com/AlanVRK/status/1299080322919862272) [link](https://twitter.com/AlanVRK/status/1299081614513840128)
-- Sauna Boys 1: [link](https://twitter.com/AlanVRK/status/1298731008389509125) [link](https://twitter.com/AlanVRK/status/1298706588199460865)
+- Enzuli Productions: [link](https://twitter.com/AlanVRK/status/1299776571482476548) [link](https://twitter.com/AlanVRK/status/1299788774382211072)
+- Sauna Boys 1: [link](https://twitter.com/AlanVRK/status/1298731008389509125) [link](https://twitter.com/AlanVRK/status/1298706588199460865) [link](https://twitter.com/wokyleeks/status/1299809826067816448)
 - Sauna Boys 3: [link](https://twitter.com/AlanVRK/status/1298727516736233472) [link](https://twitter.com/AlanVRK/status/1298729862618927105)
 - Back Covers: [link](https://twitter.com/AlanVRK/status/1298715175051079687) [link](https://twitter.com/AlanVRK/status/1299718665345134594)
 
