@@ -51,6 +51,8 @@ July 2005, DM is working for GG's porn company which is shooting in Rio.
 [link](https://twitter.com/AlanVRK/status/1299105381910802445)
 [link](https://twitter.com/wokyleeks/status/1299808430450855936)
 [link](https://twitter.com/wokyleeks/status/1299906001919856641)
+[link](https://twitter.com/AlanVRK/status/1300171770494963712)
+[link](https://twitter.com/AlanVRK/status/1300475031399608321)
 
 After two years of living together they became common-law husbands.
 [link](https://twitter.com/AlanVRK/status/1298323770743152640)
