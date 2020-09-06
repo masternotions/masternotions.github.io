@@ -17,29 +17,6 @@ The rest of this site is in progress.
 
 Last updated: Sept 6, 2020
 
-### Timeline
-
-February 2005, GG goes to Rio for a two month vacation to Brazil. On his first day at Ipanema beach GG meets DM, and they move in together within a week. DM turned 20 in May.[link](https://twitter.com/wokyleeks/status/1298827978164453378)
-[link](https://twitter.com/AlanVRK/status/1298322296579522564)
-
-July 2005, DM is working for GG's porn company which is shooting in Rio.
-[link](https://twitter.com/wokyleeks/status/1298828944561430530)
-
-After two years of living together they became common-law husbands.
-[link](https://twitter.com/AlanVRK/status/1298323770743152640)
-
-In 2005, David Miranda starts directing movies for Bareback Inc.
-[link](https://twitter.com/AlanVRK/status/1298731668048613376)
-[link](https://twitter.com/AlanVRK/status/1298727516736233472)
-
-### Movie Info
-
-- Bareback Inc is StudMall: [link](https://twitter.com/AlanVRK/status/1298734275601281025)
-- StudMall: [link](https://twitter.com/wokyleeks/status/1299021151352393728)
-- Sauna Boys 1: [link](https://twitter.com/AlanVRK/status/1298731008389509125) [link](https://twitter.com/AlanVRK/status/1298706588199460865)
-- Sauna Boys 3: [link](https://twitter.com/AlanVRK/status/1298727516736233472) [link](https://twitter.com/AlanVRK/status/1298729862618927105)
-- Sauna Boys 2-5 Back Covers: [link](https://twitter.com/AlanVRK/status/1298715175051079687)
-
 ### Documents
 
 - ``Current`` [List of pornography videos directed by David Miranda](https://www.gayeroticvideoindex.com/D/3/2013.html)
@@ -61,6 +38,30 @@ In 2005, David Miranda starts directing movies for Bareback Inc.
 - ``Jun 26, 2013`` Dylan Byers for Politico: [Greenwald aims to pre-empt 'smears'](https://www.politico.com/blogs/media/2013/06/greenwald-aims-to-pre-empt-smears-167191)
 - ``Jun 26, 2013`` Dareh Gregorian for New York Daily News: [Glenn Greenwald, journalist who broke Edward Snowden story, was once lawyer sued over porn business](https://www.nydailynews.com/news/national/greenwald-reporter-broke-nsa-story-lawyer-sued-porn-biz-article-1.1383448)
 - ``Jun 26, 2013`` Jessica Testa for BuzzFeed News: [How Glenn Greenwald Became Glenn Greenwald](https://www.buzzfeednews.com/article/jtes/how-glenn-greenwald-became-glenn-greenwald)
+
+### Timeline
+
+February 2005, GG goes to Rio for a two month vacation to Brazil. On his first day at Ipanema beach GG meets DM, and they move in together within a week. DM turned 20 in May.
+[link](https://twitter.com/wokyleeks/status/1298827978164453378)
+[link](https://twitter.com/AlanVRK/status/1298322296579522564)
+
+July 2005, DM is working for GG's porn company which is shooting in Rio.
+[link](https://twitter.com/wokyleeks/status/1298828944561430530)
+
+After two years of living together they became common-law husbands.
+[link](https://twitter.com/AlanVRK/status/1298323770743152640)
+
+In 2005, David Miranda starts directing movies for Bareback Inc.
+[link](https://twitter.com/AlanVRK/status/1298731668048613376)
+[link](https://twitter.com/AlanVRK/status/1298727516736233472)
+
+### Movie Info
+
+- Bareback Inc is StudMall: [link](https://twitter.com/AlanVRK/status/1298734275601281025)
+- StudMall: [link](https://twitter.com/wokyleeks/status/1299021151352393728)
+- Sauna Boys 1: [link](https://twitter.com/AlanVRK/status/1298731008389509125) [link](https://twitter.com/AlanVRK/status/1298706588199460865)
+- Sauna Boys 3: [link](https://twitter.com/AlanVRK/status/1298727516736233472) [link](https://twitter.com/AlanVRK/status/1298729862618927105)
+- Sauna Boys 2-5 Back Covers: [link](https://twitter.com/AlanVRK/status/1298715175051079687)
 
 ### More
 
