@@ -9,7 +9,6 @@ layout: home
 - ``Current`` [List of pornography videos producced by StudMall](https://www.gayeroticvideoindex.com/C/7/6277.html)
 - ``08 Feb 2005`` [Phone contact information on StudMall.com](http://web.archive.org/web/20050208081923/http://www.studmall.com/contact.php)
 - ``08 Feb 2005`` [Phone contact information for Glenn Greenwald's Legal Offices](https://archive.is/7CM2z)
-- ``01 Feb 2017`` Jewish Defense Organization: [Dossier on Glenn Greenwald](/docs/jewish-defense-organization-dossier.pdf)
 
 ### Videos
 
