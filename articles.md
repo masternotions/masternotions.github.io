@@ -7,7 +7,6 @@ layout: default
 
 ### Articles and posts
 
-- ``Jul 27, 2006`` Patterico on Blog: [Annotated WuzzaDem: The Facts Behind the Greenwald Sock-Puppetry](http://patterico.com/2006/07/27/annotated-wuzzadem-the-facts-behind-the-greenwald-sock-puppetry/)
 - ``Jul 25, 2012`` Adam Levick for The Times of Israel: [The Guardian and Glenn Greenwald: The anti-imperialism of fools](https://blogs.timesofisrael.com/the-guardian-and-glenn-greenwald-the-anti-imperialism-of-fools/)
 - ``Aug 26, 2012`` Adam Levick for Camera UK: [Background on Glenn Greenwald for Guardian Readers: 'Sock Pupppets' & 'Smart Spam'](https://camera-uk.org/2012/08/26/background-on-glenn-greenwald-for-guardian-readers-sock-puppets-smart-spam/)
 - ``Jun 26, 2013`` Abby Ohlheiser for The Atlantic: [Here Comes the Glenn Greenwald Hit Piece](https://www.theatlantic.com/national/archive/2013/06/here-comes-glenn-greenwald-hit-piece/313861/)
@@ -26,7 +25,7 @@ layout: default
 - ``Oct 26, 2017`` Lawyers, Guns & Money: [Dishonest Actors at The Intercept](https://www.lawyersgunsmoneyblog.com/2017/10/dishonest-actors-intercept)
 - ``Oct 29, 2017`` Lawyers, Guns & Money: [Pretending Your Publication Doesn’t Have A Race Problem](https://www.lawyersgunsmoneyblog.com/2017/10/intercept-the-root-fight)
 - ``Nov 07, 2017`` Lawyers, Guns & Money: [Tucker and Glenn Go Together Like Chocolate and Peanut Butter](https://www.lawyersgunsmoneyblog.com/2017/11/tucker-glenn-go-together-like-chocolate-peanut-butter)
-- ``Jan 21, 2018`` Simon van Zuylen-Wood for New York Magazine (https://nymag.com/intelligencer/2018/01/glenn-greenwald-russia-investigation.html)
+- ``Jan 21, 2018`` Simon van Zuylen-Wood for New York Magazine: [Does This Man Know More Than Robert Mueller?](https://nymag.com/intelligencer/2018/01/glenn-greenwald-russia-investigation.html)
 - ``Jun 14, 2018`` Lawyers, Guns & Money: [Today on Tucker's White Power Hour… Mr. Glenn Greenwald, Again!](https://www.lawyersgunsmoneyblog.com/2018/06/today-tuckers-white-power-hour-mr-glenn-greenwald)
 - ``Sep 13, 2018`` Tamsin Shaw for The New York Review of Books: [Edward Snowden Reconsidered](https://www.nybooks.com/daily/2018/09/13/edward-snowden-reconsidered/)
 - ``Mar 14, 2019`` Maxwell Tani for The Daily Beast: [The Intercept Bars Co-Founder From Meeting After Snowden Archive Shutdown](https://www.thedailybeast.com/laura-poitras-co-founder-of-the-intercept-barred-from-company-meeting-after-snowden-archive-shutdown)
@@ -60,11 +59,9 @@ layout: default
 - [https://aficwomendirect.org/director/jenkleiner/]()
 - [https://gay.aebn.com/gay/movies/43962/hot-hairy-real---4]()
 - [https://m.facebook.com/permalink.php?story_fbid=912037985810130&id=109223329424937]()
-- [https://en.wikipedia.org/wiki/Operation_Car_Wash]()
-- [https://en.wikipedia.org/wiki/Age_of_consent_in_Brazil]()
 - [https://threader.app/thread/1018533571689099265]()
 
-### Tweets with attached media
+<!--
 
 - ``Jul 16, 2019`` [@telesurenglish](https://twitter.com/telesurenglish/status/1151144461738446848)
 - ``Sep 07, 2019`` [@BetterCallGlenn](https://twitter.com/BetterCallGlenn/status/1170428093451968515)
@@ -82,7 +79,8 @@ layout: default
 - ``Dec 03, 2019`` [@BetterCallGlenn](https://twitter.com/BetterCallGlenn/status/1201923240131739654)
 - ``Dec 03, 2019`` [@BetterCallGlenn](https://twitter.com/BetterCallGlenn/status/1201923855360647168)
 
-<!--
+- ``Jul 27, 2006`` Patterico on Blog: [Annotated WuzzaDem: The Facts Behind the Greenwald Sock-Puppetry](http://patterico.com/2006/07/27/annotated-wuzzadem-the-facts-behind-the-greenwald-sock-puppetry/)
+
 http://docshare.tips/the-story-of-a-jew-who-fell-in-love-with-a-nazi-the-glenn-greenwald-matt-hale-affair_58aa1654b6d87f6f5d8b5237.html
 https://www.facebook.com/Gesara.Brasil/posts/um-predador-sexual-chamado-glenn-greenwald-ato-iiposted-on-agosto-3-2019-by-room/2442549029101496/
 -->
