@@ -25,6 +25,22 @@ layout: home
 - ``Aug 03, 2019`` Better Call Glenn: [A sexual predator named Glenn Greenwald (Act II)](https://web.archive.org/web/20190803233858/https://bettercallglenn.com/um-predador-sexual-chamado-glenn-greenwald-ato-ii/)
 - ``Sep 28, 2019`` Better Call Glenn: [Glenn Greenwald ex-actor talks about his adult films VOL 1](https://web.archive.org/web/20191012162650/https://bettercallglenn.com/ex-ator-de-glenn-greenwald-fala-sobre-seus-filmes-adultos-vol-1/)
 
+### Unorganized links
+
+- [https://twitter.com/AlanVRK/status/1298398909845438473]()
+- [https://twitter.com/AlanVRK/status/1298634256537788416]()
+- [https://twitter.com/AlanVRK/status/1298709576695472130]()
+- [https://twitter.com/AlanVRK/status/1298715175051079687]()
+- [https://twitter.com/AlanVRK/status/1298717258919813122]()
+- [https://twitter.com/wokyleeks/status/1298729753889763328]()
+- [https://twitter.com/wokyleeks/status/1298731932344184832]()
+- [https://twitter.com/wokyleeks/status/1298804323250405377]()
+- [https://twitter.com/wokyleeks/status/1298827978164453378]()
+- [https://twitter.com/wokyleeks/status/1298828944561430530]()
+- [https://twitter.com/wokyleeks/status/1299021151352393728]()
+- [https://twitter.com/wokyleeks/status/1299809826067816448]()
+- [https://twitter.com/wokyleeks/status/1299906001919856641]()
+
 ### More
 
 - [Articles](articles.md)
