@@ -23,6 +23,7 @@ layout: default
 - ``03 Sep 2014`` Michael Hirsh for Politico: [Has Greenwald, Inc. Peaked?](https://www.politico.com/magazine/story/2014/09/glenn-greenwald-inc-peaked-110576)
 - ``19 Oct 2016`` Thaddeus T. Grugq on Medium: [Age of Influence 2.0](https://medium.com/@thegrugq/agent-of-influence-2-0-e1f20bed4aec)
 - ``28 Oct 2016`` Idrees Ahmad for Pulse: [Glenn Greenwald's Sympathy for the Devil](https://pulsemedia.org/2016/10/28/sympathy-for-the-devil-exorcising-greenwald-and-assad/)
+- ``01 Feb 2017`` Jewish Defense Organization: [Dossier on Glenn Greenwald](/docs/jewish-defense-organization-dossier.pdf)
 - ``09 Feb 2017`` Ryan Bahan on Medium: [Who Are The Royal Order of Jesters?](https://medium.com/@HeapingHelping/who-are-the-royal-order-of-jesters-55ffe6f6acea)
 - ``26 Oct 2017`` Lawyers, Guns & Money: [Dishonest Actors at The Intercept](https://www.lawyersgunsmoneyblog.com/2017/10/dishonest-actors-intercept)
 - ``29 Oct 2017`` Lawyers, Guns & Money: [Pretending Your Publication Doesn’t Have A Race Problem](https://www.lawyersgunsmoneyblog.com/2017/10/intercept-the-root-fight)
