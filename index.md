@@ -6,8 +6,11 @@ layout: home
 Start Here:
 
 - https://twitter.com/AlanVRK/status/1299105381910802445
+- https://twitter.com/AlanVRK/status/1299188334842044416
 
-In progress.
+The rest of this site is in progress.
+
+Last updated: Sept 6, 22020
 
 ### Documents
 
