@@ -9,7 +9,9 @@ layout: default
 
 - ``26 Jun 2013`` Abby Ohlheiser for The Atlantic: [Here Comes the Glenn Greenwald Hit Piece](https://www.theatlantic.com/national/archive/2013/06/here-comes-glenn-greenwald-hit-piece/313861/)
 - ``26 Jun 2013`` Glenn Greenwald for The Guardian: [The personal side of taking on the NSA: emerging smears](https://www.theguardian.com/commentisfree/2013/jun/26/nsa-revelations-response-to-smears)
+- ``26 Jun 2013`` Jessica Testa for BuzzFeed News: [How Glenn Greenwald Became Glenn Greenwald](https://www.buzzfeednews.com/article/jtes/how-glenn-greenwald-became-glenn-greenwald)
 - ``27 Jun 2013`` Robert Stacy McCain on The Other McCain: [Glenn Greenwald Is a Ridiculous Joke (And Alas, the Internet Never Forgets)](https://theothermccain.com/2013/06/27/glenn-greenwald-is-a-ridiculous-joke-and-alas-the-internet-never-forgets/)
+- ``14 Nov 2013`` Natasha Vargas-Cooper for BuzzFeed News: [David Miranda Is Nobody's Errand Boy](https://www.buzzfeed.com/natashavc/david-miranda-is-nobodys-errand-boy) _Updated 21 Aug 2020_
 - ``12 May 2014`` Michael Paterniti for GQ: [The Man Who Knows Too Much](https://www.gq.com/story/glenn-greenwald-edward-snowden-no-place-to-hide)
 - ``03 Sep 2014`` Michael Hirsh for Politico: [Has Greenwald, Inc. Peaked?](https://www.politico.com/magazine/story/2014/09/glenn-greenwald-inc-peaked-110576)
 - ``09 Feb 2017`` Ryan Bahan on Medium: [Who Are The Royal Order of Jesters?](https://medium.com/@HeapingHelping/who-are-the-royal-order-of-jesters-55ffe6f6acea)
@@ -21,11 +23,11 @@ layout: default
 - ``15 Mar 2019`` Charles R. Davis for Columbia Journalism Review: [The Intercept, a billionaire-funded public charity, cuts back](https://www.cjr.org/business_of_news/layoffs-the-intercept.php)
 - ``03 May 2019`` Matt Novak on The Novak Archive: [Why Does Glenn Greenwald Keep Appearing on Tucker Carlson's Show?](https://www.novakarchive.com/foias/2019/4/20/why-does-glenn-greenwald-keep-going-on-tucker-carlsons-show)
 - ``27 Jul 2019`` Maritaca News: [According to the bad language, the @DomMascHry31 profile on Twitter belongs to Glenn from IntercePT](https://maritaca-news.blogspot.com/2019/07/segundo-as-mas-linguas-o-perfil.html)
+- ``12 Oct 2019`` José Tomaz on Blog: [Recording of conversation between 'journalist' spokesman for Lula's lair and Eustáquio reveals Glenn's squalor (Video)](https://rota2014.blogspot.com/2019/10/gravacao-de-conversa-entre-jornalistas.html)
 - ``21 Jan 2020`` Ernesto Londoño and Letícia Casado for The New York Times: [Glenn Greenwald Charged With Cybercrimes in Brazil](https://www.nytimes.com/2020/01/21/world/americas/glenn-greenwald-brazil-cybercrimes.html)
 
-- ``12 Oct 2019`` José Tomaz on Blog: [Recording of conversation between 'journalist' spokesman for Lula's lair and Eustáquio reveals Glenn's squalor (Video)](https://rota2014.blogspot.com/2019/10/gravacao-de-conversa-entre-jornalistas.html)
+### Unorganized links
 
-- [https://www.buzzfeednews.com/article/jtes/how-glenn-greenwald-became-glenn-greenwald]()
 - [https://www.nycbar.org/member-and-career-services/committees/reports-listing/reports/detail/formal-opinion-2003-02-undisclosed-taping-of-conversations-by-lawyers-1]()
 - [https://aficwomendirect.org/director/jenkleiner/]()
 - [https://gay.aebn.com/gay/movies/43962/hot-hairy-real---4]()
@@ -53,7 +55,6 @@ layout: default
 - [https://m.facebook.com/permalink.php?story_fbid=912037985810130&id=109223329424937]()
 - [https://g1.globo.com/rj/rio-de-janeiro/noticia/2019/09/11/coaf-aponta-movimentacao-atipica-de-r-25-milhoes-em-conta-do-deputado-federal-david-miranda.ghtml]()
 - [http://brianjohnspencer.blogspot.com/2014/02/glenn-greenwald-lawyer-blogger-partisan.html]()
-- [https://www.buzzfeed.com/natashavc/david-miranda-is-nobodys-errand-boy]()
 - [https://nymag.com/intelligencer/2018/01/glenn-greenwald-russia-investigation.html]()
 - [https://www.thedailybeast.com/laura-poitras-co-founder-of-the-intercept-barred-from-company-meeting-after-snowden-archive-shutdown]()
 - [https://www.facebook.com/Gesara.Brasil/posts/um-predador-sexual-chamado-glenn-greenwald-ato-iiposted-on-agosto-3-2019-by-room/2442549029101496/]()
