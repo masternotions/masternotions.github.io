@@ -4,15 +4,14 @@ layout: home
 ---
 
 Start Here:
-
-- [twitter](https://twitter.com/wokyleeks/status/1298727883582484481)
-- [twitter](https://twitter.com/AlanVRK/status/1299334655527858176)
-- [twitter](https://twitter.com/AlanVRK/status/1299105381910802445)
-- [twitter](https://twitter.com/AlanVRK/status/1300520297771171840)
-- [twitter](https://twitter.com/wokyleeks/status/1299809826067816448)
-- [twitter](https://twitter.com/AlanVRK/status/1299188334842044416)
-- [twitter](https://twitter.com/AlanVRK/status/1299718665345134594)
-- [twitter](https://twitter.com/wokyleeks/status/1298731932344184832)
+[twitter](https://twitter.com/wokyleeks/status/1298727883582484481)
+[twitter](https://twitter.com/AlanVRK/status/1299334655527858176)
+[twitter](https://twitter.com/AlanVRK/status/1299105381910802445)
+[twitter](https://twitter.com/AlanVRK/status/1300520297771171840)
+[twitter](https://twitter.com/wokyleeks/status/1299809826067816448)
+[twitter](https://twitter.com/AlanVRK/status/1299188334842044416)
+[twitter](https://twitter.com/AlanVRK/status/1299718665345134594)
+[twitter](https://twitter.com/wokyleeks/status/1298731932344184832)
 
 The rest of this site is in progress.
 
@@ -36,8 +35,9 @@ In 2005, David Miranda starts directing movies for Bareback Inc.
 ### Movie Info
 
 - Bareback Inc is StudMall: [link](https://twitter.com/AlanVRK/status/1298734275601281025)
-- Sauna Boys 1: [info](https://twitter.com/AlanVRK/status/1298731008389509125) [front](https://twitter.com/AlanVRK/status/1298706588199460865)
-- Sauna Boys 3: [info](https://twitter.com/AlanVRK/status/1298727516736233472) [info](https://twitter.com/AlanVRK/status/1298729862618927105)
+- StudMall: [link](https://twitter.com/wokyleeks/status/1299021151352393728)
+- Sauna Boys 1: [link](https://twitter.com/AlanVRK/status/1298731008389509125) [link](https://twitter.com/AlanVRK/status/1298706588199460865)
+- Sauna Boys 3: [link](https://twitter.com/AlanVRK/status/1298727516736233472) [link](https://twitter.com/AlanVRK/status/1298729862618927105)
 - Sauna Boys 2-5 Back Covers: [link](https://twitter.com/AlanVRK/status/1298715175051079687)
 
 ### Documents
