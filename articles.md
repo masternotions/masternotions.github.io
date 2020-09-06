@@ -7,7 +7,8 @@ layout: default
 
 ### Articles and posts
 
-- ``25 Jul 2012``: Adam Levick for The Times of Israel: [The Guardian and Glenn Greenwald: The anti-imperialism of fools](https://blogs.timesofisrael.com/the-guardian-and-glenn-greenwald-the-anti-imperialism-of-fools/)
+- ``27 Jul 2006`` Patterico on Blog: [Annotated WuzzaDem: The Facts Behind the Greenwald Sock-Puppetry](http://patterico.com/2006/07/27/annotated-wuzzadem-the-facts-behind-the-greenwald-sock-puppetry/)
+- ``25 Jul 2012`` Adam Levick for The Times of Israel: [The Guardian and Glenn Greenwald: The anti-imperialism of fools](https://blogs.timesofisrael.com/the-guardian-and-glenn-greenwald-the-anti-imperialism-of-fools/)
 - ``26 Aug 2012`` Adam Levick for Camera UK: [Background on Glenn Greenwald for Guardian Readers: 'Sock Pupppets' & 'Smart Spam'](https://camera-uk.org/2012/08/26/background-on-glenn-greenwald-for-guardian-readers-sock-puppets-smart-spam/)
 - ``26 Jun 2013`` Abby Ohlheiser for The Atlantic: [Here Comes the Glenn Greenwald Hit Piece](https://www.theatlantic.com/national/archive/2013/06/here-comes-glenn-greenwald-hit-piece/313861/)
 - ``26 Jun 2013`` Glenn Greenwald for The Guardian: [The personal side of taking on the NSA: emerging smears](https://www.theguardian.com/commentisfree/2013/jun/26/nsa-revelations-response-to-smears)
@@ -20,6 +21,7 @@ layout: default
 - ``12 May 2014`` Michael Paterniti for GQ: [The Man Who Knows Too Much](https://www.gq.com/story/glenn-greenwald-edward-snowden-no-place-to-hide)
 - ``01 Aug 2014`` Malcolm Forbes for Columbia Journalism Review: [Glenn Greenwald against the world](https://archives.cjr.org/critical_eye/glenn_greenwald_against_the_wo.php)
 - ``03 Sep 2014`` Michael Hirsh for Politico: [Has Greenwald, Inc. Peaked?](https://www.politico.com/magazine/story/2014/09/glenn-greenwald-inc-peaked-110576)
+- ``19 Oct 2016`` Thaddeus T. Grugq on Medium: [Age of Influence 2.0](https://medium.com/@thegrugq/agent-of-influence-2-0-e1f20bed4aec)
 - ``28 Oct 2016`` Idrees Ahmad for Pulse: [Glenn Greenwald's Sympathy for the Devil](https://pulsemedia.org/2016/10/28/sympathy-for-the-devil-exorcising-greenwald-and-assad/)
 - ``09 Feb 2017`` Ryan Bahan on Medium: [Who Are The Royal Order of Jesters?](https://medium.com/@HeapingHelping/who-are-the-royal-order-of-jesters-55ffe6f6acea)
 - ``26 Oct 2017`` Lawyers, Guns & Money: [Dishonest Actors at The Intercept](https://www.lawyersgunsmoneyblog.com/2017/10/dishonest-actors-intercept)
@@ -37,6 +39,7 @@ layout: default
 
 ### Unorganized links
 
+- [https://law.justia.com/cases/federal/district-courts/FSupp2/159/1116/2384296/]()
 - [https://www.nycbar.org/member-and-career-services/committees/reports-listing/reports/detail/formal-opinion-2003-02-undisclosed-taping-of-conversations-by-lawyers-1]()
 - [https://www.out.com/news-commentary/2011/04/18/glenn-greenwald-life-beyond-borders]()
 - [https://www.out.com/entertainment/popnography/2013/07/03/glenn-greenwald-former-lover-porn-jake-jaxson-jason-buchtel]()
@@ -46,21 +49,15 @@ layout: default
 - [https://www.out.com/news-opinion/2013/10/24/behind-story-glenn-greenwald-enemy-state]()
 - [https://www.out.com/news-opinion/2013/08/19/glenn-greenwalds-partner-detained-heathrow]()
 - [https://www.out.com/entertainment/popnography/2013/06/07/glenn-greenwald-whistleblower-bradley-manning]()
-- [https://law.justia.com/cases/federal/district-courts/FSupp2/159/1116/2384296/]()
+- [https://www.nytimes.com/reuters/2020/08/21/business/21reuters-brazil-corruption.html]()
 - [https://www.tercalivre.com.br/glenn-greenwald-ja-foi-processado-por-pornografia-segundo-site-estrangeiro/]()
 - [https://polizeros.com/2019/07/05/brazil-investigating-glenn-greenwald-for-money-laundering/]()
-- [https://www.nytimes.com/reuters/2020/08/21/business/21reuters-brazil-corruption.html]()
 - [https://www.fbi.gov/wanted/cyber/evgeniy-mikhailovich-bogachev]()
 - [https://noticias.r7.com/eleicoes-2018/jornalista-americano-usa-site-para-alavancar-carreira-do-marido-09072019]()
-- [https://noticias.r7.com/eleicoes-2018/jornalista-americano-usa-site-para-alavancar-carreira-do-marido-09072019]()
 - [https://www.datalounge.com/thread/12942466-gay-ballet-dancer-ditches-ballet-to-do-porn-because-it-is-art-]()
-- [https://medium.com/@thegrugq/agent-of-influence-2-0-e1f20bed4aec]()
 - [https://g1.globo.com/rj/rio-de-janeiro/noticia/2019/09/11/coaf-aponta-movimentacao-atipica-de-r-25-milhoes-em-conta-do-deputado-federal-david-miranda.ghtml]()
-- [http://brianjohnspencer.blogspot.com/2014/02/glenn-greenwald-lawyer-blogger-partisan.html]()
-- [http://patterico.com/2006/07/27/annotated-wuzzadem-the-facts-behind-the-greenwald-sock-puppetry/]()
 - [https://www.jornalopcao.com.br/colunas-e-blogs/conexao/por-que-profissionais-como-glenn-greenwald-e-patricia-campos-mello-incomodam-tanto-militantes-da-direita-237490/]()
 - [https://ricardoantunes.com.br/exclusivo-milionario-glenn-greenwald-advogou-para-lider-nazista-goldman-sachs-e-vendeu-ate-filme-porno-conheca-sua-trajetoria/]()
-- [https://hotair.com/archives/allahpundit/2006/07/25/greenwalds-sock-puppets-the-worst-blog-scandal-ever/]()
 - [https://aficwomendirect.org/director/jenkleiner/]()
 - [https://gay.aebn.com/gay/movies/43962/hot-hairy-real---4]()
 - [https://m.facebook.com/permalink.php?story_fbid=912037985810130&id=109223329424937]()
