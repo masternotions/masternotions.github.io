@@ -8,10 +8,7 @@ Start Here:
 [twitter](https://twitter.com/AlanVRK/status/1299334655527858176)
 [twitter](https://twitter.com/AlanVRK/status/1299105381910802445)
 [twitter](https://twitter.com/AlanVRK/status/1300520297771171840)
-[twitter](https://twitter.com/wokyleeks/status/1299809826067816448)
 [twitter](https://twitter.com/AlanVRK/status/1299188334842044416)
-[twitter](https://twitter.com/AlanVRK/status/1299718665345134594)
-[twitter](https://twitter.com/wokyleeks/status/1298731932344184832)
 
 The rest of this site is in progress.
 
@@ -20,7 +17,7 @@ Last updated: Sept 6, 2020
 ### Documents
 
 - ``Current`` [List of pornography videos directed by David Miranda](https://www.gayeroticvideoindex.com/D/3/2013.html)
-- ``Current`` [List of pornography videos producced by StudMall](https://www.gayeroticvideoindex.com/C/7/6277.html)
+- ``Current`` [List of pornography videos produced by StudMall](https://www.gayeroticvideoindex.com/C/7/6277.html)
 - ``Feb 08, 2005`` [Phone contact information on StudMall.com](http://web.archive.org/web/20050208081923/http://www.studmall.com/contact.php)
 - ``Feb 08, 2005`` [Phone contact information for Glenn Greenwald's Legal Offices](https://archive.is/7CM2z)
 
@@ -47,22 +44,26 @@ February 2005, GG goes to Rio for a two month vacation to Brazil. On his first d
 
 July 2005, DM is working for GG's porn company which is shooting in Rio.
 [link](https://twitter.com/wokyleeks/status/1298828944561430530)
+[link](https://twitter.com/AlanVRK/status/1298727516736233472)
+[link](https://twitter.com/AlanVRK/status/1298731668048613376)
+[link](https://twitter.com/AlanVRK/status/1299105381910802445)
+[link](https://twitter.com/wokyleeks/status/1299808430450855936)
 
 After two years of living together they became common-law husbands.
 [link](https://twitter.com/AlanVRK/status/1298323770743152640)
 
-In 2005, David Miranda starts directing movies for Bareback Inc.
-[link](https://twitter.com/AlanVRK/status/1298731668048613376)
-[link](https://twitter.com/AlanVRK/status/1298727516736233472)
+But they met earlier than 2005.
+[link](https://twitter.com/AlanVRK/status/1300520297771171840)
 
-### Movie Info
+### By Subject
 
+- Master Notions: [link](https://twitter.com/AlanVRK/status/1299119861809975297) [link](https://twitter.com/AlanVRK/status/1298995252284362752)
 - StudMall: [link](https://twitter.com/AlanVRK/status/1298396468844396545) [link](https://twitter.com/wokyleeks/status/1299021151352393728)
 - Bareback Inc: [link](https://twitter.com/AlanVRK/status/1298734275601281025)
+- Ravana: [link](https://twitter.com/AlanVRK/status/1298626981848899585) [link](https://twitter.com/AlanVRK/status/1298717258919813122) [link](https://twitter.com/AlanVRK/status/1299080322919862272) [link](https://twitter.com/AlanVRK/status/1299081614513840128)
 - Sauna Boys 1: [link](https://twitter.com/AlanVRK/status/1298731008389509125) [link](https://twitter.com/AlanVRK/status/1298706588199460865)
 - Sauna Boys 3: [link](https://twitter.com/AlanVRK/status/1298727516736233472) [link](https://twitter.com/AlanVRK/status/1298729862618927105)
-- Sauna Boys 2-5 Back Covers: [link](https://twitter.com/AlanVRK/status/1298715175051079687)
-- Ravana: [link](https://twitter.com/AlanVRK/status/1298626981848899585) [link](https://twitter.com/AlanVRK/status/1298717258919813122) [link](https://twitter.com/AlanVRK/status/1299080322919862272) [link](https://twitter.com/AlanVRK/status/1299081614513840128)
+- Back Covers: [link](https://twitter.com/AlanVRK/status/1298715175051079687) [link](https://twitter.com/AlanVRK/status/1299718665345134594)
 
 ### More
 
