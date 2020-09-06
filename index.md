@@ -6,6 +6,7 @@ layout: home
 Start Here:
 
 - [twitter](https://twitter.com/wokyleeks/status/1298727883582484481)
+- [twitter](https://twitter.com/AlanVRK/status/1299334655527858176)
 - [twitter](https://twitter.com/AlanVRK/status/1299105381910802445)
 - [twitter](https://twitter.com/AlanVRK/status/1299188334842044416)
 - [twitter](https://twitter.com/AlanVRK/status/1299718665345134594)
