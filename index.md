@@ -27,19 +27,19 @@ layout: home
 
 ### Unorganized links
 
-- [https://twitter.com/AlanVRK/status/1298398909845438473]()
-- [https://twitter.com/AlanVRK/status/1298634256537788416]()
-- [https://twitter.com/AlanVRK/status/1298709576695472130]()
-- [https://twitter.com/AlanVRK/status/1298715175051079687]()
-- [https://twitter.com/AlanVRK/status/1298717258919813122]()
-- [https://twitter.com/wokyleeks/status/1298729753889763328]()
-- [https://twitter.com/wokyleeks/status/1298731932344184832]()
-- [https://twitter.com/wokyleeks/status/1298804323250405377]()
-- [https://twitter.com/wokyleeks/status/1298827978164453378]()
-- [https://twitter.com/wokyleeks/status/1298828944561430530]()
-- [https://twitter.com/wokyleeks/status/1299021151352393728]()
-- [https://twitter.com/wokyleeks/status/1299809826067816448]()
-- [https://twitter.com/wokyleeks/status/1299906001919856641]()
+- [https://twitter.com/AlanVRK/status/1298398909845438473]
+- [https://twitter.com/AlanVRK/status/1298634256537788416]
+- [https://twitter.com/AlanVRK/status/1298709576695472130]
+- [https://twitter.com/AlanVRK/status/1298715175051079687]
+- [https://twitter.com/AlanVRK/status/1298717258919813122]
+- [https://twitter.com/wokyleeks/status/1298729753889763328]
+- [https://twitter.com/wokyleeks/status/1298731932344184832]
+- [https://twitter.com/wokyleeks/status/1298804323250405377]
+- [https://twitter.com/wokyleeks/status/1298827978164453378]
+- [https://twitter.com/wokyleeks/status/1298828944561430530]
+- [https://twitter.com/wokyleeks/status/1299021151352393728]
+- [https://twitter.com/wokyleeks/status/1299809826067816448]
+- [https://twitter.com/wokyleeks/status/1299906001919856641]
 
 ### More
 
