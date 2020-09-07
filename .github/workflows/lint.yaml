@@ -5,11 +5,14 @@ on: [push, pull_request]
 jobs:
   delivery:
     runs-on: ubuntu-latest
+    continue-on-error: true
 
     steps:
       - name: Check out code
         uses: actions/checkout@master
-      - name: Run link check
-        uses: gaurav-nelson/github-action-markdown-link-check@v1
       - name: Run markdownlint
         uses: actionshub/markdownlint@master
+      - name: Run link check
+        uses: gaurav-nelson/github-action-markdown-link-check@v1
+      - name: Spellcheck
+        uses: rojopolis/spellcheck-github-actions@0.5.0
