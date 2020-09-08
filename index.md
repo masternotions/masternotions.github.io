@@ -1,6 +1,7 @@
 ---
-title: Home
 layout: home
+title: Home
+footer: "Last updated: Sep 8, 2020"
 ---
 
 Start Here:
