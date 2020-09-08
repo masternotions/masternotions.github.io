@@ -63,11 +63,11 @@ Hairy Studs 4 was filmed in Brazil in 2002.
 - ``Current`` [List of pornography videos directed by David Miranda](https://www.gayeroticvideoindex.com/D/3/2013.html)
 - ``Current`` [List of pornography videos produced by StudMall](https://www.gayeroticvideoindex.com/C/7/6277.html)
 - ``Feb 08, 2005`` [Phone contact information on StudMall.com](http://web.archive.org/web/20050208081923/http://www.studmall.com/contact.php)
-- ``Feb 08, 2005`` [Phone contact information for Glenn Greenwald's Legal Offices](https://archive.is/7CM2z)
+- ``Feb 08, 2005`` [Phone contact information for Glenn Greenwald's Legal Offices](https://www.bizexposed.com/New_York-USA/B/Law_Office_of_Glenn_Green_Wald-New_York.php)
 
 # Videos
 
-- ``2003`` Hairy Studs Vol. 4: [Is your dick hard?](/media/hairy-studs-4-audio.mp4)
+- ``2003`` Hairy Studs Vol. 4: [Is your dick hard?](./media/hairy-studs-4-audio.mp4)
 
 # Links
 
