@@ -59,6 +59,7 @@ layout: default
 - <https://gay.aebn.com/gay/movies/43962/hot-hairy-real---4>
 - <https://m.facebook.com/permalink.php?story_fbid=912037985810130&id=109223329424937>
 - <https://threader.app/thread/1018533571689099265>
+- <https://cryptome.org/2014-info/glenn-greenwald/glenn-greenwald.htm>
 
 <!--
 
