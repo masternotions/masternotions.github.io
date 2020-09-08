@@ -36,29 +36,29 @@ layout: default
 
 ### Unorganized links
 
-- [https://law.justia.com/cases/federal/district-courts/FSupp2/159/1116/2384296/]()
-- [https://www.nycbar.org/member-and-career-services/committees/reports-listing/reports/detail/formal-opinion-2003-02-undisclosed-taping-of-conversations-by-lawyers-1]()
-- [https://www.out.com/news-commentary/2011/04/18/glenn-greenwald-life-beyond-borders]()
-- [https://www.out.com/entertainment/popnography/2013/07/03/glenn-greenwald-former-lover-porn-jake-jaxson-jason-buchtel]()
-- [https://www.out.com/glenn-greenwald/2013/10/24/10-things-we-learned-glenn-greenwald]()
-- [https://www.out.com/popnography/2015/2/24/why-whistleblowers-winning-academy-awards-matters]()
-- [https://www.out.com/entertainment/popnography/2013/08/21/watch-anderson-cooper-interviews-glenn-greenwald-david-miranda]()
-- [https://www.out.com/news-opinion/2013/10/24/behind-story-glenn-greenwald-enemy-state]()
-- [https://www.out.com/news-opinion/2013/08/19/glenn-greenwalds-partner-detained-heathrow]()
-- [https://www.out.com/entertainment/popnography/2013/06/07/glenn-greenwald-whistleblower-bradley-manning]()
-- [https://www.nytimes.com/reuters/2020/08/21/business/21reuters-brazil-corruption.html]()
-- [https://www.tercalivre.com.br/glenn-greenwald-ja-foi-processado-por-pornografia-segundo-site-estrangeiro/]()
-- [https://polizeros.com/2019/07/05/brazil-investigating-glenn-greenwald-for-money-laundering/]()
-- [https://www.fbi.gov/wanted/cyber/evgeniy-mikhailovich-bogachev]()
-- [https://noticias.r7.com/eleicoes-2018/jornalista-americano-usa-site-para-alavancar-carreira-do-marido-09072019]()
-- [https://www.datalounge.com/thread/12942466-gay-ballet-dancer-ditches-ballet-to-do-porn-because-it-is-art-]()
-- [https://g1.globo.com/rj/rio-de-janeiro/noticia/2019/09/11/coaf-aponta-movimentacao-atipica-de-r-25-milhoes-em-conta-do-deputado-federal-david-miranda.ghtml]()
-- [https://www.jornalopcao.com.br/colunas-e-blogs/conexao/por-que-profissionais-como-glenn-greenwald-e-patricia-campos-mello-incomodam-tanto-militantes-da-direita-237490/]()
-- [https://ricardoantunes.com.br/exclusivo-milionario-glenn-greenwald-advogou-para-lider-nazista-goldman-sachs-e-vendeu-ate-filme-porno-conheca-sua-trajetoria/]()
-- [https://aficwomendirect.org/director/jenkleiner/]()
-- [https://gay.aebn.com/gay/movies/43962/hot-hairy-real---4]()
-- [https://m.facebook.com/permalink.php?story_fbid=912037985810130&id=109223329424937]()
-- [https://threader.app/thread/1018533571689099265]()
+- <https://law.justia.com/cases/federal/district-courts/FSupp2/159/1116/2384296>
+- <https://www.nycbar.org/member-and-career-services/committees/reports-listing/reports/detail/formal-opinion-2003-02-undisclosed-taping-of-conversations-by-lawyers-1>
+- <https://www.out.com/news-commentary/2011/04/18/glenn-greenwald-life-beyond-borders>
+- <https://www.out.com/entertainment/popnography/2013/07/03/glenn-greenwald-former-lover-porn-jake-jaxson-jason-buchtel>
+- <https://www.out.com/glenn-greenwald/2013/10/24/10-things-we-learned-glenn-greenwald>
+- <https://www.out.com/popnography/2015/2/24/why-whistleblowers-winning-academy-awards-matters>
+- <https://www.out.com/entertainment/popnography/2013/08/21/watch-anderson-cooper-interviews-glenn-greenwald-david-miranda>
+- <https://www.out.com/news-opinion/2013/10/24/behind-story-glenn-greenwald-enemy-state>
+- <https://www.out.com/news-opinion/2013/08/19/glenn-greenwalds-partner-detained-heathrow>
+- <https://www.out.com/entertainment/popnography/2013/06/07/glenn-greenwald-whistleblower-bradley-manning>
+- <https://www.nytimes.com/reuters/2020/08/21/business/21reuters-brazil-corruption.html>
+- <https://www.tercalivre.com.br/glenn-greenwald-ja-foi-processado-por-pornografia-segundo-site-estrangeiro/>
+- <https://polizeros.com/2019/07/05/brazil-investigating-glenn-greenwald-for-money-laundering/>
+- <https://www.fbi.gov/wanted/cyber/evgeniy-mikhailovich-bogachev>
+- <https://noticias.r7.com/eleicoes-2018/jornalista-americano-usa-site-para-alavancar-carreira-do-marido-09072019>
+- <https://www.datalounge.com/thread/12942466-gay-ballet-dancer-ditches-ballet-to-do-porn-because-it-is-art->
+- <https://g1.globo.com/rj/rio-de-janeiro/noticia/2019/09/11/coaf-aponta-movimentacao-atipica-de-r-25-milhoes-em-conta-do-deputado-federal-david-miranda.ghtml>
+- <https://www.jornalopcao.com.br/colunas-e-blogs/conexao/por-que-profissionais-como-glenn-greenwald-e-patricia-campos-mello-incomodam-tanto-militantes-da-direita-237490/>
+- <https://ricardoantunes.com.br/exclusivo-milionario-glenn-greenwald-advogou-para-lider-nazista-goldman-sachs-e-vendeu-ate-filme-porno-conheca-sua-trajetoria/>
+- <https://aficwomendirect.org/director/jenkleiner/>
+- <https://gay.aebn.com/gay/movies/43962/hot-hairy-real---4>
+- <https://m.facebook.com/permalink.php?story_fbid=912037985810130&id=109223329424937>
+- <https://threader.app/thread/1018533571689099265>
 
 <!--
 
