@@ -1,10 +1,7 @@
 ---
 layout: default
 title: Articles
-footer: "Last updated: Sep 8, 2020"
 ---
-
-[Go Back](index.md)
 
 # Articles and posts
 
@@ -61,6 +58,8 @@ footer: "Last updated: Sep 8, 2020"
 - <https://gay.aebn.com/gay/movies/43962/hot-hairy-real---4>
 - <https://m.facebook.com/permalink.php?story_fbid=912037985810130&id=109223329424937>
 - <https://threader.app/thread/1018533571689099265>
+
+[Go Back](index.md)
 
 <!--
 
