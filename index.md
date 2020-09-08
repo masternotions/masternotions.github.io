@@ -6,19 +6,19 @@ modified: "Sep 8, 2020"
 
 Start Here:
 
-[twitter](https://twitter.com/wokyleeks/status/1298727883582484481)
-[twitter](https://twitter.com/AlanVRK/status/1299334655527858176)
-[twitter](https://twitter.com/AlanVRK/status/1299105381910802445)
-[twitter](https://twitter.com/AlanVRK/status/1299767507654529025)
-[twitter](https://twitter.com/AlanVRK/status/1300520297771171840)
-[twitter](https://twitter.com/AlanVRK/status/1299188334842044416)
-[twitter](https://twitter.com/AlanVRK/status/1299754728897863685)
+[link](https://twitter.com/wokyleeks/status/1298727883582484481)
+[link](https://twitter.com/AlanVRK/status/1299334655527858176)
+[link](https://twitter.com/AlanVRK/status/1299105381910802445)
+[link](https://twitter.com/AlanVRK/status/1299767507654529025)
+[link](https://twitter.com/AlanVRK/status/1300520297771171840)
+[link](https://twitter.com/AlanVRK/status/1299188334842044416)
+[link](https://twitter.com/AlanVRK/status/1299754728897863685)
 
 The rest of this site is in progress.
 
 # Timeline
 
-February 2005, GG goes to Rio for a two month vacation to Brazil. On his first day at Ipanema beach GG meets DM, and they move in together within a week.
+February 2005, GG goes to Rio for a two month vacation to Brazil. On the second day, GG meets DM, and they move in together within a week.
 [link](https://twitter.com/wokyleeks/status/1298827978164453378)
 [link](https://twitter.com/AlanVRK/status/1298322296579522564)
 
@@ -71,6 +71,7 @@ Hairy Studs 4 was filmed in Brazil in 2002.
 
 # Links
 
+- ``Apr 04, 2020`` CNN: [Where did $380B in PPP money go? RAVANA LLC](https://www.cnn.com/projects/ppp-business-loans/businesses/ravana-llc)
 - ``Sep 28, 2019`` Better Call Glenn: [Glenn Greenwald ex-actor talks about his adult films VOL 1](https://web.archive.org/web/20191012162650/https://bettercallglenn.com/ex-ator-de-glenn-greenwald-fala-sobre-seus-filmes-adultos-vol-1/)
 - ``Aug 03, 2019`` Better Call Glenn: [A sexual predator named Glenn Greenwald (Act II)](https://web.archive.org/web/20190803233858/https://bettercallglenn.com/um-predador-sexual-chamado-glenn-greenwald-ato-ii/)
 - ``Aug 01, 2019`` Better Call Glenn: [A sexual predator named Glenn Greenwald (Act I)](https://web.archive.org/web/20190803233858/https://bettercallglenn.com/um-predador-sexual-chamado-glenn-greenwald-ato-i/)
