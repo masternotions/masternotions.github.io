@@ -40,6 +40,7 @@ title: Articles
 - ``Jan 21, 2018`` Simon van Zuylen-Wood for New York Magazine: [Does This Man Know More Than Robert Mueller?](https://nymag.com/intelligencer/2018/01/glenn-greenwald-russia-investigation.html)
 - ``Jun 14, 2018`` Lawyers, Guns & Money: [Today on Tucker's White Power Hour… Mr. Glenn Greenwald, Again!](https://www.lawyersgunsmoneyblog.com/2018/06/today-tuckers-white-power-hour-mr-glenn-greenwald)
 - ``Sep 13, 2018`` Tamsin Shaw for The New York Review of Books: [Edward Snowden Reconsidered](https://www.nybooks.com/daily/2018/09/13/edward-snowden-reconsidered/)
+- ``Oct 15, 2018`` R7.com Editors: [American journalist uses website to boost husband's career](https://noticias.r7.com/eleicoes-2018/jornalista-americano-usa-site-para-alavancar-carreira-do-marido-09072019) _Updated Jul 07, 2019_
 - ``Mar 14, 2019`` Maxwell Tani for The Daily Beast: [The Intercept Bars Co-Founder From Meeting After Snowden Archive Shutdown](https://www.thedailybeast.com/laura-poitras-co-founder-of-the-intercept-barred-from-company-meeting-after-snowden-archive-shutdown)
 - ``Mar 15, 2019`` Charles R. Davis for Columbia Journalism Review: [The Intercept, a billionaire-funded public charity, cuts back](https://www.cjr.org/business_of_news/layoffs-the-intercept.php)
 - ``May 03, 2019`` Matt Novak on The Novak Archive: [Why Does Glenn Greenwald Keep Appearing on Tucker Carlson's Show?](https://www.novakarchive.com/foias/2019/4/20/why-does-glenn-greenwald-keep-going-on-tucker-carlsons-show)
@@ -47,6 +48,7 @@ title: Articles
 - ``Jul 05, 2019`` Bob Morris for Politics in the Zeros: [Brazil investigating Glenn Greenwald for money laundering](https://polizeros.com/2019/07/05/brazil-investigating-glenn-greenwald-for-money-laundering/)
 - ``Jul 23, 2019`` Bruna de Pieri for Terça Livre TV: [Glenn Greenwald has been sued for pornography, according to foreign website](https://www.tercalivre.com.br/glenn-greenwald-ja-foi-processado-por-pornografia-segundo-site-estrangeiro/)
 - ``Jul 27, 2019`` Maritaca News: [According to the bad language, the @DomMascHry31 profile on Twitter belongs to Glenn from IntercePT](https://maritaca-news.blogspot.com/2019/07/segundo-as-mas-linguas-o-perfil.html)
+- ``Sep 11, 2019`` Arthur Soares, Mariana Oliveira, Paulo Renato Soares for G1: [Coaf points out 'atypical movement' of R$ 2.5 million in the account of deputy David Miranda](https://g1.globo.com/rj/rio-de-janeiro/noticia/2019/09/11/coaf-aponta-movimentacao-atipica-de-r-25-milhoes-em-conta-do-deputado-federal-david-miranda.ghtml)
 - ``Oct 12, 2019`` José Tomaz on Blog: [Recording of conversation between 'journalist' spokesman for Lula's lair and Eustáquio reveals Glenn's squalor (Video)](https://rota2014.blogspot.com/2019/10/gravacao-de-conversa-entre-jornalistas.html)
 - ``Jan 21, 2020`` Ernesto Londoño and Letícia Casado for The New York Times: [Glenn Greenwald Charged With Cybercrimes in Brazil](https://www.nytimes.com/2020/01/21/world/americas/glenn-greenwald-brazil-cybercrimes.html)
 - ``Jan 26, 2020`` Jessica Testa on Ricardo Antunes Blog: [EXCLUSIVE: A millionaire, Glenn Greenwald advocated for Nazi leader Goldman Sachs and even sold porn. Know your trajectory.](https://ricardoantunes.com.br/exclusivo-milionario-glenn-greenwald-advogou-para-lider-nazista-goldman-sachs-e-vendeu-ate-filme-porno-conheca-sua-trajetoria/)
@@ -55,9 +57,7 @@ title: Articles
 
 - <https://law.justia.com/cases/federal/district-courts/FSupp2/159/1116/2384296>
 - <https://www.nycbar.org/member-and-career-services/committees/reports-listing/reports/detail/formal-opinion-2003-02-undisclosed-taping-of-conversations-by-lawyers-1>
-- <https://noticias.r7.com/eleicoes-2018/jornalista-americano-usa-site-para-alavancar-carreira-do-marido-09072019>
 - <https://www.datalounge.com/thread/12942466-gay-ballet-dancer-ditches-ballet-to-do-porn-because-it-is-art->
-- <https://g1.globo.com/rj/rio-de-janeiro/noticia/2019/09/11/coaf-aponta-movimentacao-atipica-de-r-25-milhoes-em-conta-do-deputado-federal-david-miranda.ghtml>
 - <https://www.jornalopcao.com.br/colunas-e-blogs/conexao/por-que-profissionais-como-glenn-greenwald-e-patricia-campos-mello-incomodam-tanto-militantes-da-direita-237490/>
 - <https://www.fbi.gov/wanted/cyber/evgeniy-mikhailovich-bogachev>
 - <https://aficwomendirect.org/director/jenkleiner/>
