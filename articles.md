@@ -5,6 +5,7 @@ title: Articles
 
 # Articles and posts
 
+- ``Mar 10, 2005`` Don Babwin for The Boston Globe: [Supremacist's lawyer cites coded message](http://archive.boston.com/news/nation/articles/2005/03/10/supremacists_lawyer_cites_coded_message/)
 - ``Apr 18, 2011`` Fred Bernstein for Out Magazine: [Glenn Greenwald: Life Beyond Borders](https://www.out.com/news-commentary/2011/04/18/glenn-greenwald-life-beyond-borders)
 - ``Jul 25, 2012`` Adam Levick for The Times of Israel: [The Guardian and Glenn Greenwald: The anti-imperialism of fools](https://blogs.timesofisrael.com/the-guardian-and-glenn-greenwald-the-anti-imperialism-of-fools/)
 - ``Aug 26, 2012`` Adam Levick for Camera UK: [Background on Glenn Greenwald for Guardian Readers: 'Sock Pupppets' & 'Smart Spam'](https://camera-uk.org/2012/08/26/background-on-glenn-greenwald-for-guardian-readers-sock-puppets-smart-spam/)
