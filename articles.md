@@ -1,6 +1,7 @@
 ---
-title: Articles
 layout: default
+title: Articles
+footer: "Last updated: Sep 8, 2020"
 ---
 
 [Go Back](index.md)
