@@ -30,6 +30,7 @@ title: Articles
 - ``Aug 01, 2014`` Malcolm Forbes for Columbia Journalism Review: [Glenn Greenwald against the world](https://archives.cjr.org/critical_eye/glenn_greenwald_against_the_wo.php)
 - ``Sep 03, 2014`` Michael Hirsh for Politico: [Has Greenwald, Inc. Peaked?](https://www.politico.com/magazine/story/2014/09/glenn-greenwald-inc-peaked-110576)
 - ``Feb 24, 2015`` Alex Panisch for Out Magazine: [Whistleblowers Win at the Academy Awards](https://www.out.com/popnography/2015/2/24/why-whistleblowers-winning-academy-awards-matters)
+- ``Jan 31, 2016`` Dave Emory on Spitfire List: [FTR #888 Compendium on Citizen Greenwald: A Shiller for Killers](http://spitfirelist.com/for-the-record/ftr-888-compendium-on-citizen-greenwald-a-shiller-for-killers/)
 - ``Oct 19, 2016`` Thaddeus T. Grugq on Medium: [Age of Influence 2.0](https://medium.com/@thegrugq/agent-of-influence-2-0-e1f20bed4aec)
 - ``Oct 28, 2016`` Idrees Ahmad for Pulse: [Glenn Greenwald's Sympathy for the Devil](https://pulsemedia.org/2016/10/28/sympathy-for-the-devil-exorcising-greenwald-and-assad/)
 - ``Feb 01, 2017`` Jewish Defense Organization: [Dossier on Glenn Greenwald](./docs/jewish-defense-organization-dossier.pdf)
