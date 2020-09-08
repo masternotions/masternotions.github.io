@@ -5,7 +5,7 @@ layout: default
 
 [Go Back](index.md)
 
-### Articles and posts
+# Articles and posts
 
 - ``Apr 18, 2011`` Fred Bernstein for Out Magazine: [Glenn Greenwald: Life Beyond Borders](https://www.out.com/news-commentary/2011/04/18/glenn-greenwald-life-beyond-borders)
 - ``Jul 25, 2012`` Adam Levick for The Times of Israel: [The Guardian and Glenn Greenwald: The anti-imperialism of fools](https://blogs.timesofisrael.com/the-guardian-and-glenn-greenwald-the-anti-imperialism-of-fools/)
@@ -44,7 +44,7 @@ layout: default
 - ``Oct 12, 2019`` José Tomaz on Blog: [Recording of conversation between 'journalist' spokesman for Lula's lair and Eustáquio reveals Glenn's squalor (Video)](https://rota2014.blogspot.com/2019/10/gravacao-de-conversa-entre-jornalistas.html)
 - ``Jan 21, 2020`` Ernesto Londoño and Letícia Casado for The New York Times: [Glenn Greenwald Charged With Cybercrimes in Brazil](https://www.nytimes.com/2020/01/21/world/americas/glenn-greenwald-brazil-cybercrimes.html)
 
-### Unorganized links
+# Unorganized links
 
 - <https://law.justia.com/cases/federal/district-courts/FSupp2/159/1116/2384296>
 - <https://www.nycbar.org/member-and-career-services/committees/reports-listing/reports/detail/formal-opinion-2003-02-undisclosed-taping-of-conversations-by-lawyers-1>
