@@ -56,12 +56,15 @@ title: Articles
 - <https://www.fbi.gov/wanted/cyber/evgeniy-mikhailovich-bogachev>
 - <https://aficwomendirect.org/director/jenkleiner/>
 - <https://gay.aebn.com/gay/movies/43962/hot-hairy-real---4>
-- <https://m.facebook.com/permalink.php?story_fbid=912037985810130&id=109223329424937>
 - <https://threader.app/thread/1018533571689099265>
 
 [Go Back](index.md)
 
 <!--
+
+http://docshare.tips/the-story-of-a-jew-who-fell-in-love-with-a-nazi-the-glenn-greenwald-matt-hale-affair_58aa1654b6d87f6f5d8b5237.html
+https://www.facebook.com/Gesara.Brasil/posts/um-predador-sexual-chamado-glenn-greenwald-ato-iiposted-on-agosto-3-2019-by-room/2442549029101496/
+https://m.facebook.com/permalink.php?story_fbid=912037985810130&id=109223329424937
 
 - ``Jul 16, 2019`` [@telesurenglish](https://twitter.com/telesurenglish/status/1151144461738446848)
 - ``Sep 07, 2019`` [@BetterCallGlenn](https://twitter.com/BetterCallGlenn/status/1170428093451968515)
@@ -81,10 +84,8 @@ title: Articles
 
 - ``Jul 27, 2006`` Patterico on Blog: [Annotated WuzzaDem: The Facts Behind the Greenwald Sock-Puppetry](http://patterico.com/2006/07/27/annotated-wuzzadem-the-facts-behind-the-greenwald-sock-puppetry/)
 
-http://docshare.tips/the-story-of-a-jew-who-fell-in-love-with-a-nazi-the-glenn-greenwald-matt-hale-affair_58aa1654b6d87f6f5d8b5237.html
-https://www.facebook.com/Gesara.Brasil/posts/um-predador-sexual-chamado-glenn-greenwald-ato-iiposted-on-agosto-3-2019-by-room/2442549029101496/
-
 - ``2005 to 2007`` Glenn Greenwald on Blogger: [Unclaimed Territory](http://glenngreenwald.blogspot.com/)
 - ``2006 to 2014`` Glenn Greenwald on Blogger: [UT Documents](http://utdocuments.blogspot.com/)
 - ``04 Aug 2010`` Glenn Greenwald on Blogger: [Cato Surveillance Draft](http://surveillancedraft.blogspot.com/)
+
 -->
