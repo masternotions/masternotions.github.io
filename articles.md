@@ -3,11 +3,14 @@ layout: default
 title: Articles
 ---
 
+[Go Back](index.md)
+
 # Articles and posts
 
 - ``Mar 09, 2005`` Jodi Wilgoren for The New York Times: [Supremacist Sent Code From Jail, Lawyer Says](https://www.nytimes.com/2005/03/09/us/supremacist-sent-code-from-jail-lawyer-says.html)
-- ``Mar 10, 2005`` Don Babwin for The Boston Globe: [Supremacist's lawyer cites coded message](http://archive.boston.com/news/nation/articles/2005/03/10/supremacists_lawyer_cites_coded_message/)
+- ``Jul 27, 2006`` Patterico on Blog: [Annotated WuzzaDem: The Facts Behind the Greenwald Sock-Puppetry](http://patterico.com/2006/07/27/annotated-wuzzadem-the-facts-behind-the-greenwald-sock-puppetry/)
 - ``Apr 18, 2011`` Fred Bernstein for Out Magazine: [Glenn Greenwald: Life Beyond Borders](https://www.out.com/news-commentary/2011/04/18/glenn-greenwald-life-beyond-borders)
+- ``Jan 01, 2012`` User msanthrope on Democratic Underground: [Glenn Greenwald Unethically Taped Witnesses While Working for Matt Hale, White Supremacist](https://upload.democraticunderground.com/1002101211)
 - ``Jul 25, 2012`` Adam Levick for The Times of Israel: [The Guardian and Glenn Greenwald: The anti-imperialism of fools](https://blogs.timesofisrael.com/the-guardian-and-glenn-greenwald-the-anti-imperialism-of-fools/)
 - ``Aug 26, 2012`` Adam Levick for Camera UK: [Background on Glenn Greenwald for Guardian Readers: 'Sock Pupppets' & 'Smart Spam'](https://camera-uk.org/2012/08/26/background-on-glenn-greenwald-for-guardian-readers-sock-puppets-smart-spam/)
 - ``Jun 07, 2013`` Andrew Belonsky for Out Magazine: [Glenn Greenwald: Same as Bradley Manning?](https://www.out.com/entertainment/popnography/2013/06/07/glenn-greenwald-whistleblower-bradley-manning)
@@ -29,7 +32,7 @@ title: Articles
 - ``Feb 24, 2015`` Alex Panisch for Out Magazine: [Whistleblowers Win at the Academy Awards](https://www.out.com/popnography/2015/2/24/why-whistleblowers-winning-academy-awards-matters)
 - ``Oct 19, 2016`` Thaddeus T. Grugq on Medium: [Age of Influence 2.0](https://medium.com/@thegrugq/agent-of-influence-2-0-e1f20bed4aec)
 - ``Oct 28, 2016`` Idrees Ahmad for Pulse: [Glenn Greenwald's Sympathy for the Devil](https://pulsemedia.org/2016/10/28/sympathy-for-the-devil-exorcising-greenwald-and-assad/)
-- ``Feb 01, 2017`` Jewish Defense Organization: [Dossier on Glenn Greenwald](/docs/jewish-defense-organization-dossier.pdf)
+- ``Feb 01, 2017`` Jewish Defense Organization: [Dossier on Glenn Greenwald](./docs/jewish-defense-organization-dossier.pdf)
 - ``Oct 26, 2017`` Lawyers, Guns & Money: [Dishonest Actors at The Intercept](https://www.lawyersgunsmoneyblog.com/2017/10/dishonest-actors-intercept)
 - ``Oct 29, 2017`` Lawyers, Guns & Money: [Pretending Your Publication Doesn’t Have A Race Problem](https://www.lawyersgunsmoneyblog.com/2017/10/intercept-the-root-fight)
 - ``Nov 07, 2017`` Lawyers, Guns & Money: [Tucker and Glenn Go Together Like Chocolate and Peanut Butter](https://www.lawyersgunsmoneyblog.com/2017/11/tucker-glenn-go-together-like-chocolate-peanut-butter)
@@ -43,24 +46,21 @@ title: Articles
 - ``Jul 27, 2019`` Maritaca News: [According to the bad language, the @DomMascHry31 profile on Twitter belongs to Glenn from IntercePT](https://maritaca-news.blogspot.com/2019/07/segundo-as-mas-linguas-o-perfil.html)
 - ``Oct 12, 2019`` José Tomaz on Blog: [Recording of conversation between 'journalist' spokesman for Lula's lair and Eustáquio reveals Glenn's squalor (Video)](https://rota2014.blogspot.com/2019/10/gravacao-de-conversa-entre-jornalistas.html)
 - ``Jan 21, 2020`` Ernesto Londoño and Letícia Casado for The New York Times: [Glenn Greenwald Charged With Cybercrimes in Brazil](https://www.nytimes.com/2020/01/21/world/americas/glenn-greenwald-brazil-cybercrimes.html)
+- ``Jan 26, 2020`` Jessica Testa on Ricardo Antunes Blog: [EXCLUSIVE: A millionaire, Glenn Greenwald advocated for Nazi leader Goldman Sachs and even sold porn. Know your trajectory.](https://ricardoantunes.com.br/exclusivo-milionario-glenn-greenwald-advogou-para-lider-nazista-goldman-sachs-e-vendeu-ate-filme-porno-conheca-sua-trajetoria/)
 
 # Unorganized links
 
 - <https://law.justia.com/cases/federal/district-courts/FSupp2/159/1116/2384296>
 - <https://www.nycbar.org/member-and-career-services/committees/reports-listing/reports/detail/formal-opinion-2003-02-undisclosed-taping-of-conversations-by-lawyers-1>
-- <https://www.nytimes.com/reuters/2020/08/21/business/21reuters-brazil-corruption.html>
 - <https://www.tercalivre.com.br/glenn-greenwald-ja-foi-processado-por-pornografia-segundo-site-estrangeiro/>
 - <https://noticias.r7.com/eleicoes-2018/jornalista-americano-usa-site-para-alavancar-carreira-do-marido-09072019>
 - <https://www.datalounge.com/thread/12942466-gay-ballet-dancer-ditches-ballet-to-do-porn-because-it-is-art->
 - <https://g1.globo.com/rj/rio-de-janeiro/noticia/2019/09/11/coaf-aponta-movimentacao-atipica-de-r-25-milhoes-em-conta-do-deputado-federal-david-miranda.ghtml>
 - <https://www.jornalopcao.com.br/colunas-e-blogs/conexao/por-que-profissionais-como-glenn-greenwald-e-patricia-campos-mello-incomodam-tanto-militantes-da-direita-237490/>
-- <https://ricardoantunes.com.br/exclusivo-milionario-glenn-greenwald-advogou-para-lider-nazista-goldman-sachs-e-vendeu-ate-filme-porno-conheca-sua-trajetoria/>
 - <https://www.fbi.gov/wanted/cyber/evgeniy-mikhailovich-bogachev>
 - <https://aficwomendirect.org/director/jenkleiner/>
 - <https://gay.aebn.com/gay/movies/43962/hot-hairy-real---4>
 - <https://threader.app/thread/1018533571689099265>
-
-[Go Back](index.md)
 
 <!--
 
@@ -83,8 +83,6 @@ https://m.facebook.com/permalink.php?story_fbid=912037985810130&id=1092233294249
 - ``Dec 03, 2019`` [@BetterCallGlenn](https://twitter.com/BetterCallGlenn/status/1201900921367740416)
 - ``Dec 03, 2019`` [@BetterCallGlenn](https://twitter.com/BetterCallGlenn/status/1201923240131739654)
 - ``Dec 03, 2019`` [@BetterCallGlenn](https://twitter.com/BetterCallGlenn/status/1201923855360647168)
-
-- ``Jul 27, 2006`` Patterico on Blog: [Annotated WuzzaDem: The Facts Behind the Greenwald Sock-Puppetry](http://patterico.com/2006/07/27/annotated-wuzzadem-the-facts-behind-the-greenwald-sock-puppetry/)
 
 - ``2005 to 2007`` Glenn Greenwald on Blogger: [Unclaimed Territory](http://glenngreenwald.blogspot.com/)
 - ``2006 to 2014`` Glenn Greenwald on Blogger: [UT Documents](http://utdocuments.blogspot.com/)
