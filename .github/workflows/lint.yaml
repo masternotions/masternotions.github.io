@@ -12,6 +12,8 @@ jobs:
         uses: actions/checkout@master
       - name: Run markdownlint
         uses: actionshub/markdownlint@master
+        with:
+          rules: ~MD013
       - name: Run link check
         uses: gaurav-nelson/github-action-markdown-link-check@v1
       - name: Spellcheck
