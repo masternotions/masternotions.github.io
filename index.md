@@ -1,10 +1,11 @@
 ---
 layout: home
 title: Home
-footer: "Last updated: Sep 8, 2020"
+modified: "Sep 8, 2020"
 ---
 
-Start Here:
+# Start Here
+
 [twitter](https://twitter.com/wokyleeks/status/1298727883582484481)
 [twitter](https://twitter.com/AlanVRK/status/1299334655527858176)
 [twitter](https://twitter.com/AlanVRK/status/1299105381910802445)
@@ -14,8 +15,6 @@ Start Here:
 [twitter](https://twitter.com/AlanVRK/status/1299754728897863685)
 
 The rest of this site is in progress.
-
-Last updated: Sept 8, 2020
 
 # Timeline
 
