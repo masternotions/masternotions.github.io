@@ -1,1 +1,1 @@
-style "#{File.dirname(__FILE__)}/.github/style.rb"
+style "#{File.dirname(__FILE__)}/.github/workflows/style.rb"
