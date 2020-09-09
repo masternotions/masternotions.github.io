@@ -128,6 +128,16 @@ strong {
   font-weight: bold;
 }
 
+sub {
+  vertical-align: sub;
+  font-size: smaller;
+}
+
+sup {
+  vertical-align: super;
+  font-size: smaller;
+}
+
 img {
   position: relative;
   margin: 0 auto;
@@ -337,15 +347,15 @@ Small Device Styles
   }
 
   h2 {
-    font-size: 24px;
+    font-size: 20px;
   }
 
   h3 {
-    font-size: 21px;
+    font-size: 18px;
   }
 
   h4 {
-    font-size: 18px;
+    font-size: 16px;
   }
 
   h5 {
@@ -381,19 +391,19 @@ Small Device Styles
   }
 
   h2 {
-    font-size: 21px;
-  }
-
-  h3 {
     font-size: 18px;
   }
 
-  h4 {
+  h3 {
     font-size: 16px;
   }
 
-  h5 {
+  h4 {
     font-size: 14px;
+  }
+
+  h5 {
+    font-size: 13px;
   }
 
   h6 {
