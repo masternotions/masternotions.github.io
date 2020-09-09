@@ -63,6 +63,7 @@ Hairy Studs 4 was filmed in Brazil in 2002.
 - ``Current`` [List of pornography videos produced by StudMall](https://www.gayeroticvideoindex.com/C/7/6277.html)
 - ``Feb 08, 2005`` [Phone contact information on StudMall.com](http://web.archive.org/web/20050208081923/http://www.studmall.com/contact.php)
 - ``Feb 08, 2005`` [Phone contact information for Glenn Greenwald's Legal Offices](https://www.bizexposed.com/New_York-USA/B/Law_Office_of_Glenn_Green_Wald-New_York.php)
+- ``Apr 14, 2020`` ProPublica: [RAVANA LLC - Coronavirus Bailouts](https://projects.propublica.org/coronavirus/bailouts/loans/ravana-llc-a962e2a231387214e7a1c7778ec6e3ab)
 
 # Videos
 
@@ -70,7 +71,6 @@ Hairy Studs 4 was filmed in Brazil in 2002.
 
 # Links
 
-- ``Apr 14, 2020`` ProPublica: [RAVANA LLC - Coronavirus Bailouts](https://projects.propublica.org/coronavirus/bailouts/loans/ravana-llc-a962e2a231387214e7a1c7778ec6e3ab)
 - ``Sep 28, 2019`` Better Call Glenn: [Glenn Greenwald ex-actor talks about his adult films VOL 1](https://web.archive.org/web/20191012162650/https://bettercallglenn.com/ex-ator-de-glenn-greenwald-fala-sobre-seus-filmes-adultos-vol-1/)
 - ``Aug 03, 2019`` Better Call Glenn: [A sexual predator named Glenn Greenwald (Act II)](https://web.archive.org/web/20190803233858/https://bettercallglenn.com/um-predador-sexual-chamado-glenn-greenwald-ato-ii/)
 - ``Aug 01, 2019`` Better Call Glenn: [A sexual predator named Glenn Greenwald (Act I)](https://web.archive.org/web/20190803233858/https://bettercallglenn.com/um-predador-sexual-chamado-glenn-greenwald-ato-i/)
