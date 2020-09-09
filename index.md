@@ -17,7 +17,7 @@ The rest of this site is in progress.
 
 # Timeline
 
-February 2005, GG goes to Rio for a two month vacation to Brazil. On the second day, GG meets DM, and they move in together within a week.
+February 2005, GG goes on a two month vacation to Rio. On the 2nd day, GG meets DM. They move in together within a week.
 [link](https://twitter.com/wokyleeks/status/1298827978164453378)
 [link](https://twitter.com/AlanVRK/status/1298322296579522564)
 
@@ -55,7 +55,8 @@ Hairy Studs 4 was filmed in Brazil in 2002.
 - Enzuli Productions: [link](https://twitter.com/AlanVRK/status/1299776571482476548) [link](https://twitter.com/AlanVRK/status/1299788774382211072)
 - Sauna Boys 1: [link](https://twitter.com/AlanVRK/status/1298731008389509125) [link](https://twitter.com/AlanVRK/status/1298706588199460865) [link](https://twitter.com/wokyleeks/status/1299809826067816448)
 - Sauna Boys 3: [link](https://twitter.com/AlanVRK/status/1298727516736233472) [link](https://twitter.com/AlanVRK/status/1298729862618927105)
-- Back Covers: [link](https://twitter.com/AlanVRK/status/1298715175051079687) [link](https://twitter.com/AlanVRK/status/1299718665345134594)
+- Sauna Boys Back Covers: [link](https://twitter.com/AlanVRK/status/1298715175051079687) [link](https://twitter.com/AlanVRK/status/1299718665345134594)
+- Hot.Hairy.Real. 4: [link](https://gay.aebn.com/gay/movies/43962/hot-hairy-real---4)
 
 # Documents
 
