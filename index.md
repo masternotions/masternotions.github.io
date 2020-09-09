@@ -14,6 +14,8 @@ February 2005, GG goes on a two month vacation to Rio. On the 2nd day, GG meets 
 After two years of cohabitation they become common-law married.
 [link](https://twitter.com/AlanVRK/status/1298323770743152640)
 
+GG claims DM was 19 when they met at the beach. But the movie credits tell a different story.
+
 ## Sauna Boys
 
 July 2005, GG's company _StudMall_ films _Sauna Boys 3_ in Rio. DM is listed as director.
