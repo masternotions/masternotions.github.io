@@ -52,13 +52,16 @@ title: Articles
 - ``Oct 12, 2019`` José Tomaz on Blog: [Recording of conversation between 'journalist' spokesman for Lula's lair and Eustáquio reveals Glenn's squalor (Video)](https://rota2014.blogspot.com/2019/10/gravacao-de-conversa-entre-jornalistas.html)
 - ``Jan 21, 2020`` Ernesto Londoño and Letícia Casado for The New York Times: [Glenn Greenwald Charged With Cybercrimes in Brazil](https://www.nytimes.com/2020/01/21/world/americas/glenn-greenwald-brazil-cybercrimes.html)
 - ``Jan 26, 2020`` Jessica Testa on Ricardo Antunes Blog: [EXCLUSIVE: A millionaire, Glenn Greenwald advocated for Nazi leader Goldman Sachs and even sold porn. Know your trajectory.](https://ricardoantunes.com.br/exclusivo-milionario-glenn-greenwald-advogou-para-lider-nazista-goldman-sachs-e-vendeu-ate-filme-porno-conheca-sua-trajetoria/)
+- ``Feb 23, 2020`` Augusto Diniz for Jornal Opção: [Why professionals like Glenn Greenwald and Patrícia Campos Mello bother militants on the right](https://www.jornalopcao.com.br/colunas-e-blogs/conexao/por-que-profissionais-como-glenn-greenwald-e-patricia-campos-mello-incomodam-tanto-militantes-da-direita-237490/)
+
+# Documents
+
+- ``Aug 23, 2001`` US District Court for the Northern District of Illinois: [Anderson v. Hale, 159 F. Supp. 2d 1116 (N.D. Ill. 2001)](https://law.justia.com/cases/federal/district-courts/FSupp2/159/1116/2384296)
+- ``Feb 02, 2003`` Committee Report for New York City Bar: [Formal Opinion 2003-02: Undisclosed Taping of Conversations by Lawyers](https://www.nycbar.org/member-and-career-services/committees/reports-listing/reports/detail/formal-opinion-2003-02-undisclosed-taping-of-conversations-by-lawyers-1)
 
 # Unorganized Links
 
-- <https://law.justia.com/cases/federal/district-courts/FSupp2/159/1116/2384296>
-- <https://www.nycbar.org/member-and-career-services/committees/reports-listing/reports/detail/formal-opinion-2003-02-undisclosed-taping-of-conversations-by-lawyers-1>
 - <https://www.datalounge.com/thread/12942466-gay-ballet-dancer-ditches-ballet-to-do-porn-because-it-is-art->
-- <https://www.jornalopcao.com.br/colunas-e-blogs/conexao/por-que-profissionais-como-glenn-greenwald-e-patricia-campos-mello-incomodam-tanto-militantes-da-direita-237490/>
 - <https://www.fbi.gov/wanted/cyber/evgeniy-mikhailovich-bogachev>
 - <https://aficwomendirect.org/director/jenkleiner/>
 - <https://gay.aebn.com/gay/movies/43962/hot-hairy-real---4>
