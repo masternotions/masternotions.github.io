@@ -15,55 +15,59 @@ The rest of this site is in progress.
 
 # Timeline
 
-February 2005, GG goes on a two month vacation to Rio. On the 2nd day, GG meets DM. They move in together within a week.
+``Feb 2005``
+
+GG goes on a two month vacation to Rio. On the 2nd day, GG meets DM. They move in together within a week.
 [link](https://twitter.com/wokyleeks/status/1298827978164453378)
 [link](https://twitter.com/AlanVRK/status/1298322296579522564)
 
-May 2005, DM turns 20.
-
-July 2005, DM is working for GG's porn company which is shooting in Rio.
-[link](https://twitter.com/wokyleeks/status/1298828944561430530)
-[link](https://twitter.com/AlanVRK/status/1298727516736233472)
-[link](https://twitter.com/AlanVRK/status/1298731668048613376)
-[link](https://twitter.com/AlanVRK/status/1299105381910802445)
-[link](https://twitter.com/wokyleeks/status/1299808430450855936)
-[link](https://twitter.com/wokyleeks/status/1299906001919856641)
-[link](https://twitter.com/AlanVRK/status/1300171770494963712)
-[link](https://twitter.com/AlanVRK/status/1300475031399608321)
-
-After two years of living together they became common-law married.
+After two years of cohabitation they become common-law married.
 [link](https://twitter.com/AlanVRK/status/1298323770743152640)
 
-But they may have met earlier than 2005.
-[link](https://twitter.com/AlanVRK/status/1300520297771171840)
+## Sauna Boys
 
-- _Sauna Boys 3_ is re-released as _Hairy Hustlers_. The production dates were changed.
-[link](https://twitter.com/AlanVRK/status/1299761145922945027)
+``Jul 2005``
+
+GG's company _StudMall_ films _Sauna Boys 3_ in Rio. DM is listed as director.
+[link](https://twitter.com/AlanVRK/status/1298727516736233472)
+[link](https://twitter.com/AlanVRK/status/1299105381910802445)
+
+DM is listed as director of the entire series, Sauna Boys 1 to 5.
+[link](https://twitter.com/wokyleeks/status/1299808430450855936)
+
+## Hairy Hustlers
+
+In 2006, _Hairy Hustlers_ is released by _Enzuli Productions_. The production date is Dec 2002.
 [link](https://twitter.com/AlanVRK/status/1299767507654529025)
 
-_Hairy Studs Video: Hot.Hairy.Real. 4_ was filmed in Brazil in 2002.
-[link](https://twitter.com/AlanVRK/status/1299754728897863685)
+In 2005, _Hairy Hustlers_ is released by _Hairy Studs Video_. The production date was changed to Mar 2003.
+[link](https://twitter.com/AlanVRK/status/1299761145922945027)
 [link](https://twitter.com/AlanVRK/status/1299769069382569986)
 [link](https://twitter.com/AlanVRK/status/1299770551062401024)
 
-An audio clip of GG talking in Hairy Studs 4: [Is your dick hard?](./media/hairy-studs-4-audio.mp4)
+## Hot.Hairy.Real.
+
+_Hairy Studs Video_ releases _Hot.Hairy.Real. Volume 4_. The copyright says 2002, 2003.
+[link](https://twitter.com/AlanVRK/status/1299754728897863685)
+
+Here's an audio clip of GG talking in _Hot.Hairy.Real. Volume 4_: [Is your dick hard?](./media/hairy-studs-4-audio.mp4)
 
 # Movies
 
 - Sauna Boys 1: [link](https://twitter.com/AlanVRK/status/1298731008389509125) [link](https://twitter.com/AlanVRK/status/1298706588199460865) [link](https://twitter.com/wokyleeks/status/1299809826067816448)
-- Sauna Boys 3: [link](https://twitter.com/AlanVRK/status/1298727516736233472) [link](https://twitter.com/AlanVRK/status/1298729862618927105)
 - Sauna Boys Back Covers: [link](https://twitter.com/AlanVRK/status/1298715175051079687) [link](https://twitter.com/AlanVRK/status/1299718665345134594)
-- Movie Search by Studio: [StudMall](./assets/images/gevi-studio-studmall.png) <sup>[2]</sup>
-- Movie Search by Director: [David Miranda](./assets/images/gevi-director-dm.png) <sup>[3]</sup>
-- Movie Search by Series: [Hairy Studs Video](./assets/images/aebn-series-hairystuds.png) <sup>[4]</sup>
+- GEVI Search by Studio: [StudMall](./assets/images/gevi-studio-studmall.png) <sup>[2]</sup>
+- GEVI Search by Director: [David Miranda](./assets/images/gevi-director-dm.png) <sup>[3]</sup>
+- AEBN Search by Studio: [Hairy Studs Video](./assets/images/aebn-series-hairystuds.png) <sup>[4]</sup>
 
 # Legal Entities
 
 - Master Notions: [link](https://twitter.com/AlanVRK/status/1299119861809975297) [link](https://twitter.com/AlanVRK/status/1298995252284362752)
-- StudMall: [link](https://twitter.com/AlanVRK/status/1298396468844396545) [link](https://twitter.com/wokyleeks/status/1299021151352393728)
 - Bareback Inc: [link](https://twitter.com/AlanVRK/status/1298734275601281025)
-- Ravana LLC: [link](https://twitter.com/AlanVRK/status/1298626981848899585) [link](https://twitter.com/AlanVRK/status/1298717258919813122) [link](https://twitter.com/AlanVRK/status/1299080322919862272) [link](https://twitter.com/AlanVRK/status/1299081614513840128)
+- Stud Mall Productions: [link](https://twitter.com/AlanVRK/status/1298396468844396545) [link](https://twitter.com/wokyleeks/status/1299021151352393728)
+- Hairy Studs Video:
 - Enzuli Productions: [link](https://twitter.com/AlanVRK/status/1299776571482476548) [link](https://twitter.com/AlanVRK/status/1299788774382211072)
+- Ravana LLC: [link](https://twitter.com/AlanVRK/status/1298626981848899585) [link](https://twitter.com/AlanVRK/status/1298717258919813122) [link](https://twitter.com/AlanVRK/status/1299080322919862272) [link](https://twitter.com/AlanVRK/status/1299081614513840128)
 
 Associations:
 
