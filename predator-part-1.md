@@ -11,7 +11,7 @@ by room16
 
 _August 1, 2019_
 
-Corner of Lorimer Street and Devoe Street in Brooklyn, New York. I leave the station and an SMS (yes, the good old SMS) informs me that my guest is already waiting at the agreed place. The place is not far from another point that almost sixteen years ago brought RZ, 37 years old, three nights that for a measly $ 560, cost him sleep, anxiety disorders, depression, humiliation and suicidal ideas.
+Corner of Lorimer Street and Devoe Street in Brooklyn, New York. I leave the station and an SMS (yes, the good old SMS) informs me that my guest is already waiting at the agreed place. The place is not far from another point that almost sixteen years ago brought RZ, 37 years old, three nights that for a measly $560, cost him sleep, anxiety disorders, depression, humiliation and suicidal ideas.
 
 The New York-based Dominican arrived in the United States in 1999 with his brother, then a high-minded baseball player in the ranks of the New York Mets. From a strict Catholic family, RZ saw his brother walk away after catching him with another man in a humble apartment they both shared with his older sister in Upper Falls, in the city of Rochester, NY.
 
@@ -27,7 +27,7 @@ After meeting at a nightclub, Greenwald gave his card to RZ, a card from Master 
 
 The place where RZ was supposed to film, with a director specializing in actors and actresses not yet 'experts' in adult films and how to behave to and from the camera, was a typical hell of cruising bars. The amount of products used for the practice of Sadomasochism, or BDSM, as it is better known, drew the attention of RZ.
 
-In the presentation, Greenwald demanded to be called solely and solely: Herr DomMascHry31, or just Herr DOM. The obsession nazistóide Greenwald (a Jew who hates Judaism, Israel, Christianity, but with a strong penchant for Islam and the idea of submission and domination ... is already public knowledge domain and the face Jeffrey Dahmer Glenn).
+In the presentation, Greenwald demanded to be called solely and solely: Herr DomMascHry31, or just Herr DOM. The [obsession nazistóide][1] Greenwald (a Jew who hates Judaism, Israel, Christianity, but with a strong penchant for Islam and the idea of submission and domination ... is already public knowledge domain and the face Jeffrey Dahmer Glenn).
 
 'I didn't know his real name and didn't know it until I saw him on TV years and years later in an NBC story and the Bush son elections. After healthy years and without panic attacks, Greenwald's vision triggered all the perverse memories that Verdevaldo and his partner Buchtel had for the then young man in his 20s'.
 
@@ -43,7 +43,7 @@ Before the legal part of the thing, a contract of about 80 pages on use of image
 
 Herr DomMascHry31, as he REQUIRED to be called, brought in other actors from the production company. RZ saw Greenwald dressed as an SS general, the Nazi paramilitaries. The sessions of Sadomasochism, Blasphemy and other horrors, lasted uninterrupted five hours.
 
-Accordingly, totally in agreement with RZ, it is not convenient for the reader to know the details, that would be purely cheap sensationalism about the nefarious identity; a subject treated as a hero by those who do not know him and did not suffer in his hands the sick and criminal sexuality of those who have defended Nazis with tooth and nail ... and for free, bearing the procedural costs himself.
+Accordingly, totally in agreement with RZ, it is not convenient for the reader to know the details, that would be purely cheap sensationalism about the nefarious identity; __a subject treated as a hero by those who do not know him and did not suffer in his hands the sick and criminal sexuality of those who have defended Nazis__ with tooth and nail... and for free, bearing the procedural costs himself.
 
 Pro bono!
 
@@ -53,7 +53,7 @@ In the opposite world that we live in, an intelligent, belligerent man who knows
 
 The events took place in September 2003, in a poorly ventilated studio, which looked more like a Nazi bunker than a film production company; even if adult films. RZ wanted to leave after the 'first' session, but was warned that he had signed an agreement and should stick to it.
 
-In an envelope was RZ's name, age, address and family name. Altogether $ 560, the extra 60 should be used to feed him. Well behaved - he would receive not 560, but 4,000 dollars and the guarantee that before January 2004, he would have his Green Card.
+In an envelope was RZ's name, age, address and family name. Altogether $560, the extra 60 should be used to feed him. Well behaved - he would receive not 560, but 4,000 dollars and the guarantee that before January 2004, he would have his Green Card.
 
 Greenwald called a taxi, got dressed and said he would return before nightfall. A man, American but with a strong Spanish but fluent accent, told RZ that he knew of his hitherto illegal situation in the United States, and that he would not count to ten to hand him over to immigration control.
 
@@ -63,6 +63,10 @@ Between what RZ considered a milder hell and Glenn Greenwald's Dante hell, after
 
 RZ told her friend what was going on and asked for help because she feared for her life, even for the exposure of what Greenwald and Butchel had already recorded.
 
-In the second part of this article, we have a Q&A with RZ in which he explains how he managed to get rid of Glenn Greenwald, from the American's attempt to bring him to Brazil in 2004, to Greenwald's criminal activities before the Snowden case, in which the The Intercept owner was already obsessed with watching others, but he feared more than anything for his security and privacy.
+In the [second part](predator-part-2.md) of this article, we have a Q&A with RZ in which he explains how he managed to get rid of Glenn Greenwald, from the American's attempt to bring him to Brazil in 2004, to Greenwald's criminal activities before the Snowden case, in which the The Intercept owner was already obsessed with watching others, but he feared more than anything for his security and privacy.
+
+&mdash;&mdash;
 
 [(source)](https://web.archive.org/web/20190803233836/https://bettercallglenn.com/um-predador-sexual-chamado-glenn-greenwald-ato-i/)
+
+[1]: https://www.newyorker.com/magazine/2018/09/03/glenn-greenwald-the-bane-of-their-resistance
