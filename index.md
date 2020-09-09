@@ -72,6 +72,8 @@ Associations:
 
 - ``Aug 23, 2001`` US District Court for the Northern District of Illinois: [Anderson v. Hale, 159 F. Supp. 2d 1116 (N.D. Ill. 2001)](https://law.justia.com/cases/federal/district-courts/FSupp2/159/1116/2384296)
 - ``Feb 02, 2003`` Committee Report for New York City Bar: [Formal Opinion 2003-02: Undisclosed Taping of Conversations by Lawyers](https://www.nycbar.org/member-and-career-services/committees/reports-listing/reports/detail/formal-opinion-2003-02-undisclosed-taping-of-conversations-by-lawyers-1)
+- ``Mar 11, 2014`` Cryptome: [Glenn Greenwald Eyeball](https://cryptome.org/2014-info/glenn-greenwald/glenn-greenwald.htm)
+- ``Jan 31, 2016`` Dave Emory on Spitfire List: [FTR #888 Compendium on Citizen Greenwald: A Shiller for Killers](http://spitfirelist.com/for-the-record/ftr-888-compendium-on-citizen-greenwald-a-shiller-for-killers/)
 - ``Feb 01, 2017`` Jewish Defense Organization: [Dossier on Glenn Greenwald](./docs/jewish-defense-organization-dossier.pdf) <sup>[[1]]</sup>
 - ``Apr 14, 2020`` ProPublica: [RAVANA LLC - Coronavirus Bailouts](https://projects.propublica.org/coronavirus/bailouts/loans/ravana-llc-a962e2a231387214e7a1c7778ec6e3ab)
 
