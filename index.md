@@ -54,7 +54,7 @@ IMDB lists it as a 2003 release from _Hairy Jock Videos_. [link](https://www.imd
 
 Here's an audio clip of GG talking in _Hot.Hairy.Real. Volume 4_: [Is your dick hard?](./media/hairy-studs-4-audio.mp4)
 
-# Movie 
+# Movie Databases
 
 - GEVI Search by Studio: [StudMall](./assets/images/gevi-studio-studmall.png) <sup>[2]</sup>
 - GEVI Search by Director: [David Miranda](./assets/images/gevi-director-dm.png) <sup>[3]</sup>
@@ -65,7 +65,7 @@ Here's an audio clip of GG talking in _Hot.Hairy.Real. Volume 4_: [Is your dick 
 - Master Notions: [link](https://twitter.com/AlanVRK/status/1299119861809975297) [link](https://twitter.com/AlanVRK/status/1298995252284362752)
 - Bareback Inc: [link](https://twitter.com/AlanVRK/status/1298734275601281025)
 - Stud Mall Productions: [link](https://twitter.com/AlanVRK/status/1298396468844396545) [link](https://twitter.com/wokyleeks/status/1299021151352393728)
-- Hairy Studs Video:
+- Hairy Studs Video: [link](https://twitter.com/AlanVRK/status/1299762747266215937)
 - Enzuli Productions: [link](https://twitter.com/AlanVRK/status/1299776571482476548) [link](https://twitter.com/AlanVRK/status/1299788774382211072)
 - Ravana LLC: [link](https://twitter.com/AlanVRK/status/1298626981848899585) [link](https://twitter.com/AlanVRK/status/1298717258919813122) [link](https://twitter.com/AlanVRK/status/1299080322919862272) [link](https://twitter.com/AlanVRK/status/1299081614513840128)
 
@@ -84,9 +84,9 @@ Associations:
 
 # Articles
 
-- ``Jun 26, 2013`` Jessica Testa for BuzzFeed News: [How Glenn Greenwald Became Glenn Greenwald](https://www.buzzfeednews.com/article/jtes/how-glenn-greenwald-became-glenn-greenwald)
 - ``Jun 26, 2013`` Dareh Gregorian for New York Daily News: [Glenn Greenwald, journalist who broke Edward Snowden story, was once lawyer sued over porn business](https://www.nydailynews.com/news/national/greenwald-reporter-broke-nsa-story-lawyer-sued-porn-biz-article-1.1383448)
 - ``Jun 26, 2013`` Dylan Byers for Politico: [Greenwald aims to pre-empt 'smears'](https://www.politico.com/blogs/media/2013/06/greenwald-aims-to-pre-empt-smears-167191)
+- ``Jun 26, 2013`` Jessica Testa for BuzzFeed News: [How Glenn Greenwald Became Glenn Greenwald](https://www.buzzfeednews.com/article/jtes/how-glenn-greenwald-became-glenn-greenwald)
 - ``Jul 03, 2013`` Jason Buchtel on Blog: [I am Jake Jaxson](https://jakejaxson.com/post/54490441032/i-am-jake-jaxson)
 - ``Nov 14, 2013`` Natasha Vargas-Cooper for BuzzFeed News: [David Miranda Is Nobody's Errand Boy](https://www.buzzfeed.com/natashavc/david-miranda-is-nobodys-errand-boy) _Updated Aug 21, 2020_
 - ``Jul 23, 2019`` Bruna de Pieri for Terça Livre TV: [Glenn Greenwald has been sued for pornography, according to foreign website](https://www.tercalivre.com.br/glenn-greenwald-ja-foi-processado-por-pornografia-segundo-site-estrangeiro/)
