@@ -78,15 +78,18 @@ Here's an audio clip of GG talking in Hot.Hairy.Real. 4: **[Is your dick hard?](
 - GEVI Search by Studio: [Stud Mall](./assets/images/gevi-studio-studmall.png) <sup>([src](https://www.gayeroticvideoindex.com/C/7/6277.html))</sup>
 - GEVI Search by Director: [David Miranda](./assets/images/gevi-director-dm.png) <sup>([src](https://www.gayeroticvideoindex.com/D/3/2013.html))</sup>
 - AEBN Search by Studio: [Hairy Studs Video](./assets/images/aebn-series-hairystuds.png) <sup>([src](https://gay.aebn.com/gay/studios/19516/hairy-studs-video))</sup>
-- New York: [Corporation and Business Entity Database](https://appext20.dos.ny.gov/corp_public/corpsearch.entity_search_entry)
+- State of New York: [Corporation and Business Entity Database](https://appext20.dos.ny.gov/corp_public/corpsearch.entity_search_entry)
   - e.g. "master notions", "showboy"
+- US Patent and Trademark Office: [Trademark Database](http://tess2.uspto.gov/)
+  - e.g. "the intercept"
 
 # Documents
 
+- ``Dec 27, 2000`` IRS Assessment on Mar 2000: [Federal Tax Lien for $17,078](https://a836-acris.nyc.gov/DS/DocumentSearch/DocumentDetail?doc_id=FT_1850007483285)
 - ``Aug 23, 2001`` US District Court for the Northern District of Illinois: [Anderson v. Hale, 159 F. Supp. 2d 1116 (N.D. Ill. 2001)](https://law.justia.com/cases/federal/district-courts/FSupp2/159/1116/2384296)
+- ``Mar 23, 2002`` IRS Assessment on May 2001: [Federal Tax Lien for $67,691](https://a836-acris.nyc.gov/DS/DocumentSearch/DocumentDetail?doc_id=FT_1580008351458)
 - ``Feb 02, 2003`` Committee Report for New York City Bar: [Formal Opinion 2003-02: Undisclosed Taping of Conversations by Lawyers](https://www.nycbar.org/member-and-career-services/committees/reports-listing/reports/detail/formal-opinion-2003-02-undisclosed-taping-of-conversations-by-lawyers-1)
 - ``Mar 27, 2003`` Supreme Court of the State of New York, County of New York: [Master Notions v. TPI and Haas, 116870/02](./docs/30011687020023SCIV_pdf.pdf)
-- ``Mar 11, 2014`` John Young on Cryptome: [Glenn Greenwald Eyeball](https://cryptome.org/2014-info/glenn-greenwald/glenn-greenwald.htm)
 - ``Jan 31, 2016`` Dave Emory on Spitfire List: [FTR #888 Compendium on Citizen Greenwald: A Shiller for Killers](http://spitfirelist.com/for-the-record/ftr-888-compendium-on-citizen-greenwald-a-shiller-for-killers/)
 - ``Feb 01, 2017`` Jewish Defense Organization: [Dossier on Glenn Greenwald](./docs/jewish-defense-organization-dossier.pdf) <sup>([src](https://inba.info/the-story-of-a-jew-who-fell-in-love-with-a-nazi-the-glenn-greenwald-matt-hale-affair_58aa1654b6d87f6f5d8b5237.html))</sup>
 - ``Apr 14, 2020`` ProPublica: [RAVANA LLC - Coronavirus Bailouts](https://projects.propublica.org/coronavirus/bailouts/loans/ravana-llc-a962e2a231387214e7a1c7778ec6e3ab)
