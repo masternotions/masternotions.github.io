@@ -35,13 +35,13 @@ Ok, fiction, it's just a game. But when the CoD producer tried to use Astrakhan,
 
 Have you seen Astrakhan in an Activision game? Iranian game designer Mohammad Alavi has received warnings from the Islamic community that what is his is in store for helping Americans and Europeans to further vilify local Muslims.
 
-__Were you already working in the adult business or was Raul & Clay your first experience?__
+## Were you already working in the adult business or was Raul & Clay your first experience?
 
 At the time, we still paid the boys to paste the lamb-lambs on public phones around the Farme de Amoedo and hotels to attract customers. I started out as a call boy when the traffic took over where I lived and there was no way to pay the rent.
 
 Gays were never welcome there and when the traffic started to dictate the rule, it was better to leave or today I would be dead. I had disk-sex and a friend referred me to another who indicated another and in this whole group there was David (Miranda).
 
-__Were you already a prostitute when you met Glenn?__
+## Were you already a prostitute when you met Glenn?
 
 Yes, already. Even for safety reasons, we were always in groups at Farme. Most of us were always pumped out of the gym so it intimidated attackers who were left to curse and verbal abuse as usual.
 
@@ -51,8 +51,8 @@ We spent a weekend, went to saunas, Praia da Macumba. It was a guy in the closet
 
 They rented a luxury apartment in Barão da Torre (Ipanema), with a balcony and everything and the neighbors went crazy because they were non-stop parties. General Bundalelê.
 
-__Did you play with Glenn?__
+## Did you play with Glenn?
 
 No, he just created the scripts. He didn't want anything mechanical or predictable. I didn't even know his or Jason's real name when they first came to shoot in Rio.
 
-[Go Back](index.md)
+[(source)](https://web.archive.org/web/20191012162650/https://bettercallglenn.com/ex-ator-de-glenn-greenwald-fala-sobre-seus-filmes-adultos-vol-1/)
