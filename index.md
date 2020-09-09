@@ -7,7 +7,7 @@ modified: "September 9, 2020"
 
 # Start Here
 
-Read the New York Daily News article: [Glenn Greenwald, journalist who broke Edward Snowden story, was once lawyer sued over porn business](https://www.nydailynews.com/news/national/greenwald-reporter-broke-nsa-story-lawyer-sued-porn-biz-article-1.1383448)
+Read the New York Daily News article: [Glenn Greenwald was once lawyer sued over porn business](https://www.nydailynews.com/news/national/greenwald-reporter-broke-nsa-story-lawyer-sued-porn-biz-article-1.1383448)
 
 Then read RZ's story: [A sexual predator named Glenn Greenwald, Part 1](predator-part-1.md)
 
