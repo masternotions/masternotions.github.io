@@ -10,7 +10,6 @@ Start Here:
 [link](https://twitter.com/AlanVRK/status/1299767507654529025)
 [link](https://twitter.com/AlanVRK/status/1300520297771171840)
 [link](https://twitter.com/AlanVRK/status/1299188334842044416)
-[link](https://twitter.com/AlanVRK/status/1299754728897863685)
 
 The rest of this site is in progress.
 
@@ -50,7 +49,7 @@ Hairy Studs 4 was filmed in Brazil in 2002.
 - Sauna Boys 1: [link](https://twitter.com/AlanVRK/status/1298731008389509125) [link](https://twitter.com/AlanVRK/status/1298706588199460865) [link](https://twitter.com/wokyleeks/status/1299809826067816448)
 - Sauna Boys 3: [link](https://twitter.com/AlanVRK/status/1298727516736233472) [link](https://twitter.com/AlanVRK/status/1298729862618927105)
 - Sauna Boys Back Covers: [link](https://twitter.com/AlanVRK/status/1298715175051079687) [link](https://twitter.com/AlanVRK/status/1299718665345134594)
-- Hot.Hairy.Real. 4: [link](https://gay.aebn.com/gay/movies/43962/hot-hairy-real---4)
+- Hot.Hairy.Real. 4: [link](https://gay.aebn.com/gay/movies/43962/hot-hairy-real---4) [link](https://twitter.com/AlanVRK/status/1299754728897863685)
 
 # Legal Entities
 
@@ -73,7 +72,7 @@ Associations:
 
 - ``Aug 23, 2001`` US District Court for the Northern District of Illinois: [Anderson v. Hale, 159 F. Supp. 2d 1116 (N.D. Ill. 2001)](https://law.justia.com/cases/federal/district-courts/FSupp2/159/1116/2384296)
 - ``Feb 02, 2003`` Committee Report for New York City Bar: [Formal Opinion 2003-02: Undisclosed Taping of Conversations by Lawyers](https://www.nycbar.org/member-and-career-services/committees/reports-listing/reports/detail/formal-opinion-2003-02-undisclosed-taping-of-conversations-by-lawyers-1)
-- ``Feb 01, 2017`` Jewish Defense Organization: [Dossier on Glenn Greenwald](./docs/jewish-defense-organization-dossier.pdf) <sup>[1]</sup>
+- ``Feb 01, 2017`` Jewish Defense Organization: [Dossier on Glenn Greenwald](./docs/jewish-defense-organization-dossier.pdf) <sup>[[1]]</sup>
 - ``Apr 14, 2020`` ProPublica: [RAVANA LLC - Coronavirus Bailouts](https://projects.propublica.org/coronavirus/bailouts/loans/ravana-llc-a962e2a231387214e7a1c7778ec6e3ab)
 
 [1]: http://docshare.tips/the-story-of-a-jew-who-fell-in-love-with-a-nazi-the-glenn-greenwald-matt-hale-affair_58aa1654b6d87f6f5d8b5237.html
