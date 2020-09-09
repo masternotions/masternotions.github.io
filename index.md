@@ -3,11 +3,7 @@ layout: index
 modified: "Sep 8, 2020"
 ---
 
-<blockquote class="twitter-tweet" data-dnt="true" data-theme="light"><p lang="en" dir="ltr">Wait Sauna Boys 3: Tough Love was directed by Glenn Greenwald&#39;s husband?<br><br>But.... I thought.... that isn&#39;t the history we&#39;ve been told <a href="https://twitter.com/hashtag/LAL?src=hash&amp;ref_src=twsrc%5Etfw">#LAL</a> <a href="https://twitter.com/thespybrief?ref_src=twsrc%5Etfw">@thespybrief</a> [https://t.co/pqQrblkEgQ]</a></p>&mdash; Waffle &quot;HOZMAD&quot; Wokyleeks (@wokyleeks) <a href="https://twitter.com/wokyleeks/status/1298727883582484481">August 26, 2020</a></blockquote>
-
-<!--
-https://twitter.com/wokyleeks/status/1298727883582484481
--->
+<blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">Wait Sauna Boys 3: Tough Love was directed by Glenn Greenwald&#39;s husband?<br><br>But.... I thought.... that isn&#39;t the history we&#39;ve been told <a href="https://twitter.com/hashtag/LAL?src=hash&amp;ref_src=twsrc%5Etfw">#LAL</a> <a href="https://twitter.com/thespybrief?ref_src=twsrc%5Etfw">@thespybrief</a> <a href="https://t.co/pqQrblkEgQ">https://t.co/pqQrblkEgQ</a></p>&mdash; Waffle &quot;HOZMAD&quot; Wokyleeks (@wokyleeks) <a href="https://twitter.com/wokyleeks/status/1298727883582484481?ref_src=twsrc%5Etfw">August 26, 2020</a></blockquote>
 
 # Timeline
 
