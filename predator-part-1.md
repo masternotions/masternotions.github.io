@@ -7,7 +7,7 @@ title: A sexual predator named Glenn Greenwald, Part 1
 
 # {{ page.title }}
 
-by Luc Michel
+by room16
 
 _August 1, 2019_
 
