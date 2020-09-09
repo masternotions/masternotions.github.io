@@ -30,6 +30,7 @@ After two years of cohabitation they become common-law married.
 
 GG claims DM was 19 when they met at the beach. But the movie credits tell a different story.
 [link](https://twitter.com/wokyleeks/status/1303174798214795264)
+[link](https://twitter.com/AlanVRK/status/1299837138629021696)
 
 ## Sauna Boys
 
@@ -55,18 +56,12 @@ In 2006, Hairy Hustlers is released by Enzuli Productions. The production date i
 
 ## Hot.Hairy.Real.
 
-Hot.Hairy.Real. Vol 4 is released by Hairy Studs Video. The copyright on the back says 2002, 2003.
+Hot.Hairy.Real. 4 is released by Hairy Studs Video. The copyright on the back says 2002, 2003.
 [link](https://twitter.com/AlanVRK/status/1299754728897863685)
 
 IMDB's entry lists a 2003 release from Hairy Jock Videos. [link](https://www.imdb.com/title/tt7801464/)
 
-Here's an audio clip of GG talking in Hot.Hairy.Real. Vol 4: **[Is your dick hard?](./media/hairy-studs-4-audio.mp4)**
-
-## More Movies
-
-- GEVI Search by Studio: [Stud Mall](./assets/images/gevi-studio-studmall.png) <sup>([src](https://www.gayeroticvideoindex.com/C/7/6277.html))</sup>
-- GEVI Search by Director: [David Miranda](./assets/images/gevi-director-dm.png) <sup>([src](https://www.gayeroticvideoindex.com/D/3/2013.html))</sup>
-- AEBN Search by Studio: [Hairy Studs Video](./assets/images/aebn-series-hairystuds.png) <sup>([src](https://gay.aebn.com/gay/studios/19516/hairy-studs-video))</sup>
+Here's an audio clip of GG talking in Hot.Hairy.Real. 4: **[Is your dick hard?](./media/hairy-studs-4-audio.mp4)**
 
 # Legal Entities
 
@@ -78,13 +73,22 @@ Here's an audio clip of GG talking in Hot.Hairy.Real. Vol 4: **[Is your dick har
 - Enzuli Productions: [link](https://twitter.com/AlanVRK/status/1299776571482476548) [link](https://twitter.com/AlanVRK/status/1299788774382211072)
 - Ravana LLC: [link](https://twitter.com/AlanVRK/status/1298626981848899585) [link](https://twitter.com/AlanVRK/status/1298717258919813122) [link](https://twitter.com/AlanVRK/status/1299080322919862272) [link](https://twitter.com/AlanVRK/status/1299081614513840128)
 
+# Databases
+
+- GEVI Search by Studio: [Stud Mall](./assets/images/gevi-studio-studmall.png) <sup>([src](https://www.gayeroticvideoindex.com/C/7/6277.html))</sup>
+- GEVI Search by Director: [David Miranda](./assets/images/gevi-director-dm.png) <sup>([src](https://www.gayeroticvideoindex.com/D/3/2013.html))</sup>
+- AEBN Search by Studio: [Hairy Studs Video](./assets/images/aebn-series-hairystuds.png) <sup>([src](https://gay.aebn.com/gay/studios/19516/hairy-studs-video))</sup>
+- New York: [Corporation and Business Entity Database](https://appext20.dos.ny.gov/corp_public/corpsearch.entity_search_entry)
+  - e.g. "master notions", "showboy"
+
 # Documents
+
 - ``Aug 23, 2001`` US District Court for the Northern District of Illinois: [Anderson v. Hale, 159 F. Supp. 2d 1116 (N.D. Ill. 2001)](https://law.justia.com/cases/federal/district-courts/FSupp2/159/1116/2384296)
 - ``Feb 02, 2003`` Committee Report for New York City Bar: [Formal Opinion 2003-02: Undisclosed Taping of Conversations by Lawyers](https://www.nycbar.org/member-and-career-services/committees/reports-listing/reports/detail/formal-opinion-2003-02-undisclosed-taping-of-conversations-by-lawyers-1)
 - ``Mar 27, 2003`` Supreme Court of the State of New York, County of New York: [Master Notions v. TPI and Haas, 116870/02](./docs/30011687020023SCIV_pdf.pdf)
 - ``Mar 11, 2014`` John Young on Cryptome: [Glenn Greenwald Eyeball](https://cryptome.org/2014-info/glenn-greenwald/glenn-greenwald.htm)
 - ``Jan 31, 2016`` Dave Emory on Spitfire List: [FTR #888 Compendium on Citizen Greenwald: A Shiller for Killers](http://spitfirelist.com/for-the-record/ftr-888-compendium-on-citizen-greenwald-a-shiller-for-killers/)
-- ``Feb 01, 2017`` Jewish Defense Organization: [Dossier on Glenn Greenwald](./docs/jewish-defense-organization-dossier.pdf) <sup>([src](http://docshare.tips/the-story-of-a-jew-who-fell-in-love-with-a-nazi-the-glenn-greenwald-matt-hale-affair_58aa1654b6d87f6f5d8b5237.html))</sup>
+- ``Feb 01, 2017`` Jewish Defense Organization: [Dossier on Glenn Greenwald](./docs/jewish-defense-organization-dossier.pdf) <sup>([src](https://inba.info/the-story-of-a-jew-who-fell-in-love-with-a-nazi-the-glenn-greenwald-matt-hale-affair_58aa1654b6d87f6f5d8b5237.html))</sup>
 - ``Apr 14, 2020`` ProPublica: [RAVANA LLC - Coronavirus Bailouts](https://projects.propublica.org/coronavirus/bailouts/loans/ravana-llc-a962e2a231387214e7a1c7778ec6e3ab)
 
 # Articles
@@ -95,6 +99,7 @@ Here's an audio clip of GG talking in Hot.Hairy.Real. Vol 4: **[Is your dick har
 - ``Jun 27, 2013`` Robert Stacy McCain on The Other McCain: [Glenn Greenwald Is a Ridiculous Joke (And Alas, the Internet Never Forgets)](https://theothermccain.com/2013/06/27/glenn-greenwald-is-a-ridiculous-joke-and-alas-the-internet-never-forgets/)
 - ``Jul 03, 2013`` Jason Buchtel on Blog: [I am Jake Jaxson](https://jakejaxson.com/post/54490441032/i-am-jake-jaxson)
 - ``Nov 14, 2013`` Natasha Vargas-Cooper for BuzzFeed News: [David Miranda Is Nobody's Errand Boy](https://www.buzzfeed.com/natashavc/david-miranda-is-nobodys-errand-boy) _Updated Aug 21, 2020_
+- ``Apr 11, 2014`` Steve Vladeck for Just Security: [United States v. Glenn Greenwald?](https://www.justsecurity.org/9299/united-states-v-glenn-greenwald/)
 - ``Jul 23, 2019`` Bruna de Pieri for Terça Livre TV: [Glenn Greenwald has been sued for pornography, according to foreign website](https://www.tercalivre.com.br/glenn-greenwald-ja-foi-processado-por-pornografia-segundo-site-estrangeiro/)
 - ``Aug 01, 2019`` room16 on Better Call Glenn: [A sexual predator named Glenn Greenwald, Part 1](predator-part-1.md)
 - ``Aug 03, 2019`` room16 on Better Call Glenn: [A sexual predator named Glenn Greenwald, Part 2](predator-part-2.md)
