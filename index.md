@@ -78,9 +78,9 @@ Here's an audio clip of GG talking in _Hot.Hairy.Real. Volume 4_: [Is your dick 
 - ``Jul 03, 2013`` Jason Buchtel on Blog: [I am Jake Jaxson](https://jakejaxson.com/post/54490441032/i-am-jake-jaxson)
 - ``Nov 14, 2013`` Natasha Vargas-Cooper for BuzzFeed News: [David Miranda Is Nobody's Errand Boy](https://www.buzzfeed.com/natashavc/david-miranda-is-nobodys-errand-boy) _Updated Aug 21, 2020_
 - ``Jul 23, 2019`` Bruna de Pieri for Terça Livre TV: [Glenn Greenwald has been sued for pornography, according to foreign website](https://www.tercalivre.com.br/glenn-greenwald-ja-foi-processado-por-pornografia-segundo-site-estrangeiro/)
-- ``Aug 01, 2019`` Luc Michel on Better Call Glenn: [A sexual predator named Glenn Greenwald (Act I)](https://web.archive.org/web/20190803233858/https://bettercallglenn.com/um-predador-sexual-chamado-glenn-greenwald-ato-i/)
-- ``Aug 03, 2019`` Luc Michel on Better Call Glenn: [A sexual predator named Glenn Greenwald (Act II)](https://web.archive.org/web/20190803233858/https://bettercallglenn.com/um-predador-sexual-chamado-glenn-greenwald-ato-ii/)
-- ``Sep 28, 2019`` Luc Michel: [Glenn Greenwald's ex-actor talks about his adult films](raul-interview.md)
+- ``Aug 01, 2019`` room16 on Better Call Glenn: [A sexual predator named Glenn Greenwald, Part 1](predator-part-1.md)
+- ``Aug 03, 2019`` room16 on Better Call Glenn: [A sexual predator named Glenn Greenwald, Part 2](predator-part-2.md)
+- ``Sep 28, 2019`` Luc Michel on Better Call Glenn: [Glenn Greenwald's ex-actor talks about his adult films](raul-interview.md)
 
 # More
 
