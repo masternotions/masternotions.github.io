@@ -31,12 +31,15 @@ title: Articles
 - ``Feb 24, 2015`` Alex Panisch for Out Magazine: [Whistleblowers Win at the Academy Awards](https://www.out.com/popnography/2015/2/24/why-whistleblowers-winning-academy-awards-matters)
 - ``Oct 19, 2016`` Thaddeus T. Grugq on Medium: [Age of Influence 2.0](https://medium.com/@thegrugq/agent-of-influence-2-0-e1f20bed4aec)
 - ``Oct 28, 2016`` Idrees Ahmad for Pulse: [Glenn Greenwald's Sympathy for the Devil](https://pulsemedia.org/2016/10/28/sympathy-for-the-devil-exorcising-greenwald-and-assad/)
+- ``Jan 03, 2017`` Ben Cohen for The Daily Banter: [Glenn Greenwald Believes Obama and the CIA is Lying About Russian Hacks, But Has No Evidence to Support His Claim](https://thedailybanter.com/2017/01/03/glenn-greenwald-obama-russian-hacks/) _Updated Nov 09, 2018_
 - ``Oct 26, 2017`` Lawyers, Guns & Money: [Dishonest Actors at The Intercept](https://www.lawyersgunsmoneyblog.com/2017/10/dishonest-actors-intercept)
 - ``Oct 29, 2017`` Lawyers, Guns & Money: [Pretending Your Publication Doesn’t Have A Race Problem](https://www.lawyersgunsmoneyblog.com/2017/10/intercept-the-root-fight)
 - ``Nov 07, 2017`` Lawyers, Guns & Money: [Tucker and Glenn Go Together Like Chocolate and Peanut Butter](https://www.lawyersgunsmoneyblog.com/2017/11/tucker-glenn-go-together-like-chocolate-peanut-butter)
 - ``Jan 21, 2018`` Simon van Zuylen-Wood for New York Magazine: [Does This Man Know More Than Robert Mueller?](https://nymag.com/intelligencer/2018/01/glenn-greenwald-russia-investigation.html)
 - ``Jun 14, 2018`` Lawyers, Guns & Money: [Today on Tucker's White Power Hour… Mr. Glenn Greenwald, Again!](https://www.lawyersgunsmoneyblog.com/2018/06/today-tuckers-white-power-hour-mr-glenn-greenwald)
 - ``Jul 15, 2018`` Idrees Ahmad on Twitter: [Pierre Omidyar has been paying Glenn Greenwald up to $518,000 per annum to blog about a mythical "deep state"](https://threader.app/thread/1018533571689099265)
+- ``Jul 21, 2018`` Nicholas Grossman on Medium: [Why Are Internet Radicals Helping Putin’s Russia?](https://arcdigital.media/why-are-internet-radicals-helping-putins-russia-6ff2978b172e)
+- ``Aug 27, 2018`` Ian Parker for The New Yorker: [Glenn Greenwald, the Bane of Their Resistance](https://www.newyorker.com/magazine/2018/09/03/glenn-greenwald-the-bane-of-their-resistance)
 - ``Sep 13, 2018`` Tamsin Shaw for The New York Review of Books: [Edward Snowden Reconsidered](https://www.nybooks.com/daily/2018/09/13/edward-snowden-reconsidered/)
 - ``Oct 15, 2018`` Editors for R7: [American journalist uses website to boost husband's career](https://noticias.r7.com/eleicoes-2018/jornalista-americano-usa-site-para-alavancar-carreira-do-marido-09072019) _Updated Jul 07, 2019_
 - ``Mar 14, 2019`` Maxwell Tani for The Daily Beast: [The Intercept Bars Co-Founder From Meeting After Snowden Archive Shutdown](https://www.thedailybeast.com/laura-poitras-co-founder-of-the-intercept-barred-from-company-meeting-after-snowden-archive-shutdown)
@@ -52,13 +55,13 @@ title: Articles
 - ``Jan 26, 2020`` Jessica Testa on Ricardo Antunes Blog: [EXCLUSIVE: A millionaire, Glenn Greenwald advocated for Nazi leader Goldman Sachs and even sold porn. Know your trajectory.](https://ricardoantunes.com.br/exclusivo-milionario-glenn-greenwald-advogou-para-lider-nazista-goldman-sachs-e-vendeu-ate-filme-porno-conheca-sua-trajetoria/)
 - ``Feb 23, 2020`` Augusto Diniz for Jornal Opção: [Why professionals like Glenn Greenwald and Patrícia Campos Mello bother militants on the right](https://www.jornalopcao.com.br/colunas-e-blogs/conexao/por-que-profissionais-como-glenn-greenwald-e-patricia-campos-mello-incomodam-tanto-militantes-da-direita-237490/)
 
+<!--
+
 # Glenn Blogs
 
 - ``2005 to 2007`` Glenn Greenwald on Blogger: [Unclaimed Territory](http://glenngreenwald.blogspot.com/)
 - ``2006 to 2014`` Glenn Greenwald on Blogger: [UT Documents](http://utdocuments.blogspot.com/)
 - ``Aug 04, 2010`` Glenn Greenwald on Blogger: [Cato Surveillance Draft](http://surveillancedraft.blogspot.com/)
-
-<!--
 
 # Twitter Media
 
