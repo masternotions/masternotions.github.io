@@ -27,7 +27,7 @@ There was nothing else, when at one of the 'Coisa de Carioca' tables (free jabá
 
 He left saying something in a low, menacing tone. Without further ado… where will Glenn get me? 'What a fear', Didi Mocó would say.
 
-Oh, sweet irony. Cantagalo-Pavão-Pavãozinho. Call of Duty: Modern Warfare 2 , used the set of slums to theatricalize the stage of the game where the international military force Task Force 141 needs to hunt down terrorists allied with local drug dealers.
+Oh, sweet irony. Cantagalo-Pavão-Pavãozinho. Call of Duty: Modern Warfare 2, used the set of slums to theatricalize the stage of the game where the international military force Task Force 141 needs to hunt down terrorists allied with local drug dealers.
 
 Unfair and defamatory. Want to find bandits and theatricalize the business? Go to Glenn Greenwald's house or the facade sites he uses in the West Zone of Rio to receive very suspicious correspondence.
 
@@ -56,5 +56,7 @@ They rented a luxury apartment in Barão da Torre (Ipanema), with a balcony and 
 ## Did you play with Glenn?
 
 No, he just created the scripts. He didn't want anything mechanical or predictable. I didn't even know his or Jason's real name when they first came to shoot in Rio.
+
+&mdash;&mdash;
 
 [(source)](https://web.archive.org/web/20191012162650/https://bettercallglenn.com/ex-ator-de-glenn-greenwald-fala-sobre-seus-filmes-adultos-vol-1/)
