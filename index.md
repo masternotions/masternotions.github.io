@@ -17,7 +17,11 @@ And finish with RZ's escape: [A sexual predator named Glenn Greenwald, Part 2](p
 
 # Timeline
 
-February 2005, GG goes on a two month vacation to Rio. On the 2nd day, GG meets DM. They move in together within a week.
+February 2005, GG goes on a two month vacation to Rio.
+
+## Meet Cute
+
+On his second day in Rio, GG meets DM at Ipanema beach. They move in together within a week.
 [link](https://twitter.com/wokyleeks/status/1298827978164453378)
 [link](https://twitter.com/AlanVRK/status/1298322296579522564)
 
@@ -29,11 +33,11 @@ GG claims DM was 19 when they met at the beach. But the movie credits tell a dif
 
 ## Sauna Boys
 
-July 2005, GG's company _StudMall_ films _Sauna Boys 3_ in Rio. DM is listed as director.
+Less than 5 months after they met, Stud Mall films Sauna Boys 3 in Rio. DM is listed as Director.
 [link](https://twitter.com/AlanVRK/status/1298727516736233472)
 [link](https://twitter.com/AlanVRK/status/1299105381910802445)
 
-DM is listed as director of the entire series, Sauna Boys 1 to 5.
+DM is listed as Director of the entire series, Sauna Boys 1 to 5.
 [link](https://twitter.com/wokyleeks/status/1299808430450855936)
 
 Sauna Boys 1: [link](https://twitter.com/AlanVRK/status/1298731008389509125) [link](https://twitter.com/AlanVRK/status/1298706588199460865) [link](https://twitter.com/wokyleeks/status/1299809826067816448)
@@ -42,27 +46,27 @@ Sauna Boys Back Covers: [link](https://twitter.com/AlanVRK/status/12987151750510
 
 ## Hairy Hustlers
 
-In 2005, _Hairy Hustlers_ is released by _Hairy Studs Video_. The production date was changed to Mar 2003, and there is no Custodian of Records listed.
+In 2005, Hairy Hustlers is released by Hairy Studs Video. The production date was changed to Mar 2003, and there is no Custodian of Records listed.
 [link](https://twitter.com/AlanVRK/status/1299761145922945027)
 [link](https://twitter.com/AlanVRK/status/1299769069382569986)
 
-In 2006, _Hairy Hustlers_ is released by _Enzuli Productions_. The production date is back to Dec 2002.
+In 2006, Hairy Hustlers is released by Enzuli Productions. The production date is back to Dec 2002.
 [link](https://twitter.com/AlanVRK/status/1299767507654529025)
 
 ## Hot.Hairy.Real.
 
-_Hot.Hairy.Real. Volume 4_ is released by _Hairy Studs Video_. The copyright on the back says 2002, 2003.
+Hot.Hairy.Real. Vol 4 is released by Hairy Studs Video. The copyright on the back says 2002, 2003.
 [link](https://twitter.com/AlanVRK/status/1299754728897863685)
 
-IMDB lists it as a 2003 release from _Hairy Jock Videos_. [link](https://www.imdb.com/title/tt7801464/)
+IMDB's entry lists a 2003 release from Hairy Jock Videos. [link](https://www.imdb.com/title/tt7801464/)
 
-Here's an audio clip of GG talking in _Hot.Hairy.Real. Volume 4_: [Is your dick hard?](./media/hairy-studs-4-audio.mp4)
+Here's an audio clip of GG talking in Hot.Hairy.Real. Vol 4: **[Is your dick hard?](./media/hairy-studs-4-audio.mp4)**
 
 ## More Movies
 
-- GEVI Search by Studio: [StudMall](./assets/images/gevi-studio-studmall.png) <sup>[2]</sup>
-- GEVI Search by Director: [David Miranda](./assets/images/gevi-director-dm.png) <sup>[3]</sup>
-- AEBN Search by Studio: [Hairy Studs Video](./assets/images/aebn-series-hairystuds.png) <sup>[4]</sup>
+- GEVI Search by Studio: [Stud Mall](./assets/images/gevi-studio-studmall.png) <sup>([src](https://www.gayeroticvideoindex.com/C/7/6277.html))</sup>
+- GEVI Search by Director: [David Miranda](./assets/images/gevi-director-dm.png) <sup>([src](https://www.gayeroticvideoindex.com/D/3/2013.html))</sup>
+- AEBN Search by Studio: [Hairy Studs Video](./assets/images/aebn-series-hairystuds.png) <sup>([src](https://gay.aebn.com/gay/studios/19516/hairy-studs-video))</sup>
 
 # Legal Entities
 
@@ -78,9 +82,9 @@ Here's an audio clip of GG talking in _Hot.Hairy.Real. Volume 4_: [Is your dick 
 
 - ``Aug 23, 2001`` US District Court for the Northern District of Illinois: [Anderson v. Hale, 159 F. Supp. 2d 1116 (N.D. Ill. 2001)](https://law.justia.com/cases/federal/district-courts/FSupp2/159/1116/2384296)
 - ``Feb 02, 2003`` Committee Report for New York City Bar: [Formal Opinion 2003-02: Undisclosed Taping of Conversations by Lawyers](https://www.nycbar.org/member-and-career-services/committees/reports-listing/reports/detail/formal-opinion-2003-02-undisclosed-taping-of-conversations-by-lawyers-1)
-- ``Mar 11, 2014`` John Young on Cryptome: [Glenn Greenwald Eyeball] (SITE DOWN) <!-- [Glenn Greenwald Eyeball](https://cryptome.org/2014-info/glenn-greenwald/glenn-greenwald.htm) -->
+- ``Mar 11, 2014`` John Young on Cryptome: [Glenn Greenwald Eyeball](https://cryptome.org/2014-info/glenn-greenwald/glenn-greenwald.htm)
 - ``Jan 31, 2016`` Dave Emory on Spitfire List: [FTR #888 Compendium on Citizen Greenwald: A Shiller for Killers](http://spitfirelist.com/for-the-record/ftr-888-compendium-on-citizen-greenwald-a-shiller-for-killers/)
-- ``Feb 01, 2017`` Jewish Defense Organization: [Dossier on Glenn Greenwald](./docs/jewish-defense-organization-dossier.pdf) <sup>[1]</sup>
+- ``Feb 01, 2017`` Jewish Defense Organization: [Dossier on Glenn Greenwald](./docs/jewish-defense-organization-dossier.pdf) <sup>([src](http://docshare.tips/the-story-of-a-jew-who-fell-in-love-with-a-nazi-the-glenn-greenwald-matt-hale-affair_58aa1654b6d87f6f5d8b5237.html))</sup>
 - ``Apr 14, 2020`` ProPublica: [RAVANA LLC - Coronavirus Bailouts](https://projects.propublica.org/coronavirus/bailouts/loans/ravana-llc-a962e2a231387214e7a1c7778ec6e3ab)
 
 # Articles
@@ -100,9 +104,5 @@ Here's an audio clip of GG talking in _Hot.Hairy.Real. Volume 4_: [Is your dick 
 
 - [Articles](articles.md)
 
-[1]: http://docshare.tips/the-story-of-a-jew-who-fell-in-love-with-a-nazi-the-glenn-greenwald-matt-hale-affair_58aa1654b6d87f6f5d8b5237.html
-[2]: https://www.gayeroticvideoindex.com/C/7/6277.html
-[3]: https://www.gayeroticvideoindex.com/D/3/2013.html
-[4]: https://gay.aebn.com/gay/studios/19516/hairy-studs-video
-[Z1]: https://www.fbi.gov/wanted/cyber/evgeniy-mikhailovich-bogachev
-[Z2]: https://aficwomendirect.org/director/jenkleiner/
+[1]: https://www.fbi.gov/wanted/cyber/evgeniy-mikhailovich-bogachev
+[2]: https://aficwomendirect.org/director/jenkleiner/
