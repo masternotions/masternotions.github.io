@@ -1,26 +1,22 @@
 ---
 layout: index
-modified: "Sep 8, 2020"
+modified: "September 9, 2020"
 ---
 
 <blockquote class="twitter-tweet" data-conversation="none" data-dnt="true"><p lang="en" dir="ltr">My vindicated dissent on Russiagate bullshit is one of the proudest accomplishment of my journalistic career - right after our ongoing exposés this year about Bolsonaro officials, the Snowden reporting, my animal rights journalism, and my general impact on journalism theories.</p>&mdash; Glenn Greenwald (@ggreenwald) <a href="https://twitter.com/ggreenwald/status/1188552902744387584?ref_src=twsrc%5Etfw">October 27, 2019</a></blockquote>
 
 # Timeline
 
-``Feb 2005``
-
-GG goes on a two month vacation to Rio. On the 2nd day, GG meets DM. They move in together within a week.
+February 2005, GG goes on a two month vacation to Rio. On the 2nd day, GG meets DM. They move in together within a week.
 [link](https://twitter.com/wokyleeks/status/1298827978164453378)
 [link](https://twitter.com/AlanVRK/status/1298322296579522564)
 
 After two years of cohabitation they become common-law married.
 [link](https://twitter.com/AlanVRK/status/1298323770743152640)
 
-## Sauna Boys
+__Sauna Boys__
 
-``Jul 2005``
-
-GG's company _StudMall_ films _Sauna Boys 3_ in Rio. DM is listed as director.
+July 2005, GG's company _StudMall_ films _Sauna Boys 3_ in Rio. DM is listed as director.
 [link](https://twitter.com/AlanVRK/status/1298727516736233472)
 [link](https://twitter.com/AlanVRK/status/1299105381910802445)
 
@@ -31,7 +27,7 @@ Sauna Boys 1: [link](https://twitter.com/AlanVRK/status/1298731008389509125) [li
 
 Sauna Boys Back Covers: [link](https://twitter.com/AlanVRK/status/1298715175051079687) [link](https://twitter.com/AlanVRK/status/1299718665345134594)
 
-## Hairy Hustlers
+__Hairy Hustlers__
 
 In 2005, _Hairy Hustlers_ is released by _Hairy Studs Video_. The production date was changed to Mar 2003, and there is no Custodian of Records listed.
 [link](https://twitter.com/AlanVRK/status/1299761145922945027)
@@ -40,7 +36,7 @@ In 2005, _Hairy Hustlers_ is released by _Hairy Studs Video_. The production dat
 In 2006, _Hairy Hustlers_ is released by _Enzuli Productions_. The production date is back to Dec 2002.
 [link](https://twitter.com/AlanVRK/status/1299767507654529025)
 
-## Hot Hairy Real
+__Hot.Hairy.Real.__
 
 _Hot.Hairy.Real. Volume 4_ is released by _Hairy Studs Video_. The copyright on the back says 2002, 2003.
 [link](https://twitter.com/AlanVRK/status/1299754728897863685)
@@ -49,13 +45,13 @@ IMDB lists it as a 2003 release from _Hairy Jock Videos_. [link](https://www.imd
 
 Here's an audio clip of GG talking in _Hot.Hairy.Real. Volume 4_: [Is your dick hard?](./media/hairy-studs-4-audio.mp4)
 
-# Movie Databases
+__Video Catalogs__
 
 - GEVI Search by Studio: [StudMall](./assets/images/gevi-studio-studmall.png) <sup>[2]</sup>
 - GEVI Search by Director: [David Miranda](./assets/images/gevi-director-dm.png) <sup>[3]</sup>
 - AEBN Search by Studio: [Hairy Studs Video](./assets/images/aebn-series-hairystuds.png) <sup>[4]</sup>
 
-# Legal Entities
+__Legal Entities__
 
 - Master Notions: [link](https://twitter.com/AlanVRK/status/1299119861809975297) [link](https://twitter.com/AlanVRK/status/1298995252284362752)
 - Bareback Inc: [link](https://twitter.com/AlanVRK/status/1298734275601281025)
@@ -63,9 +59,6 @@ Here's an audio clip of GG talking in _Hot.Hairy.Real. Volume 4_: [Is your dick 
 - Hairy Studs Video: [link](https://twitter.com/AlanVRK/status/1299762747266215937)
 - Enzuli Productions: [link](https://twitter.com/AlanVRK/status/1299776571482476548) [link](https://twitter.com/AlanVRK/status/1299788774382211072)
 - Ravana LLC: [link](https://twitter.com/AlanVRK/status/1298626981848899585) [link](https://twitter.com/AlanVRK/status/1298717258919813122) [link](https://twitter.com/AlanVRK/status/1299080322919862272) [link](https://twitter.com/AlanVRK/status/1299081614513840128)
-
-Associations:
-
 - Phone number for [StudMall](http://web.archive.org/web/20050208081923/http://www.studmall.com/contact.php) same as GG's [Law Office](https://www.bizexposed.com/New_York-USA/B/Law_Office_of_Glenn_Green_Wald-New_York.php).
 
 # Documents
