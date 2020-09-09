@@ -7,9 +7,9 @@ modified: "September 9, 2020"
 <blockquote class="twitter-tweet" data-conversation="none" data-dnt="true"><p lang="en" dir="ltr">My vindicated dissent on Russiagate bullshit is one of the proudest accomplishment of my journalistic career - right after our ongoing exposés this year about Bolsonaro officials, the Snowden reporting, my animal rights journalism, and my general impact on journalism theories.</p>&mdash; Glenn Greenwald (@ggreenwald) <a href="https://twitter.com/ggreenwald/status/1188552902744387584?ref_src=twsrc%5Etfw">October 27, 2019</a></blockquote>
 -->
 
-# Start Here
+# Cold Open
 
-Read the New York Daily News article: [Glenn Greenwald was once lawyer sued over porn business](https://www.nydailynews.com/news/national/greenwald-reporter-broke-nsa-story-lawyer-sued-porn-biz-article-1.1383448)
+Read the New York Daily News article: [Glenn Greenwald, journalist who broke Edward Snowden story, was once lawyer sued over porn business](https://www.nydailynews.com/news/national/greenwald-reporter-broke-nsa-story-lawyer-sued-porn-biz-article-1.1383448)
 
 Then read RZ's story: [A sexual predator named Glenn Greenwald, Part 1](predator-part-1.md)
 
@@ -79,9 +79,9 @@ Here's an audio clip of GG talking in Hot.Hairy.Real. Vol 4: **[Is your dick har
 - Ravana LLC: [link](https://twitter.com/AlanVRK/status/1298626981848899585) [link](https://twitter.com/AlanVRK/status/1298717258919813122) [link](https://twitter.com/AlanVRK/status/1299080322919862272) [link](https://twitter.com/AlanVRK/status/1299081614513840128)
 
 # Documents
-
 - ``Aug 23, 2001`` US District Court for the Northern District of Illinois: [Anderson v. Hale, 159 F. Supp. 2d 1116 (N.D. Ill. 2001)](https://law.justia.com/cases/federal/district-courts/FSupp2/159/1116/2384296)
 - ``Feb 02, 2003`` Committee Report for New York City Bar: [Formal Opinion 2003-02: Undisclosed Taping of Conversations by Lawyers](https://www.nycbar.org/member-and-career-services/committees/reports-listing/reports/detail/formal-opinion-2003-02-undisclosed-taping-of-conversations-by-lawyers-1)
+- ``Mar 27, 2003`` Supreme Court of the State of New York, County of New York: [Master Notions v. TPI and Haas, 116870/02](./docs/30011687020023SCIV_pdf.pdf)
 - ``Mar 11, 2014`` John Young on Cryptome: [Glenn Greenwald Eyeball](https://cryptome.org/2014-info/glenn-greenwald/glenn-greenwald.htm)
 - ``Jan 31, 2016`` Dave Emory on Spitfire List: [FTR #888 Compendium on Citizen Greenwald: A Shiller for Killers](http://spitfirelist.com/for-the-record/ftr-888-compendium-on-citizen-greenwald-a-shiller-for-killers/)
 - ``Feb 01, 2017`` Jewish Defense Organization: [Dossier on Glenn Greenwald](./docs/jewish-defense-organization-dossier.pdf) <sup>([src](http://docshare.tips/the-story-of-a-jew-who-fell-in-love-with-a-nazi-the-glenn-greenwald-matt-hale-affair_58aa1654b6d87f6f5d8b5237.html))</sup>
