@@ -5,16 +5,6 @@ title: Articles
 
 [Go Back](index.md)
 
-# Documents
-
-- ``Aug 23, 2001`` US District Court for the Northern District of Illinois: [Anderson v. Hale, 159 F. Supp. 2d 1116 (N.D. Ill. 2001)](https://law.justia.com/cases/federal/district-courts/FSupp2/159/1116/2384296)
-- ``Feb 02, 2003`` Committee Report for New York City Bar: [Formal Opinion 2003-02: Undisclosed Taping of Conversations by Lawyers](https://www.nycbar.org/member-and-career-services/committees/reports-listing/reports/detail/formal-opinion-2003-02-undisclosed-taping-of-conversations-by-lawyers-1)
-- ``Feb 01, 2017`` Jewish Defense Organization: [Dossier on Glenn Greenwald](./docs/jewish-defense-organization-dossier.pdf) [(source)][1]
-
-[1]: http://docshare.tips/the-story-of-a-jew-who-fell-in-love-with-a-nazi-the-glenn-greenwald-matt-hale-affair_58aa1654b6d87f6f5d8b5237.html
-[2]: https://www.fbi.gov/wanted/cyber/evgeniy-mikhailovich-bogachev
-[3]: https://aficwomendirect.org/director/jenkleiner/
-
 # Articles and Posts
 
 - ``Mar 09, 2005`` Jodi Wilgoren for The New York Times: [Supremacist Sent Code From Jail, Lawyer Says](https://www.nytimes.com/2005/03/09/us/supremacist-sent-code-from-jail-lawyer-says.html)
