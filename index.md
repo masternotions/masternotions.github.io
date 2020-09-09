@@ -1,6 +1,5 @@
 ---
 layout: index
-tagline: Secret Pornography Empire
 modified: "Sep 8, 2020"
 ---
 
