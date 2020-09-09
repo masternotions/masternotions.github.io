@@ -14,7 +14,7 @@ February 2005, GG goes on a two month vacation to Rio. On the 2nd day, GG meets 
 After two years of cohabitation they become common-law married.
 [link](https://twitter.com/AlanVRK/status/1298323770743152640)
 
-__Sauna Boys__
+## Sauna Boys
 
 July 2005, GG's company _StudMall_ films _Sauna Boys 3_ in Rio. DM is listed as director.
 [link](https://twitter.com/AlanVRK/status/1298727516736233472)
@@ -27,7 +27,7 @@ Sauna Boys 1: [link](https://twitter.com/AlanVRK/status/1298731008389509125) [li
 
 Sauna Boys Back Covers: [link](https://twitter.com/AlanVRK/status/1298715175051079687) [link](https://twitter.com/AlanVRK/status/1299718665345134594)
 
-__Hairy Hustlers__
+## Hairy Hustlers
 
 In 2005, _Hairy Hustlers_ is released by _Hairy Studs Video_. The production date was changed to Mar 2003, and there is no Custodian of Records listed.
 [link](https://twitter.com/AlanVRK/status/1299761145922945027)
@@ -36,7 +36,7 @@ In 2005, _Hairy Hustlers_ is released by _Hairy Studs Video_. The production dat
 In 2006, _Hairy Hustlers_ is released by _Enzuli Productions_. The production date is back to Dec 2002.
 [link](https://twitter.com/AlanVRK/status/1299767507654529025)
 
-__Hot.Hairy.Real.__
+## Hot Hairy Real
 
 _Hot.Hairy.Real. Volume 4_ is released by _Hairy Studs Video_. The copyright on the back says 2002, 2003.
 [link](https://twitter.com/AlanVRK/status/1299754728897863685)
@@ -45,21 +45,21 @@ IMDB lists it as a 2003 release from _Hairy Jock Videos_. [link](https://www.imd
 
 Here's an audio clip of GG talking in _Hot.Hairy.Real. Volume 4_: [Is your dick hard?](./media/hairy-studs-4-audio.mp4)
 
-__Video Catalogs__
+## Video Catalogs
 
 - GEVI Search by Studio: [StudMall](./assets/images/gevi-studio-studmall.png) <sup>[2]</sup>
 - GEVI Search by Director: [David Miranda](./assets/images/gevi-director-dm.png) <sup>[3]</sup>
 - AEBN Search by Studio: [Hairy Studs Video](./assets/images/aebn-series-hairystuds.png) <sup>[4]</sup>
 
-__Legal Entities__
+## Legal Entities
 
+- Law Office: [link](https://www.bizexposed.com/New_York-USA/B/Law_Office_of_Glenn_Green_Wald-New_York.php)
 - Master Notions: [link](https://twitter.com/AlanVRK/status/1299119861809975297) [link](https://twitter.com/AlanVRK/status/1298995252284362752)
 - Bareback Inc: [link](https://twitter.com/AlanVRK/status/1298734275601281025)
-- Stud Mall Productions: [link](https://twitter.com/AlanVRK/status/1298396468844396545) [link](https://twitter.com/wokyleeks/status/1299021151352393728)
+- Stud Mall Productions: [link](https://twitter.com/AlanVRK/status/1298396468844396545) [link](https://twitter.com/wokyleeks/status/1299021151352393728) [link](http://web.archive.org/web/20050208081923/http://www.studmall.com/contact.php)
 - Hairy Studs Video: [link](https://twitter.com/AlanVRK/status/1299762747266215937)
 - Enzuli Productions: [link](https://twitter.com/AlanVRK/status/1299776571482476548) [link](https://twitter.com/AlanVRK/status/1299788774382211072)
 - Ravana LLC: [link](https://twitter.com/AlanVRK/status/1298626981848899585) [link](https://twitter.com/AlanVRK/status/1298717258919813122) [link](https://twitter.com/AlanVRK/status/1299080322919862272) [link](https://twitter.com/AlanVRK/status/1299081614513840128)
-- Phone number for [StudMall](http://web.archive.org/web/20050208081923/http://www.studmall.com/contact.php) same as GG's [Law Office](https://www.bizexposed.com/New_York-USA/B/Law_Office_of_Glenn_Green_Wald-New_York.php).
 
 # Documents
 
