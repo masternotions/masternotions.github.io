@@ -21,17 +21,14 @@ title: Articles
 - ``Jul 08, 2013`` Editors for CBC News: [Ballet school accused of kicking out dancer for doing porn](https://www.cbc.ca/news/canada/manitoba/ballet-school-accused-of-kicking-out-dancer-for-doing-porn-1.1329099)
 - ``Jul 11, 2013`` Adam Levick for The Algemeiner: [Glenn Greenwald's Anti-Semitism Exposed](https://www.algemeiner.com/2013/07/11/glenn-greenwalds-anti-semitism-exposed/)
 - ``Aug 19, 2013`` Jerry Portwood for Out Magazine: [Glenn Greenwald's Partner Detained at Heathrow](https://www.out.com/news-opinion/2013/08/19/glenn-greenwalds-partner-detained-heathrow)
-- ``Aug 21, 2013`` Editors for Out Magazine: [WATCH: Anderson Cooper Interviews Greenwald & Partner](https://www.out.com/entertainment/popnography/2013/08/21/watch-anderson-cooper-interviews-glenn-greenwald-david-miranda)
 - ``Oct 24, 2013`` Editors for Out Magazine: [10 Things We Learned from Glenn Greenwald](https://www.out.com/glenn-greenwald/2013/10/24/10-things-we-learned-glenn-greenwald)
 - ``Oct 24, 2013`` Editors for Out Magazine: [Behind the Story: Glenn Greenwald, Enemy of the State](https://www.out.com/news-opinion/2013/10/24/behind-story-glenn-greenwald-enemy-state)
 - ``Jan 19, 2014`` Sean Wilentz for The New Republic: [Would You Feel Differently About Snowden, Greenwald, and Assange If You Knew What They Really Thought?](https://newrepublic.com/article/116253/edward-snowden-glenn-greenwald-julian-assange-what-they-believe)
 - ``Feb 20, 2014`` Brian John Spencer on Blog: [Glenn Greenwald - Lawyer, blogger, partisan journalist](http://brianjohnspencer.blogspot.com/2014/02/glenn-greenwald-lawyer-blogger-partisan.html)
-- ``Mar 11, 2014`` Cryptome: [Glenn Greenwald Eyeball](https://cryptome.org/2014-info/glenn-greenwald/glenn-greenwald.htm)
 - ``May 12, 2014`` Michael Paterniti for GQ: [The Man Who Knows Too Much](https://www.gq.com/story/glenn-greenwald-edward-snowden-no-place-to-hide)
 - ``Aug 01, 2014`` Malcolm Forbes for Columbia Journalism Review: [Glenn Greenwald against the world](https://archives.cjr.org/critical_eye/glenn_greenwald_against_the_wo.php)
 - ``Sep 03, 2014`` Michael Hirsh for Politico: [Has Greenwald, Inc. Peaked?](https://www.politico.com/magazine/story/2014/09/glenn-greenwald-inc-peaked-110576)
 - ``Feb 24, 2015`` Alex Panisch for Out Magazine: [Whistleblowers Win at the Academy Awards](https://www.out.com/popnography/2015/2/24/why-whistleblowers-winning-academy-awards-matters)
-- ``Jan 31, 2016`` Dave Emory on Spitfire List: [FTR #888 Compendium on Citizen Greenwald: A Shiller for Killers](http://spitfirelist.com/for-the-record/ftr-888-compendium-on-citizen-greenwald-a-shiller-for-killers/)
 - ``Oct 19, 2016`` Thaddeus T. Grugq on Medium: [Age of Influence 2.0](https://medium.com/@thegrugq/agent-of-influence-2-0-e1f20bed4aec)
 - ``Oct 28, 2016`` Idrees Ahmad for Pulse: [Glenn Greenwald's Sympathy for the Devil](https://pulsemedia.org/2016/10/28/sympathy-for-the-devil-exorcising-greenwald-and-assad/)
 - ``Oct 26, 2017`` Lawyers, Guns & Money: [Dishonest Actors at The Intercept](https://www.lawyersgunsmoneyblog.com/2017/10/dishonest-actors-intercept)
@@ -47,7 +44,6 @@ title: Articles
 - ``May 03, 2019`` Matt Novak on The Novak Archive: [Why Does Glenn Greenwald Keep Appearing on Tucker Carlson's Show?](https://www.novakarchive.com/foias/2019/4/20/why-does-glenn-greenwald-keep-going-on-tucker-carlsons-show)
 - ``May 10, 2019`` Whitney Webb for MintPress News: [Another Whistleblower Bites the Dust as The Intercept Adds a Third Notch to Its Burn Belt](https://www.mintpressnews.com/daniel-hale-another-whistleblower-bites-the-dust-as-the-intercept-adds-a-third-notch-to-its-burn-belt/258386/)
 - ``Jul 05, 2019`` Bob Morris for Politics in the Zeros: [Brazil investigating Glenn Greenwald for money laundering](https://polizeros.com/2019/07/05/brazil-investigating-glenn-greenwald-for-money-laundering/)
-- ``Jul 23, 2019`` Bruna de Pieri for Terça Livre TV: [Glenn Greenwald has been sued for pornography, according to foreign website](https://www.tercalivre.com.br/glenn-greenwald-ja-foi-processado-por-pornografia-segundo-site-estrangeiro/)
 - ``Jul 27, 2019`` Maritaca News: [According to the bad language, the @DomMascHry31 profile on Twitter belongs to Glenn from IntercePT](https://maritaca-news.blogspot.com/2019/07/segundo-as-mas-linguas-o-perfil.html)
 - ``Aug 05, 2019`` Oswaldo Eustáquio for Agora Paraná: [Congressman David Miranda was an escort and sold drugs at a gay nightclub in Rio de Janeiro](https://web.archive.org/web/20191210044025/http://www.agoraparana.com.br/noticia/deputado-david-miranda-era-garoto-de-programa-e-vendia-drogas-em-boate-gay-no-rio-de-janeiro)
 - ``Sep 11, 2019`` Arthur Soares, Mariana Oliveira, Paulo Renato Soares for G1: [Coaf points out 'atypical movement' of R$ 2.5 million in the account of deputy David Miranda](https://g1.globo.com/rj/rio-de-janeiro/noticia/2019/09/11/coaf-aponta-movimentacao-atipica-de-r-25-milhoes-em-conta-do-deputado-federal-david-miranda.ghtml)
@@ -56,11 +52,10 @@ title: Articles
 - ``Jan 26, 2020`` Jessica Testa on Ricardo Antunes Blog: [EXCLUSIVE: A millionaire, Glenn Greenwald advocated for Nazi leader Goldman Sachs and even sold porn. Know your trajectory.](https://ricardoantunes.com.br/exclusivo-milionario-glenn-greenwald-advogou-para-lider-nazista-goldman-sachs-e-vendeu-ate-filme-porno-conheca-sua-trajetoria/)
 - ``Feb 23, 2020`` Augusto Diniz for Jornal Opção: [Why professionals like Glenn Greenwald and Patrícia Campos Mello bother militants on the right](https://www.jornalopcao.com.br/colunas-e-blogs/conexao/por-que-profissionais-como-glenn-greenwald-e-patricia-campos-mello-incomodam-tanto-militantes-da-direita-237490/)
 
-# Documents
+# Collections
 
-- ``Aug 23, 2001`` US District Court for the Northern District of Illinois: [Anderson v. Hale, 159 F. Supp. 2d 1116 (N.D. Ill. 2001)](https://law.justia.com/cases/federal/district-courts/FSupp2/159/1116/2384296)
-- ``Feb 02, 2003`` Committee Report for New York City Bar: [Formal Opinion 2003-02: Undisclosed Taping of Conversations by Lawyers](https://www.nycbar.org/member-and-career-services/committees/reports-listing/reports/detail/formal-opinion-2003-02-undisclosed-taping-of-conversations-by-lawyers-1)
-- ``Feb 01, 2017`` Jewish Defense Organization: [Dossier on Glenn Greenwald](./docs/jewish-defense-organization-dossier.pdf) [(source)][1]
+- ``Mar 11, 2014`` Cryptome: [Glenn Greenwald Eyeball](https://cryptome.org/2014-info/glenn-greenwald/glenn-greenwald.htm)
+- ``Jan 31, 2016`` Dave Emory on Spitfire List: [FTR #888 Compendium on Citizen Greenwald: A Shiller for Killers](http://spitfirelist.com/for-the-record/ftr-888-compendium-on-citizen-greenwald-a-shiller-for-killers/)
 
 # Glenn Blogs
 
@@ -85,7 +80,3 @@ title: Articles
 - ``Dec 03, 2019`` [@BetterCallGlenn](https://twitter.com/BetterCallGlenn/status/1201900921367740416)
 - ``Dec 03, 2019`` [@BetterCallGlenn](https://twitter.com/BetterCallGlenn/status/1201923240131739654)
 - ``Dec 03, 2019`` [@BetterCallGlenn](https://twitter.com/BetterCallGlenn/status/1201923855360647168)
-
-[1]: http://docshare.tips/the-story-of-a-jew-who-fell-in-love-with-a-nazi-the-glenn-greenwald-matt-hale-affair_58aa1654b6d87f6f5d8b5237.html
-[2]: https://www.fbi.gov/wanted/cyber/evgeniy-mikhailovich-bogachev
-[3]: https://aficwomendirect.org/director/jenkleiner/
