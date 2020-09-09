@@ -5,6 +5,16 @@ title: Articles
 
 [Go Back](index.md)
 
+# Documents
+
+- ``Aug 23, 2001`` US District Court for the Northern District of Illinois: [Anderson v. Hale, 159 F. Supp. 2d 1116 (N.D. Ill. 2001)](https://law.justia.com/cases/federal/district-courts/FSupp2/159/1116/2384296)
+- ``Feb 02, 2003`` Committee Report for New York City Bar: [Formal Opinion 2003-02: Undisclosed Taping of Conversations by Lawyers](https://www.nycbar.org/member-and-career-services/committees/reports-listing/reports/detail/formal-opinion-2003-02-undisclosed-taping-of-conversations-by-lawyers-1)
+- ``Feb 01, 2017`` Jewish Defense Organization: [Dossier on Glenn Greenwald](./docs/jewish-defense-organization-dossier.pdf) [(source)][1]
+
+[1]: http://docshare.tips/the-story-of-a-jew-who-fell-in-love-with-a-nazi-the-glenn-greenwald-matt-hale-affair_58aa1654b6d87f6f5d8b5237.html
+[2]: https://www.fbi.gov/wanted/cyber/evgeniy-mikhailovich-bogachev
+[3]: https://aficwomendirect.org/director/jenkleiner/
+
 # Articles and Posts
 
 - ``Mar 09, 2005`` Jodi Wilgoren for The New York Times: [Supremacist Sent Code From Jail, Lawyer Says](https://www.nytimes.com/2005/03/09/us/supremacist-sent-code-from-jail-lawyer-says.html)
@@ -21,6 +31,7 @@ title: Articles
 - ``Jul 08, 2013`` Editors for CBC News: [Ballet school accused of kicking out dancer for doing porn](https://www.cbc.ca/news/canada/manitoba/ballet-school-accused-of-kicking-out-dancer-for-doing-porn-1.1329099)
 - ``Jul 11, 2013`` Adam Levick for The Algemeiner: [Glenn Greenwald's Anti-Semitism Exposed](https://www.algemeiner.com/2013/07/11/glenn-greenwalds-anti-semitism-exposed/)
 - ``Aug 19, 2013`` Jerry Portwood for Out Magazine: [Glenn Greenwald's Partner Detained at Heathrow](https://www.out.com/news-opinion/2013/08/19/glenn-greenwalds-partner-detained-heathrow)
+- ``Aug 21, 2013`` Editors for Out Magazine: [WATCH: Anderson Cooper Interviews Greenwald & Partner](https://www.out.com/entertainment/popnography/2013/08/21/watch-anderson-cooper-interviews-glenn-greenwald-david-miranda)
 - ``Oct 24, 2013`` Editors for Out Magazine: [10 Things We Learned from Glenn Greenwald](https://www.out.com/glenn-greenwald/2013/10/24/10-things-we-learned-glenn-greenwald)
 - ``Oct 24, 2013`` Editors for Out Magazine: [Behind the Story: Glenn Greenwald, Enemy of the State](https://www.out.com/news-opinion/2013/10/24/behind-story-glenn-greenwald-enemy-state)
 - ``Jan 19, 2014`` Sean Wilentz for The New Republic: [Would You Feel Differently About Snowden, Greenwald, and Assange If You Knew What They Really Thought?](https://newrepublic.com/article/116253/edward-snowden-glenn-greenwald-julian-assange-what-they-believe)
@@ -44,6 +55,7 @@ title: Articles
 - ``May 03, 2019`` Matt Novak on The Novak Archive: [Why Does Glenn Greenwald Keep Appearing on Tucker Carlson's Show?](https://www.novakarchive.com/foias/2019/4/20/why-does-glenn-greenwald-keep-going-on-tucker-carlsons-show)
 - ``May 10, 2019`` Whitney Webb for MintPress News: [Another Whistleblower Bites the Dust as The Intercept Adds a Third Notch to Its Burn Belt](https://www.mintpressnews.com/daniel-hale-another-whistleblower-bites-the-dust-as-the-intercept-adds-a-third-notch-to-its-burn-belt/258386/)
 - ``Jul 05, 2019`` Bob Morris for Politics in the Zeros: [Brazil investigating Glenn Greenwald for money laundering](https://polizeros.com/2019/07/05/brazil-investigating-glenn-greenwald-for-money-laundering/)
+- ``Jul 23, 2019`` Bruna de Pieri for Terça Livre TV: [Glenn Greenwald has been sued for pornography, according to foreign website](https://www.tercalivre.com.br/glenn-greenwald-ja-foi-processado-por-pornografia-segundo-site-estrangeiro/)
 - ``Jul 27, 2019`` Maritaca News: [According to the bad language, the @DomMascHry31 profile on Twitter belongs to Glenn from IntercePT](https://maritaca-news.blogspot.com/2019/07/segundo-as-mas-linguas-o-perfil.html)
 - ``Aug 05, 2019`` Oswaldo Eustáquio for Agora Paraná: [Congressman David Miranda was an escort and sold drugs at a gay nightclub in Rio de Janeiro](https://web.archive.org/web/20191210044025/http://www.agoraparana.com.br/noticia/deputado-david-miranda-era-garoto-de-programa-e-vendia-drogas-em-boate-gay-no-rio-de-janeiro)
 - ``Sep 11, 2019`` Arthur Soares, Mariana Oliveira, Paulo Renato Soares for G1: [Coaf points out 'atypical movement' of R$ 2.5 million in the account of deputy David Miranda](https://g1.globo.com/rj/rio-de-janeiro/noticia/2019/09/11/coaf-aponta-movimentacao-atipica-de-r-25-milhoes-em-conta-do-deputado-federal-david-miranda.ghtml)
