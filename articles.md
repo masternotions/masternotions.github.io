@@ -16,7 +16,6 @@ title: Articles
 - ``Jun 07, 2013`` Andrew Belonsky for Out Magazine: [Glenn Greenwald: Same as Bradley Manning?](https://www.out.com/entertainment/popnography/2013/06/07/glenn-greenwald-whistleblower-bradley-manning)
 - ``Jun 26, 2013`` Abby Ohlheiser for The Atlantic: [Here Comes the Glenn Greenwald Hit Piece](https://www.theatlantic.com/national/archive/2013/06/here-comes-glenn-greenwald-hit-piece/313861/)
 - ``Jun 26, 2013`` Glenn Greenwald for The Guardian: [The personal side of taking on the NSA: emerging smears](https://www.theguardian.com/commentisfree/2013/jun/26/nsa-revelations-response-to-smears)
-- ``Jun 27, 2013`` Robert Stacy McCain on The Other McCain: [Glenn Greenwald Is a Ridiculous Joke (And Alas, the Internet Never Forgets)](https://theothermccain.com/2013/06/27/glenn-greenwald-is-a-ridiculous-joke-and-alas-the-internet-never-forgets/)
 - ``Jul 03, 2013`` Jerry Portwood for Out Magazine: [Glenn Greenwald's Friend and Former Business Partner Defends Him](https://www.out.com/entertainment/popnography/2013/07/03/glenn-greenwald-former-lover-porn-jake-jaxson-jason-buchtel)
 - ``Jul 08, 2013`` Editors for CBC News: [Ballet school accused of kicking out dancer for doing porn](https://www.cbc.ca/news/canada/manitoba/ballet-school-accused-of-kicking-out-dancer-for-doing-porn-1.1329099)
 - ``Jul 11, 2013`` Adam Levick for The Algemeiner: [Glenn Greenwald's Anti-Semitism Exposed](https://www.algemeiner.com/2013/07/11/glenn-greenwalds-anti-semitism-exposed/)
@@ -59,6 +58,8 @@ title: Articles
 - ``2006 to 2014`` Glenn Greenwald on Blogger: [UT Documents](http://utdocuments.blogspot.com/)
 - ``Aug 04, 2010`` Glenn Greenwald on Blogger: [Cato Surveillance Draft](http://surveillancedraft.blogspot.com/)
 
+<!--
+
 # Twitter Media
 
 - ``Jul 16, 2019`` [@telesurenglish](https://twitter.com/telesurenglish/status/1151144461738446848)
@@ -76,3 +77,5 @@ title: Articles
 - ``Dec 03, 2019`` [@BetterCallGlenn](https://twitter.com/BetterCallGlenn/status/1201900921367740416)
 - ``Dec 03, 2019`` [@BetterCallGlenn](https://twitter.com/BetterCallGlenn/status/1201923240131739654)
 - ``Dec 03, 2019`` [@BetterCallGlenn](https://twitter.com/BetterCallGlenn/status/1201923855360647168)
+
+-->
