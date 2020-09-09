@@ -3,6 +3,8 @@ layout: default
 title: Glenn Greenwald's ex-actor talks about his adult films
 ---
 
+<!-- markdownlint-disable MD026 MD036 -->
+
 # {{ page.title }}
 
 by Luc Michel
