@@ -23,6 +23,7 @@ After two years of cohabitation they become common-law married.
 [link](https://twitter.com/AlanVRK/status/1298323770743152640)
 
 GG claims DM was 19 when they met at the beach. But the movie credits tell a different story.
+[link](https://twitter.com/wokyleeks/status/1303174798214795264)
 
 ## Sauna Boys
 
