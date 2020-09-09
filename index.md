@@ -36,7 +36,7 @@ In 2005, _Hairy Hustlers_ is released by _Hairy Studs Video_. The production dat
 In 2006, _Hairy Hustlers_ is released by _Enzuli Productions_. The production date is back to Dec 2002.
 [link](https://twitter.com/AlanVRK/status/1299767507654529025)
 
-## Hot Hairy Real
+## Hot.Hairy.Real.
 
 _Hot.Hairy.Real. Volume 4_ is released by _Hairy Studs Video_. The copyright on the back says 2002, 2003.
 [link](https://twitter.com/AlanVRK/status/1299754728897863685)
