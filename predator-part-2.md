@@ -11,7 +11,7 @@ by room16
 
 _August 3, 2019_
 
-If you didn’t read the [first part](predator-part-2.md), we suggest you read it to find out about the case in general, and how Glenn Greenwald still responds in the US for Hairy Jocks activities, and for practicing Law even with his expired license, better known as BAR EXAM; equivalent to the OAB exam in Brazil.
+If you didn’t read the [first part](predator-part-1.md), we suggest you read it to find out about the case in general, and how Glenn Greenwald still responds in the US for Hairy Jocks activities, and for practicing Law even with his expired license, better known as BAR EXAM; equivalent to the OAB exam in Brazil.
 
 After speaking with his Dominican friend, who was dating a member of the infamous Dominicans Don't Play (DDP), RZ, he feared that the promise of just 'a scare' to Glenn Greenwald and his partner Buchtel (aka Jake Jax, later Jake Jaxson) descended into brute violence.
 
