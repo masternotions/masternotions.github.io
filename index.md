@@ -3,15 +3,12 @@ layout: index
 modified: "Sep 8, 2020"
 ---
 
-Start Here:
-[link](https://twitter.com/wokyleeks/status/1298727883582484481)
-[link](https://twitter.com/AlanVRK/status/1299334655527858176)
-[link](https://twitter.com/AlanVRK/status/1299105381910802445)
-[link](https://twitter.com/AlanVRK/status/1299767507654529025)
-[link](https://twitter.com/AlanVRK/status/1300520297771171840)
-[link](https://twitter.com/AlanVRK/status/1299188334842044416)
+<blockquote class="twitter-tweet" data-dnt="true" data-theme="light"><p lang="en" dir="ltr">Wait Sauna Boys 3: Tough Love was directed by Glenn Greenwald&#39;s husband?<br><br>But.... I thought.... that isn&#39;t the history we&#39;ve been told <a href="https://twitter.com/hashtag/LAL?src=hash&amp;ref_src=twsrc%5Etfw">#LAL</a> <a href="https://twitter.com/thespybrief?ref_src=twsrc%5Etfw">@thespybrief</a> <a href="https://t.co/pqQrblkEgQ">https://t.co/pqQrblkEgQ</a></p>&mdash; Waffle &quot;HOZMAD&quot; Wokyleeks (@wokyleeks) <a href="https://twitter.com/wokyleeks/status/1298727883582484481">August 26, 2020</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-The rest of this site is in progress.
+<!--
+https://twitter.com/wokyleeks/status/1298727883582484481
+-->
 
 # Timeline
 
@@ -35,27 +32,30 @@ GG's company _StudMall_ films _Sauna Boys 3_ in Rio. DM is listed as director.
 DM is listed as director of the entire series, Sauna Boys 1 to 5.
 [link](https://twitter.com/wokyleeks/status/1299808430450855936)
 
+Sauna Boys 1: [link](https://twitter.com/AlanVRK/status/1298731008389509125) [link](https://twitter.com/AlanVRK/status/1298706588199460865) [link](https://twitter.com/wokyleeks/status/1299809826067816448)
+
+Sauna Boys Back Covers: [link](https://twitter.com/AlanVRK/status/1298715175051079687) [link](https://twitter.com/AlanVRK/status/1299718665345134594)
+
 ## Hairy Hustlers
 
-In 2006, _Hairy Hustlers_ is released by _Enzuli Productions_. The production date is Dec 2002.
-[link](https://twitter.com/AlanVRK/status/1299767507654529025)
-
-In 2005, _Hairy Hustlers_ is released by _Hairy Studs Video_. The production date was changed to Mar 2003.
+In 2005, _Hairy Hustlers_ is released by _Hairy Studs Video_. The production date was changed to Mar 2003, and there is no Custodian of Records listed.
 [link](https://twitter.com/AlanVRK/status/1299761145922945027)
 [link](https://twitter.com/AlanVRK/status/1299769069382569986)
-[link](https://twitter.com/AlanVRK/status/1299770551062401024)
 
-## Hot.Hairy.Real.
+In 2006, _Hairy Hustlers_ is released by _Enzuli Productions_. The production date is back to Dec 2002.
+[link](https://twitter.com/AlanVRK/status/1299767507654529025)
 
-_Hairy Studs Video_ releases _Hot.Hairy.Real. Volume 4_. The copyright says 2002, 2003.
+## Hot Hairy Real
+
+_Hot.Hairy.Real. Volume 4_ is released by _Hairy Studs Video_. The copyright on the back says 2002, 2003.
 [link](https://twitter.com/AlanVRK/status/1299754728897863685)
+
+IMDB lists it as a 2003 release from _Hairy Jock Videos_. [link](https://www.imdb.com/title/tt7801464/)
 
 Here's an audio clip of GG talking in _Hot.Hairy.Real. Volume 4_: [Is your dick hard?](./media/hairy-studs-4-audio.mp4)
 
-# Movies
+# Movie 
 
-- Sauna Boys 1: [link](https://twitter.com/AlanVRK/status/1298731008389509125) [link](https://twitter.com/AlanVRK/status/1298706588199460865) [link](https://twitter.com/wokyleeks/status/1299809826067816448)
-- Sauna Boys Back Covers: [link](https://twitter.com/AlanVRK/status/1298715175051079687) [link](https://twitter.com/AlanVRK/status/1299718665345134594)
 - GEVI Search by Studio: [StudMall](./assets/images/gevi-studio-studmall.png) <sup>[2]</sup>
 - GEVI Search by Director: [David Miranda](./assets/images/gevi-director-dm.png) <sup>[3]</sup>
 - AEBN Search by Studio: [Hairy Studs Video](./assets/images/aebn-series-hairystuds.png) <sup>[4]</sup>
