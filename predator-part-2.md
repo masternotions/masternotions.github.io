@@ -75,6 +75,8 @@ Only not. [The Other McCain][2] blog went deeper into the investigation of Glenn
 
 Glenn Greenwald was Matthew's lawyer and it was later learned that their relationship was old. RZ, had seen Hale on several occasions at the production company.
 
+&mdash;&mdash;
+
 [(source)](https://web.archive.org/web/20190803233836/https://bettercallglenn.com/um-predador-sexual-chamado-glenn-greenwald-ato-ii/)
 
 [1]: https://www.nydailynews.com/news/national/greenwald-reporter-broke-nsa-story-lawyer-sued-porn-biz-article-1.1383448
