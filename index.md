@@ -51,7 +51,7 @@ Here's an audio clip of GG talking in _Hot.Hairy.Real. Volume 4_: [Is your dick 
 - GEVI Search by Director: [David Miranda](./assets/images/gevi-director-dm.png) <sup>[3]</sup>
 - AEBN Search by Studio: [Hairy Studs Video](./assets/images/aebn-series-hairystuds.png) <sup>[4]</sup>
 
-## Legal Entities
+# Legal Entities
 
 - Law Office: [link](https://www.bizexposed.com/New_York-USA/B/Law_Office_of_Glenn_Green_Wald-New_York.php)
 - Master Notions: [link](https://twitter.com/AlanVRK/status/1299119861809975297) [link](https://twitter.com/AlanVRK/status/1298995252284362752)
