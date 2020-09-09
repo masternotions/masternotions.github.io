@@ -55,7 +55,7 @@ There were goals to be accomplished. Greenwald and Buchtel's Hairy Jocks won wit
 
 I spent months terrified for having contracted some venereal disease because more than once, I woke up in pain after being doped.
 
-It got worse when in a court coup, Glenn and Jason stole everything from Peter Haas. In a pathetic audience, reported and followed by the Daily News, where 'per se', Greenwald called Haas a little bitch ”and“ a good little whore (we won't even translate, please), Greenwald again threatened Haas to expose his famous Wall Street customers.
+It got worse when in a court coup, Glenn and Jason stole everything from Peter Haas. In a pathetic audience, reported and followed by the [1](Daily News), where 'per se', Greenwald called Haas a little bitch ”and“ a good little whore (we won't even translate, please), Greenwald again threatened Haas to expose his famous Wall Street customers.
 
 Worse, RZ had someone in Peter Haas who defended him and tried to protect others from the Greenwald / Buchtel dementia.
 
@@ -71,8 +71,11 @@ The objective was to find Latin actors for Stud Mall. Without fluency in the Por
 
 For RZ, the case was closed, he was free of Greenwald and Butchel.
 
-Only not. The Other McCain blog went deeper into the investigation of Glenn Greenwald and RZ was a key to unmasking Pierre Omidyar's strongman. The hunt then began to show the sinister face of the lawyer for bandits, terrorists and highly dangerous criminals like Matthew Hale, the leading neo-Nazi leader of the World Church of the Creator, who was arrested and sentenced to 40 years in prison after ordering the death of a judge: Joan Lefkow.
+Only not. [2](The Other McCain) blog went deeper into the investigation of Glenn Greenwald and RZ was a key to unmasking Pierre Omidyar's strongman. The hunt then began to show the sinister face of the lawyer for bandits, terrorists and highly dangerous criminals like Matthew Hale, the leading neo-Nazi leader of the World Church of the Creator, who was arrested and sentenced to 40 years in prison after ordering the death of a judge: Joan Lefkow.
 
 Glenn Greenwald was Matthew's lawyer and it was later learned that their relationship was old. RZ, had seen Hale on several occasions at the production company.
 
 [(source)](https://web.archive.org/web/20190803233836/https://bettercallglenn.com/um-predador-sexual-chamado-glenn-greenwald-ato-ii/)
+
+[1]: https://www.nydailynews.com/news/national/greenwald-reporter-broke-nsa-story-lawyer-sued-porn-biz-article-1.1383448
+[2]: https://theothermccain.com/2013/06/27/glenn-greenwald-is-a-ridiculous-joke-and-alas-the-internet-never-forgets/
