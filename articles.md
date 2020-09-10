@@ -28,6 +28,7 @@ title: Articles
 - ``Oct 24, 2013`` Editors for Out Magazine: [10 Things We Learned from Glenn Greenwald](https://www.out.com/glenn-greenwald/2013/10/24/10-things-we-learned-glenn-greenwald)
 - ``Oct 24, 2013`` Editors for Out Magazine: [Behind the Story: Glenn Greenwald, Enemy of the State](https://www.out.com/news-opinion/2013/10/24/behind-story-glenn-greenwald-enemy-state)
 - ``Nov 15, 2013`` Sari Horwitz for The Washington Post: [Justice is reviewing criminal cases that used surveillance evidence gathered under FISA](https://www.washingtonpost.com/world/national-security/justice-reviewing-criminal-cases-that-used-evidence-gathered-under-fisa-act/2013/11/15/0aea6420-4e0d-11e3-9890-a1e0997fb0c0_story.html)
+- ``Dec 04, 2013`` Janet Reitman for Rolling Stone: [Snowden and Greenwald: The Men Who Leaked the Secrets](https://www.rollingstone.com/culture/culture-news/snowden-and-greenwald-the-men-who-leaked-the-secrets-104970/?print=true)
 - ``Dec 19, 2013`` Jay Rosen on PressThink: [A First Look at NewCo's structure](https://pressthink.org/2013/12/a-first-look-at-newcos-structure/)
 - ``Jan 08, 2014`` Catherine Fitzpatrick on Wired State: [Pierre Omidyar's Business Model for First Look is Like a Second Life or Anti-Virus Guard Scam](https://3dblogger.typepad.com/wired_state/2014/01/pierre-omidyars-business-model-for-first-look-is-like-a-second-life-or-anti-virus-guard-scam.html)
 - ``Jan 10, 2014`` Bob Cesca for The Daily Banter: [Revealed: The Glenn Greenwald and Pierre Omidyar Money-Making Scheme](https://thedailybanter.com/2014/01/revealed-the-glenn-greenwald-and-pierre-omidyar-money-making-scheme/) _Updated Feb 17, 2016_
@@ -76,6 +77,7 @@ title: Articles
 
 # Twitter Media
 
+- ``May 20, 2019`` [@DavidNeiwert](https://twitter.com/DavidNeiwert/status/1130553596091613184) The whole enterprise blew up for good on January 8, 2003, when Matt Hale was arrested for conspiring to murder Judge Lefkow.
 - ``Jul 16, 2019`` [@telesurenglish](https://twitter.com/telesurenglish/status/1151144461738446848)
 - ``Sep 07, 2019`` [@BetterCallGlenn](https://twitter.com/BetterCallGlenn/status/1170428093451968515)
 - ``Sep 08, 2019`` [@BetterCallGlenn](https://twitter.com/BetterCallGlenn/status/1170885067654258688)
@@ -91,3 +93,4 @@ title: Articles
 - ``Dec 03, 2019`` [@BetterCallGlenn](https://twitter.com/BetterCallGlenn/status/1201900921367740416)
 - ``Dec 03, 2019`` [@BetterCallGlenn](https://twitter.com/BetterCallGlenn/status/1201923240131739654)
 - ``Dec 03, 2019`` [@BetterCallGlenn](https://twitter.com/BetterCallGlenn/status/1201923855360647168)
+- ``Aug 24, 2020`` [@StudioUnspoken](https://twitter.com/StudioUnspoken/status/1297933764643811328) CITIZEN GLENN
