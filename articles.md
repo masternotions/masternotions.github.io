@@ -15,7 +15,8 @@ title: Articles
 - ``Aug 26, 2012`` Adam Levick for Camera UK: [Background on Glenn Greenwald for Guardian Readers: 'Sock Pupppets' & 'Smart Spam'](https://camera-uk.org/2012/08/26/background-on-glenn-greenwald-for-guardian-readers-sock-puppets-smart-spam/)
 - ``Jun 07, 2013`` Andrew Belonsky for Out Magazine: [Glenn Greenwald: Same as Bradley Manning?](https://www.out.com/entertainment/popnography/2013/06/07/glenn-greenwald-whistleblower-bradley-manning)
 - ``Jun 26, 2013`` Abby Ohlheiser for The Atlantic: [Here Comes the Glenn Greenwald Hit Piece](https://www.theatlantic.com/national/archive/2013/06/here-comes-glenn-greenwald-hit-piece/313861/)
-- ``Jun 26, 2013`` Glenn Greenwald for The Guardian: [The personal side of taking on the NSA: emerging smears](https://www.theguardian.com/commentisfree/2013/jun/26/nsa-revelations-response-to-smears)
+- ``Jun 26, 2013`` Dylan Byers for Politico: [Greenwald aims to pre-empt 'smears'](https://www.politico.com/blogs/media/2013/06/greenwald-aims-to-pre-empt-smears-167191)
+- ``Jun 26, 2013`` Taylor Berman for Gawker: [Glenn Greenwald Takes His Turn in the Spotlight](https://gawker.com/glenn-greenwald-takes-his-turn-in-the-spotlight-593163038)
 - ``Jul 03, 2013`` Jerry Portwood for Out Magazine: [Glenn Greenwald's Friend and Former Business Partner Defends Him](https://www.out.com/entertainment/popnography/2013/07/03/glenn-greenwald-former-lover-porn-jake-jaxson-jason-buchtel)
 - ``Jul 08, 2013`` Editors for CBC News: [Ballet school accused of kicking out dancer for doing porn](https://www.cbc.ca/news/canada/manitoba/ballet-school-accused-of-kicking-out-dancer-for-doing-porn-1.1329099)
 - ``Jul 11, 2013`` Adam Levick for The Algemeiner: [Glenn Greenwald's Anti-Semitism Exposed](https://www.algemeiner.com/2013/07/11/glenn-greenwalds-anti-semitism-exposed/)
@@ -27,6 +28,7 @@ title: Articles
 - ``Jan 19, 2014`` Sean Wilentz for The New Republic: [Would You Feel Differently About Snowden, Greenwald, and Assange If You Knew What They Really Thought?](https://newrepublic.com/article/116253/edward-snowden-glenn-greenwald-julian-assange-what-they-believe)
 - ``Feb 19, 2014`` Tom Whitehead for The Telegraph: [David Miranda loses 'illegal detention' fight](https://www.telegraph.co.uk/news/uknews/terrorism-in-the-uk/10648338/David-Miranda-loses-illegal-detention-fight.html)
 - ``Feb 20, 2014`` Brian John Spencer on Blog: [Glenn Greenwald - Lawyer, blogger, partisan journalist](http://brianjohnspencer.blogspot.com/2014/02/glenn-greenwald-lawyer-blogger-partisan.html)
+- ``Mar 11, 2014`` John Young on Cryptome: [Glenn Greenwald Eyeball](https://cryptome.org/2014-info/glenn-greenwald/glenn-greenwald.htm)
 - ``Apr 23, 2014`` Bryan Burrough, Sarah Ellison, Suzanna Andrews for Vanity Fair: [The Snowden Saga: A Shadowland of Secrets and Light](https://www.vanityfair.com/news/politics/2014/05/edward-snowden-politics-interview)
 - ``May 12, 2014`` Michael Paterniti for GQ: [The Man Who Knows Too Much](https://www.gq.com/story/glenn-greenwald-edward-snowden-no-place-to-hide)
 - ``Aug 01, 2014`` Malcolm Forbes for Columbia Journalism Review: [Glenn Greenwald against the world](https://archives.cjr.org/critical_eye/glenn_greenwald_against_the_wo.php)
@@ -58,13 +60,13 @@ title: Articles
 - ``Jan 26, 2020`` Jessica Testa on Ricardo Antunes Blog: [EXCLUSIVE: A millionaire, Glenn Greenwald advocated for Nazi leader Goldman Sachs and even sold porn. Know your trajectory.](https://ricardoantunes.com.br/exclusivo-milionario-glenn-greenwald-advogou-para-lider-nazista-goldman-sachs-e-vendeu-ate-filme-porno-conheca-sua-trajetoria/)
 - ``Feb 23, 2020`` Augusto Diniz for Jornal Opção: [Why professionals like Glenn Greenwald and Patrícia Campos Mello bother militants on the right](https://www.jornalopcao.com.br/colunas-e-blogs/conexao/por-que-profissionais-como-glenn-greenwald-e-patricia-campos-mello-incomodam-tanto-militantes-da-direita-237490/)
 
-<!--
-
 # Glenn Blogs
 
 - ``2005 to 2007`` Glenn Greenwald on Blogger: [Unclaimed Territory](http://glenngreenwald.blogspot.com/)
 - ``2006 to 2014`` Glenn Greenwald on Blogger: [UT Documents](http://utdocuments.blogspot.com/)
 - ``Aug 04, 2010`` Glenn Greenwald on Blogger: [Cato Surveillance Draft](http://surveillancedraft.blogspot.com/)
+
+<!--
 
 # Twitter Media
 
