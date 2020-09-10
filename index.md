@@ -7,21 +7,11 @@ modified: "September 9, 2020"
 <blockquote class="twitter-tweet" data-conversation="none" data-dnt="true"><p lang="en" dir="ltr">My vindicated dissent on Russiagate bullshit is one of the proudest accomplishment of my journalistic career - right after our ongoing exposés this year about Bolsonaro officials, the Snowden reporting, my animal rights journalism, and my general impact on journalism theories.</p>&mdash; Glenn Greenwald (@ggreenwald) <a href="https://twitter.com/ggreenwald/status/1188552902744387584?ref_src=twsrc%5Etfw">October 27, 2019</a></blockquote>
 -->
 
-# Cold Open
-
-Read the New York Daily News article: [Glenn Greenwald, journalist who broke Edward Snowden story, was once lawyer sued over porn business](https://www.nydailynews.com/news/national/greenwald-reporter-broke-nsa-story-lawyer-sued-porn-biz-article-1.1383448)
-
-Then read RZ's story: [A sexual predator named Glenn Greenwald, Part 1](predator-part-1.md)
-
-And finish with RZ's escape: [A sexual predator named Glenn Greenwald, Part 2](predator-part-2.md)
-
 # Timeline
-
-February 2005, GG goes on a two month vacation to Rio.
 
 ## Meet Cute
 
-On his second day in Rio, GG meets DM at Ipanema beach. They move in together within a week.
+February 2005, GG goes on a two month vacation to Rio. On his second day in Rio, GG meets DM at Ipanema beach. They move in together within a week.
 [link](https://twitter.com/wokyleeks/status/1298827978164453378)
 [link](https://twitter.com/AlanVRK/status/1298322296579522564)
 
