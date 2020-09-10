@@ -53,7 +53,7 @@ IMDB's entry lists a 2003 release from Hairy Jock Videos. [link](https://www.imd
 
 Here's an audio clip of GG talking in Hot.Hairy.Real. 4: **[Is your dick hard?](./media/hairy-studs-4-audio.mp4)**
 
-# Legal Entities
+# Entities
 
 - Law Office: [link](https://www.bizexposed.com/New_York-USA/B/Law_Office_of_Glenn_Green_Wald-New_York.php)
 - Master Notions: [link](https://twitter.com/AlanVRK/status/1299119861809975297) [link](https://twitter.com/AlanVRK/status/1298995252284362752)
