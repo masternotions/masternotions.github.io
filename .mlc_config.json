@@ -1,7 +1,10 @@
 {
     "ignorePatterns": [
         {
-            "pattern": "^https?://cryptome.org/"
+            "pattern": "^https://cryptome.org/"
+        },
+        {
+            "pattern": "^http://iapps.courts.state.ny.us/"
         }
     ]
 }
