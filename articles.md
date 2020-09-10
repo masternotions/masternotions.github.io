@@ -46,6 +46,7 @@ title: Articles
 - ``Aug 01, 2014`` Malcolm Forbes for Columbia Journalism Review: [Glenn Greenwald against the world](https://archives.cjr.org/critical_eye/glenn_greenwald_against_the_wo.php)
 - ``Sep 03, 2014`` Michael Hirsh for Politico: [Has Greenwald, Inc. Peaked?](https://www.politico.com/magazine/story/2014/09/glenn-greenwald-inc-peaked-110576)
 - ``Feb 24, 2015`` Alex Panisch for Out Magazine: [Whistleblowers Win at the Academy Awards](https://www.out.com/popnography/2015/2/24/why-whistleblowers-winning-academy-awards-matters)
+- ``Feb 27, 2015`` Ken Silverstein for Politico: [Where Journalism Goes to Die](https://www.politico.com/magazine/story/2015/02/ken-silverstein-the-intercept-115586)
 - ``Jan 31, 2016`` Dave Emory on Spitfire List: [FTR #888 Compendium on Citizen Greenwald: A Shiller for Killers](http://spitfirelist.com/for-the-record/ftr-888-compendium-on-citizen-greenwald-a-shiller-for-killers/)
 - ``Jul 25, 2016`` Ace of Spades: [The Glenn Greenwald Sock Puppet Story, From Start To (Almost) Finish](http://ace.mu.nu/archives/187585.php)
 - ``Oct 19, 2016`` Thaddeus T. Grugq on Medium: [Age of Influence 2.0](https://medium.com/@thegrugq/agent-of-influence-2-0-e1f20bed4aec)
