@@ -1,7 +1,10 @@
 {
     "ignorePatterns": [
         {
-            "pattern": "^http://docshare.tips"
+            "pattern": "^https://cryptome.org/"
+        },
+        {
+            "pattern": "^http://iapps.courts.state.ny.us/"
         }
     ]
 }
