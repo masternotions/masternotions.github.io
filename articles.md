@@ -51,7 +51,7 @@ title: Articles
 - ``Nov 07, 2017`` Lawyers, Guns & Money: [Tucker and Glenn Go Together Like Chocolate and Peanut Butter](https://www.lawyersgunsmoneyblog.com/2017/11/tucker-glenn-go-together-like-chocolate-peanut-butter)
 - ``Jan 21, 2018`` Simon van Zuylen-Wood for New York Magazine: [Does This Man Know More Than Robert Mueller?](https://nymag.com/intelligencer/2018/01/glenn-greenwald-russia-investigation.html)
 - ``Jun 14, 2018`` Lawyers, Guns & Money: [Today on Tucker's White Power Hour… Mr. Glenn Greenwald, Again!](https://www.lawyersgunsmoneyblog.com/2018/06/today-tuckers-white-power-hour-mr-glenn-greenwald)
-- ``Jul 15, 2018`` Idrees Ahmad on Twitter: [Pierre Omidyar has been paying Glenn Greenwald up to $518,000 per annum to blog about a mythical "deep state"](https://threader.app/thread/1018533571689099265)
+- ``Jul 15, 2018`` Idrees Ahmad on Twitter Thread: [Pierre Omidyar has been paying Glenn Greenwald up to $518,000 per annum to blog about a mythical "deep state"](https://threadreaderapp.com/thread/1018533571689099265.html)
 - ``Jul 21, 2018`` Nicholas Grossman on Medium: [Why Are Internet Radicals Helping Putin’s Russia?](https://arcdigital.media/why-are-internet-radicals-helping-putins-russia-6ff2978b172e)
 - ``Aug 27, 2018`` Ian Parker for The New Yorker: [Glenn Greenwald, the Bane of Their Resistance](https://www.newyorker.com/magazine/2018/09/03/glenn-greenwald-the-bane-of-their-resistance)
 - ``Sep 13, 2018`` Tamsin Shaw for The New York Review of Books: [Edward Snowden Reconsidered](https://www.nybooks.com/daily/2018/09/13/edward-snowden-reconsidered/)
@@ -80,18 +80,14 @@ title: Articles
 - ``May 20, 2019`` [@DavidNeiwert](https://twitter.com/DavidNeiwert/status/1130553596091613184) The whole enterprise blew up for good on January 8, 2003, when Matt Hale was arrested for conspiring to murder Judge Lefkow.
 - ``Jun 16, 2019`` [@LiveFree_76](https://twitter.com/LiveFree_76/status/1140463115966046208) Brazilian hacker group has released documents showing money transfers in Bitcoin from Glenn Greenwald/The Intercept to Russian hacker Evgeniy Bogachev.
 - ``Jul 16, 2019`` [@telesurenglish](https://twitter.com/telesurenglish/status/1151144461738446848) Glenn Greenwald and the Intercept are facing a wave of homophobia and threats for exposing Bolsonaro's government.
-- ``Sep 07, 2019`` [@BetterCallGlenn](https://twitter.com/BetterCallGlenn/status/1170428093451968515)
-- ``Sep 08, 2019`` [@BetterCallGlenn](https://twitter.com/BetterCallGlenn/status/1170885067654258688)
-- ``Sep 13, 2019`` [@BetterCallGlenn](https://twitter.com/BetterCallGlenn/status/1172647150414548994)
-- ``Sep 13, 2019`` [@BetterCallGlenn](https://twitter.com/BetterCallGlenn/status/1172647541432705025)
-- ``Sep 21, 2019`` [@BetterCallGlenn](https://twitter.com/BetterCallGlenn/status/1175614711095812096)
-- ``Sep 28, 2019`` [@BetterCallGlenn](https://twitter.com/BetterCallGlenn/status/1178081438874439681)
-- ``Sep 28, 2019`` [@BetterCallGlenn](https://twitter.com/BetterCallGlenn/status/1178082160579895296)
-- ``Oct 11, 2019`` [@BetterCallGlenn](https://twitter.com/BetterCallGlenn/status/1182697773445066758)
-- ``Nov 07, 2019`` [@BetterCallGlenn](https://twitter.com/BetterCallGlenn/status/1192527000084328448)
+- ``Sep 07, 2019`` [@BetterCallGlenn](https://twitter.com/BetterCallGlenn/status/1170428093451968515) SÉRGIO MORO WILL SPEAK TO THE NATIONAL NEWSPAPER
+- ``Sep 08, 2019`` [@BetterCallGlenn](https://twitter.com/BetterCallGlenn/status/1170885067654258688) But we started our night by asking the guy ggreenwald if he has anything to say about a certain visit, from an old friend ... a red DVD with some contacts ... Doesn't ring a bell?
+- ``Sep 21, 2019`` [@BetterCallGlenn](https://twitter.com/BetterCallGlenn/status/1175614711095812096) Hey ggreenwald do you remember this lad? I do. What a juicy 'small-talk'.
+- ``Sep 28, 2019`` [@BetterCallGlenn](https://twitter.com/BetterCallGlenn/status/1178082160579895296) Voucher dated 09/25/2019 ggreenwald you lied! Your friend from Blasio charges $ 109 to get the certificate but here it is
+- ``Oct 11, 2019`` [@BetterCallGlenn](https://twitter.com/BetterCallGlenn/status/1182697773445066758) We need to talk about it ggreenwald and more things discovered from his disappearance between 2009 and 2011. ALERT!
 - ``Nov 07, 2019`` [@frankmpj_27](https://twitter.com/frankmpj_27/status/1192527387340288001) Photo of GG with Ciro Gomes
-- ``Dec 03, 2019`` [@BetterCallGlenn](https://twitter.com/BetterCallGlenn/status/1201899823416381440)
-- ``Dec 03, 2019`` [@BetterCallGlenn](https://twitter.com/BetterCallGlenn/status/1201900921367740416)
-- ``Dec 03, 2019`` [@BetterCallGlenn](https://twitter.com/BetterCallGlenn/status/1201923240131739654)
-- ``Dec 03, 2019`` [@BetterCallGlenn](https://twitter.com/BetterCallGlenn/status/1201923855360647168)
+- ``Dec 03, 2019`` [@BetterCallGlenn](https://twitter.com/BetterCallGlenn/status/1201899823416381440) I'm in front of the ENZULI headquarters to buy some airline tickets, you know!
+- ``Dec 03, 2019`` [@BetterCallGlenn](https://twitter.com/BetterCallGlenn/status/1201900921367740416) Porter was very kind and gave me another address.
+- ``Dec 03, 2019`` [@BetterCallGlenn](https://twitter.com/BetterCallGlenn/status/1201923240131739654) Stud Mall headquarters. Readers of the blog have certainly seen prints of the sites with the address and related businesses.
+- ``Dec 03, 2019`` [@BetterCallGlenn](https://twitter.com/BetterCallGlenn/status/1201923855360647168) Now readers ... Link facts and some recent news ...
 - ``Aug 24, 2020`` [@StudioUnspoken](https://twitter.com/StudioUnspoken/status/1297933764643811328) CITIZEN GLENN
