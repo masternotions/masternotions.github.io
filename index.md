@@ -88,7 +88,6 @@ Here's an audio clip of GG talking in Hot.Hairy.Real. 4: **[Is your dick hard?](
 - ``Jun 26, 2013`` Jessica Testa for BuzzFeed News: [How Glenn Greenwald Became Glenn Greenwald](https://www.buzzfeednews.com/article/jtes/how-glenn-greenwald-became-glenn-greenwald)
 - ``Jun 26, 2013`` Glenn Greenwald for The Guardian: [The personal side of taking on the NSA: emerging smears](https://www.theguardian.com/commentisfree/2013/jun/26/nsa-revelations-response-to-smears)
 - ``Jul 03, 2013`` Jason Buchtel on Blog: [I am Jake Jaxson](https://jakejaxson.com/post/54490441032/i-am-jake-jaxson)
-- ``Nov 14, 2013`` Natasha Vargas-Cooper for BuzzFeed News: [David Miranda Is Nobody's Errand Boy](https://www.buzzfeed.com/natashavc/david-miranda-is-nobodys-errand-boy) _Updated Aug 21, 2020_
 - ``Jul 23, 2019`` Bruna de Pieri for Terça Livre TV: [Glenn Greenwald has been sued for pornography, according to foreign website](https://www.tercalivre.com.br/glenn-greenwald-ja-foi-processado-por-pornografia-segundo-site-estrangeiro/)
 - ``Aug 01, 2019`` room16 on Better Call Glenn: [A sexual predator named Glenn Greenwald, Part 1](predator-part-1.md)
 - ``Aug 03, 2019`` room16 on Better Call Glenn: [A sexual predator named Glenn Greenwald, Part 2](predator-part-2.md)
