@@ -100,6 +100,8 @@ __[Is your dick hard?](./media/hairy-studs-4-audio.mp4)__
 - ``Jul 23, 2019`` Bruna de Pieri for Terça Livre TV: [Glenn Greenwald has been sued for pornography, according to foreign website](https://www.tercalivre.com.br/glenn-greenwald-ja-foi-processado-por-pornografia-segundo-site-estrangeiro/)
 - ``Aug 01, 2019`` room16 on Better Call Glenn: [A sexual predator named Glenn Greenwald, Part 1](predator-part-1.md)
 - ``Aug 03, 2019`` room16 on Better Call Glenn: [A sexual predator named Glenn Greenwald, Part 2](predator-part-2.md)
+- ``Aug 05, 2019`` Oswaldo Eustáquio for Agora Paraná: [Congressman David Miranda was an escort and sold drugs at a gay nightclub in Rio de Janeiro](https://web.archive.org/web/20191210044025/http://www.agoraparana.com.br/noticia/deputado-david-miranda-era-garoto-de-programa-e-vendia-drogas-em-boate-gay-no-rio-de-janeiro)
+- ``Sep 11, 2019`` Arthur Soares, Mariana Oliveira, Paulo Renato Soares for G1: [Coaf points out 'atypical movement' of R$ 2.5 million in the account of deputy David Miranda](https://g1.globo.com/rj/rio-de-janeiro/noticia/2019/09/11/coaf-aponta-movimentacao-atipica-de-r-25-milhoes-em-conta-do-deputado-federal-david-miranda.ghtml)
 - ``Sep 28, 2019`` Luc Michel on Better Call Glenn: [Glenn Greenwald's ex-actor talks about his adult films](raul-interview.md)
 
 # More
