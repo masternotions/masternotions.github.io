@@ -73,13 +73,13 @@ Here's an audio clip of GG talking in Hot.Hairy.Real. 4: **[Is your dick hard?](
 
 # Documents
 
+- ``Jul 01, 1997`` New York Supreme Court, Appellate Division: [Greenwald v. H P 29th Street Associates, 241 A.D.2d 307 (N.Y. App. Div. 1997)](https://casetext.com/case/greenwald-v-h-p-29th-street-associates)
 - ``Dec 27, 2000`` IRS Assessment on Mar 2000: [Federal Tax Lien for $17,078](https://a836-acris.nyc.gov/DS/DocumentSearch/DocumentDetail?doc_id=FT_1850007483285)
 - ``Aug 23, 2001`` US District Court for the Northern District of Illinois: [Anderson v. Hale, 159 F. Supp. 2d 1116 (N.D. Ill. 2001)](https://law.justia.com/cases/federal/district-courts/FSupp2/159/1116/2384296)
 - ``Mar 23, 2002`` IRS Assessment on May 2001: [Federal Tax Lien for $67,691](https://a836-acris.nyc.gov/DS/DocumentSearch/DocumentDetail?doc_id=FT_1580008351458)
 - ``Feb 02, 2003`` Committee Report for New York City Bar: [Formal Opinion 2003-02: Undisclosed Taping of Conversations by Lawyers](https://www.nycbar.org/member-and-career-services/committees/reports-listing/reports/detail/formal-opinion-2003-02-undisclosed-taping-of-conversations-by-lawyers-1)
-- ``Mar 27, 2003`` Supreme Court of the State of New York: [Master Notions v. TPI and Haas](./docs/30011687020023SCIV_pdf.pdf)
+- ``Mar 27, 2003`` New York Supreme Court, New York County: [Master Notions v. TPI and Haas](./docs/30011687020023SCIV_pdf.pdf)
 - ``Nov 09, 2015`` IRS Specialty Collections: [Release of Federal Tax Lien for $123,214](./docs/2015102800324009OCR.pdf) <sup>([src](https://a836-acris.nyc.gov/DS/DocumentSearch/DocumentDetail?doc_id=2015102800324009))</sup>
-- ``Jan 31, 2016`` Dave Emory on Spitfire List: [FTR #888 Compendium on Citizen Greenwald: A Shiller for Killers](http://spitfirelist.com/for-the-record/ftr-888-compendium-on-citizen-greenwald-a-shiller-for-killers/)
 - ``Feb 01, 2017`` Jewish Defense Organization: [Dossier on Glenn Greenwald](./docs/jewish-defense-organization-dossier.pdf) <sup>([src](https://inba.info/the-story-of-a-jew-who-fell-in-love-with-a-nazi-the-glenn-greenwald-matt-hale-affair_58aa1654b6d87f6f5d8b5237.html))</sup>
 
 # Articles
