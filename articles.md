@@ -9,8 +9,10 @@ title: Articles
 
 - ``Mar 09, 2005`` Jodi Wilgoren for The New York Times: [Supremacist Sent Code From Jail, Lawyer Says](https://www.nytimes.com/2005/03/09/us/supremacist-sent-code-from-jail-lawyer-says.html)
 - ``Jul 27, 2006`` Patterico on Blog: [Annotated WuzzaDem: The Facts Behind the Greenwald Sock-Puppetry](http://patterico.com/2006/07/27/annotated-wuzzadem-the-facts-behind-the-greenwald-sock-puppetry/)
+- ``Aug 04, 2010`` Glenn Greenwald on Blogger: [Cato Surveillance Draft](http://surveillancedraft.blogspot.com/)
 - ``Apr 18, 2011`` Fred Bernstein for Out Magazine: [Glenn Greenwald: Life Beyond Borders](https://www.out.com/news-commentary/2011/04/18/glenn-greenwald-life-beyond-borders)
 - ``Jan 01, 2012`` User msanthrope on Democratic Underground: [Glenn Greenwald Unethically Taped Witnesses While Working for Matt Hale, White Supremacist](https://upload.democraticunderground.com/1002101211)
+- ``Apr 08, 2012`` Glenn Greenwald for Salon: [U.S. filmmaker repeatedly detained at border](https://www.salon.com/test2/2012/04/08/u_s_filmmaker_repeatedly_detained_at_border/)
 - ``Jul 25, 2012`` Adam Levick for The Times of Israel: [The Guardian and Glenn Greenwald: The anti-imperialism of fools](https://blogs.timesofisrael.com/the-guardian-and-glenn-greenwald-the-anti-imperialism-of-fools/)
 - ``Aug 26, 2012`` Adam Levick for Camera UK: [Background on Glenn Greenwald for Guardian Readers: 'Sock Pupppets' & 'Smart Spam'](https://camera-uk.org/2012/08/26/background-on-glenn-greenwald-for-guardian-readers-sock-puppets-smart-spam/)
 - ``Jun 07, 2013`` Andrew Belonsky for Out Magazine: [Glenn Greenwald: Same as Bradley Manning?](https://www.out.com/entertainment/popnography/2013/06/07/glenn-greenwald-whistleblower-bradley-manning)
@@ -24,9 +26,11 @@ title: Articles
 - ``Jul 08, 2013`` Editors for CBC News: [Ballet school accused of kicking out dancer for doing porn](https://www.cbc.ca/news/canada/manitoba/ballet-school-accused-of-kicking-out-dancer-for-doing-porn-1.1329099)
 - ``Jul 11, 2013`` Adam Levick for The Algemeiner: [Glenn Greenwald's Anti-Semitism Exposed](https://www.algemeiner.com/2013/07/11/glenn-greenwalds-anti-semitism-exposed/)
 - ``Aug 19, 2013`` Jerry Portwood for Out Magazine: [Glenn Greenwald's Partner Detained at Heathrow](https://www.out.com/news-opinion/2013/08/19/glenn-greenwalds-partner-detained-heathrow)
+- ``Aug 20, 2013`` Nicholas Watt and Adam Gabbatt for The Guardian: [David Miranda detention: White House was given 'heads-up'](https://www.theguardian.com/world/2013/aug/19/white-house-david-miranda-heads-up)
 - ``Aug 21, 2013`` Editors for Out Magazine: [WATCH: Anderson Cooper Interviews Greenwald & Partner](https://www.out.com/entertainment/popnography/2013/08/21/watch-anderson-cooper-interviews-glenn-greenwald-david-miranda)
 - ``Oct 24, 2013`` Editors for Out Magazine: [10 Things We Learned from Glenn Greenwald](https://www.out.com/glenn-greenwald/2013/10/24/10-things-we-learned-glenn-greenwald)
 - ``Oct 24, 2013`` Editors for Out Magazine: [Behind the Story: Glenn Greenwald, Enemy of the State](https://www.out.com/news-opinion/2013/10/24/behind-story-glenn-greenwald-enemy-state)
+- ``Nov 14, 2013`` Natasha Vargas-Cooper for BuzzFeed News: [David Miranda Is Nobody's Errand Boy](https://www.buzzfeed.com/natashavc/david-miranda-is-nobodys-errand-boy) _Updated Aug 21, 2020_
 - ``Nov 15, 2013`` Sari Horwitz for The Washington Post: [Justice is reviewing criminal cases that used surveillance evidence gathered under FISA](https://www.washingtonpost.com/world/national-security/justice-reviewing-criminal-cases-that-used-evidence-gathered-under-fisa-act/2013/11/15/0aea6420-4e0d-11e3-9890-a1e0997fb0c0_story.html)
 - ``Dec 04, 2013`` Janet Reitman for Rolling Stone: [Snowden and Greenwald: The Men Who Leaked the Secrets](https://www.rollingstone.com/culture/culture-news/snowden-and-greenwald-the-men-who-leaked-the-secrets-104970/?print=true)
 - ``Dec 19, 2013`` Jay Rosen on PressThink: [A First Look at NewCo's structure](https://pressthink.org/2013/12/a-first-look-at-newcos-structure/)
@@ -74,7 +78,6 @@ title: Articles
 
 - ``2005 to 2007`` Glenn Greenwald on Blogger: [Unclaimed Territory](http://glenngreenwald.blogspot.com/)
 - ``2006 to 2014`` Glenn Greenwald on Blogger: [UT Documents](http://utdocuments.blogspot.com/)
-- ``Aug 04, 2010`` Glenn Greenwald on Blogger: [Cato Surveillance Draft](http://surveillancedraft.blogspot.com/)
 
 # Twitter Media
 
