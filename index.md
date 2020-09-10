@@ -31,9 +31,15 @@ Less than 5 months after they met, Stud Mall films Sauna Boys 3 in Rio. DM is li
 DM is listed as Director of the entire series, Sauna Boys 1 to 5.
 [link](https://twitter.com/wokyleeks/status/1299808430450855936)
 
-Sauna Boys 1: [link](https://twitter.com/AlanVRK/status/1298731008389509125) [link](https://twitter.com/AlanVRK/status/1298706588199460865) [link](https://twitter.com/wokyleeks/status/1299809826067816448)
+Sauna Boys 1:
+[link](https://twitter.com/AlanVRK/status/1298697450631331840)
+[link](https://twitter.com/AlanVRK/status/1298731008389509125)
+[link](https://twitter.com/AlanVRK/status/1298706588199460865)
+[link](https://twitter.com/wokyleeks/status/1299809826067816448)
 
-Sauna Boys Back Covers: [link](https://twitter.com/AlanVRK/status/1298715175051079687) [link](https://twitter.com/AlanVRK/status/1299718665345134594)
+Back Covers:
+[link](https://twitter.com/AlanVRK/status/1298715175051079687)
+[link](https://twitter.com/AlanVRK/status/1299718665345134594)
 
 ## Hairy Hustlers
 
@@ -44,14 +50,16 @@ In 2005, Hairy Hustlers is released by Hairy Studs Video. The production date wa
 In 2006, Hairy Hustlers is released by Enzuli Productions. The production date is back to Dec 2002.
 [link](https://twitter.com/AlanVRK/status/1299767507654529025)
 
-## Hot.Hairy.Real.
+## Hot.Hairy.Real. 4
 
 Hot.Hairy.Real. 4 is released by Hairy Studs Video. The copyright on the back says 2002, 2003.
 [link](https://twitter.com/AlanVRK/status/1299754728897863685)
 
-IMDB's entry lists a 2003 release from Hairy Jock Videos. [link](https://www.imdb.com/title/tt7801464/)
+IMDB's entry lists a 2003 release from Hairy Jock Videos.
+[link](https://www.imdb.com/title/tt7801464/)
 
-Here's an audio clip of GG talking in Hot.Hairy.Real. 4: **[Is your dick hard?](./media/hairy-studs-4-audio.mp4)**
+Here's an audio clip of GG talking in Hot.Hairy.Real. 4:
+__[Is your dick hard?](./media/hairy-studs-4-audio.mp4)__
 
 # Entities
 
