@@ -73,8 +73,6 @@ title: Articles
 - ``2006 to 2014`` Glenn Greenwald on Blogger: [UT Documents](http://utdocuments.blogspot.com/)
 - ``Aug 04, 2010`` Glenn Greenwald on Blogger: [Cato Surveillance Draft](http://surveillancedraft.blogspot.com/)
 
-<!--
-
 # Twitter Media
 
 - ``Jul 16, 2019`` [@telesurenglish](https://twitter.com/telesurenglish/status/1151144461738446848)
@@ -92,5 +90,3 @@ title: Articles
 - ``Dec 03, 2019`` [@BetterCallGlenn](https://twitter.com/BetterCallGlenn/status/1201900921367740416)
 - ``Dec 03, 2019`` [@BetterCallGlenn](https://twitter.com/BetterCallGlenn/status/1201923240131739654)
 - ``Dec 03, 2019`` [@BetterCallGlenn](https://twitter.com/BetterCallGlenn/status/1201923855360647168)
-
--->
