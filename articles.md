@@ -78,7 +78,8 @@ title: Articles
 # Twitter Media
 
 - ``May 20, 2019`` [@DavidNeiwert](https://twitter.com/DavidNeiwert/status/1130553596091613184) The whole enterprise blew up for good on January 8, 2003, when Matt Hale was arrested for conspiring to murder Judge Lefkow.
-- ``Jul 16, 2019`` [@telesurenglish](https://twitter.com/telesurenglish/status/1151144461738446848)
+- ``Jun 16, 2019`` [@LiveFree_76](https://twitter.com/LiveFree_76/status/1140463115966046208) Brazilian hacker group has released documents showing money transfers in Bitcoin from Glenn Greenwald/The Intercept to Russian hacker Evgeniy Bogachev.
+- ``Jul 16, 2019`` [@telesurenglish](https://twitter.com/telesurenglish/status/1151144461738446848) Glenn Greenwald and the Intercept are facing a wave of homophobia and threats for exposing Bolsonaro's government.
 - ``Sep 07, 2019`` [@BetterCallGlenn](https://twitter.com/BetterCallGlenn/status/1170428093451968515)
 - ``Sep 08, 2019`` [@BetterCallGlenn](https://twitter.com/BetterCallGlenn/status/1170885067654258688)
 - ``Sep 13, 2019`` [@BetterCallGlenn](https://twitter.com/BetterCallGlenn/status/1172647150414548994)
@@ -88,7 +89,7 @@ title: Articles
 - ``Sep 28, 2019`` [@BetterCallGlenn](https://twitter.com/BetterCallGlenn/status/1178082160579895296)
 - ``Oct 11, 2019`` [@BetterCallGlenn](https://twitter.com/BetterCallGlenn/status/1182697773445066758)
 - ``Nov 07, 2019`` [@BetterCallGlenn](https://twitter.com/BetterCallGlenn/status/1192527000084328448)
-- ``Nov 07, 2019`` [@frankmpj_27](https://twitter.com/frankmpj_27/status/1192527387340288001)
+- ``Nov 07, 2019`` [@frankmpj_27](https://twitter.com/frankmpj_27/status/1192527387340288001) Photo of GG with Ciro Gomes
 - ``Dec 03, 2019`` [@BetterCallGlenn](https://twitter.com/BetterCallGlenn/status/1201899823416381440)
 - ``Dec 03, 2019`` [@BetterCallGlenn](https://twitter.com/BetterCallGlenn/status/1201900921367740416)
 - ``Dec 03, 2019`` [@BetterCallGlenn](https://twitter.com/BetterCallGlenn/status/1201923240131739654)
