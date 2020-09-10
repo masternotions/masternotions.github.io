@@ -61,7 +61,7 @@ Here's an audio clip of GG talking in Hot.Hairy.Real. 4: **[Is your dick hard?](
 - Stud Mall Productions: [link](https://twitter.com/AlanVRK/status/1298396468844396545) [link](https://twitter.com/wokyleeks/status/1299021151352393728) [link](http://web.archive.org/web/20050208081923/http://www.studmall.com/contact.php)
 - Hairy Studs Video: [link](https://twitter.com/AlanVRK/status/1299762747266215937)
 - Enzuli Productions: [link](https://twitter.com/AlanVRK/status/1299776571482476548) [link](https://twitter.com/AlanVRK/status/1299788774382211072)
-- Ravana LLC: [link](https://twitter.com/AlanVRK/status/1298626981848899585) [link](https://twitter.com/AlanVRK/status/1298717258919813122) [link](https://twitter.com/AlanVRK/status/1299080322919862272) [link](https://twitter.com/AlanVRK/status/1299081614513840128) [ppp](https://projects.propublica.org/coronavirus/bailouts/loans/ravana-llc-a962e2a231387214e7a1c7778ec6e3ab)
+- Ravana LLC: [link](https://twitter.com/AlanVRK/status/1298626981848899585) [link](https://twitter.com/AlanVRK/status/1298717258919813122) [link](https://twitter.com/AlanVRK/status/1299080322919862272) [link](https://twitter.com/AlanVRK/status/1299081614513840128) [ppp](https://projects.propublica.org/coronavirus/bailouts/loans/ravana-llc-a962e2a231387214e7a1c7778ec6e3ab) [tm](https://trademarks.corporationwiki.com/marks-owner/ravana-llc/149189464/)
 
 # Databases
 
