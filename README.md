@@ -2,7 +2,7 @@
 
 ## Environments
 
-Production: [cockperialism.com](https://masternotions.com)
+Production: [masternotions.com](https://masternotions.com)
 
 ## Reports
 
