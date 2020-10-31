@@ -2,9 +2,7 @@
 
 ## Environments
 
-Production: [cockperialism.com](https://cockperialism.com)
-
-Staging: [staging.cockperialism.com](https://staging.cockperialism.com)
+Production: [cockperialism.com](https://masternotions.com)
 
 ## Reports
 
