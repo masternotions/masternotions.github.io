@@ -1,10 +1,9 @@
-# Greenwald's Cockperialism
+# The Mythology of Glenn Greenwald
 
 ## Environments
 
-Production: [cockperialism.com](https://cockperialism.com)
+Production: [masternotions.com](https://masternotions.com)
 
-Staging: [staging.cockperialism.com](https://staging.cockperialism.com)
 
 ## Reports
 
