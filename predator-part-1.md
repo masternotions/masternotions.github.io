@@ -1,15 +1,22 @@
 ---
-layout: default
+layout: single
+classes: wide
 title: A sexual predator named Glenn Greenwald, Part 1
+header:
+    image: /assets/images/Predador1.jpg
 ---
 
 <!-- markdownlint-disable MD036 -->
 
-# {{ page.title }}
 
-by room16
+<!-- by room16 -->
 
-_August 1, 2019_
+## Translated from _Um Sexual Predador Chamado Glenn Greenwald Ato I_
+Original: [BetterCallGlen.com archive](https://web.archive.org/web/20190803233836/https://bettercallglenn.com/um-predador-sexual-chamado-glenn-greenwald-ato-i/)
+
+_August 1, 2019 by post16_
+
+<!-- ![image-center](/assets/images/Predador1.jpg){: .align-center} -->
 
 Corner of Lorimer Street and Devoe Street in Brooklyn, New York. I leave the station and an SMS (yes, the good old SMS) informs me that my guest is already waiting at the agreed place. The place is not far from another point that almost sixteen years ago brought RZ, 37 years old, three nights that for a measly $560, cost him sleep, anxiety disorders, depression, humiliation and suicidal ideas.
 
@@ -35,7 +42,7 @@ Still in a non-fluent English, RZ asked Greenwald why so many computers and in a
 
 Haas accused Greenwald of stealing his entire clientele behind the scenes through a service he had created by relating disk sex to subscribers for audio content, photos and pronographic videos aimed at gay male audiences. In 2004, Greenwald caused Haas to close the case with threats to spread amateur video of Haas and several of his friends; some of them, high-ranking men on Wall Street.
 
-## Greenwald 'The Professor' DomMascHry31
+### Greenwald 'The Professor' DomMascHry31
 
 After a long photo session, Butchel promised RZ a substantial amount since, in the opinion of him and his partner, the boy would have a fabulous, meteoric career and with gains previously unimaginable for the young man.
 

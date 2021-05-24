@@ -1,5 +1,6 @@
 ---
-layout: default
+layout: single
+classes: wide
 title: A sexual predator named Glenn Greenwald, Part 2
 ---
 
