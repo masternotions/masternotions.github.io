@@ -1,5 +1,10 @@
 lang: en-US
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+remote_theme: mmistakes/minimal-mistakes
 title: Master Notions
 description: The Mythology of Glenn Greenwald
 twitter_card: https://masternotions.com/assets/images/twitter-card2.jpg
 google_analytics: UA-176936640-1
+minimal_mistakes_skin: "aqua"
