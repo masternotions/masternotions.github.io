@@ -6,7 +6,6 @@ title: A sexual predator named Glenn Greenwald, Part 2
 
 <!-- markdownlint-disable MD036 -->
 
-# {{ page.title }}
 
 by room16
 
