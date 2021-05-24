@@ -11,14 +11,23 @@ modified: "September 9, 2020"
 # Intro
 
 _Right now this is still just a collection of links, loosely sorted_
-# Start Here
 
 
-Read the New York Daily News article: [Glenn Greenwald was once lawyer sued over porn business](https://www.nydailynews.com/news/national/greenwald-reporter-broke-nsa-story-lawyer-sued-porn-biz-article-1.1383448)
 
-Then read RZ's story: [A sexual predator named Glenn Greenwald, Part 1](predator-part-1.md)
+New York Daily News article: [Glenn Greenwald was once lawyer sued over porn business](https://www.nydailynews.com/news/national/greenwald-reporter-broke-nsa-story-lawyer-sued-porn-biz-article-1.1383448)
 
-And finish with RZ's escape: [A sexual predator named Glenn Greenwald, Part 2](predator-part-2.md)
+
+# BetterCallGlenn
+
+A number of allegations appeared on the Brazilian site BetterCallGlenn.com in 2019. The site is no longer active but most of the articles are preserved on the Internet Archive.
+
+Although we have been unable to confirm key parts of these, they contain many details which we have verified and were not at all widely known.
+
+RZ's NYC story: [A sexual predator named Glenn Greenwald, Part 1](predator-part-1.md)
+
+RZ's escape: [A sexual predator named Glenn Greenwald, Part 2](predator-part-2.md)
+
+Raul in Rio: [Glenn Greenwald's ex-actor talks about his adult films](raul-interview.md)
 
 # Timeline
 
