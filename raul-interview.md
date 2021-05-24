@@ -1,6 +1,6 @@
 ---
-layout: single
-classes: wide
+layout: splash
+# classes: wide
 title: Glenn Greenwald's ex-actor talks about his adult films
 ---
 
