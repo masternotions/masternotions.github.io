@@ -14,7 +14,7 @@ feature_row:
   - image_path: /riom/images/Top_banner.jpg
     alt: "Rio Male Escorts Banner"
     title: "with David's ex-friends"
-    url: "RioME.html"
+    url: "RioE.html"
     btn_label: "RioMaleEscorts.com"
     btn_class: "btn--danger"
 
