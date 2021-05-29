@@ -4,6 +4,8 @@ classes: wide
 title: Rio Gay Guides
 sidebar:
     -   image: /rion/images/ourguideservices004.jpg
+header:
+  og_image: rion/images/banalto002.jpg
 ---
 
 
