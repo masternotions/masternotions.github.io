@@ -8,6 +8,7 @@ twitter:
 image: assets/images/twitter-card2.jpg
 header:
  og_image: "/assets/images/twitter-card2.jpg"
+ image: "/assets/images/twitter-card2brlong.jpg"
 sidebar:
     -   image: /assets/images/EshEH_WU4AE7WXV.jpg
 feature_row:
