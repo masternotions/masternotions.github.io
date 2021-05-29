@@ -17,15 +17,12 @@ feature_row:
     url: "RioE.html"
     btn_label: "RioMaleEscorts.com"
     btn_class: "btn--danger"
-
 feature_row2:
   - image_path: assets/images/Babylon.png
     url: "https://washingtonbabylon.com/you-remember-carlos-danger-right-meet-hairy-studs-glenn-greenwalds-alter-ego-it-matters/"
     btn_label: "You Remember Carlos Danger, Right?"
     btn_class: "btn--warning"
     excerpt: "May 2021 article in Washington Babylon"
-
-
 ---
 
 <!--

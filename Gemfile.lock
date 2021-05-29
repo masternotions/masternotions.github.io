@@ -273,6 +273,7 @@ DEPENDENCIES
   jekyll (= 3.9.0)
   jekyll-include-cache
   jekyll-remote-theme
+  jekyll-seo-tag
   minimal-mistakes-jekyll
   rouge (= 3.26.0)
   webrick (~> 1.7)
