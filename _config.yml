@@ -8,10 +8,10 @@ title: Master Notions
 description: The Mythology of Glenn Greenwald
 header:
  image: /assets/images/twitter-cardbr.jpg
-twitter: 
-  card: "summary_large_image"
+og_image: "/assets/images/twitter-card2.jpg"
+twitter:  
   image: https://masternotions.com/assets/images/twitter-card2.jpg
-  site: "ggreenwald"
+  username: "ggreenwald"
   title: Master Notions
   description: Mythology of GG
 google_analytics: G-J73QXGV4YW
@@ -19,6 +19,6 @@ minimal_mistakes_skin: "aqua"
 sidebar:
  - image: /assets/images/EshEH_WU4AE7WXV.jpg
 repository: alansfr/alansfr.github.io
-url: masternotions.com
-baseurl: ""
+url: "https://masternotions.com"
+baseurl: "/"
 

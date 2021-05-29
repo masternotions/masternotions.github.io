@@ -7,7 +7,7 @@ twitter:
  site: masternotions.com
 image: assets/images/twitter-card2.jpg
 header:
- og_image: assets/images/twitter-card2.jpg
+ og_image: "/assets/images/twitter-card2.jpg"
 sidebar:
     -   image: /assets/images/EshEH_WU4AE7WXV.jpg
 feature_row:
