@@ -2,6 +2,12 @@
 layout: archive
 classes: wide
 title: Master Notions
+twitter: 
+ image: assets/images/twitter-card2.jpg
+ site: masternotions.com
+image: assets/images/twitter-card2.jpg
+header:
+ og_image: assets/images/twitter-card2.jpg
 sidebar:
     -   image: /assets/images/EshEH_WU4AE7WXV.jpg
 feature_row:
