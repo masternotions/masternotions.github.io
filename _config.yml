@@ -10,6 +10,9 @@ image: assets/images/twitter-cardbr.jpg
 twitter: 
   card: summary_large_image
   image: https://masternotions.com/assets/images/twitter-card2.jpg
+  site: @ggreenwald
+  title: Master Notions
+  description: Mythology of GG
 google_analytics: G-J73QXGV4YW
 minimal_mistakes_skin: "aqua"
 layout: single
