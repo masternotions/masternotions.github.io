@@ -1,0 +1,31 @@
+/* A:hover img, A:active img {FILTER: alpha(Opacity=99,FinishOpacity=60,style=1,StartX=0,FinishX=2,StartY=0,FinishY=2)} */
+h1 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-top: 0px;
+	color: #FFFFFF;
+}
+h2 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-weight: normal;
+	color: #FFFFFF;
+}
+h3 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #FFFFFF;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	font-weight: normal;
+}
+a:hover {color:hsl(256, 95%, 23%);}
+body,td,th {
+	font-size: 13px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.style1 {TEXT-DECORATION: underline;}

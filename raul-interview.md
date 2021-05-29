@@ -2,6 +2,7 @@
 layout: splash
 # classes: wide
 title: Glenn Greenwald's ex-actor talks about his adult films
+tags: bettercallglenn
 ---
 
 <!-- markdownlint-disable MD026 MD036 -->

@@ -2,6 +2,7 @@
 layout: single
 classes: wide
 title: A sexual predator named Glenn Greenwald, Part 2
+tags: bettercallglenn
 header:
     image: /assets/images/Predador2.png
 ---
@@ -30,7 +31,7 @@ RZ, was especially annoyed by the vast amount of material linking Nazi images wi
 ## How Glenn Greenwald and Jason Buchtel cheated their 'slaves' in the absence of better terms
 
 
-![Showboy](/assets/images/ShowBoy-GlennGreenwald-JasonBuchtel.jpg){: .align-left}
+![Showboy](assets/images/ShowBoy-GlennGreenwald-JasonBuchtel.jpg){: .align-left}
 
 To try to seduce me, Jason showed content from the Showboy footage, had Whoopi Goldberg. He came up with that talk that if I knew how many Hollywood stars before major studios had acted in pornographic productions, I would lose my fear.
 

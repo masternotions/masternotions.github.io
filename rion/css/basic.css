@@ -1,0 +1,64 @@
+a.LeftNav {text-decoration:none}
+a.LeftNav:hover {color: #A90000}
+a.LeftNav:hover {text-decoration:none}
+a.LeftNav {color: black}
+
+a.LeftTitle {text-decoration:underline}
+a.LeftTitle :hover {color: #A90000}
+a.LeftTitle :hover {text-decoration:none}
+a.LeftTitle  {color: black}
+
+a.BttnNav {text-decoration: underline}
+a.BttnNav:hover {color: #B5B57F}
+a.BttnNav:hover {text-decoration:none}
+a.BttnNav {color: #0066ff}
+
+.nav1
+{
+font-size: 9px;
+font-weight: bold;
+font-family: arial, helvetica, geneva, sans-serif;
+color: #0000ff;
+}
+
+.nav
+{
+font-size: 12px;
+font-weight: bold;
+font-family: arial, helvetica, geneva, sans-serif;
+}
+
+.title
+{
+font-size: 14px;
+font-weight: bold;
+font-family: verdana, tahoma, arial, helvetica, geneva, sans-serif
+}
+
+.txt1
+{
+font-size: 11px;
+font-family: verdana, tahoma, arial, helvetica, geneva, sans-serif;
+font-weight: bold;
+color: #850080;
+letter-spacing: 0pt;
+line-height: 20px;
+}
+
+.txt2
+{
+font-size: 12px;
+font-family: verdana, tahoma, arial, helvetica, geneva, sans-serif;
+}
+
+.smalltxt
+{
+font-size: 11px;
+font-family: verdana, tahoma, arial, helvetica, geneva, sans-serif
+}
+
+.Smallest
+{
+font-size: 12px;
+font-family: arial, verdana, tahoma, arial, helvetica, geneva, sans-serif
+}

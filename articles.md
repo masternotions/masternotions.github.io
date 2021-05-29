@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: single
+classes:
+    wide
 title: Articles
 ---
 
