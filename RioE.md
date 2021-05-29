@@ -5,7 +5,7 @@ title: Rio Male Escorts
 sidebar:
     -   image: /rion/images/ourguideservices002.jpg
 header:
-  og_image: riom/Top_banner.jpg
+  og_image: riom/images/Top_banner.jpg
 ---
 
 
