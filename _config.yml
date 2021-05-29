@@ -5,8 +5,8 @@ plugins:
 remote_theme: mmistakes/minimal-mistakes
 title: Master Notions
 description: The Mythology of Glenn Greenwald
-url: https://masternotions.com
-twitter_card: https://masternotions.com/assets/images/twitter-card2.jpg
+twitter_card: assets/images/twitter-card2.jpg
+twitter_image: assets/images/twitter-card2.jpg
 google_analytics: G-J73QXGV4YW
 minimal_mistakes_skin: "aqua"
 layout: single
