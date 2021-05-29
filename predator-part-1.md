@@ -1,13 +1,16 @@
 ---
 layout: single
-classes: wide
+toc: true
 # entries_layout: grid
 title: A sexual predator named Glenn Greenwald, Part 1
-tags: bettercallglenn
+author: room16
+date: 2019-08-01
 header:
     image: assets/images/Predador1.jpg
 sidebar:
-    -   image: assets/images/EshEH_WU4AE7WXV.jpg
+    image: assets/images/EshEH_WU4AE7WXV.jpg
+    nav: "BCG1"
+author_profile: true
 ---
 
 <!-- markdownlint-disable MD036 -->
@@ -15,10 +18,10 @@ sidebar:
 
 <!-- by room16 -->
 
-## Translated from _Um Sexual Predador Chamado Glenn Greenwald Ato I_
-Original: [BetterCallGlen.com archive](https://web.archive.org/web/20190803233836/https://bettercallglenn.com/um-predador-sexual-chamado-glenn-greenwald-ato-i/)
+Translated from _Um Sexual Predador Chamado Glenn Greenwald Ato I_
 
-_August 1, 2019 by post16_
+
+
 
 <!-- ![image-center](/assets/images/Predador1.jpg){: .align-center} -->
 
@@ -46,7 +49,7 @@ Still in a non-fluent English, RZ asked Greenwald why so many computers and in a
 
 Haas accused Greenwald of stealing his entire clientele behind the scenes through a service he had created by relating disk sex to subscribers for audio content, photos and pronographic videos aimed at gay male audiences. In 2004, Greenwald caused Haas to close the case with threats to spread amateur video of Haas and several of his friends; some of them, high-ranking men on Wall Street.
 
-### Greenwald 'The Professor' DomMascHry31
+## Greenwald 'The Professor' DomMascHry31
 
 After a long photo session, Butchel promised RZ a substantial amount since, in the opinion of him and his partner, the boy would have a fabulous, meteoric career and with gains previously unimaginable for the young man.
 

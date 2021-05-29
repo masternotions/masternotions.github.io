@@ -1,0 +1,15 @@
+BCG1:
+ - title: BetterCallGlenn.com Original Source (in Portuguese)
+   children:
+    - title: Um Sexual Predador Chamado Glenn Greenwald Ato I
+      url: "https://web.archive.org/web/20190803233836/https://bettercallglenn.com/um-predador-sexual-chamado-glenn-greenwald-ato-i"
+    - title: Um Sexual Predador Chamado Glenn Greenwald Ato II
+      url: "https://web.archive.org/web/20190803233836/https://bettercallglenn.com/um-predador-sexual-chamado-glenn-greenwald-ato-ii"
+ - title: BetterCallGlenn translations
+   children:
+    - title: A sexual predator named Glenn Greenwald, Part 1
+      url: /predator-part-1.html
+    - title: A sexual predator named Glenn Greenwald, Part 2
+      url: /predator-part-2.html
+    - title: Glenn Greenwald's ex-actor talks about his adult films
+      url: /raul-interview.html
