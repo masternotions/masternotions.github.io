@@ -1,6 +1,31 @@
 ---
-# layout: index
-modified: "September 9, 2020"
+layout: archive
+classes: wide
+title: Master Notions
+sidebar:
+    -   image: /assets/images/EshEH_WU4AE7WXV.jpg
+feature_row:
+  - image_path: /rion/images/banalto002.jpg
+    alt: "Rio Gay Guides Banner"
+    url: "RioG.html"
+    btn_label: "RioGayGuides.com"
+    btn_class: "btn--success"
+    title: "Starring David Miranda"
+  - image_path: /riom/images/Top_banner.jpg
+    alt: "Rio Male Escorts Banner"
+    title: "with David's ex-friends"
+    url: "RioME.html"
+    btn_label: "RioMaleEscorts.com"
+    btn_class: "btn--danger"
+
+feature_row2:
+  - image_path: assets/images/Babylon.png
+    url: "https://washingtonbabylon.com/you-remember-carlos-danger-right-meet-hairy-studs-glenn-greenwalds-alter-ego-it-matters/"
+    btn_label: "You Remember Carlos Danger, Right?"
+    btn_class: "btn--warning"
+    excerpt: "May 2021 article in Washington Babylon"
+
+
 ---
 
 <!--
@@ -10,11 +35,28 @@ modified: "September 9, 2020"
 
 # Intro
 
-_Right now this is still just a collection of links, loosely sorted_
+
+_Right now this is mostly a collection of links, loosely sorted_
+
+Additionally we host our own reconstructions of some lost websites, entirely based on material from the [Wayback Machine](archive.org) but with faster and more reliable navigation, and fewer dead links.
 
 
 
-New York Daily News article: [Glenn Greenwald was once lawyer sued over porn business](https://www.nydailynews.com/news/national/greenwald-reporter-broke-nsa-story-lawyer-sued-porn-biz-article-1.1383448)
+# _New_{: .notice--warning}   RioGayGuides and RioMaleEscorts 
+
+## Reconstructions of two of Glenn and David's websites from 2005-6
+
+
+{% include feature_row %}
+
+<!-- [![RioGayGuides Banner](/rion/images/banalto002.jpg)](RioG.html) -->
+
+
+<!-- **New**{: .notice--primary} Glenn and David's 2006 [RioGayGuides.com](RioG.md){: .btn .btn--primary} -->
+
+
+<!-- [![RioMaleEscorts Banner](/riom/images/Top_banner.jpg)](RioME.html) -->
+
 
 
 # BetterCallGlenn
@@ -29,9 +71,24 @@ RZ's escape: [A sexual predator named Glenn Greenwald, Part 2](predator-part-2.m
 
 Raul in Rio: [Glenn Greenwald's ex-actor talks about his adult films](raul-interview.md)
 
-# Timeline
 
-February 2005, GG goes on a two month vacation to Rio. On the 2nd day, GG meets DM. They move in together within a week.
+
+# Published Articles about Greenwald's porn empire
+
+New York Daily News article: [Glenn Greenwald was once lawyer sued over porn business](https://www.nydailynews.com/news/national/greenwald-reporter-broke-nsa-story-lawyer-sued-porn-biz-article-1.1383448)
+
+
+
+{% include feature_row id="feature_row2" type="left" %}
+
+
+
+
+# Timeline
+{: .text-nowrap}
+
+<aside>February 2005, GG goes on a two month vacation to Rio. On the 2nd day, GG meets DM. They move in together within a week.</aside>
+
 [link](https://twitter.com/wokyleeks/status/1298827978164453378)
 [link](https://twitter.com/AlanVRK/status/1298322296579522564)
 

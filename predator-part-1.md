@@ -1,9 +1,13 @@
 ---
 layout: single
 classes: wide
+# entries_layout: grid
 title: A sexual predator named Glenn Greenwald, Part 1
+tags: bettercallglenn
 header:
-    image: /assets/images/Predador1.jpg
+    image: assets/images/Predador1.jpg
+sidebar:
+    -   image: assets/images/EshEH_WU4AE7WXV.jpg
 ---
 
 <!-- markdownlint-disable MD036 -->
