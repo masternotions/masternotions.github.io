@@ -16,5 +16,5 @@ header:
 </style>
 
 <div>
-<iframe src="riom/index.html" width="900px" height="2100px" allow-forms="false"></iframe>
+<iframe src="riom/index.html" width="900px" height="1500px" allow-forms="false"></iframe>
 </div>
