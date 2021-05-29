@@ -1,20 +1,26 @@
 ---
 layout: single
-classes: wide
+toc: true
 title: A sexual predator named Glenn Greenwald, Part 2
-tags: bettercallglenn
+author: room16
+date: 2019-08-03
 header:
     image: /assets/images/Predador2.png
+sidebar:
+    image: /assets/images/EshEH_WU4AE7WXV.jpg
+    nav: "BCG1"
+author_profile: true
 ---
 
 <!-- markdownlint-disable MD036 -->
 
-## Translated from _Um Sexual Predador Chamado Glenn Greenwald Ato II_
-Original: [BetterCallGlen.com archive](https://web.archive.org/web/20190803233836/https://bettercallglenn.com/um-predador-sexual-chamado-glenn-greenwald-ato-ii/)
+Translated from _Um Sexual Predador Chamado Glenn Greenwald Ato II_
+
+<!-- ## Original source (in Portuguese)
+[BetterCallGlen.com archive](https://web.archive.org/web/20190803233836/https://bettercallglenn.com/um-predador-sexual-chamado-glenn-greenwald-ato-ii/) -->
 
 
 
-_August 3, 2019 by room16_
 
 If you didn’t read the [first part](predator-part-1.md), we suggest you read it to find out about the case in general, and how Glenn Greenwald still responds in the US for Hairy Jocks activities, and for practicing Law even with his expired license, better known as BAR EXAM; equivalent to the OAB exam in Brazil.
 
