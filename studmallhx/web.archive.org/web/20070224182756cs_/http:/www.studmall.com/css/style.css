@@ -1,0 +1,180 @@
+a.menu {text-decoration:none}
+a.menu:hover {color: #686868}
+a.menu:hover {text-decoration:none}
+a.menu:hover {font-weight: bold} 
+a.menu:hover {font-size: 20px }
+a.menu:hover {font-family:Verdana, Times, serif}
+a.menu {color: white}
+a.menu {font-size: 20px }
+a.menu {font-weight: bold} 
+a.menu {font-family:Verdana, Times, serif}
+
+a.menu_Smaller {text-decoration:none}
+a.menu_Smaller:hover {color: grey}
+a.menu_Smaller:hover {text-decoration:none}
+a.menu_Smaller:hover {font-weight: bold} 
+a.menu_Smaller:hover {font-size: 20px }
+a.menu_Smaller:hover {font-family:Verdana, Times, serif}
+a.menu_Smaller {color: white}
+a.menu_Smaller {font-size: 20px }
+a.menu_Smaller {font-weight: bold} 
+a.menu_Smaller {font-family:Verdana, Times, serif}
+
+
+.title {
+font-family: "Verdana, Times, serif"; 
+font-size: 25px; 
+color: white; 
+font-weight: bold;
+text-decoration: none;
+}
+
+.text {
+font-family: "Verdana, Times, serif"; 
+font-size: 	17px; 
+color: white; 
+font-weight: bold;
+text-decoration: none;
+}
+
+.menuu {
+font-family: "Verdana, Times, serif"; 
+font-size: 18px; 
+color: white; 
+font-weight: bold;
+}
+
+.price {
+font-family: "Verdana, Times, serif"; 
+font-size: 25px; 
+color: white; 
+font-weight: bold;
+text-decoration: none;
+}
+.menu:hover {
+font-family: "Verdana, Times, serif"; 
+font-size: 20px; 
+color: 444444; 
+font-weight: bold;
+text-decoration: none;
+}
+
+.menusm {
+font-family: "Verdana, Times, serif"; 
+font-size: 12px; 
+color: white; 
+font-weight: bold;
+text-decoration: none;
+}
+.menusm2 {
+font-family: "Verdana, Times, serif"; 
+font-size: 14px; 
+color: white; 
+font-weight: bold;
+text-decoration: none;
+}
+
+.menum {
+font-family: "Verdana, Times, serif"; 
+font-size: 18px; 
+color: white; 
+font-weight: bold;
+text-decoration: none;
+}
+
+.plaque {
+font-family: "Verdana, Times, serif"; 
+font-size: 12px; 
+color: black; 
+font-weight: bold;
+}
+.menusm:hover {
+font-family: "Verdana, Times, serif"; 
+font-size: 11px; 
+color: 444444; 
+font-weight: bold;
+text-decoration: none;
+}
+
+.pic {
+border-color: white;
+}
+
+a { 
+color: #FFFFFF; 
+font-family: "Verdana, Times, serif"; 
+
+} 
+
+h2 {
+font-family: "Verdana, Times, serif"; 
+}
+a:visited { 
+color: #FFFFFF; 
+font-family: "Verdana, Times, serif"; 
+
+} 
+a:active { 
+color: #FFFFFF; 
+font-family: "Verdana, Times, serif"; 
+}
+a.link{
+font-family: "Verdana, Times, serif";
+}
+a.vlink{
+font-family: "Verdana, Times, serif";
+color: #FFFFFF; 
+}
+
+.small {
+font-family: "Verdana, Times, serif";
+font-size: 12px; 
+}
+
+.titleg {
+font-family: "Verdana, Times, serif";
+font-size: 20px; 
+}
+
+.titlec {
+font-family: "Verdana, Times, serif"; 
+font-size: 16px; 
+color: #000000; 
+font-weight: bold;
+}
+.menusmSmall {
+font-family: "Verdana, Times, serif"; 
+font-size: 12px; 
+color: white; 
+font-weight: bold;
+text-decoration: none;
+}
+.menusmSmall:hover {
+font-family: "Verdana, Times, serif"; 
+font-size: 12px; 
+color: 444444; 
+font-weight: bold;
+text-decoration: none;
+}
+
+/*
+     FILE ARCHIVED ON 18:58:52 Feb 26, 2007 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 01:54:03 Jun 03, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  exclusion.robots: 0.394
+  PetaboxLoader3.resolve: 80.574 (2)
+  RedisCDXSource: 1.139
+  esindex: 0.022
+  CDXLines.iter: 24.356 (3)
+  captures_list: 105.827
+  exclusion.robots.policy: 0.37
+  LoadShardBlock: 74.385 (3)
+  load_resource: 116.537
+  PetaboxLoader3.datanode: 71.407 (4)
+*/
