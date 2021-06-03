@@ -3,11 +3,15 @@ layout: single
 classes:
     wide
 title: Articles
+header:
+  image: assets/images/GGSenado.jpg
 ---
 
 [Go Back](index.md)
 
 # Articles and Posts
+
+**To be sorted**
 
 - ``Mar 09, 2005`` Jodi Wilgoren for The New York Times: [Supremacist Sent Code From Jail, Lawyer Says](https://www.nytimes.com/2005/03/09/us/supremacist-sent-code-from-jail-lawyer-says.html)
 - ``Jul 27, 2006`` Patterico on Blog: [Annotated WuzzaDem: The Facts Behind the Greenwald Sock-Puppetry](http://patterico.com/2006/07/27/annotated-wuzzadem-the-facts-behind-the-greenwald-sock-puppetry/)
