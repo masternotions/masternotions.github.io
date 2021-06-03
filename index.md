@@ -156,6 +156,8 @@ Raul in Rio: [Glenn Greenwald's ex-actor talks about his adult films](raul-inter
 - ``Jul 23, 2019`` Bruna de Pieri for Terça Livre TV: [Glenn Greenwald has been sued for pornography, according to foreign website](https://www.tercalivre.com.br/glenn-greenwald-ja-foi-processado-por-pornografia-segundo-site-estrangeiro/)
 
 
+[Does Glenn have a Pulitzer?](pulitzer.md)
+
 ## More Articles
 
 - [Articles](articles.md)
