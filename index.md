@@ -37,7 +37,11 @@ feature_row2:
 # Highlights
 
 _This site is still in its early stages. The best of the site so far is in this section_.  
-There are much more comprehensive details on Twitter, although spread over many months and many, many tweets.
+
+### But First...
+> There are much more comprehensive details on Twitter, although spread over many months and many, many tweets.
+> We are building a list of some starting points on Twitter here:
+> [Twitter Threads *about* Glenn](TwitterThreads.md){: .btn .btn--success .btn--large} _New_{: .notice--warning .new} 
 
 ## Glenn's forgotten websites
 
@@ -57,14 +61,14 @@ _A reconstruction of sites Glenn and David set up in Brazil in 2005_
 ### HX articles: Glenn's porn tips
 ![Cheap Trixx](hxn/web.archive.org/web/20050221102140im_/http:/www.hx.com/images/hxlogo.gif) was the leading gay listings magazine in New York City for most of the 90s and 00s.
 
-In February 2005, the very same week thst Glenn and David "met on the beach" in Rio, HX published an article by Glenn back in NYC. Perhaps the only article published in his name that was written while he lived in the United States. 
+In February 2005, the very same week that Glenn and David "met on the beach" in Rio; back in NYC, HX published an article by an unknown writer and "resting" lawyer, Glenn Greenwald.  
 
 How did you ever manage without its handy advice?
 
 *DON'T forget about the sound. If you're shooting in New York, close your windows! Nothing is worse than the sound of hot sex being drowned out by sirens, passing buses and couples fighting next door.*
 {: .notice--primary align-right}
 Read it here:
-[Cheap Trixxx by Glenn Greenwald](hx.html){: .btn .btn--warning .btn--large} _New_{: .notice--warning}   
+[Cheap Trixxx by Glenn Greenwald](hx.html){: .btn .btn--warning .btn--large}   
 
 
 ## Published Articles about Greenwald's porn empire
@@ -87,10 +91,10 @@ Do we hear two years?
 {% include video id="f_BskTnqY8U?start=46" provider="youtube" %}
 
 ### David Miranda - Director and Custodian of Records
+*R or X-rated links*{: .notice--warning}
 
 David Miranda's porn direction career really took off at exactly the same time as Glenn moved to Brazil.
 
-*R or X-rated links*{: .notice--danger}
 
 
 [One major porn catalog lists him as director for eight movies](https://gay.aebn.com/gay/directors/19979/david-miranda)
@@ -106,6 +110,25 @@ Especially the box covers.
 > although you won't find it in the list I just mentioned. **David Miranda, 2010**.
 {: .align-left}
 
+
+### What's Glenn's Best Movie?
+
+We're not really a movie review site.  
+More of a _This Movie Really Exists and Glenn Really Produced It?_ site.
+
+_New_{: .notice--danger .new}  But since you asked, we're currently fond of this. 
+<video controls width="720">
+<source src="assets/video/GreenCat.mp4" type="video/mp4">
+</video>
+
+
+## Other Lies
+
+There cover all conceivable subjects. Some are mentioned in
+[Twitter Threads *about* Glenn](TwitterThreads.md){: .btn .btn--success} 
+
+But one deserves singling out.
+[Does Glenn have a Pulitzer?](pulitzer.md){: .btn .btn--warning .btn--large} 
 
 ## BetterCallGlenn
 
@@ -156,7 +179,6 @@ Raul in Rio: [Glenn Greenwald's ex-actor talks about his adult films](raul-inter
 - ``Jul 23, 2019`` Bruna de Pieri for Terça Livre TV: [Glenn Greenwald has been sued for pornography, according to foreign website](https://www.tercalivre.com.br/glenn-greenwald-ja-foi-processado-por-pornografia-segundo-site-estrangeiro/)
 
 
-[Does Glenn have a Pulitzer?](pulitzer.md)
 
 ## More Articles
 
