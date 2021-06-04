@@ -2,7 +2,7 @@
 layout: splash
 title: Twitter on Glenn
 header:
-  image: assets/images/sunset.jpg
+  image: assets/images/rio.jpg
 gallery:
   - url: https://twitter.com/DavidNeiwert/status/1130547049949122560
     image_path: /assets/tweetcards/Hale.png
@@ -24,6 +24,18 @@ gal2:
   - url: https://twitter.com/AlanVRK/status/1385709907354210305
     image_path: /assets/tweetcards/Motley.png
     title: "When Glenn met Constance Baker Motley"
+
+gal3:
+  - url: https://twitter.com/rocco_castoro/status/1394310875633176576
+    image_path: /assets/tweetcards/ip.png
+    title: "Not just the coffee boy"
+  - url: https://twitter.com/AlanVRK/status/1400511318428471299
+    image_path: assets/tweetcards/2014groupphoto900.jpg
+    title: "Where's Glenndo?"
+  - url: https://twitter.com/AlanVRK/status/1343341732415594496
+    image_path: /assets/tweetcards/copa.jpg
+    title: "Enzuli - follow this tweet in all directions"
+ 
 ---
 
 
@@ -41,6 +53,9 @@ _They do not necessarily link to the start of the thread. If a thread bifurcates
 
 
 {% include gallery id="gal2" caption="A Whistleblower, A Lawsuit, and the great Constance Baker Motley" %}
+
+
+{% include gallery id="gal3" caption="No Coffee Boy, No Pulitzer and No Place to Buy an Airline Ticket" %}
 
 
 
