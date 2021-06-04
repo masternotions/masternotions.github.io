@@ -1,0 +1,60 @@
+ /*
+-----------------------------------------------
+Quick Edit and Delete Comment Icons
+----------------------------------------------- */
+
+/* Hide it now, show it later with dynamically-generated CSS */
+.item-control {
+   display:none;
+}
+
+.item-control a, .item-action a {
+   text-decoration:none !important;
+}
+
+.quick-edit-icon {
+   background: url("../../../../20051215224140im_/http:/www.blogger.com/img/icon18_edit_allbkg.gif") no-repeat left;
+
+   /* makes an 18x18 box */
+   padding:9px;
+
+   margin:0 0 0 .5em;
+}
+
+.delete-comment-icon {
+   background: url("../../../../20051215224140im_/http:/www.blogger.com/img/icon_delete13.gif") no-repeat left;
+
+   /* makes a 14x14 box */
+   padding:7px;
+}
+
+.email-post-icon { 
+   background: url("../../../../20051215224140im_/http:/www.blogger.com/img/icon18_email.gif") no-repeat left;
+
+   /* makes an 18x18 box */
+   padding:9px;
+
+   margin:0 0 0 .5em;
+}
+
+/*
+     FILE ARCHIVED ON 22:41:40 Dec 15, 2005 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 19:09:15 Jun 04, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 1263.803
+  exclusion.robots: 0.079
+  exclusion.robots.policy: 0.072
+  RedisCDXSource: 6.55
+  esindex: 0.009
+  LoadShardBlock: 851.9 (3)
+  PetaboxLoader3.datanode: 703.837 (4)
+  CDXLines.iter: 53.391 (3)
+  load_resource: 118.995
+  PetaboxLoader3.resolve: 69.459
+*/
