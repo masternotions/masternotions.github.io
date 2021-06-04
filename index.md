@@ -24,6 +24,12 @@ feature_row:
     url: "RioE.html"
     btn_label: "RioMaleEscorts.com"
     btn_class: "btn--danger"
+  - image_path: /stdmbs/web.archive.org/web/20051215143803im_/http:/www.studmall.com/images/New_Logo.gif
+    alt: "StudMall - Fuck The Pain Away"
+    title: "David's own blog page"
+    url: "/stdmbs/web.archive.org/web/20051215143803if_/http:/studmall.blogspot.com/index.html"
+    btn_label: "StudMall.Blogspot.com"
+    btn_class: "btn--warning"
 feature_row2:
   - image_path: assets/images/Babylon.png
     url: "https://washingtonbabylon.com/you-remember-carlos-danger-right-meet-hairy-studs-glenn-greenwalds-alter-ego-it-matters/"
