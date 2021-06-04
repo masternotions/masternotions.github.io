@@ -1,0 +1,70 @@
+
+#b-navbar 
+  {
+    background:#036;
+    border-bottom:1px solid #024;
+    color:#47a;
+  }
+
+#b-search 
+  {
+    background:#147 url("https://web.archive.org/web/20051215224045im_/http://www.blogger.com/css/img/navbar/1/corner.gif") no-repeat left bottom;
+  }
+  
+#b-query 
+  {
+    border:1px solid #47a;
+  }
+  
+#b-this a 
+  {
+    color:#9cf;
+  }
+  
+#b-this a:hover 
+  {
+    color:#fff;
+  }
+
+#flagi #flagtop
+  {
+    background-image:url('../../../../../20051215224045im_/http:/www.blogger.com/img/navbar/1/flag_info_top.gif');
+  }
+
+#flagi-body
+  {
+    color:#000000;
+  }
+
+#flagi
+  {
+    border-color:#002244; 
+    background:#4278AC;
+  } 
+
+#flagi-body a
+  {
+    color: #F1F1F1;
+  }
+
+/*
+     FILE ARCHIVED ON 22:40:45 Dec 15, 2005 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 19:11:26 Jun 04, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  exclusion.robots: 0.21
+  esindex: 0.015
+  exclusion.robots.policy: 0.195
+  RedisCDXSource: 1.719
+  load_resource: 63.756
+  LoadShardBlock: 83.55 (3)
+  PetaboxLoader3.resolve: 51.992
+  PetaboxLoader3.datanode: 76.398 (4)
+  CDXLines.iter: 19.742 (3)
+  captures_list: 140.427
+*/

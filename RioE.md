@@ -3,7 +3,8 @@ layout: archive
 classes: wide
 title: Rio Male Escorts
 sidebar:
-    -   image: /rion/images/ourguideservices002.jpg
+    - image: /rion/images/ourguideservices002.jpg
+      nav: RioGuides
 header:
   og_image: riom/images/Top_banner.jpg
 ---

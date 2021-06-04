@@ -22,9 +22,39 @@ HX:
       url: /studmallhx/web.archive.org/web/20070224182756if_/http:/www.studmall.com:80/hx1.htm
  - title: Originals on Wayback Machine
    children:
-   - title: Cheap Trixxx - web version
-     url: https://web.archive.org/web/20050221102140/http://www.hx.com/features/index.cfm?id=2255&page=features&sub_page=weekly
-   - title: Studmall - Cheap Trixxx promotion
-     url: https://web.archive.org/web/20050511030808/http://www.studmall.com:80/Articles/hx.php
+    - title: Cheap Trixxx - web version
+      url: https://web.archive.org/web/20050221102140/http://www.hx.com/features/index.cfm?id=2255&page=features&sub_page=weekly
+    - title: Studmall - Cheap Trixxx promotion
+      url: https://web.archive.org/web/20050511030808/http://www.studmall.com:80/Articles/hx.php     
+RioGuides:
+ - title: RioGayGuides.com on the Wayback Machine
+   children:
+    - title: Home Page
+      url: https://web.archive.org/web/20051212053633/http://www.riogayguides.com/
+    - title: David was White (later home page)
+      url: https://web.archive.org/web/20060409045217/http://www.riogayguides.com/
+    - title: Prices April 2006
+      url: https://web.archive.org/web/20060428064215/http://www.riogayguides.com/our_pricing.html
+    - title: Fire Sale
+      url: https://web.archive.org/web/20060616051849/http://riogayguides.com:80/our_pricing.html
+ - title: RioMaleEscorts.com on the WayBack Machine
+   children:
+    - title: '"We have an apartment"'
+      url: https://web.archive.org/web/20051104045456/http://www.riomaleescorts.com:80/Pages/Meeting.php
+    - title: Home Page
+      url: https://web.archive.org/web/20051013061008/http://www.riomaleescorts.com/
+ - title: On this site
+   children:
+    - title: RioMaleEscorts
+      url: RioE.md
+    - title: RioGayGuides
+      url: RioG.md
+ - title: Bonus
+   children:
+    - title: StudMall.Blogspot by David Miranda
+      url : /stdmbs/web.archive.org/web/20051215143803if_/http:/studmall.blogspot.com/index.html
+    - title: SM Blogspot on The Wayback Machine
+      url:  https://web.archive.org/web/20051215143803/http://studmall.blogspot.com/
+
 
 
