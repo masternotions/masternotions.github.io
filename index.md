@@ -27,7 +27,7 @@ feature_row:
   - image_path: /stdmbs/web.archive.org/web/20051215143803im_/http:/www.studmall.com/images/New_Logo.gif
     alt: "StudMall - Fuck The Pain Away"
     title: "David's own blog page"
-    url: "/stdmbs/web.archive.org/web/20051215143803if_/http:/studmall.blogspot.com/index.html"
+    url: blogspot.html
     btn_label: "StudMall.Blogspot.com"
     btn_class: "btn--warning"
 feature_row2:
