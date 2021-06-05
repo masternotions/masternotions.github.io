@@ -31,7 +31,7 @@ RioGuides:
    children:
     - title: Home Page
       url: https://web.archive.org/web/20051212053633/http://www.riogayguides.com/
-    - title: David was White (later home page)
+    - title: 'David was "white"'
       url: https://web.archive.org/web/20060409045217/http://www.riogayguides.com/
     - title: Prices April 2006
       url: https://web.archive.org/web/20060428064215/http://www.riogayguides.com/our_pricing.html
@@ -46,13 +46,13 @@ RioGuides:
  - title: On this site
    children:
     - title: RioMaleEscorts
-      url: RioE.md
+      url: /RioE.html
     - title: RioGayGuides
-      url: RioG.md
+      url: /RioG.html
  - title: Bonus
    children:
     - title: StudMall.Blogspot by David Miranda
-      url : /stdmbs/web.archive.org/web/20051215143803if_/http:/studmall.blogspot.com/index.html
+      url : /blogspot.html
     - title: SM Blogspot on The Wayback Machine
       url:  https://web.archive.org/web/20051215143803/http://studmall.blogspot.com/
 

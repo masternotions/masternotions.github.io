@@ -20,14 +20,14 @@ feature_row:
     title: "Starring David Miranda"
   - image_path: /riom/images/Top_banner.jpg
     alt: "Rio Male Escorts Banner"
-    title: "with David's ex-friends"
+    title: "David's ex-friends (R-Rated)"
     url: "RioE.html"
     btn_label: "RioMaleEscorts.com"
     btn_class: "btn--danger"
   - image_path: /stdmbs/web.archive.org/web/20051215143803im_/http:/www.studmall.com/images/New_Logo.gif
     alt: "StudMall - Fuck The Pain Away"
     title: "David's own blog page"
-    url: "/stdmbs/web.archive.org/web/20051215143803if_/http:/studmall.blogspot.com/index.html"
+    url: blogspot.html
     btn_label: "StudMall.Blogspot.com"
     btn_class: "btn--warning"
 feature_row2:
@@ -47,7 +47,7 @@ _This site is still in its early stages. The best of the site so far is in this 
 ### But First...
 > There are much more comprehensive details on Twitter, although spread over many months and many, many tweets.
 > We are building a list of some starting points on Twitter here:
-> [Twitter Threads *about* Glenn](TwitterThreads.md){: .btn .btn--success .btn--large} _New_{: .notice--warning .new} 
+> [Twitter Threads *about* Glenn](TwitterThreads.md){: .btn .btn--success .btn--large} _Updated_{: .notice--warning .new} 
 
 ## Glenn's forgotten websites
 
@@ -58,7 +58,7 @@ These are constructed almost entirely based on material from the [Wayback Machin
 
 
 ### RioGayGuides and RioMaleEscorts 
-_A reconstruction of sites Glenn and David set up in Brazil in 2005_
+_A reconstruction of sites Glenn and David set up in Brazil in 2005_ _Updated_{: .notice--warning .new} 
 
 
 {% include feature_row %}
