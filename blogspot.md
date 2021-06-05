@@ -25,5 +25,5 @@ But those links! Very revealing.
 </style>
 
 <div>
-<iframe src="/stdmbs/web.archive.org/web/20051215143803if_/http:/studmall.blogspot.com/index.html" width="900px" height="1350px" allow-forms="false"></iframe>
+<iframe src="/stdmbs/web.archive.org/web/20051215143803if_/http:/studmall.blogspot.com/index.html" width="1000px" height="1350px" allow-forms="false"></iframe>
 </div>
