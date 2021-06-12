@@ -150,8 +150,12 @@ RZ's escape: [A sexual predator named Glenn Greenwald, Part 2](predator-part-2.m
 Raul in Rio: [Glenn Greenwald's ex-actor talks about his adult films](raul-interview.md)
 
 
+# Keira Knightley Guest Appearance
 
+This only specific link this has with Glenn is that it's very creepy. 
+But we need somewhere to put a video Google appear to be trying very hard to hide.
 
+[Weinstein-Zuckerberg party for one](Yuri.md){: .btn .btn--danger .btn--large} 
 
 # Under Development
 
