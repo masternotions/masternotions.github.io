@@ -3,6 +3,7 @@ layout: single
 classes:
     wide
 title: Does Glenn have a Pulitzer?
+description: NO!
 header:
   image: assets/images/Rabbit1.jpeg
 sidebar:
