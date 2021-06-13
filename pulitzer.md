@@ -14,7 +14,7 @@ sidebar:
 
 Of course not. 
 
-Awkward [the Pulitzer people even had to address the question](https://blog.erratasec.com/2014/04/no-glenn-greenwald-did-not-win-pulitzer.html#.YLhmeS1Q3UJ).
+Awkward [the Pulitzer people even had to address the question](https://blog.erratasec.com/2014/04/no-glenn-greenwald-did-not-win-pulitzer.html#.YLhmeS1Q3UJ). 
 
 ## That Pulitzer Email
 
