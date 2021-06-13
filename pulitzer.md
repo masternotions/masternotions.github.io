@@ -3,9 +3,10 @@ layout: single
 classes:
     wide
 title: Does Glenn have a Pulitzer?
-description: NO!
+description: "Will you let me hold your Pulitzer?"
 header:
-  image: assets/images/Rabbit1.jpeg
+  image: assets/images/bunnyslow.gif
+  og_image: assets/images/Rabbit1.jpeg
 sidebar:
   - image: assets/images/bigbunny.jpg
 ---
@@ -29,6 +30,10 @@ Detailed explanation to come, but this is the definitive email.
 ![Pulitzer winners 2014](assets/images/2014groupphoto1290.jpg){: .align-center}
 This is not exactly the *definitive* photograph, but this is on the Pulitzer website, with that caption.
 Do you really think Glenn would have skipped the awards ceremony if he'd been invited, when he bothered to fly from Brazil to the US for the awards _annoucement_ a month earlier?
+
+## "Will you let me hold your Pulitzer?"
+
+Yes, that really is something Glenn tweeted.
 
 # So what's that rabbit about?
 
