@@ -4,6 +4,7 @@ classes: wide
 title: Rio Gay Guides
 sidebar:
   - image: /rion/images/ourguideservices004.jpg
+  - title: GG historic websites
     nav: RioGuides
       
 header:
