@@ -32,7 +32,7 @@ refers to Glenn and Jason.
 ## I am Jake Jaxson
 
 
-![I am Jake Jaxson](assets/images/jj.jpg){: .align-left .jason} When [NY Daily News linked Glenn and Jason]("https://www.nydailynews.com/news/national/greenwald-reporter-broke-nsa-story-lawyer-sued-porn-biz-article-1.1383448") through court documents in June 2013,  
+![I am Jake Jaxson](assets/images/jj.jpg){: .align-left .jason} When [NY Daily News linked Glenn and Jason](https://www.nydailynews.com/news/national/greenwald-reporter-broke-nsa-story-lawyer-sued-porn-biz-article-1.1383448) through court documents in June 2013,  
 Jason published the biographical article
 [I am Jake Jaxson.](IamJJ.md){: .btn .btn--info}  
 
@@ -45,11 +45,11 @@ That's a little strange for a short-term business partner Glenn left behind in N
 
 ## About "Us"
 
-Glenn gets a big mention in the second sentence of the [About Us]("https://cockyboys.com/pages.php?id=meet-the-morecocks") page on Cockyboys.com.
+Glenn gets a big mention in the second sentence of the [About Us](https://cockyboys.com/pages.php?id=meet-the-morecocks) page on Cockyboys.com.
 
 
 ![Benny Morecock](assets/images/bioBMC.jpg){: .align-left  .jason}
-We've reproduced [the superior 2015 version](/morecocks/web.archive.org/web/20151128034652if_/https:/cockyboys.com/pages-meet-the-morecocks.html).
+We've reproduced [the superior 2015 version](morecocks/web.archive.org/web/20151128034652if_/https:/cockyboys.com/pages-meet-the-morecocks.html).
 The page just isn't the same without   
 **Benny** "I do porn things, but I also do so much more" **Morecock**  
 {: .notice--warning }  

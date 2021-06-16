@@ -1,8 +1,9 @@
 ---
 layout: splash
 title: Twitter on Glenn
+excerpt: \"The court finds it patently unreasonable that he can demand such an exorbitant rate\" -- Constance Baker Motley.
 header:
-  image: assets/images/rio.jpg
+  overlay_image: assets/images/rio.jpg
 share: true
 gallery:
   - url: https://twitter.com/DavidNeiwert/status/1130547049949122560
@@ -46,9 +47,10 @@ __Twitter on Glenn is not at all the same thing as Glenn on Twitter.__
 
 This is the former.
 
-Links to some relevant Twitter threads. Expect more to be added here very soon.  
-_They do not necessarily link to the start of the thread. If a thread bifurcates a lot, it is sometimes much easier to link to the end and let the reader work backwards._
+Links to some relevant Twitter threads. Expect more to be added here very soon.
 
+They do not necessarily link to the start of the thread. If a thread bifurcates a lot, it is sometimes much easier to link to the end and let the reader work backwards.
+{: .notice--warning}
 {% include gallery caption="David Newiwert's mammoth 110-tweet thread about Matthew Hale. And two threads about an alleged meeting on a real beach" %}
 
 
