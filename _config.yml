@@ -5,7 +5,7 @@ plugins:
   - jekyll-seo-tag
 remote_theme: mmistakes/minimal-mistakes
 title: Master Notions
-description: The Mythology of Glenn Greenwald
+description: Behind The Mythology of Glenn Greenwald
 header:
  image: /assets/images/twitter-cardbr.jpg
 og_image: "/assets/images/twitter-card2.jpg"
@@ -21,3 +21,6 @@ sidebar:
 repository: alansfr/alansfr.github.io
 url: "https://masternotions.com"
 baseurl: "/"
+logo: assets/images/hippopotamus-head.svg
+atom_feed:
+  hide: true

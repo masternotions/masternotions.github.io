@@ -45,7 +45,8 @@ That's a little strange for a short-term business partner Glenn left behind in N
 
 ## About "Us"
 
-Glenn gets a big mention in the second sentence of the [About Us](https://cockyboys.com/pages.php?id=meet-the-morecocks) page on Cockyboys.com.
+Glenn gets a big mention in the second sentence of the
+[About Us](https://cockyboys.com/pages.php?id=meet-the-morecocks) page on Cockyboys.com.
 
 
 ![Benny Morecock](assets/images/bioBMC.jpg){: .align-left  .jason}
@@ -92,7 +93,7 @@ Just in case that last awards ceremony wasn't classy enough, this one has a bigg
 {% include video id="338537323" provider="vimeo" %}
 
 ## Gay VN 2020 Best Director
-
+This took place in January, in case you're wondering why they're not all six feet apart.
 {% include video id="386269895" provider="vimeo" %}
 
 
