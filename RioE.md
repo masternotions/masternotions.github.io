@@ -7,6 +7,7 @@ sidebar:
       nav: RioGuides
 header:
   og_image: riom/images/Top_banner.jpg
+share: true
 ---
 
 

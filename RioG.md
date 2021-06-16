@@ -8,6 +8,7 @@ sidebar:
       
 header:
   og_image: rion/images/banalto002.jpg
+share: true
 ---
 
 

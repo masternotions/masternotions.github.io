@@ -3,6 +3,7 @@ layout: splash
 title: Twitter on Glenn
 header:
   image: assets/images/rio.jpg
+share: true
 gallery:
   - url: https://twitter.com/DavidNeiwert/status/1130547049949122560
     image_path: /assets/tweetcards/Hale.png

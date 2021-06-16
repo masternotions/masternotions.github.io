@@ -9,6 +9,7 @@ sidebar:
 header:
  og_image: "/assets/images/harv.jpg"
  image: "/assets/images/Brin1.jpg"
+share: true
 ---
 
 ## Keira Knightley and the Very Large House
