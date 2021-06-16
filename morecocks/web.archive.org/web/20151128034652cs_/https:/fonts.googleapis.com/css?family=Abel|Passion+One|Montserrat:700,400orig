@@ -1,0 +1,46 @@
+@font-face {
+  font-family: 'Abel';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Abel'), local('Abel-Regular'), url(https://web.archive.org/web/20160105180403im_/https://fonts.gstatic.com/s/abel/v6/N59kklKPso9WzbZH9jwJSg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Montserrat-Regular'), url(https://web.archive.org/web/20160105180403im_/https://fonts.gstatic.com/s/montserrat/v6/zhcz-_WihjSQC0oHJ9TCYC3USBnSvpkopQaUR-2r7iU.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Montserrat-Bold'), url(https://web.archive.org/web/20160105180403im_/https://fonts.gstatic.com/s/montserrat/v6/IQHow_FEYlDC4Gzy_m8fcvEr6Hm6RMS0v1dtXsGir4g.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Passion One';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Passion One'), local('PassionOne-Regular'), url(https://web.archive.org/web/20160105180403im_/https://fonts.gstatic.com/s/passionone/v6/fY6k21F1QT2c_Oc3HRNDwp0EAVxt0G0biEntp43Qt6E.ttf) format('truetype');
+}
+
+/*
+     FILE ARCHIVED ON 18:04:03 Jan 05, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 20:57:41 Jun 07, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 225.52
+  exclusion.robots: 0.101
+  exclusion.robots.policy: 0.093
+  RedisCDXSource: 1.469
+  esindex: 0.009
+  LoadShardBlock: 197.311 (3)
+  PetaboxLoader3.datanode: 266.929 (4)
+  CDXLines.iter: 22.446 (3)
+  load_resource: 367.695
+  PetaboxLoader3.resolve: 176.755
+*/

@@ -55,6 +55,25 @@ RioGuides:
       url : /blogspot.html
     - title: SM Blogspot on The Wayback Machine
       url:  https://web.archive.org/web/20051215143803/http://studmall.blogspot.com/
+Jason:
+ - title: Intro to Jason Sketchy
+   url: /Jason.html
+ - title: I am Jake Jaxson
+   children: 
+    - title: On this site
+      url: /IamJJ.html
+    - title: With original format  
+      url : /IamJakeJaxson.html
+    - title: archived on Wayback Machine
+      url: 'https://web.archive.org/web/20130904130429/http://www.jakejaxson.com/post/54490441032/i-am-jake-jaxson'
+ - title: Meet The Morecocks
+   children:
+    - title: On this site (2015 version with Benny)
+      url: /morecocks/web.archive.org/web/20151128034652if_/https:/cockyboys.com/pages-meet-the-morecocks.html
+    - title: On the Wayback machine (2015 version)
+      url: "https://web.archive.org/web/20151128034652/https:/cockyboys.com/pages-meet-the-morecocks.html"
+    - title: Current version
+      url: "https://cockyboys.com/pages.php?id=meet-the-morecocks"
 
 
 

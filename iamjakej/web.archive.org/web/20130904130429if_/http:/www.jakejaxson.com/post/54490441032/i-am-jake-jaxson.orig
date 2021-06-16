@@ -1,0 +1,1704 @@
+<!DOCTYPE html>
+<script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app200.us.archive.org';v.server_ms=1448;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/_static/js/playback.bundle.js?v=xTFGO54E" charset="utf-8"></script>
+<script type="text/javascript" src="/_static/js/wombat.js?v=i68pdzR-" charset="utf-8"></script>
+<script type="text/javascript">
+  __wm.init("https://web.archive.org/web");
+  __wm.wombat("http://www.jakejaxson.com:80/post/54490441032/i-am-jake-jaxson","20130904130429","https://web.archive.org/","web","/_static/",
+	      "1378299869");
+</script>
+<link rel="stylesheet" type="text/css" href="/_static/css/banner-styles.css?v=omkqRugM" />
+<link rel="stylesheet" type="text/css" href="/_static/css/iconochive.css?v=qtvMKcIJ" />
+<!-- End Wayback Rewrite JS Include -->
+<script>var __pbpa = true;</script><script>var translated_warning_string = 'Warning: Never enter your Tumblr password unless \u201chttps://www.tumblr.com/login\u201d\x0ais the address in your web browser.\x0a\x0aYou should also see a green \u201cTumblr, Inc.\u201d identification in the address bar.\x0a\x0aSpammers and other bad guys use fake forms to steal passwords.\x0a\x0aTumblr will never ask you to log in from a user\u2019s blog.\x0a\x0aAre you absolutely sure you want to continue?';</script><script type="text/javascript" language="javascript" src="https://web.archive.org/web/20130904130429js_/http://assets.tumblr.com/assets/scripts/pre_tumblelog.js?_v=475de8c4282373e0381f1617bed89211"></script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<!--
+     Theme: The Minimalist v1.
+     Design: The Minimalist (http://minimalist.co)
+-->
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# blog: http://ogp.me/ns/blog#">
+     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+	
+     <title>JAKE JAXSON | I AM JAKE JAXSON</title>	
+     <meta name="description" content="I AM JAKE JAXSON by Jason Buchtel I’m not going to lie — last week was rough. But after working in the entertainment business for over 15 years, I’ve learned there’s always something positive to take..."/>
+     <meta name="if:Show description" content="1"/>	
+     <meta name="if:Show search" content="1"/>
+     <meta name="text:Twitter name" content=""/>
+     <meta name="text:Disqus Shortname" content=""/>
+     <meta name="text:Google Analytics ID" content=""/>	
+     <link rel="shortcut icon" href="https://web.archive.org/web/20130904130429im_/http://31.media.tumblr.com/avatar_9a2a9ba0f1aa_128.png"/>
+     <link rel="alternate" type="application/rss+xml" title="JAKE JAXSON" href="https://web.archive.org/web/20130904130429/http://www.jakejaxson.com/rss"/>
+
+<!-- Styles -->
+
+<link rel="stylesheet" href="https://web.archive.org/web/20130904130429cs_/http://static.tumblr.com/f1whv92/Mp9l6ewcg/reset.css"/>
+<style type="text/css">
+
+/*----- GENERAL -----*/
+
+     header, footer, section, article, nav, aside {
+        display: block;
+     }
+
+     body {
+        background: #ffffff;
+        color: #222;
+        font: 12px/20px Georgia, "Times New Roman", Times, serif;
+        padding-top: 25px;
+        text-align: center;
+        width:500px;
+        margin: 0 auto;
+     }
+
+     h1, h2, h3, hQ {
+        font-family: Cufon;
+     }
+
+     h1 {
+        font-size: 50px;
+        line-height: 50px;
+     }
+
+     h2 {
+        font-size: 31px;
+        line-height: 37px; 
+     }
+
+     h3 {
+        font-size: 21px;
+        line-height: 27px; 
+     }
+
+     a:link, a:visited {
+        color: #222222;
+        font-weight: bold;
+        text-decoration: none;
+     }
+     
+     a:hover, a:active {
+        text-decoration: underline;
+     }
+
+     hr{
+        border:0 #ccc solid;
+        border-top-width:1px;
+        clear:both;
+        height:0;
+     }
+
+     ol{list-style:decimal}
+
+     ul{list-style:disc}
+
+     li{margin-left:30px}
+
+     p,dl,hr,h1,h2,h3,h4,h5,h6,ol,ul,pre,table,address,fieldset{margin-bottom:15px}
+
+     #main {
+        padding: 0px;
+     }
+
+/*----- MASTHEAD -----*/
+
+     .noMeta > div {
+        padding: 0px;
+     }
+
+     #masthead {
+
+        margin-bottom: 0px;
+     }
+
+     #masthead h1 {
+     height:170px;
+        margin-bottom: 0;
+        color:#FFFFFF;
+     }
+
+     #masthead h1 a:link, #masthead h1 a:visited {
+        text-transform: Uppercase;
+        color:#FFFFFF;
+        text-decoration: none;
+     }
+
+     #masthead h1 a:active {
+        outline: 0;
+     }
+
+     #masthead p {
+        font-family: Georgia, serif;
+        font-size: 20px;
+        color: #fff;
+        margin-bottom: 0;
+     }
+
+     #masthead a:link, #masthead a:visited {
+        color: #fff;
+     }
+
+     #siteDescription{
+        font-size: 13px;
+        color: #222;
+        text-transform: Uppercase;
+        border-top: 1px solid #222;
+        margin-top: 20px;
+        margin-bottom: -5px;
+        padding: 10px 0 0 0;
+        font-family: Cufon;
+     }
+
+/*----- SEARCH FORM -----*/
+
+     #frmSearch {
+        padding-top: 20px; 
+        display: none;
+     }
+
+     #txtSearch {
+        background: url(https://web.archive.org/web/20130904130429im_/http://static.tumblr.com/bpryy0m/6lRl6gmys/search.jpg) left no-repeat;
+        width: 225px;
+        padding: 2px 0 0 20px;
+        font: 12px/12px Georgia, "Times New Roman", Times, serif;
+        color: #222;
+        border: 0px;
+     }
+
+/*----- MAIN HEADER NAV STRIP -----*/
+
+     #mainNav {
+        border-top: 1px solid #222;
+        border-bottom: 2px solid #222;
+        margin-top: 20px;
+        padding: 13px 0 14px 0;
+        font-family: Cufon;
+     }
+
+     #mainNav ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+     }
+
+     #mainNav li {
+        margin: 5px;
+        display: inline;
+        padding: 0;
+     }
+
+     #mainNav a:link, #mainNav a:visited {
+        padding: 0;
+        font-size: 14px;
+        line-height: 14px;
+        margin: 0 2px;
+        text-decoration: none;
+        color: #222;
+        text-transform: Uppercase;
+     }
+
+     #mainNav a:hover, #mainNav a:active {
+        outline: none;
+        text-decoration: none;
+        border-bottom: 1px solid #222;
+     }
+
+     #mainNav a.active {
+        text-decoration: none;
+        border-bottom: 1px solid #222;
+     }
+
+/*----- ARTICLE META INFO -----*/
+
+     #designline {
+        margin-top: 50px;
+     }
+
+     h5{
+        position: relative;
+        top: -35px;
+        margin-bottom: 0px;
+        font-family: Georgia, serif;
+        font-size: 10px;
+        color: #bca474;
+        text-decoration: none;
+        text-transform: Uppercase;
+        font-weight: bold;
+        border-bottom: 1px solid #bca474;
+        background: #fff;
+     }
+
+     h5 a:link, .line a:visited{
+        font-family: Georgia, serif;
+        font-size: 10px;
+        color: #bca474;
+        text-decoration: none;
+        text-transform: Uppercase;
+        font-weight: bold;
+     }
+
+     h5 a:hover{
+        text-decoration: underline;
+     }
+
+     h5 abbr{
+        display: inline-block;
+        position: relative;
+        margin: 0 auto;
+        padding: 0 8px;
+        background: #fff;
+        top: 10px;
+     }
+
+     h5.postDate a{
+        color: #bca474;
+     }
+
+/*----- ARTICLE -----*/
+
+     article {
+        background: #fff;
+        margin-bottom: 20px;
+        text-align: left;
+       position: relative;
+      }
+
+     article img {
+        border: none;
+        margin-bottom: 15px;
+        max-width: 500px;
+     }
+
+     article p img {
+        margin: 0;
+     }
+     article > div {
+        padding: 0px;
+        overflow: hidden;
+     }
+     article .searchPage {
+        margin: 35px 0 0 0;
+     }
+
+     .searchPageText {
+        margin: 0 0 30px 0;
+     }
+
+     article .meta a:link, article .meta a:visited {
+        text-decoration: none;
+     }
+
+     article .meta a:hover, article .meta a:active {
+        text-decoration: underline;
+     }
+
+     article h2 {
+        text-align: center;
+        color: #222222;
+     }
+
+     article h2 a:link, article h2 a:visited {
+        text-transform: Uppercase;
+        color: #222;
+        text-decoration: none;
+     }
+
+     article h2 a:hover, article h2 a:active {
+        text-decoration: none;
+        border-bottom: 1px solid #222;
+     }
+
+     blockquote {
+        border-left: 2px solid #bca474;
+        margin-left: 0;
+        padding-left: 1em;
+     }
+
+     #quoteSource{
+        margin: 0 auto;
+        text-align: left;
+     }
+
+     #quoteText h2 {
+        text-align: left;
+        color: #222222;
+     }
+
+     article .chat {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+     }
+
+     article .chat li {
+        margin: 0 0 2px;
+        padding: 2px 0 2px 0;
+     }
+
+     .photoCaption {
+        text-align: center;
+     }
+
+/*----- AUDIO PLAYER -----*/
+
+     .audio {
+        height: 28px;
+        width: 26px;
+        overflow: hidden;
+        margin: auto;
+        padding-top: 7px;
+     }
+
+     .audioc {
+        background-image:url('https://web.archive.org/web/20130904130429im_/http://static.tumblr.com/f1whv92/9iCl6bfgp/audiocircle.png');
+        background-repeat: no-repeat; 
+        height: 41px;
+        width: 41px;
+     }
+
+     .audioCaption {
+        margin-top: 1px;
+     }
+
+     .audioleft {
+        width: 41px;
+        float: left;
+      }
+
+     .audioright {
+        width: 444px;
+        float: right;
+      }
+
+     .audioContainer {
+        margin-top: 5px;
+     }
+
+     .audioClear {
+        clear:both;
+     }
+
+/*----- ARTICLE NOTES -----*/
+
+     .notes {
+        border-top: 1px solid #bca474;
+        list-style: none;
+        padding: 20px 0 5px 0;
+        margin: 30px 0 0 0;
+     }
+     .notes li {
+        margin: 0;
+     }
+
+     .notes .avatar {
+        margin: 0 5px 0 0;
+        position: relative;
+        top: 5px;
+     }
+
+     .notes blockquote {
+        margin: 10px 0 0 35px;
+        padding-left: 10px;
+        border-left: 2px solid #222222;
+     }
+
+     .media {
+        width: 500px;
+        margin-bottom: 20px;
+     }
+
+/*----- PAGE NAVIGATION -----*/
+
+     #pageNav {
+        margin-top: 20px;
+        border-top: 1px solid #222;
+     }
+
+     #pageNav ul {
+        list-style: none;
+        padding: 10px 15px;
+        margin: 10px 0;
+     }
+
+     #pageNav li {
+        margin: 0;
+        display: inline;
+     }
+
+     #pageNav a:link, #pageNav a:visited {
+        font: 11px Georgia, "Times New Roman", Times, serif;
+        padding: 0;
+        margin: 0 2px;
+        background: #34hdf5;
+        color: #222;
+        text-decoration: none;
+     }
+
+     #pageNav a:hover, #pageNav a:active, #pageNav a.active:link, #pageNav a.active:visited {
+        text-decoration: underline;
+     }
+
+     #pageNavOlder:after {
+        content: " »";
+        font-size: 10px;
+     }
+
+     #pageNavNewer:before {
+        content: "« ";
+     }
+
+/*----- FOOTER META -----*/
+
+     #sitemeta {
+        border-top: 2px solid #222;
+        color: #222;
+        padding: 20px 0 32px 0;
+        font-family: Georgia, "Times New Roman", Times, serif;
+        font-size: 11px;
+     }
+
+     #sitemeta p {
+        margin: 0;
+     }
+
+     #sitemeta a:link, #sitemeta a:visited {
+        color: #222;
+        font-weight: bold;
+     }
+
+
+</style>
+
+<!-- Scripts -->
+
+<!--[if IE]>
+     <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+     <script src="https://web.archive.org/web/20130904130429js_/http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+     <script src="https://web.archive.org/web/20130904130429js_/http://static.tumblr.com/oawavkn/JPAlyq9zp/cufon-yui.js" type="text/javascript"></script>
+     <script src="https://web.archive.org/web/20130904130429js_/http://static.tumblr.com/f1whv92/fgIl65bo1/cufon_300.font.js" type="text/javascript"></script>
+
+     <script type="text/javascript">
+        Cufon.replace('h1',{ fontFamily: "Cufon" });
+        Cufon.replace('h2',{ fontFamily: "Cufon" });
+        Cufon.replace('h3',{ fontFamily: "Cufon" });
+        Cufon.replace('#mainNav',{ fontFamily: "Cufon" });
+        Cufon.replace('#siteDescription',{ fontFamily: "Cufon" });
+     </script>
+
+<script>
+     $(function() {
+        var search = $("#txtSearch").val();
+        var placeholder = "Search...";
+        var fadeToOpacity = 0.4;
+        $("#txtSearch").fadeTo("normal", fadeToOpacity);
+        if (search == "") {
+     $("#txtSearch").val(placeholder);
+     }
+     $("#txtSearch").blur(function() {
+        search = $("#txtSearch").val();
+        if (!(search != "" && search != placeholder)) {
+        $("#txtSearch").val(placeholder);
+     }
+     $("#txtSearch").fadeTo("normal", fadeToOpacity);
+     });
+     $("#txtSearch").focus(function() {
+        search = $("#txtSearch").val();
+        if (search == placeholder) {
+        $("#txtSearch").val("");
+     }
+     $("#txtSearch").fadeTo("normal", 1);
+     });
+     $("#btnSearch").click(function() {
+     $("#frmSearch").slideToggle("normal");
+     $(this).toggleClass("active");
+ //  $("#txtSearch").focus();
+     });
+     });
+</script>
+
+
+<!-- BEGIN TUMBLR FACEBOOK OPENGRAPH TAGS -->
+<!-- If you'd like to specify your own Open Graph tags, define the og:url and og:title tags in your theme's HTML. -->
+<!-- Read more: http://ogp.me/ -->
+<meta property="fb:app_id" content="48119224995"/>
+<meta property="og:site_name" content="JAKE JAXSON"/>
+<meta property="og:title" content="I AM JAKE JAXSON"/>
+<meta property="og:url" content="https://web.archive.org/web/20130904130429/http://www.jakejaxson.com/post/54490441032/i-am-jake-jaxson"/>
+<meta property="og:description" content="by Jason Buchtel
+I’m not going to lie — last week was rough. But after working in the entertainment business for over 15 years, I’ve learned there’s always something positive to take away from weeks..."/>
+<meta property="og:determiner" content="a"/>
+<meta property="og:type" content="tumblr-feed:entry"/>
+<meta property="og:image" content="https://web.archive.org/web/20130904130429im_/http://media.tumblr.com/56e6068a4cc68a092d91dbf2b6154d89/tumblr_inline_mpcgxfAzKT1qz4rgp.jpg"/>
+<meta property="og:image" content="https://web.archive.org/web/20130904130429im_/https://mail.google.com/mail/u/0/images/cleardot.gif"/>
+<!-- END TUMBLR FACEBOOK OPENGRAPH TAGS -->
+
+
+<!-- TWITTER TAGS -->
+<meta charset="utf-8">
+            <meta name="twitter:card" content="summary"/>
+            <meta name="twitter:description" content="
+
+by Jason Buchtel  I&amp;#8217;m not going to lie &amp;#8212; last week was rough. But after working in the entertainment business for over 15 years, I’ve learned there’s always something positive to take away from weeks like these. 
+On Wednesday, the New York Daily News put out what can only be described as a “smear/hit piece” against my friend and one-time business partner Glenn Greenwald, the news reporter from The Guardian responsible for bringing to light the extent of the NSA mass surveillance programs via the whistleblower, Edward Snowden. That piece was quickly followed up by a slightly more balanced profile from BuzzFeed. Both stories revealed details regarding a small part of my relationship with Glenn while we were business partners over 6 years ago. One of those revelations was that our marketing company, Master Notions Inc., owned and operated several gay adult sites. Naturally, this revelation became fodder for many journalists and bloggers reporting on the story. I was asked and did not comment for either story. 
+As an artist and filmmaker, I proudly incorporate much of who I am into my work. And until recently, I have done all this under the nom de plume “Jake Jaxson” for a very personal reason. As of last week, my legal name Jason Buchtel has become part of what is now an international news story headlining Glenn’s past with the adult entertainment industry – all in attempt to destroy not only a friend but someone who I have fought with, fought for, and together created infinite possibilities with.
+I remember when I first started working with Glenn, we were both at a crossroads in our lives.  It was clear he needed me and I needed him. When I asked him what he hoped to accomplish, he said without hesitation, “to change the world!” 
+ Flash forward to the present, and this last week has been surreal and difficult – first being pursued and contacted by reporters “trying to connect the dots,” receiving creepy phone calls to a number very few people know, and most importantly, having to reconcile my past and present with my family who I excluded from my life for years because I didn’t want to reveal my &amp;#8220;dirty little secret&amp;#8221; – I’m an adult filmmaker.
+
+I most regret that my legal last name has been attached to these stories. This has nothing to do with shame, because as I already wrote, I am very proud of my work. The reason is that my last name is not mine – it was a gift given to me from a man who is all that is good and right in the world, my father.
+My father adopted me 42 years ago as a baby. Soon after I was adopted, his wife became ill and passed away. So he was a single dad raising two small children, his only support being our next door neighbor, a divorcée with four children of her own who would babysit us while my dad was at work. Over time, however, she and my father fell in love and got married, turning my family into a real life Brady Bunch.
+I can still remember the day I saw my parents get married. I was sitting up in the pews with my Grandparents as the rest of my family gathered at the altar. I still hear that evil little voice in me head asking,  Why aren’t you up there with everyone else? As I look back on it now, I realize they were  not excluding me from the family. In reality, they just didn’t want a five-year-old wild child up at the altar. Still, though, that paranoia and isolation I felt were very real and only the beginning of my coming to terms with the fact that I was different, separated from my family.  I think all adopted children feel things differently &amp;#8212; as a child, I did not care. Soon after I was informed I was adopted, for instance, my brother called me a “stupid Diego” because I’m Italian and he’s not. But that was the extent of the name-calling. I had it good &amp;#8212; we had a swimming pool, a game room with an air hockey table, and a pool table. And as the last of six kids, I was often left to my own devices.
+However, as I got older, I became haunted. It would happen sporadically, like when the doctor would ask if there was a history of illness in my family, or when I looked through family pictures knowing I would never see another who I resembled.
+But it was the day after Katrina hit my beloved New Orleans that I had a feeling wash over me like the flood waters from the broken levees &amp;#8212; I was never going to know my birth parents. And I had always wanted to find them at some point, just to know who they were. All I knew was that my mom was Italian and my dad was Irish. Had they chosen not to put me up for adoption, would I have been a Quarter Rat? An Irish Channel Y&amp;#8217;at? Or a bastard child of Garden District Blue Bloods? All those scenarios filled my mind.  As I watched Charity Hospital, where I was born, fill up with water and with all their physical records now destroyed, I had to let them go. That loss soon was followed by guilt &amp;#8212; a sting that reminded me to be grateful for my mom and dad and all they had given me. And like all children, I wanted to make them proud. 
+
+For the most part, I did. I was an Eagle Scout, excelled in the arts, was the lead in all my high school plays, and before I was out of college, I had produced two films that were both picked up and shown on PBS and various cable channels. Soon after, I met and worked with Brandon Tartikoff, and with his help, produced a television special that received an Emmy Award in the process. From there, I traveled straight to LA and all was good and right in the world.   Like many, I came to the adult space by accident. With Master Notions, the company I co-owned with Glenn, we were on the forefront of developing online &amp;#8220;street&amp;#8221; and viral marketing, and we had taken on a few adult clients. The online adult space at the time was going through a bit of a transformation, with a new entrepreneurial mindset that wanted to create marketing strategies that were customer service friendly—not that bait-and-switch mentality it was known for. I really enjoyed being able to work in a strategic space that had no boundaries, where we could see immediately what worked and what did not work—not the long tail approach to more traditional marketing. It was only a matter of time before my partners and I saw that running our own customer friendly adult sites—built on customer satisfaction and loyalty—was a lucrative business. So we began acquiring properties in the adult space and CockyBoys.com is now the crown jewel.  Now, as CEO and lead director, I&amp;#8217;m fully dedicated to the healthy, creative, and erotic exploration of gay sex. I love merging elements of traditional pornography with reality TV, documentary, and non-linear storytelling. I mostly enjoy the guerrilla approach to producing and directing – especially collaborations that push the limits of sexual understanding, art, and commerce. I want to see how far I can go to create a new gay adult paradigm, my ultimate goal being to help remove the stigma attached to the young men who choose to creatively express themselves through their bodies, mind, and sexuality.  I never wanted to tell my parents I’m an adult filmmaker. They are very religious, and after having been rejected by them once already for being gay, I never wanted to repeat the event. While they have since accepted my sexuality, they still feel it&amp;#8217;s a sin and in the later years of their life, I did not want to confront them over this issue yet again.  My profession now is going to register way off the morally acceptable Richter scale, and my last name &amp;#8212; their last name &amp;#8212; will forever be linked in to the Lexis-Nexis-Google-sphere-of-forever-and-forever. Their name, their son, and the gay adult film industry. For that,  I am deeply sorry. 
+Up until now, I dealt with this situation by avoiding the truth and lying to them &amp;#8212; lies on top of lies. And that made me resent my work, my life, and them &amp;#8212; an old pattern now repeating itself. So after a while, I decided the best way to handle the situation was to just fade into the background of their lives. I was happy living an authentic life with my two partners and our four dogs. I was happy, proud, and grateful I didn’t need to lie anymore.
+So I stopped calling home, going home, and thinking about home. I did not want to be Jason Buchtel anymore. I wanted to be Jake Jaxson (Jake being my first major lust crush &amp;#8212; the character Jake Ryan from Sixteen Candles and Jaxson being Jason with an “X”). 
+
+My plan, as bad as it sounds, was to let my parents pass away without them ever knowing this part of me, not only in fear of how it would hurt them, but also in fear their rejection. So to that end, I have worked very hard to protect their “good name” from something I know they do not approve of and consider sinful.  As I previously wrote, the name I was given was a gift. This is why I now feel compelled to address this issue &amp;#8212; not to feed the “news story,” but to once and for all stop hiding and lying from this AND address this on my own terms. 
+
+And while I am proud of the work I did with Glenn, including helping to launch, market, and manage his original blog Unclaimed Territory (the name inspired by our favorite show at the time, Deadwood), as well as his first two New York Times best-selling books, I am equally proud of the work I do now since our partnership ended. I am a filmmaker, artist, entrepreneur, and partner to two amazingly beautiful and special men. 
+The truth is out, the dots are connected, and exorcising it from my reality is like removing the rock off my back, the sand out of my eyes, and the pebbles from my shoes. I am free.
+Love always &amp;amp; be Nice, 
+Jake Jaxson 
+ 
+
+
+"/>
+            <meta name="twitter:title" content="I AM JAKE JAXSON"/>
+            <meta name="twitter:url" content="https://web.archive.org/web/20130904130429im_/http://www.jakejaxson.com/post/54490441032/i-am-jake-jaxson"/>
+            <meta name="twitter:site" content="tumblr"/>
+            <meta name="twitter:app:name:iphone" content="Tumblr"/>
+            <meta name="twitter:app:name:ipad" content="Tumblr"/>
+            <meta name="twitter:app:name:googleplay" content="Tumblr"/>
+            <meta name="twitter:app:id:iphone" content="305343404"/>
+            <meta name="twitter:app:id:ipad" content="305343404"/>
+            <meta name="twitter:app:id:googleplay" content="com.tumblr"/>
+            <meta name="twitter:app:url:iphone" content="tumblr://x-callback-url/blog?blogName=jakejaxson&amp;postID=54490441032&amp;referrer=twitter-cards"/>
+            <meta name="twitter:app:url:ipad" content="tumblr://x-callback-url/blog?blogName=jakejaxson&amp;postID=54490441032&amp;referrer=twitter-cards"/>
+            <meta name="twitter:app:url:googleplay" content="tumblr://x-callback-url/blog?blogName=jakejaxson&amp;postID=54490441032&amp;referrer=twitter-cards"/>
+    
+
+<script type="text/javascript" src="https://web.archive.org/web/20130904130429js_/http://assets.tumblr.com/assets/scripts/tumblelog.js?_v=83c002e9bd947a7c3a044efdde3ef9c0"></script><meta http-equiv="x-dns-prefetch-control" content="off"/>
+<meta name="keywords" content="Cockyboys,glenn greenwald,jake jaxson"/>
+
+</head>
+<body>
+
+     <header id="masthead" class="clearfix">
+        <div id="thehead">          
+              <h1 class="cufon"><a href="/web/20130904130429/http://www.jakejaxson.com/">
+                  
+               <img src="https://web.archive.org/web/20130904130429im_/http://thecockybeast.com/wp-content/themes/cockybeast/images/jake_jaxson_logo.png" width="400" height="174"/>   
+                  
+              </a></h1>
+              <form action="/web/20130904130429/http://www.jakejaxson.com/search" method="get" id="frmSearch">
+              <input type="text" id="txtSearch" name="q" value=""/>
+              </form>    
+
+     
+        <div id="siteDescription">I'm Jake Jaxson -- filmmaker, artist, hopeless romantic &amp; insatiable flirt. I live in New York with my two partners &amp; our four pups - Raif, Sebastian, Bailey &amp; Jackson - Our God Dog Bella &amp; a snake named Samson.</div>
+     
+
+           <nav id="mainNav">        
+              
+              <li><a href="/web/20130904130429/http://www.jakejaxson.com/ask">Ask</a></li>
+                               
+              <li><a href="/web/20130904130429/http://www.jakejaxson.com/archive">Archive</a></li>
+              
+              <li><a href="https://web.archive.org/web/20130904130429/http://twitter.com/cockyboys">Twitter</a></li>
+              
+              <li><a href="https://web.archive.org/web/20130904130429/http://signup.cockyboys.com/track/MzAwMDE5MS4yNC4xLjcuMS4wLjAuMC4w">CockyBoys</a></li>
+              <li><a href="javascript:;" id="btnSearch">Search</a></li>
+              <li><a href="/web/20130904130429/http://www.jakejaxson.com/rss">RSS</a></li>
+           </nav>         
+        </div>
+     </header>
+
+     <section id="main" class="clearfix">
+     <div class="layout">           
+     
+      
+           
+
+
+     <div id="designline">
+        <h5 class="postDate">
+           <abbr><a href="https://web.archive.org/web/20130904130429/http://www.jakejaxson.com/post/54490441032/i-am-jake-jaxson">3rd Jul 2013</a> | <a href="https://web.archive.org/web/20130904130429/http://www.jakejaxson.com/post/54490441032/i-am-jake-jaxson#notes">203 notes</a>
+           </abbr>
+        </h5>
+     </div>
+
+     <article>
+        <div>
+           
+              <h2><a href="https://web.archive.org/web/20130904130429/http://www.jakejaxson.com/post/54490441032/i-am-jake-jaxson">I AM JAKE JAXSON</a></h2>
+              <p class="MsoNormal"><span><strong><img alt="image" src="https://web.archive.org/web/20130904130429im_/http://media.tumblr.com/56e6068a4cc68a092d91dbf2b6154d89/tumblr_inline_mpcgxfAzKT1qz4rgp.jpg"/></strong></span></p>
+
+<p class="MsoNormal"><span><strong>by Jason Buchtel</strong><br/><br/> I&#8217;m not going to lie &#8212; last week was rough. But after working in the entertainment business for over 15 years, I’ve learned there’s always something positive to take away from weeks like these. </span><span></span></p>
+<p class="MsoNormal"><span><span class="aBn"><span class="aQJ">On Wednesday</span></span>, the <em>New York Daily News</em> put out what can only be described as a “smear/hit piece” against my friend and one-time business partner <a href="https://web.archive.org/web/20130904130429/http://www.guardian.co.uk/profile/glenn-greenwald" target="_blank">Glenn Greenwald, the news reporter from <em>The Guardian</em></a> responsible for bringing to light the extent of the NSA mass surveillance programs via the whistleblower, Edward Snowden. That piece was quickly followed up by a slightly more balanced profile from <a href="https://web.archive.org/web/20130904130429/http://www.buzzfeed.com/jtes/how-glenn-greenwald-became-glenn-greenwald" target="_blank"><em>BuzzFeed</em></a>. Both stories revealed details regarding a small part of my relationship with Glenn while we were business partners over 6 years ago. One of those revelations was that our marketing company, Master Notions Inc., owned and operated several gay adult sites. Naturally, this revelation became fodder for many journalists and bloggers reporting on the story.</span><span> I was asked and did not comment for either story. <br/></span></p>
+<p class="MsoNormal"><span>As an artist and filmmaker, I proudly incorporate much of who I am into my work. And until recently, I have done all this under the nom de plume “<a href="https://web.archive.org/web/20130904130429/http://jakejaxson.com/" target="_blank">Jake Jaxson</a>” for a very personal reason. As of last week, my legal name Jason Buchtel has become part of what is now an international news story headlining Glenn’s past with the adult entertainment industry – all in attempt to destroy not only a friend but someone who I have fought with, fought for, and together created infinite possibilities with.</span><span></span></p>
+<p class="MsoNormal">I remember when I first started working with Glenn, we were both at a crossroads in our lives.  It was clear he needed me and I needed him. When I asked him what he hoped to accomplish, he said without hesitation, “to change the world!” </p>
+<p>Flash forward to the present, and this last week has been surreal and difficult – first being pursued and contacted by reporters “trying to connect the dots,” receiving creepy phone calls to a number very few people know, and most importantly, having to reconcile my past and present with my family who I excluded from my life for years because I didn’t want to reveal my &#8220;dirty little secret&#8221; – <em>I’m an adult filmmaker.</em><span></span></p>
+<div class="im">
+<p class="MsoNormal"><span>I most regret that my legal last name has been attached to these stories. This has nothing to do with shame, because as I already wrote, I am very proud of my work. The reason is that my last name is not mine – it was a gift given to me from a man who is all that is good and right in the world, my father.</span><span></span></p>
+<p class="MsoNormal"><span></span><span>My father adopted me 42 years ago as a baby. Soon after I was adopted, his wife became ill and passed away. So he was a single dad raising two small children, his only support being our next door neighbor, a divorcée with four children of her own who would babysit us while my dad was at work. Over time, however, she and my father fell in love and got married, turning my family into a real life Brady Bunch.</span><span></span></p>
+<p class="MsoNormal"><span></span><span>I can still remember the day I saw my parents get married. I was sitting up in the pews with my Grandparents as the rest of my family gathered at the altar. I still hear that evil little voice in me head asking,  <em>Why aren’t you up there with everyone else?</em> As I look back on it now, I realize they were  not excluding me from the family. In reality, they just didn’t want a five-year-old wild child up at the altar. Still, though, that paranoia and isolation I felt were very real and only the beginning of my coming to terms with the fact that I was different, separated from my family.<br/><br/> I think all adopted children feel things differently &#8212; as a child, I did not care. Soon after I was informed I was adopted, for instance, my brother called me a “stupid Diego” because I’m Italian and he’s not. But that was the extent of the name-calling. I had it good &#8212; we had a swimming pool, a game room with an air hockey table, and a pool table. And as the last of six kids, I was often left to my own devices.</span><span></span></p>
+<p class="MsoNormal"><span>However, as I got older, I became haunted. It would happen sporadically, like when the doctor would ask if there was a history of illness in my family, or when I looked through family pictures knowing I would never see another who I resembled.</span><span></span></p>
+<p class="MsoNormal"><span>But it was the day after Katrina hit my beloved New Orleans that I had a feeling wash over me like the flood waters from the broken levees &#8212; I was never going to know my birth parents. And I had always wanted to find them at some point, just to know who they were. All I knew was that my mom was Italian and my dad was Irish. Had they chosen not to put me up for adoption, would I have been a Quarter Rat? An Irish Channel Y&#8217;at? Or a bastard child of Garden District Blue Bloods? All those scenarios filled my mind.<br/><br/> As I watched Charity Hospital, where I was born, fill up with water and with all their physical records now destroyed, I had to let them go. That loss soon was followed by guilt &#8212; a sting that reminded me to be grateful for my mom and dad and all they had given me. And like all children, I wanted to make them proud. </span><span></span></p>
+</div>
+<p class="MsoNormal"><span>For the most part, I did. I was an Eagle Scout, excelled in the arts, was the lead in all my high school plays, and before I was out of college, I had produced two films that were both picked up and shown on PBS and various cable channels. Soon after, I met and worked with Brandon Tartikoff, and with his help, produced a television special that received an Emmy Award in the process. From there, I traveled straight to LA and all was good and right in the world.<br/></span><span><br/> Like many, I came to the adult space by accident. With Master Notions, the company I co-owned with Glenn, we were on the forefront of developing online &#8220;street&#8221; and viral marketing, and we had taken on a few adult clients. The online adult space at the time was going through a bit of a transformation, with a new entrepreneurial mindset that wanted to create marketing strategies that were customer service friendly—not that bait-and-switch mentality it was known for. I really enjoyed being able to work in a strategic space that had no boundaries, where we could see immediately what worked and what did not work—not the long tail approach to more traditional marketing. It was only a matter of time before my partners and I saw that running our own customer friendly adult sites—built on customer satisfaction and loyalty—was a lucrative business. So we began acquiring properties in the adult space and <a href="https://web.archive.org/web/20130904130429/http://cockyboys.com/" target="_blank">CockyBoys.com</a> is now the crown jewel.<br/><strong><br/></strong><span>Now, as CEO and lead director, I&#8217;m fully dedicated to the healthy, creative, and erotic exploration of gay sex. I love merging elements of traditional pornography with reality TV, documentary, and non-linear storytelling. I mostly enjoy the guerrilla approach to producing and directing – especially collaborations that push the limits of sexual understanding, art, and commerce. I want to see how far I can go to create a new gay adult paradigm, my ultimate goal being to help remove the stigma attached to the young men who choose to creatively express themselves through their bodies, mind, and sexuality.</span><span><br/><br/> I never wanted to tell my parents I’m an adult filmmaker. They are very religious, and after having been rejected by them once already for being gay, I never wanted to repeat the event. While they have since accepted my sexuality, they still feel it&#8217;s a sin and in the later years of their life, I did not want to confront them over this issue yet again.  My profession now is going to register way off the morally acceptable Richter scale, and my last name &#8212; <em>their </em>last name &#8212; will forever be linked in to the Lexis-Nexis-Google-sphere-of-forever-and-forever. Their name, their son, and the gay adult film industry. For that,  I am deeply sorry. </span></span><span></span></p>
+<p class="MsoNormal"><span>Up until now, I dealt with this situation by avoiding the truth and lying to them &#8212; lies on top of lies. And that made me resent my work, my life, and them &#8212; an old pattern now repeating itself. So after a while, I decided the best way to handle the situation was to just fade into the background of their lives. I was happy living an authentic life with my two partners and our four dogs. I was happy, proud, and grateful I didn’t need to lie anymore.</span></p>
+<p class="MsoNormal"><span>So I stopped calling home, going home, and thinking about home. I did not want to be Jason Buchtel anymore. I wanted to be Jake Jaxson (Jake being my first major lust crush &#8212; the character <a href="https://web.archive.org/web/20130904130429/https://www.google.com/search?q=jake+ryan+sixteen+candles&amp;client=firefox-a&amp;hs=lBw&amp;rls=org.mozilla:en-US:official&amp;tbm=isch&amp;tbo=u&amp;source=univ&amp;sa=X&amp;ei=0LLTUYGPK7XA4APRsIHYDQ&amp;ved=0CEAQsAQ&amp;biw=1101&amp;bih=590" target="_blank">Jake Ryan from <em>Sixteen Candles </em></a>and Jaxson being Jason with an “X”). </span><span></span></p>
+<div class="im">
+<p class="MsoNormal"><span>My plan, as bad as it sounds, was to let my parents pass away without them ever knowing this part of me, not only in fear of how it would hurt them, but also in fear their rejection. So to that end, I have worked very hard to protect their “good name” from something I know they do not approve of and consider sinful.  As I previously wrote, the name I was given was a gift. This is why I now feel compelled to address this issue &#8212; not to feed the “news story,” but to once and for all stop hiding and lying from this AND address this on my own terms. </span><span></span></p>
+</div>
+<p class="MsoNormal"><span>And while I am proud of the work I did with Glenn, including helping to launch, market, and manage his original blog <a href="https://web.archive.org/web/20130904130429/http://glenngreenwald.blogspot.com/" target="_blank"><em>Unclaimed Territory </em></a>(the name inspired by our favorite show at the time, <em>Deadwood</em>), as well as his first two <em>New York Times</em> best-selling books, I am equally proud of the work I do now since our partnership ended. I am a filmmaker, artist, entrepreneur, and partner to two amazingly beautiful and special men. </span><span></span></p>
+<p class="MsoNormal"><span>The truth is out, the dots are connected, and exorcising it from my reality is like removing the rock off my back, the sand out of my eyes, and the pebbles from my shoes. </span><span>I am free.</span><span></span></p>
+<p class="MsoNormal"><span>Love always &amp; be Nice, <br/></span></p>
+<p class="MsoNormal"><span>Jake Jaxson<br/></span></p>
+<p class="MsoNormal"><span> </span></p>
+<div class="yj6qo ajU">
+<div class="ajR"><img alt="image" class="ajT" src="https://web.archive.org/web/20130904130429im_/https://mail.google.com/mail/u/0/images/cleardot.gif"/></div>
+</div>
+           
+          
+           
+          
+           
+          
+           
+
+                  
+          
+          
+
+          
+         
+          
+          
+          
+          
+          
+ 
+                    
+            
+          
+             
+    
+<ol class="notes">
+
+    <!-- START NOTES -->
+                            
+        
+                                                                
+        
+        
+        <li class="note like tumblelog_valariedickey without_commentary">
+
+                                                                                <a rel="nofollow" class="avatar_frame" target="_blank" href="https://web.archive.org/web/20130904130429/http://valariedickey.tumblr.com/" title="Ipse Dixit " rel="nofollow"><img src="https://web.archive.org/web/20130904130429im_/http://25.media.tumblr.com/avatar_172c7f29c966_16.png" class="avatar " alt=""/></a>
+                
+                <span class="action">
+                    
+                                            <a rel="nofollow" href="https://web.archive.org/web/20130904130429/http://valariedickey.tumblr.com/" title="Ipse Dixit" rel="nofollow">valariedickey</a> likes this                                    </span>
+
+                <div class="clear"></div>
+
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note reblog tumblelog_invisiblelad without_commentary">
+
+                        
+                
+                                                                                        <a rel="nofollow" class="avatar_frame" target="_blank" href="https://web.archive.org/web/20130904130429/http://invisiblelad.tumblr.com/" title="I May Be Invisible But You're Transparent"><img src="https://web.archive.org/web/20130904130429im_/http://25.media.tumblr.com/avatar_3ec0c54763ec_16.png" class="avatar " alt=""/></a>
+                    
+                    <span class="action" data-post-url="http://invisiblelad.tumblr.com/post/60071678982">
+                                                    
+                                                                                                                                                                                    <a rel="nofollow" href="https://web.archive.org/web/20130904130429/http://invisiblelad.tumblr.com/" class="tumblelog" title="I May Be Invisible But You're Transparent">invisiblelad</a> reblogged this from <a rel="nofollow" href="https://web.archive.org/web/20130904130429/http://sugaronastick.tumblr.com/" class="source_tumblelog" title="sugaronastick">sugaronastick</a>                                                                                                                                                                                    </span>
+                    <div class="clear"></div>
+
+                                    
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note like tumblelog_invisiblelad without_commentary">
+
+                                                                                <a rel="nofollow" class="avatar_frame" target="_blank" href="https://web.archive.org/web/20130904130429/http://invisiblelad.tumblr.com/" title="I May Be Invisible But You're Transparent " rel="nofollow"><img src="https://web.archive.org/web/20130904130429im_/http://25.media.tumblr.com/avatar_3ec0c54763ec_16.png" class="avatar " alt=""/></a>
+                
+                <span class="action">
+                    
+                                            <a rel="nofollow" href="https://web.archive.org/web/20130904130429/http://invisiblelad.tumblr.com/" title="I May Be Invisible But You're Transparent" rel="nofollow">invisiblelad</a> likes this                                    </span>
+
+                <div class="clear"></div>
+
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note like tumblelog_ryojiotani without_commentary">
+
+                                                                                <a rel="nofollow" class="avatar_frame" target="_blank" href="https://web.archive.org/web/20130904130429/http://ryojiotani.tumblr.com/" title="Ryoji Otani " rel="nofollow"><img src="https://web.archive.org/web/20130904130429im_/http://25.media.tumblr.com/avatar_b203bea36824_16.png" class="avatar " alt=""/></a>
+                
+                <span class="action">
+                    
+                                            <a rel="nofollow" href="https://web.archive.org/web/20130904130429/http://ryojiotani.tumblr.com/" title="Ryoji Otani" rel="nofollow">ryojiotani</a> likes this                                    </span>
+
+                <div class="clear"></div>
+
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note like tumblelog_pierceryan without_commentary">
+
+                                                                                <a rel="nofollow" class="avatar_frame" target="_blank" href="https://web.archive.org/web/20130904130429/http://pierceryan.tumblr.com/" title="Untitled " rel="nofollow"><img src="https://web.archive.org/web/20130904130429im_/http://24.media.tumblr.com/avatar_33ecdcc17c22_16.png" class="avatar " alt=""/></a>
+                
+                <span class="action">
+                    
+                                            <a rel="nofollow" href="https://web.archive.org/web/20130904130429/http://pierceryan.tumblr.com/" title="Untitled" rel="nofollow">pierceryan</a> likes this                                    </span>
+
+                <div class="clear"></div>
+
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note like tumblelog_sugaronastick without_commentary">
+
+                                                                                <a rel="nofollow" class="avatar_frame" target="_blank" href="https://web.archive.org/web/20130904130429/http://sugaronastick.tumblr.com/" title="sugaronastick " rel="nofollow"><img src="https://web.archive.org/web/20130904130429im_/http://24.media.tumblr.com/avatar_d84ed1babe0d_16.png" class="avatar " alt=""/></a>
+                
+                <span class="action">
+                    
+                                            <a rel="nofollow" href="https://web.archive.org/web/20130904130429/http://sugaronastick.tumblr.com/" title="sugaronastick" rel="nofollow">sugaronastick</a> likes this                                    </span>
+
+                <div class="clear"></div>
+
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note reblog tumblelog_sugaronastick without_commentary">
+
+                        
+                
+                                                                                        <a rel="nofollow" class="avatar_frame" target="_blank" href="https://web.archive.org/web/20130904130429/http://sugaronastick.tumblr.com/" title="sugaronastick"><img src="https://web.archive.org/web/20130904130429im_/http://24.media.tumblr.com/avatar_d84ed1babe0d_16.png" class="avatar " alt=""/></a>
+                    
+                    <span class="action" data-post-url="http://sugaronastick.tumblr.com/post/60068176024">
+                                                    
+                                                                                                                                                                                    <a rel="nofollow" href="https://web.archive.org/web/20130904130429/http://sugaronastick.tumblr.com/" class="tumblelog" title="sugaronastick">sugaronastick</a> reblogged this from <a rel="nofollow" href="https://web.archive.org/web/20130904130429/http://www.jakejaxson.com/" class="source_tumblelog" title="JAKE JAXSON">jakejaxson</a>                                                                                                                                                                                    </span>
+                    <div class="clear"></div>
+
+                                    
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note like tumblelog_thatgaynerdtyler without_commentary">
+
+                                                                                <a rel="nofollow" class="avatar_frame" target="_blank" href="https://web.archive.org/web/20130904130429/http://thatgaynerdtyler.tumblr.com/" title="There Are Big, Tall, Terrible Giants in the Sky " rel="nofollow"><img src="https://web.archive.org/web/20130904130429im_/http://31.media.tumblr.com/avatar_98ed347b5aea_16.png" class="avatar " alt=""/></a>
+                
+                <span class="action">
+                    
+                                            <a rel="nofollow" href="https://web.archive.org/web/20130904130429/http://thatgaynerdtyler.tumblr.com/" title="There Are Big, Tall, Terrible Giants in the Sky" rel="nofollow">thatgaynerdtyler</a> likes this                                    </span>
+
+                <div class="clear"></div>
+
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note like tumblelog_weneedtotalkaboutcarson without_commentary">
+
+                                                                                <a rel="nofollow" class="avatar_frame" target="_blank" href="https://web.archive.org/web/20130904130429/http://weneedtotalkaboutcarson.tumblr.com/" title="Fuckery everywhere " rel="nofollow"><img src="https://web.archive.org/web/20130904130429im_/http://24.media.tumblr.com/avatar_e0a31cf8a619_16.png" class="avatar " alt=""/></a>
+                
+                <span class="action">
+                    
+                                            <a rel="nofollow" href="https://web.archive.org/web/20130904130429/http://weneedtotalkaboutcarson.tumblr.com/" title="Fuckery everywhere" rel="nofollow">weneedtotalkaboutcarson</a> likes this                                    </span>
+
+                <div class="clear"></div>
+
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note reblog tumblelog_check-mateblack without_commentary">
+
+                        
+                
+                                                                                        <a rel="nofollow" class="avatar_frame" target="_blank" href="https://web.archive.org/web/20130904130429/http://check-mateblack.tumblr.com/" title="Untitled"><img src="https://web.archive.org/web/20130904130429im_/http://assets.tumblr.com/images/default_avatar_16.png" class="avatar " alt=""/></a>
+                    
+                    <span class="action" data-post-url="http://check-mateblack.tumblr.com/post/58205468697">
+                                                    
+                                                                                                                                                                                    <a rel="nofollow" href="https://web.archive.org/web/20130904130429/http://check-mateblack.tumblr.com/" class="tumblelog" title="Untitled">check-mateblack</a> reblogged this from <a rel="nofollow" href="https://web.archive.org/web/20130904130429/http://www.jakejaxson.com/" class="source_tumblelog" title="JAKE JAXSON">jakejaxson</a>                                                                                                                                                                                    </span>
+                    <div class="clear"></div>
+
+                                    
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note like tumblelog_alkrfaark without_commentary">
+
+                                                                                <a rel="nofollow" class="avatar_frame" target="_blank" href="https://web.archive.org/web/20130904130429/http://alkrfaark.tumblr.com/" title="Untitled " rel="nofollow"><img src="https://web.archive.org/web/20130904130429im_/http://assets.tumblr.com/images/default_avatar/octahedron_open_16.png" class="avatar " alt=""/></a>
+                
+                <span class="action">
+                    
+                                            <a rel="nofollow" href="https://web.archive.org/web/20130904130429/http://alkrfaark.tumblr.com/" title="Untitled" rel="nofollow">alkrfaark</a> likes this                                    </span>
+
+                <div class="clear"></div>
+
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note reblog tumblelog_cr4zy-heart without_commentary">
+
+                        
+                
+                                                                                        <a rel="nofollow" class="avatar_frame" target="_blank" href="https://web.archive.org/web/20130904130429/http://cr4zy-heart.tumblr.com/" title="Just some things"><img src="https://web.archive.org/web/20130904130429im_/http://31.media.tumblr.com/avatar_97fc8a18d954_16.png" class="avatar " alt=""/></a>
+                    
+                    <span class="action" data-post-url="http://cr4zy-heart.tumblr.com/post/57025144909">
+                                                    
+                                                                                                                                                                                    <a rel="nofollow" href="https://web.archive.org/web/20130904130429/http://cr4zy-heart.tumblr.com/" class="tumblelog" title="Just some things">cr4zy-heart</a> reblogged this from <a rel="nofollow" href="https://web.archive.org/web/20130904130429/http://www.jakejaxson.com/" class="source_tumblelog" title="JAKE JAXSON">jakejaxson</a>                                                                                                                                                                                    </span>
+                    <div class="clear"></div>
+
+                                    
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note like tumblelog_lulupimprenelle without_commentary">
+
+                                                                                <a rel="nofollow" class="avatar_frame" target="_blank" href="https://web.archive.org/web/20130904130429/http://lulupimprenelle.tumblr.com/" title="Lulu Pimprenelle " rel="nofollow"><img src="https://web.archive.org/web/20130904130429im_/http://31.media.tumblr.com/avatar_42416619305d_16.png" class="avatar " alt=""/></a>
+                
+                <span class="action">
+                    
+                                            <a rel="nofollow" href="https://web.archive.org/web/20130904130429/http://lulupimprenelle.tumblr.com/" title="Lulu Pimprenelle" rel="nofollow">lulupimprenelle</a> likes this                                    </span>
+
+                <div class="clear"></div>
+
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note like tumblelog_lankyhomovegan without_commentary">
+
+                                                                                <a rel="nofollow" class="avatar_frame" target="_blank" href="https://web.archive.org/web/20130904130429/http://lankyhomovegan.tumblr.com/" title="Secular Degenerate Swine " rel="nofollow"><img src="https://web.archive.org/web/20130904130429im_/http://25.media.tumblr.com/avatar_8b4b56f2434a_16.png" class="avatar " alt=""/></a>
+                
+                <span class="action">
+                    
+                                            <a rel="nofollow" href="https://web.archive.org/web/20130904130429/http://lankyhomovegan.tumblr.com/" title="Secular Degenerate Swine" rel="nofollow">lankyhomovegan</a> likes this                                    </span>
+
+                <div class="clear"></div>
+
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note like tumblelog_morrigan343 without_commentary">
+
+                                                                                <a rel="nofollow" class="avatar_frame" target="_blank" href="https://web.archive.org/web/20130904130429/http://morrigan343.tumblr.com/" title="Dorian's Slightly Less Than Useful Insight " rel="nofollow"><img src="https://web.archive.org/web/20130904130429im_/http://31.media.tumblr.com/avatar_8f14e5374512_16.png" class="avatar " alt=""/></a>
+                
+                <span class="action">
+                    
+                                            <a rel="nofollow" href="https://web.archive.org/web/20130904130429/http://morrigan343.tumblr.com/" title="Dorian's Slightly Less Than Useful Insight" rel="nofollow">morrigan343</a> likes this                                    </span>
+
+                <div class="clear"></div>
+
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note like tumblelog_thugratz without_commentary">
+
+                                                                                <a rel="nofollow" class="avatar_frame" target="_blank" href="https://web.archive.org/web/20130904130429/http://thugratz.tumblr.com/" title=" " rel="nofollow"><img src="https://web.archive.org/web/20130904130429im_/http://25.media.tumblr.com/avatar_1d017f313892_16.png" class="avatar " alt=""/></a>
+                
+                <span class="action">
+                    
+                                            <a rel="nofollow" href="https://web.archive.org/web/20130904130429/http://thugratz.tumblr.com/" title="" rel="nofollow">thugratz</a> likes this                                    </span>
+
+                <div class="clear"></div>
+
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note like tumblelog_kunari without_commentary">
+
+                                                                                <a rel="nofollow" class="avatar_frame" target="_blank" href="https://web.archive.org/web/20130904130429/http://kunari.tumblr.com/" title="Kunari's Random Thoughts " rel="nofollow"><img src="https://web.archive.org/web/20130904130429im_/http://25.media.tumblr.com/avatar_2ecba2fda339_16.png" class="avatar " alt=""/></a>
+                
+                <span class="action">
+                    
+                                            <a rel="nofollow" href="https://web.archive.org/web/20130904130429/http://kunari.tumblr.com/" title="Kunari's Random Thoughts" rel="nofollow">kunari</a> likes this                                    </span>
+
+                <div class="clear"></div>
+
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note like tumblelog_keepromancing without_commentary">
+
+                                                                                <a rel="nofollow" class="avatar_frame" target="_blank" href="https://web.archive.org/web/20130904130429/http://keepromancing.tumblr.com/" title="FALSE HOPE. " rel="nofollow"><img src="https://web.archive.org/web/20130904130429im_/http://31.media.tumblr.com/avatar_0ed00e70d137_16.png" class="avatar " alt=""/></a>
+                
+                <span class="action">
+                    
+                                            <a rel="nofollow" href="https://web.archive.org/web/20130904130429/http://keepromancing.tumblr.com/" title="FALSE HOPE." rel="nofollow">keepromancing</a> likes this                                    </span>
+
+                <div class="clear"></div>
+
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note like tumblelog_virginpornstar without_commentary">
+
+                                                                                <a rel="nofollow" class="avatar_frame" target="_blank" href="https://web.archive.org/web/20130904130429/http://virginpornstar.tumblr.com/" title="The Virgin PornStar " rel="nofollow"><img src="https://web.archive.org/web/20130904130429im_/http://24.media.tumblr.com/avatar_64708a78c2e6_16.png" class="avatar " alt=""/></a>
+                
+                <span class="action">
+                    
+                                            <a rel="nofollow" href="https://web.archive.org/web/20130904130429/http://virginpornstar.tumblr.com/" title="The Virgin PornStar" rel="nofollow">virginpornstar</a> likes this                                    </span>
+
+                <div class="clear"></div>
+
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note like tumblelog_phillipshake without_commentary">
+
+                                                                                <a rel="nofollow" class="avatar_frame" target="_blank" href="https://web.archive.org/web/20130904130429/http://phillipshake.tumblr.com/" title="the one that got away " rel="nofollow"><img src="https://web.archive.org/web/20130904130429im_/http://31.media.tumblr.com/avatar_b915544f6dc6_16.png" class="avatar " alt=""/></a>
+                
+                <span class="action">
+                    
+                                            <a rel="nofollow" href="https://web.archive.org/web/20130904130429/http://phillipshake.tumblr.com/" title="the one that got away" rel="nofollow">phillipshake</a> likes this                                    </span>
+
+                <div class="clear"></div>
+
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note like tumblelog_belialt without_commentary">
+
+                                                                                <a rel="nofollow" class="avatar_frame" target="_blank" href="https://web.archive.org/web/20130904130429/http://belialt.tumblr.com/" title="Can't I wonder in peace " rel="nofollow"><img src="https://web.archive.org/web/20130904130429im_/http://25.media.tumblr.com/avatar_e5b147a8d7e1_16.png" class="avatar " alt=""/></a>
+                
+                <span class="action">
+                    
+                                            <a rel="nofollow" href="https://web.archive.org/web/20130904130429/http://belialt.tumblr.com/" title="Can't I wonder in peace" rel="nofollow">belialt</a> likes this                                    </span>
+
+                <div class="clear"></div>
+
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note like tumblelog_thedarkrescuer without_commentary">
+
+                                                                                <a rel="nofollow" class="avatar_frame" target="_blank" href="https://web.archive.org/web/20130904130429/http://thedarkrescuer.tumblr.com/" title="❝ Ｂｉｔｅ Ｍｅ ❞ " rel="nofollow"><img src="https://web.archive.org/web/20130904130429im_/http://31.media.tumblr.com/avatar_789d845fc10a_16.png" class="avatar " alt=""/></a>
+                
+                <span class="action">
+                    
+                                            <a rel="nofollow" href="https://web.archive.org/web/20130904130429/http://thedarkrescuer.tumblr.com/" title="❝ Ｂｉｔｅ Ｍｅ ❞" rel="nofollow">thedarkrescuer</a> likes this                                    </span>
+
+                <div class="clear"></div>
+
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note like tumblelog_leeleebah without_commentary">
+
+                                                                                <a rel="nofollow" class="avatar_frame" target="_blank" href="https://web.archive.org/web/20130904130429/http://leeleebah.tumblr.com/" title="courageous rocks. " rel="nofollow"><img src="https://web.archive.org/web/20130904130429im_/http://24.media.tumblr.com/avatar_32155cf44838_16.png" class="avatar " alt=""/></a>
+                
+                <span class="action">
+                    
+                                            <a rel="nofollow" href="https://web.archive.org/web/20130904130429/http://leeleebah.tumblr.com/" title="courageous rocks." rel="nofollow">leeleebah</a> likes this                                    </span>
+
+                <div class="clear"></div>
+
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note like tumblelog_melvinryantan without_commentary">
+
+                                                                                <a rel="nofollow" class="avatar_frame" target="_blank" href="https://web.archive.org/web/20130904130429/http://melvinryantan.tumblr.com/" title="Kaleidoscope " rel="nofollow"><img src="https://web.archive.org/web/20130904130429im_/http://31.media.tumblr.com/avatar_cb8c62b518b8_16.png" class="avatar " alt=""/></a>
+                
+                <span class="action">
+                    
+                                            <a rel="nofollow" href="https://web.archive.org/web/20130904130429/http://melvinryantan.tumblr.com/" title="Kaleidoscope" rel="nofollow">melvinryantan</a> likes this                                    </span>
+
+                <div class="clear"></div>
+
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note like tumblelog_slightlyintroverted without_commentary">
+
+                                                                                <a rel="nofollow" class="avatar_frame" target="_blank" href="https://web.archive.org/web/20130904130429/http://slightlyintroverted.tumblr.com/" title="Home Hunting " rel="nofollow"><img src="https://web.archive.org/web/20130904130429im_/http://25.media.tumblr.com/avatar_6a5f1ee69a16_16.png" class="avatar " alt=""/></a>
+                
+                <span class="action">
+                    
+                                            <a rel="nofollow" href="https://web.archive.org/web/20130904130429/http://slightlyintroverted.tumblr.com/" title="Home Hunting" rel="nofollow">slightlyintroverted</a> likes this                                    </span>
+
+                <div class="clear"></div>
+
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note like tumblelog_chief-payne without_commentary">
+
+                                                                                <a rel="nofollow" class="avatar_frame" target="_blank" href="https://web.archive.org/web/20130904130429/http://chief-payne.tumblr.com/" title="Ya Shower of Cunts " rel="nofollow"><img src="https://web.archive.org/web/20130904130429im_/http://25.media.tumblr.com/avatar_dfe8dcce6e5a_16.png" class="avatar " alt=""/></a>
+                
+                <span class="action">
+                    
+                                            <a rel="nofollow" href="https://web.archive.org/web/20130904130429/http://chief-payne.tumblr.com/" title="Ya Shower of Cunts" rel="nofollow">chief-payne</a> likes this                                    </span>
+
+                <div class="clear"></div>
+
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note reblog tumblelog_iona-adsila without_commentary">
+
+                        
+                
+                                                                                        <a rel="nofollow" class="avatar_frame" target="_blank" href="https://web.archive.org/web/20130904130429/http://iona-adsila.tumblr.com/" title="A Few Favs"><img src="https://web.archive.org/web/20130904130429im_/http://25.media.tumblr.com/avatar_1a4155469bff_16.png" class="avatar " alt=""/></a>
+                    
+                    <span class="action" data-post-url="http://iona-adsila.tumblr.com/post/55366509010">
+                                                    
+                                                                                                                                                                                    <a rel="nofollow" href="https://web.archive.org/web/20130904130429/http://iona-adsila.tumblr.com/" class="tumblelog" title="A Few Favs">iona-adsila</a> reblogged this from <a rel="nofollow" href="https://web.archive.org/web/20130904130429/http://lushusljs.tumblr.com/" class="source_tumblelog" title="Lushusljs">lushusljs</a>                                                                                                                                                                                    </span>
+                    <div class="clear"></div>
+
+                                    
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note like tumblelog_iona-adsila without_commentary">
+
+                                                                                <a rel="nofollow" class="avatar_frame" target="_blank" href="https://web.archive.org/web/20130904130429/http://iona-adsila.tumblr.com/" title="A Few Favs " rel="nofollow"><img src="https://web.archive.org/web/20130904130429im_/http://25.media.tumblr.com/avatar_1a4155469bff_16.png" class="avatar " alt=""/></a>
+                
+                <span class="action">
+                    
+                                            <a rel="nofollow" href="https://web.archive.org/web/20130904130429/http://iona-adsila.tumblr.com/" title="A Few Favs" rel="nofollow">iona-adsila</a> likes this                                    </span>
+
+                <div class="clear"></div>
+
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note reblog tumblelog_fuckyeahstravinsky without_commentary">
+
+                        
+                
+                                                                                        <a rel="nofollow" class="avatar_frame" target="_blank" href="https://web.archive.org/web/20130904130429/http://fuckyeahstravinsky.tumblr.com/" title="Stylin'"><img src="https://web.archive.org/web/20130904130429im_/http://25.media.tumblr.com/avatar_fa7a6d5b88ac_16.png" class="avatar " alt=""/></a>
+                    
+                    <span class="action" data-post-url="http://fuckyeahstravinsky.tumblr.com/post/55195705310">
+                                                    
+                                                                                                                                                                                    <a rel="nofollow" href="https://web.archive.org/web/20130904130429/http://fuckyeahstravinsky.tumblr.com/" class="tumblelog" title="Stylin'">fuckyeahstravinsky</a> reblogged this from <a rel="nofollow" href="https://web.archive.org/web/20130904130429/http://www.jakejaxson.com/" class="source_tumblelog" title="JAKE JAXSON">jakejaxson</a>                                                                                                                                                                                    </span>
+                    <div class="clear"></div>
+
+                                    
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note like tumblelog_nonsequiturpizza without_commentary">
+
+                                                                                <a rel="nofollow" class="avatar_frame" target="_blank" href="https://web.archive.org/web/20130904130429/http://nonsequiturpizza.tumblr.com/" title="Intuition " rel="nofollow"><img src="https://web.archive.org/web/20130904130429im_/http://25.media.tumblr.com/avatar_83ce0a57eb54_16.png" class="avatar " alt=""/></a>
+                
+                <span class="action">
+                    
+                                            <a rel="nofollow" href="https://web.archive.org/web/20130904130429/http://nonsequiturpizza.tumblr.com/" title="Intuition" rel="nofollow">nonsequiturpizza</a> likes this                                    </span>
+
+                <div class="clear"></div>
+
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note like tumblelog_jarabean without_commentary">
+
+                                                                                <a rel="nofollow" class="avatar_frame" target="_blank" href="https://web.archive.org/web/20130904130429/http://jarabean.tumblr.com/" title="JaraBean " rel="nofollow"><img src="https://web.archive.org/web/20130904130429im_/http://31.media.tumblr.com/avatar_e2ee64d36cad_16.png" class="avatar " alt=""/></a>
+                
+                <span class="action">
+                    
+                                            <a rel="nofollow" href="https://web.archive.org/web/20130904130429/http://jarabean.tumblr.com/" title="JaraBean" rel="nofollow">jarabean</a> likes this                                    </span>
+
+                <div class="clear"></div>
+
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note reblog tumblelog_jarabean without_commentary">
+
+                        
+                
+                                                                                        <a rel="nofollow" class="avatar_frame" target="_blank" href="https://web.archive.org/web/20130904130429/http://jarabean.tumblr.com/" title="JaraBean"><img src="https://web.archive.org/web/20130904130429im_/http://31.media.tumblr.com/avatar_e2ee64d36cad_16.png" class="avatar " alt=""/></a>
+                    
+                    <span class="action" data-post-url="http://jarabean.tumblr.com/post/54968940081">
+                                                    
+                                                                                                                                                                                    <a rel="nofollow" href="https://web.archive.org/web/20130904130429/http://jarabean.tumblr.com/" class="tumblelog" title="JaraBean">jarabean</a> reblogged this from <a rel="nofollow" href="https://web.archive.org/web/20130904130429/http://www.jakejaxson.com/" class="source_tumblelog" title="JAKE JAXSON">jakejaxson</a>                                                                                                                                                                                    </span>
+                    <div class="clear"></div>
+
+                                    
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note like tumblelog_bonesofmylife without_commentary">
+
+                                                                                <a rel="nofollow" class="avatar_frame" target="_blank" href="https://web.archive.org/web/20130904130429/http://bonesofmylife.tumblr.com/" title="BonesOfMyLife " rel="nofollow"><img src="https://web.archive.org/web/20130904130429im_/http://31.media.tumblr.com/avatar_e7e1cf1b01c8_16.png" class="avatar " alt=""/></a>
+                
+                <span class="action">
+                    
+                                            <a rel="nofollow" href="https://web.archive.org/web/20130904130429/http://bonesofmylife.tumblr.com/" title="BonesOfMyLife" rel="nofollow">bonesofmylife</a> likes this                                    </span>
+
+                <div class="clear"></div>
+
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note reblog tumblelog_sakura1979 without_commentary">
+
+                        
+                
+                                                                                        <a rel="nofollow" class="avatar_frame" target="_blank" href="https://web.archive.org/web/20130904130429/http://sakura1979.tumblr.com/" title="MoonlightGarden"><img src="https://web.archive.org/web/20130904130429im_/http://24.media.tumblr.com/avatar_01190679a2de_16.png" class="avatar " alt=""/></a>
+                    
+                    <span class="action" data-post-url="http://sakura1979.tumblr.com/post/54946559761">
+                                                    
+                                                                                                                                                                                    <a rel="nofollow" href="https://web.archive.org/web/20130904130429/http://sakura1979.tumblr.com/" class="tumblelog" title="MoonlightGarden">sakura1979</a> reblogged this from <a rel="nofollow" href="https://web.archive.org/web/20130904130429/http://www.jakejaxson.com/" class="source_tumblelog" title="JAKE JAXSON">jakejaxson</a>                                                                                                                                                                                    </span>
+                    <div class="clear"></div>
+
+                                    
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note like tumblelog_sakura1979 without_commentary">
+
+                                                                                <a rel="nofollow" class="avatar_frame" target="_blank" href="https://web.archive.org/web/20130904130429/http://sakura1979.tumblr.com/" title="MoonlightGarden " rel="nofollow"><img src="https://web.archive.org/web/20130904130429im_/http://24.media.tumblr.com/avatar_01190679a2de_16.png" class="avatar " alt=""/></a>
+                
+                <span class="action">
+                    
+                                            <a rel="nofollow" href="https://web.archive.org/web/20130904130429/http://sakura1979.tumblr.com/" title="MoonlightGarden" rel="nofollow">sakura1979</a> likes this                                    </span>
+
+                <div class="clear"></div>
+
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note like tumblelog_iheartcubs without_commentary">
+
+                                                                                <a rel="nofollow" class="avatar_frame" target="_blank" href="https://web.archive.org/web/20130904130429/http://iheartcubs.tumblr.com/" title="iheartcubs " rel="nofollow"><img src="https://web.archive.org/web/20130904130429im_/http://25.media.tumblr.com/avatar_dd8dd53c4ceb_16.png" class="avatar " alt=""/></a>
+                
+                <span class="action">
+                    
+                                            <a rel="nofollow" href="https://web.archive.org/web/20130904130429/http://iheartcubs.tumblr.com/" title="iheartcubs" rel="nofollow">iheartcubs</a> likes this                                    </span>
+
+                <div class="clear"></div>
+
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note reblog tumblelog_weneedtotalkaboutcarson without_commentary">
+
+                        
+                
+                                                                                        <a rel="nofollow" class="avatar_frame" target="_blank" href="https://web.archive.org/web/20130904130429/http://weneedtotalkaboutcarson.tumblr.com/" title="Fuckery everywhere"><img src="https://web.archive.org/web/20130904130429im_/http://24.media.tumblr.com/avatar_e0a31cf8a619_16.png" class="avatar " alt=""/></a>
+                    
+                    <span class="action" data-post-url="http://weneedtotalkaboutcarson.tumblr.com/post/54716906603">
+                                                    
+                                                                                                                                                                                    <a rel="nofollow" href="https://web.archive.org/web/20130904130429/http://weneedtotalkaboutcarson.tumblr.com/" class="tumblelog" title="Fuckery everywhere">weneedtotalkaboutcarson</a> reblogged this from <a rel="nofollow" href="https://web.archive.org/web/20130904130429/http://typefacemag.com/" class="source_tumblelog" title="TYPE/FACE MAG">typefacemag</a>                                                                                                                                                                                    </span>
+                    <div class="clear"></div>
+
+                                    
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note reblog tumblelog_typefacemag without_commentary">
+
+                        
+                
+                                                                                        <a rel="nofollow" class="avatar_frame" target="_blank" href="https://web.archive.org/web/20130904130429/http://typefacemag.com/" title="TYPE/FACE MAG"><img src="https://web.archive.org/web/20130904130429im_/http://24.media.tumblr.com/avatar_ca826d38e09f_16.png" class="avatar " alt=""/></a>
+                    
+                    <span class="action" data-post-url="http://typefacemag.com/post/54715189640">
+                                                    
+                                                                                                                                                                                    <a rel="nofollow" href="https://web.archive.org/web/20130904130429/http://typefacemag.com/" class="tumblelog" title="TYPE/FACE MAG">typefacemag</a> reblogged this from <a rel="nofollow" href="https://web.archive.org/web/20130904130429/http://www.jakejaxson.com/" class="source_tumblelog" title="JAKE JAXSON">jakejaxson</a>                                                                                                                                                                                    </span>
+                    <div class="clear"></div>
+
+                                    
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note reblog tumblelog_drew85 without_commentary">
+
+                        
+                
+                                                                                        <a rel="nofollow" class="avatar_frame" target="_blank" href="https://web.archive.org/web/20130904130429/http://drew85.tumblr.com/" title="Drew85"><img src="https://web.archive.org/web/20130904130429im_/http://25.media.tumblr.com/avatar_2db89b12fd80_16.png" class="avatar " alt=""/></a>
+                    
+                    <span class="action" data-post-url="http://drew85.tumblr.com/post/54675457171">
+                                                    
+                                                                                                                                                                                    <a rel="nofollow" href="https://web.archive.org/web/20130904130429/http://drew85.tumblr.com/" class="tumblelog" title="Drew85">drew85</a> reblogged this from <a rel="nofollow" href="https://web.archive.org/web/20130904130429/http://www.jakejaxson.com/" class="source_tumblelog" title="JAKE JAXSON">jakejaxson</a>                                                                                                                                                                                    </span>
+                    <div class="clear"></div>
+
+                                    
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note reblog tumblelog_shokoyoshida without_commentary">
+
+                        
+                
+                                                                                        <a rel="nofollow" class="avatar_frame" target="_blank" href="https://web.archive.org/web/20130904130429/http://shokoyoshida.tumblr.com/" title="still drunk"><img src="https://web.archive.org/web/20130904130429im_/http://25.media.tumblr.com/avatar_de18722fe52a_16.png" class="avatar " alt=""/></a>
+                    
+                    <span class="action" data-post-url="http://shokoyoshida.tumblr.com/post/54663182874">
+                                                    
+                                                                                                                                                                                    <a rel="nofollow" href="https://web.archive.org/web/20130904130429/http://shokoyoshida.tumblr.com/" class="tumblelog" title="still drunk">shokoyoshida</a> reblogged this from <a rel="nofollow" href="https://web.archive.org/web/20130904130429/http://www.jakejaxson.com/" class="source_tumblelog" title="JAKE JAXSON">jakejaxson</a>                                                                                                                                                                                    </span>
+                    <div class="clear"></div>
+
+                                    
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note reblog tumblelog_quondam without_commentary">
+
+                        
+                
+                                                                                        <a rel="nofollow" class="avatar_frame" target="_blank" href="https://web.archive.org/web/20130904130429/http://quondam.tumblr.com/" title="Stuff I Read Today"><img src="https://web.archive.org/web/20130904130429im_/http://25.media.tumblr.com/avatar_e21bc17ae230_16.png" class="avatar " alt=""/></a>
+                    
+                    <span class="action" data-post-url="http://quondam.tumblr.com/post/54660341734">
+                                                    
+                                                                                                                                                                                    <a rel="nofollow" href="https://web.archive.org/web/20130904130429/http://quondam.tumblr.com/" class="tumblelog" title="Stuff I Read Today">quondam</a> reblogged this from <a rel="nofollow" href="https://web.archive.org/web/20130904130429/http://www.jakejaxson.com/" class="source_tumblelog" title="JAKE JAXSON">jakejaxson</a>                                                                                                                                                                                    </span>
+                    <div class="clear"></div>
+
+                                    
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note like tumblelog_solx385 without_commentary">
+
+                                                                                <a rel="nofollow" class="avatar_frame" target="_blank" href="https://web.archive.org/web/20130904130429/http://solx385.tumblr.com/" title="Somewhere over the rainbow " rel="nofollow"><img src="https://web.archive.org/web/20130904130429im_/http://24.media.tumblr.com/avatar_58e63514b75d_16.png" class="avatar " alt=""/></a>
+                
+                <span class="action">
+                    
+                                            <a rel="nofollow" href="https://web.archive.org/web/20130904130429/http://solx385.tumblr.com/" title="Somewhere over the rainbow" rel="nofollow">solx385</a> likes this                                    </span>
+
+                <div class="clear"></div>
+
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note reblog tumblelog_jesseswiftxxx without_commentary">
+
+                        
+                
+                                                                                        <a rel="nofollow" class="avatar_frame" target="_blank" href="https://web.archive.org/web/20130904130429/http://jesseswiftxxx.tumblr.com/" title="Jesse Swift"><img src="https://web.archive.org/web/20130904130429im_/http://24.media.tumblr.com/avatar_eec606fb3adb_16.png" class="avatar " alt=""/></a>
+                    
+                    <span class="action" data-post-url="http://jesseswiftxxx.tumblr.com/post/54649135951">
+                                                    
+                                                                                                                                                                                    <a rel="nofollow" href="https://web.archive.org/web/20130904130429/http://jesseswiftxxx.tumblr.com/" class="tumblelog" title="Jesse Swift">jesseswiftxxx</a> reblogged this from <a rel="nofollow" href="https://web.archive.org/web/20130904130429/http://www.jakejaxson.com/" class="source_tumblelog" title="JAKE JAXSON">jakejaxson</a>                                                                                                                                                                                    </span>
+                    <div class="clear"></div>
+
+                                    
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note like tumblelog_mctaz2 without_commentary">
+
+                                                                                <a rel="nofollow" class="avatar_frame" target="_blank" href="https://web.archive.org/web/20130904130429/http://mctaz2.tumblr.com/" title=" " rel="nofollow"><img src="https://web.archive.org/web/20130904130429im_/http://25.media.tumblr.com/avatar_189ba7eb86bf_16.png" class="avatar " alt=""/></a>
+                
+                <span class="action">
+                    
+                                            <a rel="nofollow" href="https://web.archive.org/web/20130904130429/http://mctaz2.tumblr.com/" title="" rel="nofollow">mctaz2</a> likes this                                    </span>
+
+                <div class="clear"></div>
+
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note reblog tumblelog_pool1971 without_commentary">
+
+                        
+                
+                                                                                        <a rel="nofollow" class="avatar_frame" target="_blank" href="https://web.archive.org/web/20130904130429/http://pool1971.tumblr.com/" title="Tony b"><img src="https://web.archive.org/web/20130904130429im_/http://25.media.tumblr.com/avatar_bf3038059a92_16.png" class="avatar " alt=""/></a>
+                    
+                    <span class="action" data-post-url="http://pool1971.tumblr.com/post/54644740654">
+                                                    
+                                                                                                                                                                                    <a rel="nofollow" href="https://web.archive.org/web/20130904130429/http://pool1971.tumblr.com/" class="tumblelog" title="Tony b">pool1971</a> reblogged this from <a rel="nofollow" href="https://web.archive.org/web/20130904130429/http://www.jakejaxson.com/" class="source_tumblelog" title="JAKE JAXSON">jakejaxson</a>                                                                                                                                                                                    </span>
+                    <div class="clear"></div>
+
+                                    
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note like tumblelog_pool1971 without_commentary">
+
+                                                                                <a rel="nofollow" class="avatar_frame" target="_blank" href="https://web.archive.org/web/20130904130429/http://pool1971.tumblr.com/" title="Tony b " rel="nofollow"><img src="https://web.archive.org/web/20130904130429im_/http://25.media.tumblr.com/avatar_bf3038059a92_16.png" class="avatar " alt=""/></a>
+                
+                <span class="action">
+                    
+                                            <a rel="nofollow" href="https://web.archive.org/web/20130904130429/http://pool1971.tumblr.com/" title="Tony b" rel="nofollow">pool1971</a> likes this                                    </span>
+
+                <div class="clear"></div>
+
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note like tumblelog_teaandworlddomination without_commentary">
+
+                                                                                <a rel="nofollow" class="avatar_frame" target="_blank" href="https://web.archive.org/web/20130904130429/http://teaandworlddomination.tumblr.com/" title="Tea and World Domination " rel="nofollow"><img src="https://web.archive.org/web/20130904130429im_/http://25.media.tumblr.com/avatar_e274d8c045f7_16.png" class="avatar " alt=""/></a>
+                
+                <span class="action">
+                    
+                                            <a rel="nofollow" href="https://web.archive.org/web/20130904130429/http://teaandworlddomination.tumblr.com/" title="Tea and World Domination" rel="nofollow">teaandworlddomination</a> likes this                                    </span>
+
+                <div class="clear"></div>
+
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note like tumblelog_oozingasslips without_commentary">
+
+                                                                                <a rel="nofollow" class="avatar_frame" target="_blank" href="https://web.archive.org/web/20130904130429/http://oozingasslips.tumblr.com/" title="OOZE " rel="nofollow"><img src="https://web.archive.org/web/20130904130429im_/http://25.media.tumblr.com/avatar_ac206b2ca442_16.png" class="avatar " alt=""/></a>
+                
+                <span class="action">
+                    
+                                            <a rel="nofollow" href="https://web.archive.org/web/20130904130429/http://oozingasslips.tumblr.com/" title="OOZE" rel="nofollow">oozingasslips</a> likes this                                    </span>
+
+                <div class="clear"></div>
+
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note like tumblelog_schnattergans without_commentary">
+
+                                                                                <a rel="nofollow" class="avatar_frame" target="_blank" href="https://web.archive.org/web/20130904130429/http://schnattergans.tumblr.com/" title="Stolpersteine " rel="nofollow"><img src="https://web.archive.org/web/20130904130429im_/http://31.media.tumblr.com/avatar_c1eb854a44af_16.png" class="avatar " alt=""/></a>
+                
+                <span class="action">
+                    
+                                            <a rel="nofollow" href="https://web.archive.org/web/20130904130429/http://schnattergans.tumblr.com/" title="Stolpersteine" rel="nofollow">schnattergans</a> likes this                                    </span>
+
+                <div class="clear"></div>
+
+                        
+        </li>
+                            
+        
+                                                                
+        
+        
+        <li class="note like tumblelog_glamgal-09 without_commentary">
+
+                                                                                <a rel="nofollow" class="avatar_frame" target="_blank" href="https://web.archive.org/web/20130904130429/http://glamgal-09.tumblr.com/" title="They say that this love is blasphemy " rel="nofollow"><img src="https://web.archive.org/web/20130904130429im_/http://25.media.tumblr.com/avatar_a5ffcd8dc84a_16.png" class="avatar " alt=""/></a>
+                
+                <span class="action">
+                    
+                                            <a rel="nofollow" href="https://web.archive.org/web/20130904130429/http://glamgal-09.tumblr.com/" title="They say that this love is blasphemy" rel="nofollow">glamgal-09</a> likes this                                    </span>
+
+                <div class="clear"></div>
+
+                        
+        </li>
+    
+            <li class="note more_notes_link_container" style="text-align:center;" id="more_notes_54490441032">
+            <a class="more_notes_link" rel="nofollow" href="#" onclick="this.style.display='none';document.getElementById('notes_loading_54490441032').style.display = 'block';if(window.ActiveXObject)var tumblrReq=new ActiveXObject('Microsoft.XMLHTTP');else if(window.XMLHttpRequest)var tumblrReq=new XMLHttpRequest();else return false;tumblrReq.onreadystatechange=function(){if(tumblrReq.readyState==4){var notes_html=tumblrReq.responseText.split('<!-- START '+'NOTES -->')[1].split('<!-- END '+'NOTES -->')[0];
+if(window.tumblrNotesLoaded)if(tumblrNotesLoaded(notes_html)==false)return;var more_notes_link=document.getElementById('more_notes_54490441032');var notes=more_notes_link.parentNode;notes.removeChild(more_notes_link);notes.innerHTML+=notes_html;if(window.tumblrNotesInserted)tumblrNotesInserted(notes_html);}};tumblrReq.open('GET','/notes/54490441032/VbfG2HYOI?from_c=1372971222',true);tumblrReq.send();return false;">Show more notes</a><span class="notes_loading" id="notes_loading_54490441032" style="display:none;">Loading...</span>
+        </li>
+    
+    <!-- END NOTES -->
+</ol>
+
+
+          
+          
+          
+ 
+        </div>
+     </article>
+
+
+     
+        <nav id="pageNav">
+           <ul class="clearfix">
+              <li><a href="https://web.archive.org/web/20130904130429/http://www.jakejaxson.com/post/54431228821" id="pageNavNewer">Previous</a></li>
+              <li><a href="https://web.archive.org/web/20130904130429/http://www.jakejaxson.com/post/54792529973" id="pageNavOlder">Next</a></li>  
+           </ul>
+        </nav>
+     
+      
+      
+      
+     
+     
+     </div><!-- END layout -->
+     </section>
+
+     <footer id="sitemeta">
+        <div class="clearfix">
+           <div class="thefooter">
+              <p><a href="https://web.archive.org/web/20130904130429/http://www.tumblr.com/theme/12051">The Minimalist Theme</a> designed by <a href="https://web.archive.org/web/20130904130429/http://minimalist.co/">The Minimalist</a> | Powered by <a href="https://web.archive.org/web/20130904130429/http://tumblr.com/">Tumblr</a></p>
+           </div>
+        </div>
+     </footer>
+
+     
+        <script type="text/javascript">var gaJsHost=(("https:"==document.location.protocol)?"https://web.archive.org/web/20130904130429/https://ssl.":"https://web.archive.org/web/20130904130429/http://www.");document.write(unescape("%3Cscript src='"+gaJsHost+"google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));</script><script type="text/javascript">try{var pageTracker=_gat._getTracker("UA-2116434-70");pageTracker._trackPageview()}catch(err){}</script>
+     
+
+<!-- BEGIN TUMBLR CODE -->
+        
+    
+        <iframe id="tumblr_controls" width="1" height="1" frameborder="0" scrolling="no" style="position:absolute; z-index:2147483647; top:0; right:0; border:0; background-color:transparent; overflow:hidden; " src="https://web.archive.org/web/20130904130429if_/http://assets.tumblr.com/assets/html/iframe/o.html?_v=0ee0f254bf589f3cba2c0152902f3122#src=http%3A%2F%2Fwww.jakejaxson.com%2Fpost%2F54490441032%2Fi-am-jake-jaxson&amp;pid=54490441032&amp;rk=Cy9NM2KJ&amp;lang=en_US&amp;name=jakejaxson&amp;avatar=http%3A%2F%2F24.media.tumblr.com%2Favatar_9a2a9ba0f1aa_64.png&amp;title=JAKE+JAXSON&amp;url=http%3A%2F%2Fwww.jakejaxson.com%2F&amp;page_slide=slide"></iframe>    <div id="teaser_iframe_container" style="display:none;"><iframe scrolling="no" frameborder="0" src="https://web.archive.org/web/20130904130429if_/http://www.tumblr.com/assets/html/iframe/teaser.html#src=http%3A%2F%2Fwww.jakejaxson.com%2Fpost%2F54490441032%2Fi-am-jake-jaxson&amp;pid=54490441032&amp;rk=Cy9NM2KJ&amp;lang=en_US&amp;name=jakejaxson&amp;avatar=http%3A%2F%2F24.media.tumblr.com%2Favatar_9a2a9ba0f1aa_64.png&amp;title=JAKE+JAXSON&amp;url=http%3A%2F%2Fwww.jakejaxson.com%2F&amp;page_slide=slide" id="teaser_iframe" width="1" height="1"></iframe></div>
+
+<script type="text/javascript">
+    (function(){
+        var follow_iframe_initialized = false;
+        if (Tumblr.FollowTeaser && Tumblr.PostMessageListener) {
+            // Don't do anything until the first initialize event
+            Tumblr.PostMessageListener.initialize(function(message, origin) {
+                if (follow_iframe_initialized || message.length < 2) return;
+
+                if (message[0] === 'follow_iframe' && message[1] === 'enable') {
+                    Tumblr.FollowTeaser.current_page = 1;
+                    Tumblr.FollowTeaser.infer_infinite_scroll = true;
+                    Tumblr.FollowTeaser.create_from_tumblr_controls('https://web.archive.org/web/20130904130429/http://assets.tumblr.com/assets/html/iframe/follow.html?_v=9eb49ac0d3775c8314e99e63a5fb35fc');
+                    Tumblr.FollowTeaser.scroll_listener(true);
+                    follow_iframe_initialized = true;
+                }
+            });
+        }
+    })();
+</script>
+    
+    <!--[if IE]><script type="text/javascript">document.getElementById('tumblr_controls').allowTransparency=true;</script><![endif]-->
+    
+        
+<iframe src="https://web.archive.org/web/20130904130429if_/http://assets.tumblr.com/analytics.html?22ad39df04a81786f0ec70bbf4f591e4" scrolling="no" width="1" height="1" frameborder="0" style="background-color:transparent; overflow:hidden; position:absolute; top:0; left:0 z-index:9999;" id="ga_target"></iframe>
+
+    <script>
+        var COMSCORE = true;
+        window.setTimeout(function() {
+            var analytics_frame = document.getElementById('ga_target');
+            analytics_frame.contentWindow.postMessage('enable_comscore;' + window.location, analytics_frame.src.split('/analytics.html')[0]);
+        }, 1000);
+    </script>
+
+
+
+    <script type="text/javascript">
+      var _qevents = _qevents || [];
+
+      (function() {
+       var elem = document.createElement('script');
+
+       elem.src = (document.location.protocol == "https:" ? "https://web.archive.org/web/20130904130429/https://secure" : "https://web.archive.org/web/20130904130429/http://edge") + ".quantserve.com/quant.js";
+       elem.async = true;
+       elem.type = "text/javascript";
+       var scpt = document.getElementsByTagName('script')[0];
+       scpt.parentNode.insertBefore(elem, scpt);
+      })();
+    </script>
+    <script type="text/javascript">
+        _qevents.push( { qacct: 'p-19UtqE8ngoZbM' } );
+    </script>
+    <noscript>
+        <div style="display: none;"><img src="//web.archive.org/web/20130904130429im_/http://pixel.quantserve.com/pixel/'p-19UtqE8ngoZbM'.gif" height="1" width="1" alt="Quantcast"/></div>
+    </noscript>
+
+
+    <script type="text/javascript">!function(s){s.src='https://web.archive.org/web/20130904130429/http://www.tumblr.com/impixu?T=1378299869&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvd3d3Lmpha2VqYXhzb24uY29tXC9wb3N0XC81NDQ5MDQ0MTAzMlwvaS1hbS1qYWtlLWpheHNvbiIsInJlcXR5cGUiOjB9&U=JAMOAADDGA&K=f45eecc37bf3201b0bd2a28e73b6429536b3a709cbbc7b4618b78ce73698a7e8&R='.replace(/&R=[^&$]*/,'').concat('&R='+escape(document.referrer)).slice(0,2000).replace(/%.?.?$/,'');}(new Image());</script><noscript><img style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;" src="https://web.archive.org/web/20130904130429im_/http://www.tumblr.com/impixu?T=1378299869&amp;J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvd3d3Lmpha2VqYXhzb24uY29tXC9wb3N0XC81NDQ5MDQ0MTAzMlwvaS1hbS1qYWtlLWpheHNvbiIsInJlcXR5cGUiOjAsIm5vc2NyaXB0IjoxfQ==&amp;U=JAMOAADDGA&amp;K=ca6675622836365305c701be0f39be3550f02db759f5b1c5e3ee71dff54e016d&amp;R="></noscript><script type="text/javascript">!function(s){s.src='https://web.archive.org/web/20130904130429/http://www.tumblr.com/impixu?T=1378299869&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6XC9cL3d3dy5qYWtlamF4c29uLmNvbVwvcG9zdFwvNTQ0OTA0NDEwMzJcL2ktYW0tamFrZS1qYXhzb24iLCJyZXF0eXBlIjowLCJwb3N0cyI6W3sicG9zdGlkIjoiNTQ0OTA0NDEwMzIiLCJibG9naWQiOiI1NTU3NTg3OSIsInNvdXJjZSI6MzN9XX0=&U=AMHHCJFHFO&K=db1cadc208ed2476017cf8f0e8eaecf10645bac7137dd36d3374b7d8e44cd948&R='.replace(/&R=[^&$]*/,'').concat('&R='+escape(document.referrer)).slice(0,2000).replace(/%.?.?$/,'');}(new Image());</script><noscript><img style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;" src="https://web.archive.org/web/20130904130429im_/http://www.tumblr.com/impixu?T=1378299869&amp;J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6XC9cL3d3dy5qYWtlamF4c29uLmNvbVwvcG9zdFwvNTQ0OTA0NDEwMzJcL2ktYW0tamFrZS1qYXhzb24iLCJyZXF0eXBlIjowLCJwb3N0cyI6W3sicG9zdGlkIjoiNTQ0OTA0NDEwMzIiLCJibG9naWQiOiI1NTU3NTg3OSIsInNvdXJjZSI6MzN9XSwibm9zY3JpcHQiOjF9&amp;U=AMHHCJFHFO&amp;K=b9122578185197f915a5a064c312e461a02959cbe773af078cefb583a337ff48&amp;R="></noscript><!-- END TUMBLR CODE -->
+</body>
+</html><!--
+     FILE ARCHIVED ON 13:04:29 Sep 04, 2013 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 20:24:20 Jun 07, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 348.014
+  exclusion.robots: 0.37
+  exclusion.robots.policy: 0.357
+  RedisCDXSource: 56.897
+  esindex: 0.018
+  LoadShardBlock: 265.659 (3)
+  PetaboxLoader3.datanode: 225.382 (4)
+  CDXLines.iter: 20.9 (3)
+  PetaboxLoader3.resolve: 1108.773 (2)
+  load_resource: 1089.74
+-->

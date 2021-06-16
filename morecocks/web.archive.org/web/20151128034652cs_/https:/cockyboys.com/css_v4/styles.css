@@ -1,0 +1,3548 @@
+/*
+font-family: 'Abel', sans-serif;   <-- body font
+font-family: 'Montserrat', sans-serif;  <-- bold subheader
+font-family: 'Passion One', cursive;  <-- bold header
+font-family: fancyFont, "Helvetica Neue", Helvetica, Arial, sans-serif; <-- sub-body
+*/
+html {
+	font-size: 100%;
+	overflow-y: scroll;
+	-webkit-text-size-adjust: 100%;
+	-ms-text-size-adjust: 100%;
+}
+@font-face {
+	font-family: 'fancyFont';
+	src: url('https://web.archive.org/web/20160124232707im_/http://www.cockyboys.com/css_v4/msyi-webfont.eot');
+	src: url('https://web.archive.org/web/20160124232707im_/http://www.cockyboys.com/css_v4/msyi-webfont.eot') format('embedded-opentype'),  url('../../../../20160124232707im_/http:/www.cockyboys.com/css_v4/msyi-webfont.woff') format('woff'),  url('../../../../20160124232707im_/http:/www.cockyboys.com/css_v4/msyi-webfont.ttf') format('truetype'),  url('https://web.archive.org/web/20160124232707im_/http://www.cockyboys.com/css_v4/msyi-webfont.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+.gothamy {
+	font-family: 'Passion One', Gotham, Arial;
+}
+body {
+	background: #fff;
+	color: #262626;
+	margin: 0;
+	padding: 0;
+	min-width: 980px;
+	font-family: 'Abel', sans-serif;
+	font-size: 0.95em;
+    line-height: 1.55em;	
+}
+#wrapper {
+	margin: 0 auto;
+	min-width: 980px;
+	max-width: 2000px;
+}
+ul {
+	margin: 0;
+	padding: 0;
+}
+li {
+	list-style-type: none;
+	float: left;
+}
+a, a:hover, a:visited {
+	text-decoration: none;
+	color: #262626;
+}
+#masthead {
+	position: relative;
+	overflow: hidden;
+}
+#masthead #navBar {
+	position: absolute;
+	background: rgba(0,0,0,0.6);
+	margin-bottom: 0;
+}
+#navBar {
+	width: 100%;
+	left: 0;
+	top: 0;
+	background: #000;
+	z-index: 10;
+	padding: 5px 0;
+	height: 40px;
+	margin-bottom: 35px;
+	font-family: fancyFont, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.oldie #navBar {
+	background: #000;
+}
+#navBar ul {
+	float: left;
+}
+#navBar ul li a {
+	color: #fff;
+	display: inline-block;
+	margin: 7px 23px 0 20px;
+	font-size: 21px;
+}
+#navBar ul li a:hover {
+	border-bottom: 2px solid #f00;
+	padding-bottom: 6px;
+}
+#navBar ul li .more:hover {
+	border-bottom: none;
+	padding-bottom: 0;
+}
+#navBar ul li#logo h1 {
+	margin: -7px -5px 0 -4px;
+}
+#navBar ul li#logo a {
+	height: 40px;
+	width: 276px;
+	background: url(../../../../20160124232707im_/http:/cockyboys.com/images_v4/logo.png) center center no-repeat;
+	-webkit-background-size: 100% auto;
+	-moz-background-size: 100% auto;
+	background-size: 100% auto;
+	text-indent: -9000em;
+	margin: 0 20px 0 10px;
+	border: 0;
+	padding: 0;
+	position: relative;
+	top: 3px;
+}
+#navBar ul li#logo.block a {
+	background-image: url(../../../../20160124232707im_/http:/cockyboys.com/images_v4/logo-block.png);
+	width: 95px;
+	height: 45px;
+	margin-right: 10px;
+	top: 0;
+}
+#navBar ul li a.more {
+	/*padding-right: 18px;
+	background: url(/web/20160124232707im_/http://www.cockyboys.com/images_v4/navArrow.png) right 11px no-repeat;*/
+	-webkit-background-size: auto 6px;
+	-moz-background-size: auto 6px;
+	background-size: auto 6px;
+	position: relative;
+}
+#navBar ul li span a.more {
+	background: url(../../../../20160124232707im_/http:/www.cockyboys.com/images_v4/navArrow.png) right 13px no-repeat;
+	-webkit-background-size: auto 6px;
+	-moz-background-size: auto 6px;
+	background-size: auto 6px;
+}
+#navBar ul li span a.more img {
+	top: 33px;
+}
+#navBar ul li span span {
+	background: #fff;
+	padding: 15px 0 5px;
+	top: 60px;
+}
+#navBar ul li span span img {
+	height: 24px;
+	width: auto !important;
+}
+#navBar ul li a.more img {
+	display: none;
+	top: 26px;
+	left: 50%;
+	margin-left: -32px;
+	position: absolute;
+	width: 50px;
+	z-index: 900;
+}
+#navBar ul li span {
+	display: none;
+	position: absolute;
+	width: 100%;
+	background: #5AABD5;
+	left: 0;
+	top: 50px;
+	text-align: center;
+	z-index: 999;
+	padding: 10px 0;
+	-o-box-shadow: 0 3px 3px rgba(0,0,0,0.4);
+	-moz-box-shadow: 0 3px 3px rgba(0,0,0,0.4);
+	-webkit-box-shadow: 0 3px 3px rgba(0,0,0,0.4);
+	box-shadow: 0 3px 3px rgba(0,0,0,0.4);
+}
+#navBar ul li span a {
+	display: inline-block;
+	margin: 5px 20px;
+	line-height: 30px;
+	font-size: 19px;
+	color: #fff;
+	-o-text-shadow: 0px 2px 4px rgba(0,0,0,0.2);
+	-moz-text-shadow: 0px 2px 4px rgba(0,0,0,0.2);
+	-webkit-text-shadow: 0px 2px 4px rgba(0,0,0,0.2);
+	text-shadow: 0px 2px 4px rgba(0,0,0,0.2);
+}
+#navBar ul li span a:hover {
+	padding-bottom: 0;
+	margin-bottom: -2px !important;
+}
+#masthead video, #masthead video img {
+	width: 100%;
+}
+#navBar span#icons {
+	float: right;
+	margin-right: 10px;
+	position: relative;
+}
+.tour #navBar span#icons {
+	margin-right: 10px;
+}
+#navBar span#icons a {
+	display: inline-block;
+	position: relative;
+	font-size: 19px;
+	color: #fff;
+	text-align: left;
+	padding: 10px 10px 13px 0;
+	top: -1px;
+}
+#navBar span#icons ul {
+	display: none;
+	position: absolute;
+	top: 45px;
+	right: -10px;
+	z-index: 999;
+}
+#navBar span#icons ul li {
+	float: none;
+	background: #000;
+	width: 230px;
+}
+#masthead #navBar span#icons ul li {
+	background: rgba(0,0,0,0.5);
+}
+#navBar span#icons ul a:hover {
+	border: 0;
+}
+#navBar #search {
+	margin-left: 10px;
+}
+#navBar #search input, .mobileNav #search input {
+	width: 0;
+	height: 35px;
+	border: 1px solid #4A4949;
+	background: url(../../../../20160124232707im_/http:/www.cockyboys.com/images_v4/bgSearchBar.png) 8px center no-repeat rgba(0,0,0,0.2);
+	background-size: 30px;
+	color: #fff;
+	padding: 0 0 0 48px;
+	font-size: 21px;
+	font-family: fancyFont, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	margin-top: 2px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+}
+#navBar #search input::-webkit-input-placeholder, .mobileNav #search input::-webkit-input-placeholder {
+ color: #fff;
+}
+#navBar #search input::-moz-placeholder, .mobileNav #search input::-moz-placeholder {
+ color: #fff;
+}
+#navBar #search input:-moz-placeholder, .mobileNav #search input:-moz-placeholder {   /* Older versions of Firefox */
+ color: #fff;
+}
+#navBar #search input:-ms-input-placeholder, .mobileNav #search input:-ms-input-placeholder {
+ color: #fff;
+}
+#navBar #search input:focus, .mobileNav #search input:focus {
+	outline-width: 0;
+}
+#navBar #search a {
+	font-size: 17px !important;
+	position: relative;
+	top: -2px;
+	left: -25px;
+}
+#navBar #search a:hover {
+	border: 0;
+	text-decoration: underline;
+}
+#navBar #search em {
+	color: #fff;
+	font-style: normal;
+	font-size: 40px;
+	position: relative;
+	top: 3px;
+	left: -37px;
+	cursor: pointer;
+}
+body ul.ui-menu {
+	width: 599px;
+	border: 0;
+	background: rgba(0,0,0,0.8);
+	font-family: 'Abel', sans-serif;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	color: #fff;
+}
+body li.ui-menu-item {
+	list-style-type: none;
+	display: block;
+	font-size: 20px;
+	float: none;
+	padding-left: 70px !important;
+}
+body li.ui-state-focus {
+	border: 0 !important;
+	background: none !important;
+	color: #1389A7 !important;
+}
+#BL, #BR, #TL, #TR, #B, #L, #R {
+	position: absolute;
+	z-index: 7;
+	width: 150px;
+	height: 150px;
+}
+#BL {
+	bottom: 6px;
+	left: 0;
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#000000+0,000000+100&amp;0.7+0,0+52 */
+	background: -moz-linear-gradient(45deg,  rgba(0,0,0,0.7) 0%, rgba(0,0,0,0) 52%, rgba(0,0,0,0) 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(45deg,  rgba(0,0,0,0.7) 0%,rgba(0,0,0,0) 52%,rgba(0,0,0,0) 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(45deg,  rgba(0,0,0,0.7) 0%,rgba(0,0,0,0) 52%,rgba(0,0,0,0) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b3000000', endColorstr='#00000000',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+}
+#BR {
+	bottom: 6px;
+	right: 0;
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#000000+0,000000+100&amp;0+50,0.7+100 */
+	background: -moz-linear-gradient(-45deg,  rgba(0,0,0,0) 0%, rgba(0,0,0,0) 50%, rgba(0,0,0,0.7) 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(-45deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%,rgba(0,0,0,0.7) 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(135deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%,rgba(0,0,0,0.7) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', endColorstr='#b3000000',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+	}
+#TR {
+	top: 0;
+	right: 0;
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#000000+0,000000+100&amp;0+50,0.7+100 */
+	background: -moz-linear-gradient(45deg,  rgba(0,0,0,0) 0%, rgba(0,0,0,0) 50%, rgba(0,0,0,0.7) 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(45deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%,rgba(0,0,0,0.7) 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(45deg,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%,rgba(0,0,0,0.7) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', endColorstr='#b3000000',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+}
+#TL {
+	top: 0;
+	left: 0;
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#000000+0,000000+100&amp;0.7+0,0+52 */
+	background: -moz-linear-gradient(-45deg,  rgba(0,0,0,0.7) 0%, rgba(0,0,0,0) 52%, rgba(0,0,0,0) 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(-45deg,  rgba(0,0,0,0.7) 0%,rgba(0,0,0,0) 52%,rgba(0,0,0,0) 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(135deg,  rgba(0,0,0,0.7) 0%,rgba(0,0,0,0) 52%,rgba(0,0,0,0) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b3000000', endColorstr='#00000000',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+}
+#B {
+	background: url(https://web.archive.org/web/20160124232707im_/http://www.cockyboys.com/a4a/images/B.png) center bottom repeat-x;
+	width: 100%;
+	height: 111px;
+	bottom: 6px;
+	left: 0;
+}
+#R {
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#000000+0,000000+100&amp;0+0,0.5+62,0.7+100 */
+	background: -moz-linear-gradient(left,  rgba(0,0,0,0) 0%, rgba(0,0,0,0.5) 62%, rgba(0,0,0,0.7) 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(left,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.5) 62%,rgba(0,0,0,0.7) 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to right,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.5) 62%,rgba(0,0,0,0.7) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', endColorstr='#b3000000',GradientType=1 ); /* IE6-9 */
+	height: 100%;
+	width: 111px;
+	right: 0;
+	top: -6px;
+}
+#L {
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#000000+0,000000+100&amp;0.7+0,0.5+27,0+96 */
+	background: -moz-linear-gradient(left,  rgba(0,0,0,0.7) 0%, rgba(0,0,0,0.5) 27%, rgba(0,0,0,0) 96%, rgba(0,0,0,0) 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(left,  rgba(0,0,0,0.7) 0%,rgba(0,0,0,0.5) 27%,rgba(0,0,0,0) 96%,rgba(0,0,0,0) 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to right,  rgba(0,0,0,0.7) 0%,rgba(0,0,0,0.5) 27%,rgba(0,0,0,0) 96%,rgba(0,0,0,0) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b3000000', endColorstr='#00000000',GradientType=1 ); /* IE6-9 */
+	height: 100%;
+	width: 111px;
+	left: 0;
+	top: -6px;
+}
+#featured div {
+	width: 100%;
+	left: 0;
+	top: 0;
+}
+#featured .playButton {
+	position: absolute;
+	z-index: 7;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	background: url(../../../../20160124232707im_/http:/www.cockyboys.com/images_v3/white/featurePlay.png) center center no-repeat;
+	opacity: 0;
+	text-indent: -9000em;
+}
+#featured span {
+	position: absolute;
+	z-index: 8;
+	width: 33%;
+	height: 100%;
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#000000+0,000000+100&amp;0+0,0.5+15 */
+	background: -moz-linear-gradient(left,  rgba(0,0,0,0) 0%, rgba(0,0,0,0.5) 15%, rgba(0,0,0,0.5) 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(left,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.5) 15%,rgba(0,0,0,0.5) 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to right,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.5) 15%,rgba(0,0,0,0.5) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', endColorstr='#80000000',GradientType=1 ); /* IE6-9 */
+	display: block;
+	top: -5px;
+	right: 0;
+	text-align: center;
+	padding-right: 70px;
+}
+#featured span.left {
+	right: auto;
+	left: 0;
+	padding-left: 70px;
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#000000+0,000000+100&amp;0.5+83,0.5+83,0+100 */
+	background: -moz-linear-gradient(left,  rgba(0,0,0,0.5) 0%, rgba(0,0,0,0.5) 83%, rgba(0,0,0,0) 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(left,  rgba(0,0,0,0.5) 0%,rgba(0,0,0,0.5) 83%,rgba(0,0,0,0) 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to right,  rgba(0,0,0,0.5) 0%,rgba(0,0,0,0.5) 83%,rgba(0,0,0,0) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#80000000', endColorstr='#00000000',GradientType=1 ); /* IE6-9 */
+
+
+}
+#featured span .title {
+	display: block;
+	text-align: center;
+	margin-top: 140px;
+}
+#featured span .title img {
+	width: 90%;
+}
+#featured span .titleDesc, #featured span .titleDesc2 {
+	color: #fff;
+	display: block;
+	font-size: 24px;
+	line-height: 23px;
+	margin: 10px auto 15px;
+	width: 80%;
+	text-align: left;
+	padding-left: 20px;
+}
+#featured .mastBanner {
+	width: 100%;
+}
+.titleDesc {
+	padding-top: 10px;/*border-top: 1px solid #8C8C8C;*/
+}
+#featured span .titleDesc2 {
+	font-family: 'Abel', sans-serif;
+	font-size: 20px;
+	padding-bottom: 10px;
+	/*border-bottom: 1px solid #8C8C8C;*/
+	text-align: justify;
+	line-height: 21px;
+}
+#featured span .titleDesc3 {
+	border-bottom: 0;
+}
+.watchButton, #navBar span#icons a.join {
+	display: inline-block;
+	padding: 10px 19px 10px 16px;
+	color: #fff !important;
+	background: #d6352c;
+	font-family: 'Passion One', Gotham, Arial;
+	font-size: 20px;
+	-o-border-radius: 2px;
+	-moz-border-radius: 2px;
+	-webkit-border-radius: 2px;
+	border-radius: 2px;
+	margin: 20px 5px 0;
+	position: relative;
+	z-index: 8;
+	text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+#navBar span#icons a.join {
+	padding: 6px 25px 6px 23px;
+	margin: 0 20px 0 0;
+}
+#navBar span#icons a i {
+	margin-right: 3px;
+}
+.watchButton i {
+	font-size: 19px;
+	margin-right: 3px;
+}
+body .newReleases .previewThumb .watchButton, body .newReleases .previewThumb .watchButton.two, body .newReleases .thumbHovered .watchButton, body .newReleases .thumbHovered .watchButton.two {
+	clear: both;
+	display: none;
+	padding: 5px 12px;
+	background-size: auto 13px;
+	font-size: 18px;
+	margin: 10px 20px 3px 0 !important;
+	font-style: normal;
+	text-transform: uppercase;
+}
+.newReleases div .watchButton i {
+	font-size: 15px;
+}
+.tour .newReleases div .watchButton.two i {
+	font-size: 20px;
+}
+.newReleases div .watchButton.two {
+	margin-right: 0;
+}
+#featured p {
+	position: absolute;
+	z-index: 10;
+	bottom: 0;
+	text-align: center;
+	width: 100%;
+	padding: 10px 0;
+	margin: 0;
+}
+#featured p img {
+	width: 15px;
+	margin: 0 5px;
+}
+#featured .arrowLeft, #featured .arrowRight {
+	text-indent: -9000em;
+	position: absolute;
+	top: 50%;
+	margin-top: -61px;
+	background: url(https://web.archive.org/web/20160124232707im_/http://www.cockyboys.com/images_v4/masthead-arrows.png) left center no-repeat;
+	-o-background-size: auto 100%;
+	-moz-background-size: auto 100%;
+	-webkit-background-size: auto 100%;
+	background-size: auto 100%;
+	width: 32px;
+	height: 122px;
+	left: 25px;
+	opacity: 0.5;
+	z-index: 9;
+}
+#featured .arrowRight {
+	background: url(https://web.archive.org/web/20160124232707im_/http://www.cockyboys.com/images_v4/masthead-arrows.png) right center no-repeat;
+	-o-background-size: auto 100%;
+	-moz-background-size: auto 100%;
+	-webkit-background-size: auto 100%;
+	background-size: auto 100%;
+	left: auto;
+	right: 25px;
+}
+#featured .arrowLeft:hover, #featured .arrowRight:hover {
+	opacity: 1;
+}
+/***** NEW RELEASES AREA *****/
+.quote {
+	width: 100%;
+	display: block;
+	margin: 40px auto;
+	max-width: 2000px;
+	position: relative;
+	min-width: 980px;
+	max-height: 158px;
+	min-height: 78px;
+}
+.quote div {
+	position: absolute;
+	left: 0;
+	top: 0;
+	text-align: center;
+	display: none;
+	width: 100%;
+}
+.quote img {
+	width: 96%;
+}
+.newReleases {
+	text-align: center;
+	min-width: 980px;
+	max-width: 2000px;
+	margin: 20px auto;
+	width: 100%;
+	word-spacing: -1;
+	position: relative;
+}
+.newReleases div {
+	width: 33%;
+	position: relative;
+	display: inline-block;
+	margin: 0;
+}
+.horizontal.eleven {
+    background: #fff;
+    padding: 20px 0;
+}
+.sceneList.newReleases a, .horizontal .item a {
+	color: #fff;
+}
+.newReleases div a img, .newReleases div video, .newReleases div video img {
+	width: 100%;
+	position: relative;
+}
+.newReleases div video {
+	position: absolute;
+	left: 0;
+	top: 0;
+	z-index: 7;
+}
+.newReleases .sceneTitle, .horizontal .item .sceneTitle {
+	text-align: center;
+	left: 0;
+	bottom: 6px;
+	position: absolute;
+	text-decoration: none;
+	z-index: 4;
+	font-size: 18px;
+	line-height: 24px;
+	background: url(../../../../20160124232707im_/http:/www.cockyboys.com/images_v4/gradientSceneThumb.png) center top repeat-x;
+	-o-background-size: auto 100%;
+	-moz-background-size: auto 100%;
+	-webkit-background-size: auto 100%;
+	background-size: auto 100%;
+	width: 100%;
+	padding: 15px 0 5px;
+	color: #fff;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+}
+.newReleases .sceneTitle strong, .horizontal .item .sceneTitle strong {
+	border-bottom: 1px solid #c3c3c3;
+	padding-bottom: 4px;
+	display: block;
+	margin: 0 10px 2px;
+	text-align: left;
+	line-height: 17px;
+}
+.horizontal .item .sceneTitle {
+	background: rgba(0,0,0,0.4);
+	padding: 0;
+	bottom: 0;
+}
+.horizontal .item .sceneTitle strong {
+	padding: 6px 0 6px;
+    border-bottom: none;
+    font-weight: normal;
+    line-height: 17px;
+    font-size: 16px;
+    word-spacing: -1px;
+}
+.newReleases .sceneTitle span, .horizontal .item .sceneTitle span {
+	display: block;
+	color: #FF6060;
+	font-size: 13px;
+	margin-left: 10px;
+	float: left;
+	text-shadow: 0px 0px 4px rgba(0,0,0,0.8);
+}
+.newReleases .sceneTitle span.extra, .horizontal .item .sceneTitle span.extra {
+	color: #69C4E8;
+}
+.newReleases .sceneTitle span em, .horizontal .item .sceneTitle span em {
+	font-style: normal;
+	color: #fff;
+	text-shadow: none;
+}
+.newReleases .sceneTitle img, .horizontal .item .sceneTitle img {
+	width: auto;
+	float: right;
+	margin-right: 5px;
+}
+/*.newReleases .playArrow, .horizontal .item .playArrow, #masthead .playArrow {*/
+.playArrow {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	z-index: 5;
+	left: 0;
+	top: 0;
+	background: url(../../../../20160124232707im_/http:/www.cockyboys.com/images_v3/white/featurePlay.png) center 40% no-repeat;
+	background-size: 20%;
+	display: none;
+	text-indent: -9000em;
+}
+.horizontal span.item .playArrow {
+	background: url(../../../../20160124232707im_/http:/www.cockyboys.com/images_v3/white/featurePlay.png) center center no-repeat;
+	background-size: 100px;
+}
+#masthead .playArrow {
+	background-size: 140px;
+    background-position: center center;
+}
+.horizontal {
+	background: #ededed;
+	padding: 20px 0 5px;
+	position: relative;
+	margin-top: 20px;
+	text-align: center;
+}
+.horizontal .sceneTitle {
+	bottom: 0;
+	padding-top: 25px;
+}
+.horizontal .sceneTitle strong {
+	border-bottom: 0;
+}
+.sectionTitle {
+	font-size: 55px;
+	line-height: 55px;
+	text-transform: uppercase;
+	margin: 25px 0 -5px 0;
+	padding-left: 15px;
+	border-left: 20px solid #ff0000;
+	color: #003761;
+}
+h2.sectionTitle span, h1.sectionTitle span {
+	display: block;
+    font-weight: normal;
+    font-family: 'Abel', sans-serif;
+    font-size: 20px;
+    line-height: 18px;
+    color: #545454;
+    text-indent: 2px;
+}
+.thumbHovered {
+	width: 33%;
+	border: 10px solid #fff;
+	margin: -16px -10px -15px !important;
+	z-index: 101;
+	background-color: #000;
+	box-shadow: 0 0 10px #000;
+}
+.oldie .thumbHovered {
+	border: 15px solid #000;
+	border-bottom: 10px solid #000;
+}
+.thumbHovered .sceneTitle {
+	background: url(https://web.archive.org/web/20160124232707im_/http://www.cockyboys.com/images_v4/gradientSceneThumbFull.png) center top repeat-x;
+	padding-top: 40px;
+	z-index: 10;
+}
+.thumbHovered a.thumb img {
+	display: none;
+}
+.clearfix {
+	clear: both;
+}
+.subHeader {
+	text-align: right;
+	border-left: 0;
+	border-right: 20px solid #FF0000;
+	padding-right: 10px;
+	font-size: 28px;
+	padding: 0 10px 0 0;
+	margin: -20px 0 -30px;
+	line-height: 30px;
+}
+#pagination {
+	text-align: center;
+	margin: 50px 0;
+	font-family: fancyFont, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+#pagination a {
+	display: inline-block;
+	padding: 15px 25px;
+	/*background-color: #1389A7;*/
+	background: #5AABD5;
+	margin: 0 -2px;
+	font-size: 36px;
+	color: #fff;
+}
+#pagination .prevArrow, #pagination .nextArrow {
+	border-radius: 10px 0 0 10px;
+}
+#pagination .nextArrow {
+	border-radius: 0;
+	border-radius: 0 10px 10px 0;
+}
+#pagination .active {
+	background: #f00;
+	cursor: default;
+}
+#pagination .active.two {
+	-o-border-radius: 10px 0 0 10px;
+	-moz-border-radius: 10px 0 0 10px;
+	-webkit-border-radius: 10px 0 0 10px;
+	border-radius: 10px 0 0 10px;
+}
+#pagination a:hover {
+	background-color: #f00;
+}
+.bottomSection {
+	border-top: 1px solid #f00;
+	text-align: center;
+	margin: 100px auto 50px;
+	padding-bottom: 10px;
+	width: 95%;
+}
+h4 {
+	color: #003761;
+	text-transform: uppercase;
+	display: inline-block;
+	margin: 0;
+	text-align: center;
+	padding: 0 15px;
+	top: -10px;
+	background: #ededed;
+	position: relative;
+}
+.owl-carousel, .owl-carousel img {
+	width: 100%;
+}
+.owlLeft, .owlRight {
+	height: 100%;
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 70px;
+    text-align: center;
+    font-size: 140px;
+	line-height: 140px;
+    background: #fff;
+	margin-top: 0;
+	opacity: 0.4;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=40)";
+}
+.owlRight {
+	left: auto;
+	right: 0;
+}
+.owlLeft:hover, .owlRight:hover {
+	opacity: 0.8;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
+}
+.owlLeft i, .owlRight i {
+	position: absolute;
+    left: 6px;
+    top: 50%;
+    margin-top: -80px;
+}
+.owlRight i {
+	right: 6px;
+}
+.owl-theme .owl-controls .owl-buttons div {
+	position: absolute;
+	left: 0;
+	top: 0;
+	height: 100%;
+	width: 80px;
+	margin: 0;
+	padding: 0;
+	-o-border-radius: 0;
+	-moz-border-radius: 0;
+	-webkit-border-radius: 0;
+	border-radius: 0;
+	background: #fff;
+}
+.owl-theme .owl-controls .owl-buttons div.owl-next {
+	left: auto;
+	right: 0;
+}
+.owl-theme .owl-controls .owl-buttons div {
+	filter: Alpha(Opacity=40);
+	opacity: 0.4;
+}
+.horizontal.newReleases div {
+	width: auto;
+	display: block;
+	margin: 5px;
+}
+/* ********** MOVIE PAGE ********** */
+.moviesPage {
+	background: #e4eaec;
+}
+.moviesPage h1, .moviesPage h2 {
+	color: #003761;
+}
+#movieHeader {
+	margin: 0 0 10px;
+}
+#movieHeader h1 {
+	margin: 10px 0 10px;
+	font-size: 50px;
+	border-left: 70px solid #ff0000;
+	line-height: 40px;
+}
+#movieHeader h2 {
+	margin: -15px 0 0;
+    border-left: 70px solid #ff0000;
+    padding-left: 15px;
+    font-size: 22px;
+    line-height: 21px;
+}
+.moviesPage #movieHeader h1 {
+	font-size: 55px;
+	line-height: 45px;
+}
+#movieHeader .left {
+	float: left;
+	max-width: 60%;
+}
+#movieHeader .right {
+	float: right;
+	text-align: right;
+	margin-right: 60px;
+}
+.moviesPage #movieHeader .right  {
+	position: relative;
+	top: -10px;
+}
+#movieHeader #downloadBox {
+	position: fixed;
+	width: 400px;
+	height: 200px;
+	bottom: 20px;
+	right: 20px;
+	background: #fff;
+	display: block;
+	z-index: 1000;
+	padding: 40px;
+	font-family: 'Abel', sans-serif;
+	text-align: left;
+	-o-box-shadow: 0 0 6px rgba(0,0,0,0.6);
+	-moz-box-shadow: 0 0 6px rgba(0,0,0,0.6);
+	-webkit-box-shadow: 0 0 6px rgba(0,0,0,0.6);
+	box-shadow: 0 0 6px rgba(0,0,0,0.6);
+}
+#movieHeader #downloadBox span {
+	position: absolute;
+	right: 10px;
+	top: 10px;
+	cursor: pointer;
+	font-size: 40px;
+}
+#movieHeader #downloadBox em {
+	font-style: normal;
+}
+#movieHeader #downloadBox a {
+	display: block;
+	text-align: center;
+	background: #003765;
+	color: #fff;
+	padding: 10px 0;
+	margin-top: 10px;
+}
+#movieHeader #downloadBox em.gothamy {
+	display: block;
+	font-size: 40px;
+	text-transform: uppercase;
+	margin-bottom: 10px;
+	color: #003761;
+	border-bottom: 1px solid #a9a9a9;
+	padding-bottom: 15px;
+}
+#movieHeader .right p.two {
+	font-size: 45px;
+	margin: 15px 5px -10px 0;
+	line-height: 48px;
+}
+#movieHeader .right p.two a:hover {
+	color: #f00;
+}
+#movieHeader select {
+	border: 0;
+	width: 250px;
+	height: 40px;
+	font-size: 13px;
+	margin-left: 10px;
+	position: relative;
+	top: -2px;
+	margin-top: 5px;
+}
+.moviesPage p a, .dvdPage p a {
+	color: #003765;
+}
+.moviesPage p a:visited, .dvdPage p a:visited {
+	color: #003765;
+}
+.moviesPage p a:hover {
+	color: #003765;
+}
+.movieLeft, .movieRight {
+	width: 47%;
+}
+.movieLeft {
+	float: left;
+}
+.movieLeft p {
+	margin: 10px 25px;
+}
+.movieRight {
+	float: right;
+	margin-right: 40px;
+	padding-top: 25px;
+}
+.movieModels {
+	text-align: center;
+}
+.movieModels span {
+	width: 49%;
+	display: inline-block;
+	position: relative;
+}
+.movieModels img {
+	width: 100%;
+}
+.moviesPage h2 {
+	padding-left: 10px;
+    text-transform: uppercase;
+    padding: 5px 0 0 10px;
+    margin: 0 0 10px;
+    font-size: 34px;
+    line-height: 35px;
+    border-left: 10px solid #f00;
+    font-family: 'Abel', sans-serif;
+}
+.movieLeft div, p#comments {
+	margin: 20px 25px;
+    text-align: justify;
+    padding-bottom: 15px;
+    font-size: 18px;
+    color: #5A5A5A;
+    line-height: 27px;
+}
+p#comments {
+	margin: 30px 0 0;
+}
+.moreComments:hover {
+	text-decoration: underline;
+}
+.movieDesc {
+	border-bottom: 1px solid #a9a9a9;
+}
+.movieDVDs {
+	overflow: hidden;
+	width: 100%;
+	margin: 70px auto;
+	padding: 20px 0;
+	background: #fff;
+}
+.moviesPage .movieDVDs {
+	margin-top: 10px;
+}
+.movieDVDs img {
+	float: left;
+	padding-left: 20px;
+}
+.movieDVDs div {
+	margin: 5px 0 0 375px;
+	padding-right: 20px;
+}
+.movieDVDs p.gothamy, .movieDVDs h1.gothamy {
+	font-size: 70px;
+	text-transform: uppercase;
+	margin: 20px 0;
+	color: #003761;
+}
+.movieDVDs .buyLink {
+	display: inline-block;
+	padding: 0 20px;
+	margin: 30px 10px 0 0;
+	border-right: 1px solid #a9a9a9;
+	border-left: 1px solid #a9a9a9;
+	text-transform: uppercase;
+	font-size: 20px;
+	position: relative;
+	top: -12px;
+}
+.movieDVDs .buyLink:hover {
+	color: #f00;
+}
+.movieDVDs em {
+	text-transform: uppercase;
+	font-style: normal;
+	border-left: 20px solid #f00;
+	padding-left: 7px;
+	color: #404040;
+	margin-top: 10px;
+	display: block;
+	font-size: 19px;
+}
+.ratings img {
+	margin-right: 6px;
+	position: relative;
+	top: 3px;
+}
+.movie_wrapper {
+	background: #000;
+	margin: 0;
+	padding: 20px 0;
+}
+.underPlayer {
+	height: 100px;
+	width: 100%;
+	text-align: center;
+	border-top: 1px solid #a9a9a9;
+	border-bottom: 1px solid #a9a9a9;
+	margin-bottom: 20px;
+	white-space: nowrap;
+}
+.underPlayer a.container, .underPlayer div {
+	display: inline-block;
+	border-left: 1px solid #a9a9a9;
+	width: 100px;
+	height: 100px;
+	position: relative;
+	margin-right: -9px;
+	white-space: normal;
+}
+.underPlayer span.gothamy {
+	font-size: 12px;
+	position: absolute;
+	bottom: 8px;
+	width: 100px;
+	left: -3px;
+	color: #262626;
+	text-transform: uppercase;
+	line-height: 9px;
+}
+.underPlayer img {
+	position: absolute;
+	left: 50%;
+	top: 18px;
+	width: 60px;
+	margin-left: -30px;
+}
+.underPlayer p.gothamy {
+	position: absolute;
+	left: -2px;
+	top: 32px;
+	width: 100px;
+	font-size: 60px;
+	margin: 0;
+}
+.underPlayer #info {
+	text-align: left;
+	padding-left: 20px;
+	width: 380px;
+	font-family: fancyFont, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.underPlayer #info p {
+	margin: 0 10px 0 0;
+	position: absolute;
+	bottom: 17px;
+	line-height: 17px;
+	font-size: 18px;
+}
+.tour .underPlayer #info p {
+	bottom: auto;
+	top: 6px;
+}
+.underPlayer #info span {
+	display: block;
+	margin-top: 2px;
+}
+.underPlayer .fa { 
+	font-size: 59px;
+    position: absolute;
+    top: 14px;
+    left: 21px;
+    color: #262626;
+}
+.underPlayer .favorite i, .underPlayer .favorited i {
+	left: 20px;
+    font-size: 55px;
+    top: 15px;
+}
+.underPlayer .iconImages i, .underPlayer .iconScreen i {
+	font-size: 51px;
+    left: 19px;
+    top: 19px;
+}
+.underPlayer .iconMore i {
+	font-size: 52px;
+    left: 20px;
+    top: 16px;
+}
+.underPlayer .favorited i {
+	color: #f00;
+}
+.underPlayer .fa:hover {
+	color: #f00;
+}
+#comments span {
+	display: block;
+	margin: 0 0 20px;
+	border-bottom: 1px dashed #a9a9a9;
+	padding-bottom: 30px;
+	text-align: justify;
+}
+#comments span strong {
+	display: block;
+	margin: 0 0 10px;
+	text-transform: uppercase;
+	color: #003761;
+}
+#comments span em {
+	font-style: normal;
+	margin: 0 0 0 15px;
+}
+.leaveComment {
+	border-bottom: 1px solid #a9a9a9;
+	margin-bottom: 25px;
+	padding-bottom: 10px;
+}
+input[type="text"], textarea, .leaveComment #displayName, select, input[type="password"] {
+	border: 0;
+	height: 30px;
+	width: 96%;
+	margin: 20px 0 0;
+	padding: 5px 15px;
+	font-size: 15px;
+	color: #484848;
+	background: #fff;
+}
+.leaveComment #displayName {
+	padding-top: 10px;
+	cursor: default;
+	font-size: 20px;
+}
+.leaveComment textarea {
+	height: auto;
+	padding-top: 10px;
+}
+input[type="submit"], .leaveComment a.gothamy {
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	appearance: none;  
+	background: #003761;
+	color: #fff;
+	height: 50px;
+	font-size: 35px;
+	padding: 5px 0;
+	margin: 10px auto 20px;
+	display: block;
+	cursor: pointer;
+	width: 100%;
+	border: 0;
+}
+.leaveComment input[type="submit"]:hover, .leaveComment a.gothamy:hover {
+	-moz-box-shadow: 1px 1px 4px rgba(0,0,0,0.5);
+	-webkit-box-shadow: 1px 1px 4px rgba(0,0,0,0.5);
+	-o-box-shadow: 1px 1px 4px rgba(0,0,0,0.5);
+	box-shadow: 1px 1px 4px rgba(0,0,0,0.5);
+}
+.leaveComment a.gothamy {
+	text-align: center;
+	padding: 20px 0;
+	height: auto;
+}
+#commentGuide, #javascript, #preventDownloads {
+	background: rgba(0,0,0,0.6);
+	width: 100%;
+	height: 100%;
+	position: fixed;
+	left: 0;
+	top: 0;
+	z-index: 1000;
+}
+#commentGuide div, #javascript div, #preventDownloads div {
+	position: fixed;
+	top: 10px;
+	left: 50%;
+	background: #fff;
+	width: 740px;
+	height: 90%;
+	margin-left: -400px;
+	padding: 10px 30px;
+	color: #000;
+	overflow-y: scroll; 
+	-o-box-shadow: 0 0 4px rgba(0,0,0,0.4);
+	-moz-box-shadow: 0 0 4px rgba(0,0,0,0.4);
+	-webkit-box-shadow: 0 0 4px rgba(0,0,0,0.4);
+	box-shadow: 0 0 4px rgba(0,0,0,0.4);
+}
+#javascript div {
+	height: 530px;
+	top: 50%;
+	margin-top: -300px;
+}
+#commentGuide h3, #javascript h3,#preventDownloads h3 {
+	text-transform: uppercase;
+    font-size: 55px;
+    line-height: 46px;
+    color: #003761;
+    margin-top: 10px;
+    border-bottom: 2px solid #e3e3e3;
+    padding-bottom: 15px;
+    margin-bottom: -5px;
+}
+#commentGuide .fa-comments-o, #javascript .fa-exclamation-triangle, #preventDownloads .fa-cloud-download {
+	float: left;
+    font-size: 130px;
+    position: relative;
+    margin: -27px 15px 0 -5px;
+}
+#preventDownloads .fa-cloud-download {
+	top: 10px;
+}
+#commentGuide strong, #javascript strong, #preventDownloads strong {
+	display: block;
+	color: #FF2828;
+}
+#commentGuide p i, #javascript p i, #preventDownloads p i {
+	color: #003761;
+    font-size: 26px;
+    margin-right: 3px;
+    position: relative;
+    top: 4px;
+	cursor: pointer;
+}
+#commentGuide p, #javascript p, #preventDownloads p {
+	font-size: 17px;
+    clear: both;
+    line-height: 24px;
+    margin: 15px 0;
+}
+#javascript p {
+	margin: 25px 0;
+}
+#commentGuide span.clicked {
+	background: #f00;
+	border: 2px solid #003761;
+}
+#commentGuide a, #javascript a {
+	display: block;
+	background: #FF2828;
+	text-align: center;
+	padding: 10px 0;
+	color: #fff;
+	text-transform: uppercase;
+	font-size: 30px;
+}
+#commentGuide .close, #preventDownloads .close {
+	position: absolute;
+    top: 0;
+    right: 7px;
+    font-size: 50px;
+    background: transparent;
+    color: #000;
+    margin: 0;
+    padding: 0;
+}
+#javascript a {
+	margin-bottom: 20px;
+}
+#commentGuide p a:hover, #javascript a:hover {
+	-moz-box-shadow: 1px 1px 4px rgba(0,0,0,0.5);
+	-webkit-box-shadow: 1px 1px 4px rgba(0,0,0,0.5);
+	-o-box-shadow: 1px 1px 4px rgba(0,0,0,0.5);
+	box-shadow: 1px 1px 4px rgba(0,0,0,0.5);
+}
+#commentGuide p.gothamy em, #javascript p.gothamy em {
+	color: #003761;
+	text-transform: uppercase;
+	font-style: normal;
+	font-size: 21px;
+}
+#javascript .fa-exclamation-triangle {
+	font-size: 110px;
+	margin-top: -7px;
+}
+.photo_gallery_block {
+	text-align: center;
+	margin: 30px auto;
+	width: 80%;
+}
+.photo_gallery_block img {
+	width: 19%;
+	height: auto;
+}
+.cell {
+	width: 24%;
+	display: inline-block;
+}
+/* Rating Stars and Text CSS */
+.rating_box {
+	display: inline-block !important;
+}
+.rating_box span {
+	margin-right: 2px;
+	display: inline-block !important;
+}
+.rating_voteable {
+	vertical-align: top;
+	display: inline-block;
+	width: 16px;
+	height: 16px;
+	padding: 0px;
+	background-size: 100%;
+	cursor: pointer;
+}
+.rating_nonvoteable {
+	display: inline-block;
+	width: 30px;
+	height: 30px;
+	padding: 0px;
+	background-size: 100%;
+}
+.rating_empty {
+	background-image: url("../../../../20160124232707im_/http:/www.cockyboys.com/images_v4/iconRatingEmpty.png");
+	display: inline-block;
+}
+.rating_voted {
+	background-image: url("../../../../20160124232707im_/http:/www.cockyboys.com/images_v4/iconRating.png");
+	display: inline-block;
+}
+.rating_half {
+	background-image: url("../../../../20160124232707im_/http:/www.cockyboys.com/images_v4/iconRatingHalf.png");
+	display: inline-block;
+}
+.rating_unrated {
+	background-image: url("../../../../20160124232707im_/http:/www.cockyboys.com/images_v4/iconRating.png");
+	display: inline-block;
+}
+#preLoad {
+	display: none;
+}
+/****** SINGLE DVD PAGE *******/
+/* Peter's Styles */
+.featuresNavContainer {
+	position: relative;
+	display: block;
+	text-align: center;
+	padding: 5px 0;
+	background: #121212;
+	margin: -6px 0 0;
+}
+.dvdPage .featuresNavContainer a {
+	position: relative;
+	display: inline-block;
+	border-right: 1px solid #313131;
+	text-transform: uppercase;
+	padding: 20px 0;
+    width: 19%;
+	font-size: 25px;
+	color: #0077a1;
+}
+.featuresNavContainer a:hover {
+	color: #00AAE6;
+}
+#featuresNavLinkLast {
+	border-right: none;
+}
+h2.featureFilm {
+	display: inline;
+	font-weight: normal;
+	margin-top: 5px;
+	margin-bottom: 10px;
+	font-size: 2.5em;
+	color: #003761;
+	text-transform: uppercase;
+	line-height: auto;
+}
+.infoContent p {
+	padding-top: 2.5%;
+	padding-bottom: 2.5%;
+}
+h3.infoContentTitle {
+	color: #9e9e9e;
+	font-weight: normal;
+}
+.infoDVD {
+	position: relative;
+	display: block;
+	width: 375px;
+	float: left;
+	padding-right: 2.5%;
+}
+.castPhotosContainer {
+	margin-top: 2%;
+	display: block;
+	position: relative;
+	text-align: center;
+}
+.castPhotos {
+	width: 175px;
+	margin-right: 0;
+}
+.episodesDiv {
+	padding: 1% 2.5% 2.5% 2.5%;
+	display: block;
+	position: relative;
+	height: auto;
+	width: 100%;
+	margin: 0 auto;
+	text-align: center;
+}
+img.episodeContainer {
+	display: block;
+	position: relative;
+	float: left;
+	margin: 0 15px 15px 0;
+}
+.featuresComments {
+	display: block;
+	position: relative;
+	padding-top: 0.5em;
+	padding-bottom: 0.5em;
+	margin: 0;
+	width: 100%;
+	background-color: #FFF;
+	height: auto;
+}
+h1.commentsHeader {
+	font-weight: normal;
+	padding-top: 2.5%;
+	padding-left: 2.5%;
+	letter-spacing: -0.025em;
+	padding-bottom: 0.5em;
+}
+body.dvdPage .commentImg {
+	display: block;
+	position: relative;
+	float: left;
+	margin: 5px 10px 0 5px;
+	padding: 0 2px 10px 0;
+	width: 95px;
+}
+body.dvdPage .commentContainer {
+	position: relative;
+	display: block;
+	width: 100%;
+	padding: 0;
+	margin-top: -0.5em;
+	background-color: #FFF;
+}
+body.dvdPage .commentContainer > .commentDiv {
+	position: relative;
+	display: block;
+	padding-right: 2.5%;
+	padding-left: 2.5%;
+	margin: 0;
+	width: 78%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 3em;
+}
+body.dvdPage .commentContainer .commentDiv > p {
+	padding-bottom: 0;
+	margin-bottom: 0;
+}
+body.dvdPage p.commentUser {
+	width: 100%;
+	display: block;
+	position: relative;
+	font-weight: 200;
+	color: #0077a1;
+	font-weight: medium;
+	text-transform: uppercase;
+	font-size: 1.35em;
+	padding-top: 5px;
+}
+/* End Peter's Styles */
+/* My Styles */
+.dvdPage #masthead img {
+	width: 100%;
+}
+.dvdPage .movieDVDs {
+	margin: 20px 0;
+	position: relative;
+}
+.dvdPage .movieDVDs p {
+	margin: 10px 0;
+	color: #5a5a5a;
+}
+.movieDVDs p, .dvdPage p {
+	font-size: 19px;
+    line-height: 30px;
+	color: #5a5a5a;
+	margin-top: -7px;
+}
+.dvdPage .owl-carousel.two {
+	margin-top: -30px;
+}
+.dvdPage .ratingDisplay {
+	margin: 5px;
+}
+.dvdPage .ratingDisplay img, .modelPage .ratingDisplay img {
+	margin: 0 3px 0 0;
+}
+.featuresNavContainer.two {
+	border-bottom: 1px solid #313131;
+    position: relative;
+    z-index: 5;
+    padding-bottom: 0;
+	border-top: 1px solid #313131;
+}
+.featuresNavContainer.two span, .featuresNavContainer.two a {
+	color: #808080;
+	font-size: 18px;
+	border: 0;
+	text-transform: uppercase;
+	padding: 10px 40px;
+	display: inline-block;
+}
+.featuresNavContainer.two a:hover {
+	color: #f00;
+}
+.featuresNavContainer.two a:visited {
+	color: #808080;
+}
+.dvdPage .rating_box {
+	padding: 0 !important;
+	position: relative;
+    top: 3px;
+}
+.dvdPage .rating_box span {
+	padding: 0;
+}
+.dvdPage .featuresNavContainer .favorite, .dvdPage .featuresNavContainer .favorited {
+	background: url(../../../../20160124232707im_/http:/bigdickboys.com/images_v4/iconFavoriteGrey.png) left 12px no-repeat transparent;
+    background-size: 24px;
+	padding-left: 30px !important;
+	width: auto;
+	margin-left: 20px;
+}
+.dvdPage .featuresNavContainer .favorited, .dvdPage .featuresNavContainer .favorite:hover {
+	background: url(../../../../20160124232707im_/http:/bigdickboys.com/images_v4/iconFavoriteRed.png) left 12px no-repeat transparent;
+    background-size: 24px;
+}
+.dvdPage .movieDVDs .buyLink {
+	margin: 0;
+}
+.dvdPage .movieDVDs .episodes {
+	margin-left: 20px;
+}
+.dvdPage .awards {
+	text-align: center;
+	display: block;
+	margin: 20px 0 10px;
+}
+.dvdPage .awards i {
+	display: inline-block;
+	margin: 0 20px 20px;
+	width: 150px;
+	background: url(https://web.archive.org/web/20160124232707im_/http://www.cockyboys.com/images_v4/awardLaurels.gif) center center no-repeat;
+	background-size: 100% 100%;
+	padding: 10px 0;
+	text-align: center;
+	color: #717171;
+	font-style: normal;
+}
+.dvdPage .awards strong {
+	display: block;
+    font-size: 17px;
+    text-transform: uppercase;
+	line-height: 14px;
+}
+.dvdPage .awards i i {
+	display: block;
+    font-size: 19px;
+	line-height: 16px;
+	margin: 0;
+	padding: 0;
+	width: auto;
+	height: auto;
+	background: none;
+	font-family: fancyFont, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.newReleases .scene .sceneTitle strong {
+	color: #fff;
+}
+.newReleases div.scene, .newReleases.listing div {
+	width: 100%;
+    text-align: left;
+    margin: 15px auto;
+    padding-bottom: 20px;
+	padding: 20px 0;
+}
+.newReleases .scene div {
+	width: 37%;
+	min-width: 475px;
+}
+.newReleases .scene p {
+	margin-right: 30px;
+    margin-left: 30px;
+    text-align: justify;
+    font-size: 17px;
+    line-height: 27px;
+    margin: 5px 30px;
+	color: #5a5a5a;
+}
+.newReleases .scene a {
+	color: #003765;
+}
+.newReleases .scene div {
+	float: left;
+    margin-right: 30px !important;
+	margin-left: 30px !important;
+}
+.newReleases .scene h2 {
+	text-transform: uppercase;
+    font-size: 40px;
+	line-height: 32px;
+    margin: 10px 10px 0 0;
+}
+.dvdPage a.watchButton, .dvdPage a.watchButton.two, .modelPage a.watchButton, .modelPage a.watchButton.two {
+	display: inline-block;
+    color: #fff;
+    margin: 20px 20px 0 0;
+    padding: 10px 25px 10px 20px;
+    font-size: 20px;
+    background-position: 13px;
+    background-size: 19px;
+}
+.dvdPage .scene a.watchButton, .modelPage .scene a.watchButton {
+	margin: 20px 20px 20px 0;
+}
+.movieDVDs p.blurb {
+	font-size: 30px;
+	color: #404040;
+	margin: 0 0 10px;
+	font-family: 'Abel', sans-serif;
+}
+.dvdPage .movieDVDs .watchButton, .dvdPage .movieDVDs .watchButton.two {
+    text-transform: uppercase;
+    background-size: 14px;
+    background-position: 13px 13px;
+}
+.dvdPage .movieDVDs .watchButton.two {
+	background-size: 20px;
+    background-position: 10px 13px;
+}
+#tabCast {
+	text-align: center;
+	margin: 40px 0;
+}
+#tabCast img {
+	width: 100%;
+}
+#tabCast div {
+	position: relative;
+	display: inline-block;
+	width: 24%;
+}
+a.name {
+	position: absolute;
+    left: 0;
+    top: 40%;
+    text-align: center;
+    width: 90%;
+	margin: 0 5%;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 50px;
+    border-top: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+    padding: 20px 0;
+	display: none;
+	z-index: 5;
+	-o-text-shadow: 1px 1px 2px rgba(0,0,0,0.2);
+	-moz-text-shadow: 1px 1px 2px rgba(0,0,0,0.2);
+	-webkit-text-shadow: 1px 1px 2px rgba(0,0,0,0.2);
+	text-shadow: 1px 1px 2px rgba(0,0,0,0.2);
+	line-height: 40px;
+}
+.categories a.name {
+	display: block;
+}
+.categories a.fade {
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	opacity: 0.6;
+}
+#quotes {
+    margin: 20px auto;
+    text-align: justify;
+    clear: left;
+}
+h2.subHeadline {
+	font-size: 50px;
+    border-left: 10px solid #f00;
+    line-height: 50px;
+    padding-left: 10px;
+	margin: 20px 0 0 0;
+	color: #003761;
+}
+#quotes p {
+    font-size: 22px;
+    line-height: 32px;
+    width: 75%;
+    margin: 20px auto 40px;
+    border-bottom: 1px dashed #cecece;
+    border: 3px solid #75A9D2;
+	-o-border-radius: 30px;
+	-moz-border-radius: 30px;
+	-webkit-border-radius: 30px;
+    border-radius: 30px;
+    padding: 40px 30px;
+	position: relative;
+	color: #585858;
+}
+#quotes span {
+    display: block;
+    text-align: right;
+    margin: 60px 170px 60px 0;
+    color: #003761;
+    font-size: 40px;
+}
+#quotes p strong {
+	text-transform: uppercase;
+	color: #585858;
+}
+#quotes .fa-quote-left, #quotes .fa-quote-right {
+	font-size: 20px;
+    margin: 0px 10px 0 0;
+    position: relative;
+    top: -5px;
+}
+#quotes p img {
+	height: 36px;
+    position: absolute;
+    right: 150px;
+    bottom: -34px;
+}
+.ratingDisplay {
+	width: 165px;
+    overflow: hidden;
+    display: block;
+    text-align: left;
+	margin: 0 0 20px;
+}
+.dvdPage #tabOverview .ratingDisplay img {
+	width: auto;
+	float: right;
+	padding-left: 0;
+	height: 25px;
+	margin-right: 5px;
+}
+.listing {
+	width: 100%;
+	margin: 0 0 50px;
+}
+.newReleases.listing div {
+	margin: 0 0 20px;
+	padding: 0;
+}
+.newReleases.listing .playArrow {
+	background-size: 150px;
+    background-position: 50% 50%;
+}
+.listing img {
+	width: 100%;
+}
+.listing p.featuresNavContainer .watchButton {
+	margin: 10px 30px;
+    color: #fff;
+    padding: 10px 30px 10px 50px;
+    width: auto;
+    background-position: 17px;
+    font-size: 21px;
+}
+.listing p.featuresNavContainer span {
+	font-size: 25px;
+    position: relative;
+    top: 5px;
+}
+#dvdComments {
+	width: 100%;
+    background: #e4eaec;
+    padding: 10px 0 50px;
+	margin: 20px auto -100px;
+}
+#dvdComments .leaveComment {
+	width: 65%;
+	margin: 0 auto;
+}
+#dvdComments .leaveComment input[type=submit] {
+	width: 80%;
+}
+#dvdComments h3, #dvdComments p {
+	width: 65%;
+	margin: 20px auto 40px;
+}
+#dvdComments h3, #dvdComments h2 {
+	font-size: 30px;
+    border-left: 60px solid #f00;
+    line-height: 30px;
+    padding-left: 10px;
+    color: #003761;
+    text-transform: uppercase;
+}
+#dvdComments h3 {
+	width: 60%;
+}
+/****** END SINGLE DVD PAGE *******/
+.horizontal .item {
+	margin: 0 10px;
+	position: relative;
+	display: inline-block;
+}
+/* PETER'S FOOTER STYLES */
+div#footerFoot {
+    width: 100%;
+    background-color:#333;
+    padding: 25px 0;
+    text-align: left;
+	position: relative;
+}
+.footerLogo {
+    width: 85px;
+    display: block;
+    position: relative;
+    float: left;
+    vertical-align: middle;
+    margin-top: -5px;
+    margin-left: 10px;
+}
+#footerFoot span {
+    display: block;
+    color: #999;
+    text-align: right;
+    margin: 0 20px 10px 0;
+    line-height: 1em;
+    float: right;
+    position: relative;
+    top: 4px;
+    font-weight:400;
+    font-family:'Montserrat', 'Gotham', 'Arial', sans-serif;
+    text-transform:uppercase;
+    font-size:0.50em;
+}
+
+#footerFoot span a {
+    color:#6c6c6c;
+    text-decoration:none;
+}
+#footerFoot p 
+{   color: #6c6c6c;
+    font-family:'Montserrat', 'Gotham Bold', 'Arial', sans-serif;
+    text-transform:uppercase;
+    font-weight:400;
+    font-size:0.55em;
+    display: inline-block;
+    margin-left: 15px;
+}
+#footerFoot ul {
+    margin: 30px 0 30px 0;
+	display: inline;
+}
+
+#footerFoot ul li, #footerFoot ul li a {
+    font-family:'Montserrat', 'Gotham Bold', 'Arial', sans-serif;
+    font-weight:400;
+    float:none;
+    text-decoration: none;
+    display: inline-block;
+    padding: 0 9px;
+    color: #6c6c6c;
+    text-transform:uppercase;
+    background-color: transparent;
+    text-align: center;
+    vertical-align:middle;
+	font-size: 11px;
+}
+
+#footerFoot ul li a:hover {
+	color: #1389A7;
+    font-family:'Montserrat', 'Gotham Bold', 'Arial', sans-serif;
+    font-weight:400;
+}
+/* END PETER'S FOOTER STYLES */
+#footerContainer {
+	background: #fff;
+}
+a.watchButton:visited, span.watchButton:visited {
+	background-color: #d6352c;
+	color: #fff !important;
+}
+a.watchButton:hover, span.watchButton:hover, .newReleases .watchButton:hover, #navBar span#icons a.join:hover {
+	background-color: #1389A7;
+	color: #fff !important;
+}
+/* START MODELS PAGES */
+.modelPage #movieHeader {
+	background: #e4eaec;
+    padding: 20px 0;
+    margin-top: -35px;
+}
+.modelPage #movieHeader h1 {
+	font-size: 90px;
+    line-height: 75px;
+}
+.modelPage #movieHeader .right {
+	margin-top: 25px;
+	margin-right: 10px;
+}
+.modelPage #movieHeader .right {
+	
+}
+.modelPage #movieHeader em {
+	border-left: 70px solid #f00;
+    padding-left: 20px;
+    padding-top: 7px;
+    margin-top: -10px;
+    display: block;
+    font-size: 27px;
+}
+.modelPage #movieHeader em a {
+	margin-right: 10px;
+}
+.modelPage #movieHeader em a:hover {
+	color: #f00;
+}
+.modelPage #tabCast {
+	margin-top: 10px;
+}
+.modelAZ strong, .sortBy strong {
+	display: block;
+}
+.modelAZ a {
+	display: inline-block;
+	margin: 0 3px;
+}
+.sortBy a {
+	display: inline-block;
+	margin-left: 20px;
+}
+.modelAZ a:hover, .sortBy a:hover {
+	color: #f00;
+}
+.modelAZ .letter_current, .sortBy .sort_link_current a {
+	color: #f00;
+}
+.modelPage .fa-quote-right, .modelPage .fa-quote-left {
+	font-size: 11px;
+    position: relative;
+    top: -6px;
+    margin: 0 -3px;
+}
+#modelInfo {
+	width: 35%;
+	display: inline-block;
+	margin-bottom: 40px;
+	float: left;
+}
+#modelStuff h2, #modelStuff h3, .custom h3 {
+    margin: 10px 0 5px 10px;
+    font-size: 34px;
+    line-height: 35px;
+    color: #003761;
+    border-left: 5px solid #f00;
+    padding-left: 7px;
+}
+#modelStuff h3 {
+	margin: 25px 0 -10px 10px;
+}
+#modelStuff p img {
+	margin-right: 2px;
+}
+#modelStuff p {
+	margin: 0 10px;
+    color: #5a5a5a;
+    text-align: justify;
+    font-size: 18px;
+    line-height: 28px;
+}
+#modelInfo .thumb {
+	width: 100%;
+}
+#modelStuff {
+	width: 63%;
+	display: inline-block;
+	margin-left: 10px;
+	padding-top: 10px;
+}
+.modelPage #dvdComments {
+	clear: left;
+	margin-bottom: -100px;
+}
+.owl-theme .owl-controls .owl-buttons div {
+	overflow: hidden;
+}
+.modelPage #movieHeader .icons a {
+	display: inline-block;
+    position: relative;
+    width: 100px;
+    height: 70px;
+    text-align: center;
+	font-size: 14px;
+	color: #545454;
+	line-height: 14px;
+	border-right: 1px solid #545454;
+}
+.modelPage #movieHeader .icons a:hover {
+	color: #f00;
+}
+.modelPage #movieHeader .icons a i {
+	position: absolute;
+    font-size: 40px;
+    width: 100%;
+    text-align: center;
+    left: 0;
+    top: 0;
+}
+.modelPage #movieHeader .icons span {
+	position: absolute;
+    bottom: 10px;
+    display: block;
+    width: 100%;
+    left: 0;
+    text-align: center;
+}
+.modelPage .newReleases div.scene {
+	margin-top: 5px;
+	padding: 10px 0 0;
+}
+.owl-carousel.model .owl-wrapper-outer {
+	height: 600px;
+}
+.modelPage .ratingDisplay {
+	margin: 5px 0 0;
+}
+#offers {
+	margin-top: 40px;
+}
+#offers a {
+	display: block;
+    width: 80%;
+    margin: 20px auto;	
+}
+#offers a img {
+	width: 100%;
+}
+.previewThumb .fav, .thumbHovered .fav {
+	position: absolute;
+    top: 0;
+    left: 0;
+	padding: 10px;
+    font-size: 25px;
+	color: #fff;
+	-o-text-shadow: 0 0 2px rgba(0,0,0,0.8);
+	-moz-text-shadow: 0 0 2px rgba(0,0,0,0.8);
+	-webkit-text-shadow: 0 0 2px rgba(0,0,0,0.8);
+	text-shadow: 0 0 2px rgba(0,0,0,0.8);
+	z-index: 100;
+}
+.previewThumb .fav:hover, .thumbHovered .fav {
+	color: #f00;
+}
+.previewThumb .fav span, .thumbHovered .fav span {
+	display: inline-block;
+    margin-left: 10px;
+    font-size: 15px;
+    position: relative;
+    top: -4px;
+	color: #fff !important;
+}
+.categories#tabCast {
+	text-align: center;
+}
+.categories#tabCast div {
+	width: 49%;
+}
+/* who we are page */
+.custom #masthead img {
+	width: 100%;
+}
+#aboutUs h1, #aboutUs h2, #support h1 {
+	font-weight: normal;
+    text-align: center;
+    font-size: 30px;
+    color: #003761;
+    margin: 0;
+    border-bottom: 1px solid #e3e3e3;
+    padding: 10px 0;
+}
+#aboutUs h1 a, #aboutUs h2 a, #support h1 a {
+	font-size: 17px;
+    display: inline-block;
+    margin: 0 0 0 50px;
+    position: relative;
+    top: -3px;
+	color: #676767;
+	line-height: 30px;
+}
+#aboutUs h1 a:hover, #aboutUs h2 a:hover, #support h1 a:hover {
+	color: #f00;
+	font-weight: bold;
+}
+#aboutUs h2 {
+	font-size: 24px;
+}
+#aboutUs div {
+	margin: 40px 0;
+}
+#aboutUs div div {
+	overflow: hidden;
+    background: #e4eaec;
+    padding: 20px;
+}
+#aboutUs div div img {
+	width: 360px;
+	float: left;
+	margin-right: 20px;
+}
+#aboutUs div div p {
+    width: auto;
+    padding: 5px 0;
+    margin: 0 0 10px;
+    display: block;
+}
+#aboutUs h3 {
+	margin: 10px 0 0 370px;
+    font-size: 70px;
+    border: 0;
+    line-height: 52px;
+	text-transform: uppercase;
+}
+#aboutUs div div em {
+	font-size: 30px;
+    line-height: 30px;
+    font-style: normal;
+    display: block;
+    color: #404040;
+    margin: 0;
+}
+#aboutUs div div a {
+	display: inline-block;
+    margin-right: 10px;
+    font-size: 23px;
+    margin: 5px 10px 0 2px;
+    color: #404040;
+}
+#aboutUs div div a:hover {
+	color: #f00;
+}
+#aboutUs div div blockquote {
+	font-size: 30px;
+    margin: 10px;
+    font-weight: normal;
+    line-height: 36px;
+    color: #1A618A;
+	text-align: justify;
+}
+#aboutUs div div blockquote i {
+	font-size: 25px;
+	margin: 0;
+}
+#aboutUs p {
+	width: 80%;
+    text-align: justify;
+    margin: 15px auto;
+    font-size: 22px;
+    line-height: 32px;
+}
+.profileLink span {
+	position: absolute;
+    width: 100%;
+    display: block;
+    text-align: center;
+    color: #fff;
+    bottom: -27px;
+	font-size: 15px;
+	line-height: 11px;
+}
+.profileLink {
+	-o-text-shadow: 2px 2px 2px rgba(0,0,0,0.8);
+	-moz-text-shadow: 2px 2px 2px rgba(0,0,0,0.8);
+	-webkit-text-shadow: 2px 2px 2px rgba(0,0,0,0.8);
+	text-shadow: 2px 2px 2px rgba(0,0,0,0.8);
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	opacity: 0;
+	display: block;
+	position: absolute;
+	border: 1px solid #fff;
+}
+.linkRJ {
+    width: 10%;
+    height: 27%;
+    top: 34%;
+    left: 23%;
+}
+.linkJJ {
+    width: 7%;
+    height: 21%;
+    top: 34%;
+    left: 43%;
+}
+.linkBMC {
+    width: 7%;
+    height: 21%;
+    top: 35%;
+    left: 53%;
+}
+.linkLK {
+	top: 9%;
+    opacity: 0;
+    height: 19%;
+    left: 45%;
+    width: 9%;
+}
+/********* SUPPORT PAGE **********/
+.modelPage #masthead img {
+	width: 100%;
+}
+#support div {
+	width: 80%;
+	padding: 20px 10% 80px;
+	margin: 0;
+}
+#support div.blue {
+	background: #e4eaec;
+}
+#support div h2 {
+	font-size: 60px;
+    text-transform: uppercase;
+    color: #003761;
+    margin: 10px 0;
+}
+#support div h2 a {
+	font-family: 'Abel', sans-serif;
+    font-size: 19px;
+    text-transform: none;
+    display: block;
+    font-weight: normal;
+    font-style: italic;
+    margin: 10px 0 0 80px;
+    position: relative;
+    top: -10px;
+}
+#support div#password h2 a {
+	margin-left: 65px;
+}
+#detail p {
+	font-size: 20px;
+    background: #e4eaec;
+    margin: 20px 0px 0 auto;
+    padding: 20px 20px;
+    color: #5d5d5d;
+    width: 95%;
+}
+#detail .fa-heart {
+	color: #f00;
+    display: inline-block;
+    margin-left: 20px;
+}
+#detail p em {
+	text-transform: uppercase;
+    font-style: normal;
+	font-size: 24px;
+}
+#detail strong {
+	text-transform: uppercase;
+    display: inline-block;
+    margin-right: 20px;
+}
+#detail p span {
+	font-style: italic;
+	font-size: 16px;
+	text-transform: none;
+}
+#support .contact {
+	border: 1px solid #cecece;
+    padding: 0px 20px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+    border-radius: 10px;
+}
+#support .contact:hover {
+	border: 1px solid #f00;
+}
+#support label {
+	height: 30px;
+    display: inline-block;
+    width: 16%;
+    font-size: 22px;
+    text-align: right;
+    margin-right: 2%;
+}
+#support input, #support textarea, #support select {
+	width: 70%;
+}
+#support p {
+	position: relative;
+}
+#support em {
+	color: #f00;
+}
+#support select {
+	height: 45px;
+    width: 73%;
+}
+#support textarea {
+	height: 200px;
+}
+#support input[type="submit"] {
+	width: 85%;
+    height: 70px;
+    text-transform: uppercase;
+}
+#support label.error {
+    color: #f00;
+    font-style: italic;
+    font-size: 15px;
+    position: absolute;
+    bottom: -20px;
+    left: 0;
+}
+#support #iconSupport {
+	width: 100%;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+}
+#iconSupport div, #iconSupport a {
+	width: 20%;
+    display: inline-block;
+    padding: 0;
+    margin: 20px 1%;
+	position: relative;
+	height: 240px;
+}
+#iconSupport i {
+	font-size: 90px;
+    top: 0;
+    display: block;
+    text-align: center;
+    width: 100%;
+    color: #003761;
+}
+#support p {
+	position: relative;
+}
+#iconSupport p {
+	position: absolute;
+    top: 110px;
+	color: #717171;
+	text-align: center;
+	width: 100%;
+}
+#iconSupport strong {
+	color: #003761;
+	display: block;
+	font-size: 20px;
+}
+#support h3 {
+	color: #098ad6;
+    font-size: 30px;
+    margin: 30px 0 10px 0;
+}
+#help p {
+    font-size: 17px;
+    text-align: justify;
+    line-height: 25px;
+}
+#help strong {
+	color: #098ad6;
+}
+#help a {
+	text-decoration: underline;
+}
+#help a:hover, #detail a:hover {
+	color: #f00;
+	text-decoration: none;
+}
+#support .fa-external-link {
+    font-size: 10px;
+    display: inline-block;
+    position: relative;
+    bottom: 3px;
+    margin: 0 7px;
+	text-align: center;
+}
+#support #join {
+	background: #1da1f2;
+	color: #fff;
+	text-align: center;
+}
+#support #join h2 {
+	color: #fff;
+}
+#support #join h3 {
+	color: #fff;
+}
+#support #join a {
+	display: inline-block;
+    color: #fff;
+    border: 2px solid #fff;
+    padding: 20px 30px;
+    margin: 15px;
+    font-size: 20px;
+    text-transform: uppercase;
+	-o-border-radius: 3px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+    border-radius: 3px;
+}
+.grow {
+	-o-transition: all .2s ease-in-out;
+    -moz-transition: all .2s ease-in-out;
+    -ms-transition: all .2s ease-in-out;
+    -webkit-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
+}
+.grow:hover {
+	transform: scale(1.1);
+}
+#lotsOfCopy p {
+	margin: 50px;
+    font-size: 21px;
+    line-height: 30px;
+}
+/************ START FOOTER ***********/
+#footer {
+	position: relative;
+    margin: 100px 0 0;
+	-o-box-shadow: 0 -4px 10px rgba(0,0,0,0.4);
+	-moz-box-shadow: 0 -4px 10px rgba(0,0,0,0.4);
+	-webkit-box-shadow: 0 -4px 10px rgba(0,0,0,0.4);
+    box-shadow: 0 -4px 10px rgba(0,0,0,0.4);
+}
+#footer h4 {
+	color: #003761;
+    text-transform: uppercase;
+    font-weight: 900;
+    font-size: 40px;
+    margin: 20px 0 0;
+    display: block;
+    background: transparent;
+    line-height: 38px;
+    padding-left: 10px;
+	text-align: center;
+}
+#footer h4 span {
+	font-size: 18px;
+    display: block;
+    line-height: 20px;
+    text-transform: none;
+    font-weight: normal;
+    color: #262626;
+	width: 50%;
+    margin: 0 auto 25px;
+}
+/*#footer #iconSupport {
+	padding: 40px 0 20px;
+	background: #e4eaec;
+	margin-top: -10px;
+}
+#footer #iconSupport p {
+	color: #000;
+	font-size: 17px;
+	position: static;
+}
+#footer #iconSupport a {
+	margin: 10px 1%;
+	vertical-align: top;
+	height: auto;
+}
+$footer #iconSupport i {
+	position: static;
+	font-size: 70px;
+}*/
+#footer #press {
+	background: #fff;
+	padding: 0;
+}
+#footerSupport {
+	background: #e4eaec;
+	padding-top: 25px;
+	text-align: center;
+	padding-bottom: 15px;
+}
+#footerSupport div {
+	display: inline-block;
+	width: 95%;
+	text-align: center;
+}
+#footerSupport div div {
+	width: 30%;
+	margin: 30px 10px;
+	vertical-align: top;
+	text-align: left;
+}
+#footerSupport div div a {
+	color: #4A4A49;
+}
+#footerSupport div div i {
+	font-size: 60px;
+	float: left;
+	margin-right: 20px;
+	display: block;
+	width: 80px;
+	height: 100px;
+	text-align: right;
+}
+#footerSupport div div strong {
+	display: block;
+	text-align: left;
+	font-size: 20px;
+	margin-bottom: 5px;
+}
+#footerSupport div div a:hover {
+	color: #f00;
+}
+#footerSupport div div em {
+	text-align: left;
+    display: block;
+    font-size: 16px;
+    line-height: 20px;
+	color: #262626;
+}
+#footerSupport #footerNewsletter {
+	width: 40%;
+}
+.scrollTop {
+	position: absolute;
+    top: -52px;
+    left: 50%;
+    display: block;
+    font-size: 65px;
+    color: #003761;
+    width: 120px;
+    text-align: center;
+	margin-left: -60px;
+}
+.scrollTop:visited {
+	color: #003761;
+}
+.scrollTop:hover {
+	color: #f00;
+}
+.scrollTop i {
+	display: block;
+    margin-top: -55px;
+}
+.scrollTop span {
+	position: absolute;
+    right: 0;
+    font-size: 16px;
+    top: 13px;
+    display: block;
+    width: 100%;
+}
+#scrollToMe {
+	display: block;
+}
+#social {
+	text-align: center;
+    font-size: 30px;
+    padding: 0 0 10px;
+	background: #e4eaec;
+}
+#social a:hover {
+	color: #f00;
+}
+/************ END FOOTER ***********/
+.bottom {
+	background: #fff;
+	padding-top: 1px;
+    margin-top: 50px;
+    padding-bottom: 90px;
+	margin-bottom: -100px;
+}
+.empty {
+	color: #003761;
+	width: 33%;
+	margin: 60px auto 230px;
+	text-align: center;
+}
+.empty i {
+	font-size: 170px;
+}
+.empty p {
+	font-size: 28px;
+    line-height: 34px;
+	margin-top: 0;
+}
+#advancedSearch {
+	width: 100%;
+    margin: -10px auto;
+    background: #e4eaec;
+    padding: 40px 0 200px;
+}
+#advancedSearch form {
+	width: 85%;
+	margin: 0 auto;
+}
+#advancedSearch p {
+	display: inline-block;
+    width: 25%;
+    text-align: right;
+    margin: 0 1% 0 0;
+    font-size: 21px;
+	position: relative;
+}
+#advancedSearch em {
+	display: block;
+    margin: 40px auto 20px;
+    text-align: center;
+    font-size: 16px;
+}
+#advancedSearch em span {
+	display: inline-block;
+    width: 80px;
+    border-bottom: 1px solid #B5B4B4;
+    margin: 0 10px;
+    position: relative;
+    top: -4px;
+}
+#advancedSearch p span {
+	font-size: 14px;
+    position: absolute;
+    display: block;
+    right: 0;
+    top: 18px;
+    font-style: italic;
+    color: #565656;
+}
+#advancedSearch .hasSpan {
+	top: -7px;
+}
+#advancedSearch .center {
+	width: 100%;
+	text-align: left;
+}
+#advancedSearch .center select {
+	margin-left: 10px;
+}
+#advancedSearch input[type="text"] {
+	width: 68%;
+}
+#advancedSearch input[type="submit"] {
+	width: 60%;
+    height: 65px;
+}
+#checkboxes p {
+    width: 30%;
+    text-align: left;
+    margin: 10px 0;
+	cursor: pointer;
+}
+#checkboxes p i {
+	margin: 0 10px 0;
+}
+#checkboxes p .fa-square {
+	color: #fff;
+}
+#checkboxes p .fa-check-square-o {
+	color: #f00;
+}
+#checkboxes input[type="checkbox"] {
+	display: none;
+}
+/********** PRESS PAGE **********/
+#press {
+	text-align: center;
+}
+#press div {
+	width: 28%;
+	display: inline-block;
+	margin: 45px 2%;	
+	vertical-align: top;
+}
+#press div .logo {
+    margin-bottom: 10px;
+	height: 56px;
+}
+#press div .screenshot {
+	border: 2px solid #cecece;
+    width: 93%;
+    padding: 10px;
+}
+#press p {
+	font-size: 20px;
+    line-height: 32px;
+    color: #4E4E4E;
+	margin: 40px 0;
+}
+#press p i {
+	font-size: 20px;
+	color: #cecece;
+	margin: 1px;
+}
+#press strong {
+	display: block;
+}
+.download{
+	width: 250px;
+    height: 40px;
+    display: inline-block;
+	font-family: 'Abel', sans-serif;
+	font-weight: normal;
+	position: relative;
+	margin-left: 10px;
+	margin-top: 5px;
+}
+.download span {
+	width: 250px;
+    height: 40px;
+    text-align: left;
+    background: #fff;
+    line-height: 40px;
+    text-indent: 10px;
+	cursor: default;
+}
+.download span.first {
+	display: inline-block;
+    background: url(../../../../20160124232707im_/http:/www.cockyboys.com/images_v4/bgSelect.gif) 235px center no-repeat #fff;
+    background-size: auto 106%;
+	-o-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+}
+.download span.more {
+	display: none;
+    position: absolute;
+    bottom: -37px;
+    left: 0;
+}
+.download a {
+	display: block;
+    background: #fff;
+    position: relative;
+    z-index: 1001;
+    color: #000 !important;
+    padding: 5px 0;
+    height: auto;
+    line-height: 24px;
+	cursor: pointer;
+}
+.download a:hover {
+	background: #1389a7;
+	color: #fff;
+}
+#modelForm {
+	background: #e4eaec;
+    margin: -15px 0 -190px;
+    padding: 40px 0;
+}
+#modelForm form {
+	width: 80%;
+    margin: 0 auto;
+	padding-bottom: 150px;
+}
+#modelForm label {
+	font-size: 22px;
+}
+#modelForm input[type="text"] {
+	margin: 10px 0 15px;
+}
+#modelForm label em {
+	font-style: normal;
+	color: #f00;
+}
+#modelForm label.ui-button {
+	background: #fff;
+    color: #262626;
+    font-size: 15px;
+    margin: 10px -5px 0 0;
+    font-style: normal;
+}
+#modelForm label.ui-button span {
+	font-style: normal;
+}
+#modelForm label.ui-state-active {
+	background: #003761;
+    color: #fff;
+}
+#modelForm input[type="file"] {
+	margin: 20px 0 0;
+}
+#modelForm label span {
+	font-size: 15px;
+    font-style: italic;
+}
+#modelForm .error {
+	color: #f00;
+    font-style: italic;
+    font-size: 18px;
+}
+#modelForm input[type="submit"] {
+	margin: 50px auto;
+    width: 80%;
+    display: block;
+    text-align: center;
+}
+.stopPreview {
+	position: absolute;
+    top: 2px;
+    right: 4px;
+    font-size: 33px;
+	display: none;
+	z-index: 99;
+	-o-text-shadow: 0 0 4px #000;
+	-moz-text-shadow: 0 0 4px #000;
+	-webkit-text-shadow: 0 0 4px #000;
+	text-shadow: 0 0 4px #000;
+	color: #fff !important;
+}
+.stopPreview span {
+	display: none;
+    position: absolute;
+    width: 160px;
+    right: 0px;
+    bottom: -23px;
+    font-size: 14px;
+    text-align: right;
+}
+.previewsOn .thumbHovered .stopPreview {
+	display: block;
+}
+.previewsOn .stopPreview.turnOn {
+	display: none !important;
+}
+.stopPreview.turnOn {
+	display: none;
+	top: 3px;
+    right: 5px;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+	opacity: 0.7;
+}
+.stopPreview.turnOn:hover {
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	opacity: 1;
+}
+.turnOn i {
+	font-size: 23px;
+}
+.loadingGif {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	left: 0;
+	top: 0;
+	z-index: 99;
+	display: block;
+}
+.loadingGif img {
+	position: absolute !important;
+	top: 40%;
+	left: 50%;
+	margin-left: -36px;
+	margin-top: -36px;
+	width: 72px !important;
+	height: 72px !important;
+}
+.thumbHovered .loadingGif {
+	display: none;
+}
+.fa-caret-down {
+	font-size: 18px;
+	margin-left: -5px;
+}
+.mobile .playArrow, .mobile .loadingGif {
+	display: none !important;
+}
+body #fancybox-thumbs ul li {
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	opacity: 0.5;
+}
+body #fancybox-thumbs ul li.active {
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	opacity: 1;
+}
+/********** MOBILE NAVIGATION MENU **********/
+.mobileNav {
+	background: #000;
+	color: #fff;
+	padding: 25px 0 15px;
+	height: 100px;
+}
+.mobileNav #search {
+	display: none;
+}
+.mobileNav a {
+	color: #fff;
+	display: block;
+}
+.mobileNav .left, .mobileNav .right, .mobileNav h1 {
+	display: inline-block;
+	width: 33%;
+	height: 80px;
+	vertical-align: top;
+}
+.mobileNav i {
+	font-size: 60px;
+	margin: 10px 40px 0;
+}
+.mobileNav .left {
+	text-align: left;
+}
+.mobileNav .right {
+	text-align: right;
+}
+.mobileNav h1 {
+	text-align: center;
+	margin: 0;
+}
+.mobileNav h1 a {
+	text-indent: -9000em;
+	background: url(../../../../20160124232707im_/http:/www.cockyboys.com/images_v4/logo.png) center center no-repeat #000;
+	-o-background-size: 100% auto;
+	-moz-background-size: 100% auto;
+	-webkit-background-size: 100% auto;
+	background-size: 100% auto;
+	height: 80px;
+}
+.mobileDrop {
+	width: 100%;
+	position: absolute;
+	left: 0;
+	top: 120px;
+	background: #000;
+	z-index: 1000;
+	display: none;
+	padding-bottom: 40px;
+}
+.mobileDrop li {
+	display: block;
+	width: 100%;
+}
+.mobileDrop li a, .mobileDrop li p {
+    display: block;
+    color: #fff;
+    font-size: 70px;
+    line-height: 70px;
+    margin: 50px 0 50px 100px;
+}
+.mobileDrop li a i, mobileDrop li p i  {
+	font-size: 60px;
+	margin-left: 10px;
+}
+.mobileDrop li span {
+	display: none;
+}
+.mobileDrop li span a {
+	margin-left: 120px;
+}
+.mobileDrop .close {
+	/*position: absolute;
+    top: 20px;
+    right: 50px;
+    display: block;
+    color: #fff;
+    font-size: 130px;*/
+}
+.tour .mobileNav a.watchButton {
+	margin: 15px 5px 0 0;
+    display: inline-block;
+    font-size: 30px;
+    padding: 15px 0;
+    width: 70%;
+    text-align: center;
+}
+.tour .mobileNav a.watchButton i {
+	font-size: 30px;
+	margin: 0;
+}
+.mobile.modelPage #movieHeader {
+	margin-top: 0;
+}
+.mobileNav #searchform {
+	text-align: center;
+}
+.mobileNav #searchform em {
+	font-size: 60px;
+    font-style: normal;
+    margin-left: 20px;
+    position: relative;
+    top: 8px;
+	cursor: pointer;
+}
+.mobile #navBar #search a {
+	display: none;
+}
+.mobileNav #searchform input {
+	width: 80%;
+    height: 70px;
+    font-size: 40px;
+    margin-top: 14px;
+}
+.mobile .ui-menu .ui-menu-item {
+	font-size: 40px;
+	margin: 40px 0;
+}
+.mobile #masthead .horizontal.masthead {
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	background: #fff;
+}
+.mobile #masthead .horizontal.masthead span.item {
+	width: 100%;
+	margin: 0;
+}
+.mobile .owl-page.active span {
+	background: url(https://web.archive.org/web/20160124232707im_/http://members1.cockyboys.com/images_v3/white/navAngel.png) center center no-repeat transparent !important;
+	-o-background-size: 100% auto !important;
+	-moz-background-size: 100% auto !important;
+	-webkit-background-size: 100% auto !important;
+	background-size: 100% auto !important;
+	width: 15px;
+	height: 18px;
+	-o-border-radius: 0;
+	-moz-border-radius: 0;
+	-webkit-border-radius: 0;
+	border-radius: 0;
+}
+.mobile .owl-theme .owl-controls .owl-page span {
+	background: #5AABD5;
+}
+/********** END MOBILE NAVIGATION MENU **********/
+
+.movieDesc a {
+	color: #003761;
+}
+.movieDesc a:visited {
+	color: #003761;
+}
+.movieDesc a:hover {
+	text-decoration: underline;
+}
+/********** TOUR STYLE OVERRIDES **********/
+.tour .underPlayer {
+	border-top: 0;
+}
+.underPlayer.join {
+	margin-bottom: 0;
+    border: 0;
+    font-size: 20px;
+    height: auto;
+    padding: 10px 0;
+    background: #1389A7;
+    color: #fff;
+	white-space: normal;
+}
+.underPlayer.join p {
+	margin: 0;
+	-o-text-shadow: 0px 2px 4px rgba(0,0,0,0.2);
+    -moz-text-shadow: 0px 2px 4px rgba(0,0,0,0.2);
+    -webkit-text-shadow: 0px 2px 4px rgba(0,0,0,0.2);
+    text-shadow: 0px 2px 4px rgba(0,0,0,0.2);
+	line-height: 28px;
+}
+.underPlayer.join .watchButton {
+	margin: 0 0 0 30px;
+}
+.underPlayer.join .watchButton:hover {
+	-o-box-shadow: 1px 1px 2px rgba(0,0,0,0.3);
+	-moz-box-shadow: 1px 1px 2px rgba(0,0,0,0.3);
+	-webkit-box-shadow: 1px 1px 2px rgba(0,0,0,0.3);
+	box-shadow: 1px 1px 2px rgba(0,0,0,0.3);
+	background: #d6352c;
+}
+.underPlayer.join .watchButton .fa {
+	font-size: inherit;
+	position: static;
+	color: #fff;
+}
+#password, .iframe {
+	background: #f1f1f1;
+}
+.iframe {
+	min-width: inherit;
+}
+#password iframe {
+	width: 100%;
+	height: 310px;
+}
+#support.iframe .error {
+	color: #f00;
+    font-style: italic;
+    text-align: center;
+    font-size: 20px;
+    margin: 0;
+}
+#support.iframe form {
+	width: 700px;
+	margin: 0 auto;
+}
+#support.iframe.success p {
+	font-size: 24px;
+	line-height: 28px;
+}
+.iframe input[type="submit"] {
+	margin-top: 40px;
+}
+div.call2action {
+	width: 99%;
+	margin: -20px auto -20px;
+	position: relative;
+}
+#featured.call2action span {
+	top: 0;
+	height: 99%;
+	width: 38%;
+}
+.moviesPage div.call2action {
+	margin: 20px auto 0;
+}
+.call2action video {
+	width: 100%;
+}
+.call2action video img {
+	width: 100%;
+}
+#featured.two span .title {
+	margin-top: 7%;
+}
+#featured.two span {
+	padding-left: 60px;
+}
+#featured.three span a {
+	position: relative;
+	right: -70px;
+}
+.call2action .playArrow {
+	background-size: 10%;
+}
+#featured.three span.left a {
+	right: auto;
+	left: -60px;
+}
+.trailerMessage {
+	position: absolute;
+    left: 20px;
+    top: 40px;
+    font-size: 50px;
+    display: block;
+    line-height: 43px;
+    text-transform: uppercase;
+    text-align: center;
+	color: #fff !important;
+}
+.trailerMessage i {
+	display: block;
+    font-size: 140px;
+    margin-bottom: 20px;
+	/*color: #5AABD5;*/
+}
+#featured .watchButton {
+	background: #1389A7;
+	margin: 60px auto 10px;
+	font-size: 25px;
+    padding: 15px 40px;
+}
+#featured .watchButton:hover {
+	background: #d6352c;
+}
+#featured.two .watchButton {
+	margin-top: 30px;
+}
+#featured.call2action a.watchButton {
+	margin-top: 8%;
+	background: #d6352c;
+}
+#featured.call2action a.watchButton:hover {
+	background: #1389A7;
+}
+#featured .login {
+	color: #fff;
+	display: block;
+}
+#featured .login:hover {
+	text-decoration: underline;
+}
+#tabCast div.call2action {
+	width: 97%;
+	margin: 0 auto -20px;
+}
+.callBanner {
+	margin: -20px auto;
+	position: relative;
+	width: 99%;
+}
+.callBanner.two {
+	margin: 15px auto -40px;
+}
+.moviesPage .callBanner.two {
+	margin: -15px auto -20px;
+}
+.callBanner img {
+	width: 100%;	
+}
+.callBanner a.one {
+	position: absolute;
+	left: 0;
+	top: 3%;
+	width: 43%;
+	text-align: center;
+}
+.callBanner a.one img {
+	width: 90%;
+}
+.callBanner a.one img.two {
+	margin: 5% 0 0 12%;
+}
+.callBanner img.three {
+	position: absolute;
+    right: 10px;
+    bottom: 12px;
+	width: 16%;
+}
+img.c2a { 
+	width: 100%;
+}
+.callBanner .watchButton {
+	font-style: normal;
+	font-size: 35px;
+    padding: 15px 26px;
+	margin-left: 9%;
+    margin-top: 5%;
+}
+.callBanner .watchButton:hover {
+	background: #1389A7;
+}
+.callBanner .watchButton i {
+	font-size: 34px;
+}
+#cookies {
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	background: #fff;
+	text-align: center;
+    font-size: 20px;
+    line-height: 20px;
+	-o-box-shadow: 0 -2px 8px rgba(0,0,0,0.4);
+	-moz-box-shadow: 0 -2px 8px rgba(0,0,0,0.4);
+	-webkit-box-shadow: 0 -2px 8px rgba(0,0,0,0.4);
+    box-shadow: 0 -2px 8px rgba(0,0,0,0.4);
+	padding-bottom: 20px;
+	z-index: 9999;
+}
+#cookies i {
+	color: #f00;
+}
+#cookies a {
+	color: #003761;
+}
+#cookies a:hover {
+	text-decoration: underline;
+}
+#hpromo {
+	padding-top: 1px;
+	padding-bottom: 10px;
+}
+#manifesto {
+	text-align: center;
+}
+#manifesto img {
+	width: 92%;
+}
+#logIn {
+	margin: 90px auto;
+}
+#logIn #logo {
+	display: block;
+	width: 60%;
+	margin: 30px auto 20px;
+}
+#logIn h3 {
+	color: #4e4e4e;
+	font-size: 20px;
+	text-align: center;
+}
+#logIn p {
+	font-size: 18px;
+	text-align: center;
+}
+#logIn div.call2action {
+	margin-top: 60px;
+	margin-bottom: 20px;
+}
+#logIn form {
+	width: 60%;
+	margin: 20px auto;
+}
+#logIn form a:hover {
+	text-decoration: underline;
+}
+#logIn form input[type="text"], #logIn form input[type="password"] {
+	border: 1px solid #cecece;
+	-o-border-radius: 3px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+    border-radius: 3px;
+    width: 500px;
+    margin-left: 20px;
+}
+#logIn form input[type="submit"] {
+	text-transform: uppercase;
+	-o-border-radius: 3px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+    border-radius: 3px;
+	width: 680px;
+	margin: 20px auto;
+}
+
+
+/*************** RESPONSIVE LAYOUT -- BODY CLASSES INSTEAD OF JAVASCRIPT MANIPULATION **********/
+
+/* smallest window size --- less than 1040px */
+.less1040 #navBar ul li a {
+	font-size: 18px;
+}
+.less1040 #navBar ul li span a {
+	margin: 5px 10px;
+}
+.less1040 .responsive.newReleases div {
+	width: 49%;
+}
+.less1040 #pagination a {
+	padding: 10px 20px;
+	font-size: 25px;
+}
+.less1040 #aboutUs h1 a, .less1040 #aboutUs h2 a, .less1040 #support h1 a {
+	margin: 0 0 0 40px;
+}
+.less1040 #masthead .watchButton {
+	margin-top: 20px;
+}
+.less1040 .callBanner .watchButton {
+    font-size: 28px;
+    margin-top: 3%;
+}
+.less1040 .callBanner .watchButton i {
+	font-size: 28px;
+}
+.less1040 .watchButton, .less1040 #navBar span#icons a.join {
+	font-size: 15px;
+	margin: 0 15px 0 0;
+}
+.less1040 #navBar span#icons a {
+	font-size: 15px;
+}
+.less1040 #navBar span#icons a.join {
+	font-size: 15px;
+	margin: 0 15px 0 0;
+	padding: 6px 20px 6px 18px;
+}
+.less1040 #movieHeader .right p {
+	text-align: left;
+}
+.less1040 #movieHeader .right p.gothamy .download, .less1040 #movieHeader .right p.gothamy #movieformat_select {
+	display: block;
+}
+.less1040.modelPage #movieHeader .left {
+	width: 50%;
+}
+
+/* small/medium window size --- greater than 1040 and less than 1100 */
+.less1100gt1040 #navBar ul li a {
+	font-size: 21px;
+}
+.less1100gt1040 #navBar ul li span a {
+	font-size: 18px;
+}
+.less1100gt1040 #navBar ul li span a {
+	margin: 5px 10px;
+}
+.less1100gt1040 #navBar span#icons a.join {
+	font-size: 15px;
+	margin: 0 15px 0 0;
+	padding: 6px 20px 6px 18px;
+}
+.less1100gt1040 .responsive.newReleases div {
+	width: 49%;
+}
+.less1100gt1040 #pagination a {
+	padding: 10px 20px;
+	font-size: 25px;
+}
+.less1100gt1040 #masthead .watchButton {
+	margin-top: 40px;
+}
+.less1100gt1040.modelPage #movieHeader .left {
+	width: 50%;
+}
+.less1100gt1040 #movieHeader .right p.gothamy .download, .less1100gt1040 #movieHeader .right p.gothamy #movieformat_select {
+	display: block;
+}
+.less1100gt1040 #movieHeader .right p.gothamy {
+	text-align: left;
+}
+
+
+
+/* medium window size --- greater than 1100 and less than 1280 */
+.less1280gt1100 #navBar ul li a {
+	font-size: 21px;
+}
+.less1280gt1100 #navBar ul li span a {
+	font-size: 19px;
+	margin: 5px 20px;
+}
+.less1280gt1100 .responsive.newReleases div {
+	width: 49%;
+}
+.less1280gt1100 #pagination a {
+	padding: 10px 20px;
+	font-size: 25px;
+}
+.less1280gt1100 #masthead .watchButton {
+	margin-top: 40px;
+}
+
+/*medium/large window size --- greater than 1280 and less than 1530 */
+.less1530gt1280 #navBar ul li a {
+	font-size: 21px;
+}
+.less1530gt1280 #navBar ul li span a {
+	font-size: 19px;
+	margin: 5px 20px;
+}
+.less1530gt1280 .responsive.newReleases div {
+	width: 33%;
+}
+.less1530gt1280 #pagination a {
+	padding: 15px 25px;
+	font-size: 36px;
+}
+
+/* largest window size --- */
+.gt1530 #navBar ul li a {
+	font-size: 21px;
+}
+.gt1530 #navBar ul li span a {
+	font-size: 19px;
+	margin: 5px 20px;
+}
+.gt1530 .responsive.newReleases div {
+	width: 33%;
+}
+.gt1530 #pagination a {
+	padding: 15px 25px;
+	font-size: 36px;
+}
+
+/********** END RESPONSIVE LAYOUT **********/
+
+.camVidBanner {
+	margin: 40px auto;
+	text-align: center;
+	width: 80%;
+	overflow: hidden;
+	white-space: nowrap;
+}
+.camVidBanner video {
+	width: 47%;
+}
+.camVidBanner .png {
+	width: 65.5%;
+	position: relative;
+	left: -13%;
+	z-index: 2;
+}
+
+/*
+     FILE ARCHIVED ON 23:27:07 Jan 24, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 20:57:42 Jun 07, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 181.922
+  exclusion.robots: 0.18
+  exclusion.robots.policy: 0.165
+  RedisCDXSource: 7.847
+  esindex: 0.012
+  LoadShardBlock: 148.444 (3)
+  PetaboxLoader3.datanode: 171.029 (4)
+  CDXLines.iter: 21.427 (3)
+  load_resource: 360.118
+  PetaboxLoader3.resolve: 250.014
+*/
