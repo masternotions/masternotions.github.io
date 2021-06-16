@@ -10,7 +10,7 @@ header:
  og_image: "/assets/images/twitter-card2.jpg"
  image: "/assets/images/twitter-card2brlong.jpg"
 sidebar:
-    -   image: /assets/images/EshEH_WU4AE7WXV.jpg
+  - image: /assets/images/GGSenado.jpg 
 feature_row:
   - image_path: /rion/images/banalto002.jpg
     alt: "Rio Gay Guides Banner"
@@ -42,12 +42,32 @@ feature_row2:
 
 # Highlights
 
-_This site is still in its early stages. The best of the site so far is in this section_.  
+_This site is still very much under development. The best of the site so far is in this section_.  
 
-### But First...
-> There are much more comprehensive details on Twitter, although spread over many months and many, many tweets.
-> We are building a list of some starting points on Twitter here:
-> [Twitter Threads *about* Glenn](TwitterThreads.md){: .btn .btn--success .btn--large} _Updated_{: .notice--warning .new} 
+## Glenn's Blue Period
+
+Glenn has stated many times that his involvement in the porn industry was incidental to his legal work and ended in 2004, exactly 100 years after Picasso's Blue Period ended and also lasting just 2-3 years.  
+_Can this be true?_
+
+### The Canadian Government Position
+Paul Calandra, likely informed by Canadian Intelligence, described him as a  
+**former porn industry executive**.
+<div class="vide">
+{% include video id="oFLo0k4VzyQ" provider="youtube" %}
+</div>
+
+### Nearly Eight Years
+> One person we can check with is Jake Jaxson, his former business partner.
+> He doesn't say anything about two years.
+> And the documents support Jason.
+{% include video id="f_BskTnqY8U?start=46" provider="youtube" %}
+
+#### Jason Sketchy pages
+_NEW_{: .notice .new} 
+Jake Jaxson's real name is Jason Buchtel, 
+but we just call him [Jason Sketchy](Jason.md){: .btn .btn--danger .btn--large}
+
+
 
 ## Glenn's forgotten websites
 
@@ -58,7 +78,7 @@ These are constructed almost entirely based on material from the [Wayback Machin
 
 
 ### RioGayGuides and RioMaleEscorts 
-_A reconstruction of sites Glenn and David set up in Brazil in 2005_ _Updated_{: .notice--warning .new} 
+_A reconstruction of sites Glenn and David set up in Brazil in 2005_.
 
 
 {% include feature_row %}
@@ -85,16 +105,6 @@ New York Daily News article: [Glenn Greenwald was once lawyer sued over porn bus
 
 {% include feature_row id="feature_row2" type="left" %}
 
-## Glenn's Blue Period
-
-Glenn has stated many times that his involvement in the porn industry ended in 2004, exactly 100 years after Picasso's Blue Period ended and also lasting just 2-3 years.  
-_Can this be true?_
-
-> One person we can ask is Jason Buchtel, aka Jake Jaxson, his former business partner.
-> The NY Daily News didn't seem to ask him very penetrating questions.
-
-Do we hear two years?
-{% include video id="f_BskTnqY8U?start=46" provider="youtube" %}
 
 ### David Miranda - Director and Custodian of Records
 *R or X-rated links*{: .notice--warning}
@@ -148,6 +158,14 @@ RZ's NYC story: [A sexual predator named Glenn Greenwald, Part 1](predator-part-
 RZ's escape: [A sexual predator named Glenn Greenwald, Part 2](predator-part-2.md)
 
 Raul in Rio: [Glenn Greenwald's ex-actor talks about his adult films](raul-interview.md)
+
+
+# More Information
+
+> There are much more comprehensive details on Twitter, although spread over many months and many, many tweets.
+> We are building a list of some starting points on Twitter here:
+> [Twitter Threads *about* Glenn](TwitterThreads.md){: .btn .btn--success .btn--large} _Updated_{: .notice--warning .new} 
+
 
 
 # Keira Knightley Guest Appearance
