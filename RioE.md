@@ -4,6 +4,7 @@ classes: wide
 title: Rio Male Escorts
 sidebar:
     - image: /rion/images/ourguideservices002.jpg
+      title: GG historic websites
       nav: RioGuides
 header:
   og_image: riom/images/Top_banner.jpg

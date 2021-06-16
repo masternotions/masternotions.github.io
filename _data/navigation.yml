@@ -1,3 +1,14 @@
+main:
+  - title: More on Twitter
+    url: /TwitterThreads.html
+  - title: GG Historic websites
+    url: /RioG.html
+  - title: Jake Jaxson
+    url: /Jason.html
+  - title: HX
+    url: /hx.html  
+  - title: Pulitzer
+    url: /pulitzer.html     
 BCG1:
  - title: BetterCallGlenn.com Original Source (in Portuguese)
    children:
