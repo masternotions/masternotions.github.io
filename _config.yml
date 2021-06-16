@@ -22,3 +22,5 @@ repository: alansfr/alansfr.github.io
 url: "https://masternotions.com"
 baseurl: "/"
 logo: assets/images/hippopotamus-head.svg
+atom_feed:
+  hide: true
