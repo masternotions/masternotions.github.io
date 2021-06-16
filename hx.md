@@ -10,6 +10,7 @@ sidebar:
     image: assets/images/HX_Cover3.jpg
     nav: HX
 author_profile: true
+share: true
 
 ---
 

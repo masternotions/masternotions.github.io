@@ -9,6 +9,7 @@ sidebar:
   - image: assets/images/JasonGlam.jpg
     nav: Jason
   - image: assets/images/Jason2.jpg
+share: true
 ---
 
 
