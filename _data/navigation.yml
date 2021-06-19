@@ -89,8 +89,17 @@ Jason:
     - title: Current version
       url: "https://cockyboys.com/pages.php?id=meet-the-morecocks"
 SunS:
- - title: Grandson, 17, Seeks Office
-   url: https://www.sun-sentinel.com/news/fl-xpm-1985-01-10-8501010874-story.html
+ - title: Sun Sentinel website
+   children:
+   - title: Grandson, 17, Seeks Office
+     url: https://www.sun-sentinel.com/news/fl-xpm-1985-01-10-8501010874-story.html
+   - title: Nominations close
+     url: https://www.sun-sentinel.com/news/fl-xpm-1985-03-10-8501090566-story.html
+ - title: Miami Herald
+   children:
+   - title: 1985 results (pub. 2013)
+     url: https://www.miamiherald.com/news/local/community/broward/article1953011.html
+  
 
 
 
