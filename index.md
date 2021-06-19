@@ -45,6 +45,11 @@ share: true
 
 _This site is still very much under development. The best of the site so far is in this section_.  
 
+## Glenn's earliest ventures
+_NEW_{: .notice .new} 
+The Sun Sentinel in 1985 [reported](SunSentinel.md) on Glenn's attempts to win his grandfather's old council seat.
+
+
 ## Glenn's Blue Period
 
 Glenn has stated many times that his involvement in the porn industry was incidental to his legal work and ended in 2004, exactly 100 years after Picasso's Blue Period ended and also lasting just 2-3 years.  
