@@ -48,7 +48,8 @@ _This site is still very much under development. The best of the site so far is 
 ## Glenn's earliest ventures
 _NEW_{: .notice .new} 
 
-The Sun Sentinel in 1985 [reported](SunSentinel.md) on Glenn's attempts to win his grandfather's old council seat.
+The Sun Sentinel in 1985 [reported](SunSentinel.md) on Glenn's attempts to win his grandfather's old council seat.  
+That's the _self-taught, deprived childhood_ myth, shattered.
 
 
 ## Glenn's Blue Period
@@ -184,6 +185,8 @@ But we need somewhere to put a video Google appear to be trying very hard to hid
 
 # Under Development
 
+
+
 ## Brands and Legal Entities
 
 - Law Office: [link](https://www.bizexposed.com/New_York-USA/B/Law_Office_of_Glenn_Green_Wald-New_York.php)
@@ -198,20 +201,15 @@ But we need somewhere to put a video Google appear to be trying very hard to hid
 
 - ``Aug 23, 2001`` US District Court for the Northern District of Illinois: [Anderson v. Hale, 159 F. Supp. 2d 1116 (N.D. Ill. 2001)](https://law.justia.com/cases/federal/district-courts/FSupp2/159/1116/2384296)
 - ``Feb 02, 2003`` Committee Report for New York City Bar: [Formal Opinion 2003-02: Undisclosed Taping of Conversations by Lawyers](https://www.nycbar.org/member-and-career-services/committees/reports-listing/reports/detail/formal-opinion-2003-02-undisclosed-taping-of-conversations-by-lawyers-1)
-- ``Mar 11, 2014`` John Young on Cryptome: [Glenn Greenwald Eyeball] (SITE DOWN) <!-- [Glenn Greenwald Eyeball](https://cryptome.org/2014-info/glenn-greenwald/glenn-greenwald.htm) -->
-- ``Jan 31, 2016`` Dave Emory on Spitfire List: [FTR #888 Compendium on Citizen Greenwald: A Shiller for Killers](http://spitfirelist.com/for-the-record/ftr-888-compendium-on-citizen-greenwald-a-shiller-for-killers/)
 - ``Feb 01, 2017`` Jewish Defense Organization: [Dossier on Glenn Greenwald](./docs/jewish-defense-organization-dossier.pdf) <sup>[1]</sup>
 - ``Apr 14, 2020`` ProPublica: [RAVANA LLC - Coronavirus Bailouts](https://projects.propublica.org/coronavirus/bailouts/loans/ravana-llc-a962e2a231387214e7a1c7778ec6e3ab)
 
 ## Articles
 
-- ``Jun 26, 2013`` Dareh Gregorian for New York Daily News: [Glenn Greenwald, journalist who broke Edward Snowden story, was once lawyer sued over porn business](https://www.nydailynews.com/news/national/greenwald-reporter-broke-nsa-story-lawyer-sued-porn-biz-article-1.1383448)
-- ``Jun 26, 2013`` Dylan Byers for Politico: [Greenwald aims to pre-empt 'smears'](https://www.politico.com/blogs/media/2013/06/greenwald-aims-to-pre-empt-smears-167191)
+
 - ``Jun 26, 2013`` Jessica Testa for BuzzFeed News: [How Glenn Greenwald Became Glenn Greenwald](https://www.buzzfeednews.com/article/jtes/how-glenn-greenwald-became-glenn-greenwald)
-- ``Jun 27, 2013`` Robert Stacy McCain on The Other McCain: [Glenn Greenwald Is a Ridiculous Joke (And Alas, the Internet Never Forgets)](https://theothermccain.com/2013/06/27/glenn-greenwald-is-a-ridiculous-joke-and-alas-the-internet-never-forgets/)
-- ``Jul 03, 2013`` Jason Buchtel on Blog: [I am Jake Jaxson](https://jakejaxson.com/post/54490441032/i-am-jake-jaxson)
 - ``Nov 14, 2013`` Natasha Vargas-Cooper for BuzzFeed News: [David Miranda Is Nobody's Errand Boy](https://www.buzzfeed.com/natashavc/david-miranda-is-nobodys-errand-boy) _Updated Aug 21, 2020_
-- ``Jul 23, 2019`` Bruna de Pieri for Terça Livre TV: [Glenn Greenwald has been sued for pornography, according to foreign website](https://www.tercalivre.com.br/glenn-greenwald-ja-foi-processado-por-pornografia-segundo-site-estrangeiro/)
+
 
 
 
