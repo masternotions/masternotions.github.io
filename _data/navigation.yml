@@ -1,9 +1,12 @@
 main:
   - title: More on Twitter
+    description: Links to Twitter threads with more details
     url: /TwitterThreads.html
   - title: GG Historic websites
+    description: sites Glenn owned & operated
     url: /RioG.html
   - title: Jake Jaxson
+    description: Glenn's business partner 
     url: /Jason.html
   - title: HX
     url: /hx.html  
@@ -85,6 +88,10 @@ Jason:
       url: "https://web.archive.org/web/20151128034652/https:/cockyboys.com/pages-meet-the-morecocks.html"
     - title: Current version
       url: "https://cockyboys.com/pages.php?id=meet-the-morecocks"
+SunS:
+ - title: Grandson, 17, Seeks Office
+   url: https://www.sun-sentinel.com/news/fl-xpm-1985-01-10-8501010874-story.html
+
 
 
 
