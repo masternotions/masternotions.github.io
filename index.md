@@ -47,6 +47,7 @@ _This site is still very much under development. The best of the site so far is 
 
 ## Glenn's earliest ventures
 _NEW_{: .notice .new} 
+
 The Sun Sentinel in 1985 [reported](SunSentinel.md) on Glenn's attempts to win his grandfather's old council seat.
 
 
