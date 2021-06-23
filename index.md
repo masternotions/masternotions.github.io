@@ -41,40 +41,62 @@ share: true
 
 
 
-# Highlights
+# Intro
 
-_This site is still very much under development. The best of the site so far is in this section_.  
+_This site is still very much under development_. 
+
+There are much more comprehensive details on Twitter, although spread over many months and many, many tweets.  
+We are building a list of some those [threads about Glenn on Twitter](TwitterThreads.md){: .btn .btn--success .btn--large} 
+
+
 
 ## Glenn's earliest ventures
-_NEW_{: .notice .new} 
+
 
 The Sun Sentinel in 1985 [reported](SunSentinel.md) on Glenn's attempts to win his grandfather's old council seat.  
 That's the _self-taught, deprived childhood_ myth, shattered.
 
+## Glenn on Wikipedia
+
+Glenn's Wikipedia page resembles a war zone, heavily censored by its subject. _NEW_{: .notice .new}   
+The highlight of [this version](https://en.wikipedia.org/w/index.php?title=Glenn_Greenwald&oldid=66453842){: .btn .btn--primary} is a definition:
+
+> __glenn of sock puppets__: multiple sock-puppets driving home exactly the same points, usually starting with a recitation of the puppet-master’s resume.
+
+More on Glenn's Sockpuppets **coming soon**{: .notice--primary}
 
 ## Glenn's Blue Period
 
-Glenn has stated many times that his involvement in the porn industry was incidental to his legal work and ended in 2004, exactly 100 years after Picasso's Blue Period ended and also lasting just 2-3 years.  
-_Can this be true?_
+Glenn has stated many times that his involvement in the porn industry ended in 2004, 2-3 years after it  started.  
 
-### The Canadian Government Position
-Paul Calandra, likely informed by Canadian Intelligence, described him as a  
-**former porn industry executive**.
+That would make it exactly 100 years after Picasso's Blue Period,  
+although Picasso did not claim it was merely incidental to his legal work.  
+{: .notice--info}
+
+_But is Glenn's claim true?_  
+The New York Daily News, Buzzfeed, The Guardian and others seemed too shy to check.
+
+### The Canadian Government Position _Updated_{: .notice--primary}  
+
+Paul Calandra, likely informed by Canadian Intelligence, described him as a **Porn Spy**.
 <div class="vide">
-{% include video id="oFLo0k4VzyQ" provider="youtube" %}
+{% include video id="CUOXOc68nKY" provider="youtube" %}
 </div>
+Previously he was described as a
+[former porn industry executive](https://www.youtube.com/watch?v=JNQ_aVaMMw4&t=23s){: .btn .btn--warning}
 
 ### Nearly Eight Years
 > One person we can check with is Jake Jaxson, his former business partner.
 > He doesn't say anything about two years.
 > And the documents support Jason.
+<div class="vide">
 {% include video id="f_BskTnqY8U?start=46" provider="youtube" %}
+</div>
 
 #### Jason Sketchy pages
 _NEW_{: .notice .new} 
 Jake Jaxson's real name is Jason Buchtel, 
 but we just call him [Jason Sketchy](Jason.md){: .btn .btn--danger .btn--large}
-
 
 
 ## Glenn's forgotten websites
@@ -95,12 +117,15 @@ _A reconstruction of sites Glenn and David set up in Brazil in 2005_.
 ### HX articles: Glenn's porn tips
 ![Cheap Trixx](hxn/web.archive.org/web/20050221102140im_/http:/www.hx.com/images/hxlogo.gif) was the leading gay listings magazine in New York City for most of the 90s and 00s.
 
-In February 2005, the very same week that Glenn and David "met on the beach" in Rio; back in NYC, HX published an article by an unknown writer and "resting" lawyer, Glenn Greenwald.  
-
+In February 2005, the very same week that Glenn and David "met on the beach" in Rio, back in NYC, HX published an article under the by-line of an unknown writer and "resting" lawyer, Glenn Greenwald.  
 How did you ever manage without its handy advice?
+{: .notice--info}
 
-*DON'T forget about the sound. If you're shooting in New York, close your windows! Nothing is worse than the sound of hot sex being drowned out by sirens, passing buses and couples fighting next door.*
-{: .notice--primary align-right}
+
+
+> DON'T forget about the sound. If you're shooting in New York, close your windows!  
+> Nothing is worse than the sound of hot sex being drowned out by sirens, passing buses and couples fighting next door.
+
 Read it here:
 [Cheap Trixxx by Glenn Greenwald](hx.html){: .btn .btn--warning .btn--large}   
 
@@ -140,7 +165,7 @@ Especially the box covers.
 We're not really a movie review site.  
 More of a _This Movie Really Exists and Glenn Really Produced It?_ site.
 
-_New_{: .notice--danger .new}  But since you asked, we're currently fond of this. 
+But since you asked, we're currently fond of this. 
 <video controls width="720">
 <source src="assets/video/GreenCat.mp4" type="video/mp4">
 </video>
@@ -148,10 +173,7 @@ _New_{: .notice--danger .new}  But since you asked, we're currently fond of this
 
 ## Other Lies
 
-There cover all conceivable subjects. Some are mentioned in
-[Twitter Threads *about* Glenn](TwitterThreads.md){: .btn .btn--success} 
-
-But one deserves singling out.
+There cover all conceivable subjects. But one deserves singling out.
 [Does Glenn have a Pulitzer?](pulitzer.md){: .btn .btn--warning .btn--large} 
 
 ## BetterCallGlenn
@@ -166,13 +188,6 @@ RZ's NYC story: [A sexual predator named Glenn Greenwald, Part 1](predator-part-
 RZ's escape: [A sexual predator named Glenn Greenwald, Part 2](predator-part-2.md)
 
 Raul in Rio: [Glenn Greenwald's ex-actor talks about his adult films](raul-interview.md)
-
-
-# More Information
-
-> There are much more comprehensive details on Twitter, although spread over many months and many, many tweets.
-> We are building a list of some starting points on Twitter here:
-> [Twitter Threads *about* Glenn](TwitterThreads.md){: .btn .btn--success .btn--large} _Updated_{: .notice--warning .new} 
 
 
 
