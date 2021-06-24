@@ -44,28 +44,24 @@ share: true
 # Intro
 
 _This site is still very much under development_. 
-
 There are much more comprehensive details on Twitter, although spread over many months and many, many tweets.  
-We are building a list of some those [threads about Glenn on Twitter](TwitterThreads.md){: .btn .btn--success .btn--large} 
+We are building a list of some those [threads about Glenn on Twitter](TwitterThreads.md){: .btn .btn--success} 
 
 
 
-## Glenn's earliest ventures
+# Glenn on Wikipedia and Other Sites 
 
+Glenn's Wikipedia page resembles a war zone, heavily censored by its subject.  
+The highlight of [this version](https://en.wikipedia.org/w/index.php?title=Glenn_Greenwald&oldid=66453842) is a definition:
 
-The Sun Sentinel in 1985 [reported](SunSentinel.md) on Glenn's attempts to win his grandfather's old council seat.  
-That's the _self-taught, deprived childhood_ myth, shattered.
+> __glenn of sock puppets__: multiple sock-puppets driving home exactly the same points, usually
+> starting with a recitation of the puppet-master’s resume.
 
-## Glenn on Wikipedia
+**New**{: .notice .new}
 
-Glenn's Wikipedia page resembles a war zone, heavily censored by its subject. _NEW_{: .notice .new}   
-The highlight of [this version](https://en.wikipedia.org/w/index.php?title=Glenn_Greenwald&oldid=66453842){: .btn .btn--primary} is a definition:
+Glenn was famous for his sock puppets when he wasn't known for anything else, so they have their own section in our collection of [pages by Glenn's Antifans.](SitesAboutGlenn.md){: .btn .btn--danger}
 
-> __glenn of sock puppets__: multiple sock-puppets driving home exactly the same points, usually starting with a recitation of the puppet-master’s resume.
-
-More on Glenn's Sockpuppets **coming soon**{: .notice--primary}
-
-## Glenn's Blue Period
+# Glenn's Blue Period
 
 Glenn has stated many times that his involvement in the porn industry ended in 2004, 2-3 years after it  started.  
 
@@ -76,7 +72,7 @@ although Picasso did not claim it was merely incidental to his legal work.
 _But is Glenn's claim true?_  
 The New York Daily News, Buzzfeed, The Guardian and others seemed too shy to check.
 
-### The Canadian Government Position _Updated_{: .notice--primary}  
+## The Canadian Government Position _Updated_{: .notice--primary}  
 
 Paul Calandra, likely informed by Canadian Intelligence, described him as a **Porn Spy**.
 <div class="vide">
@@ -85,7 +81,7 @@ Paul Calandra, likely informed by Canadian Intelligence, described him as a **Po
 Previously he was described as a
 [former porn industry executive](https://www.youtube.com/watch?v=JNQ_aVaMMw4&t=23s){: .btn .btn--warning}
 
-### Nearly Eight Years
+## Nearly Eight Years
 > One person we can check with is Jake Jaxson, his former business partner.
 > He doesn't say anything about two years.
 > And the documents support Jason.
@@ -93,7 +89,7 @@ Previously he was described as a
 {% include video id="f_BskTnqY8U?start=46" provider="youtube" %}
 </div>
 
-#### Jason Sketchy pages
+### Jason Sketchy pages
 _NEW_{: .notice .new} 
 Jake Jaxson's real name is Jason Buchtel, 
 but we just call him [Jason Sketchy](Jason.md){: .btn .btn--danger .btn--large}
@@ -170,12 +166,6 @@ But since you asked, we're currently fond of this.
 <source src="assets/video/GreenCat.mp4" type="video/mp4">
 </video>
 
-
-## Other Lies
-
-There cover all conceivable subjects. But one deserves singling out.
-[Does Glenn have a Pulitzer?](pulitzer.md){: .btn .btn--warning .btn--large} 
-
 ## BetterCallGlenn
 
 A number of allegations appeared on the Brazilian site BetterCallGlenn.com in 2019.
@@ -188,6 +178,19 @@ RZ's NYC story: [A sexual predator named Glenn Greenwald, Part 1](predator-part-
 RZ's escape: [A sexual predator named Glenn Greenwald, Part 2](predator-part-2.md)
 
 Raul in Rio: [Glenn Greenwald's ex-actor talks about his adult films](raul-interview.md)
+
+# Other Lies
+
+There cover all conceivable subjects. But one deserves singling out.
+[Does Glenn have a Pulitzer?](pulitzer.md){: .btn .btn--warning .btn--large}
+
+## Glenn's earliest ventures
+
+
+The Sun Sentinel in 1985 [reported](SunSentinel.md) on Glenn's attempts to win his grandfather's old council seat.  
+That's the _self-taught, deprived childhood_ myth, shattered.
+
+
 
 
 
@@ -219,16 +222,9 @@ But we need somewhere to put a video Google appear to be trying very hard to hid
 - ``Feb 01, 2017`` Jewish Defense Organization: [Dossier on Glenn Greenwald](./docs/jewish-defense-organization-dossier.pdf) <sup>[1]</sup>
 - ``Apr 14, 2020`` ProPublica: [RAVANA LLC - Coronavirus Bailouts](https://projects.propublica.org/coronavirus/bailouts/loans/ravana-llc-a962e2a231387214e7a1c7778ec6e3ab)
 
-## Articles
 
 
-- ``Jun 26, 2013`` Jessica Testa for BuzzFeed News: [How Glenn Greenwald Became Glenn Greenwald](https://www.buzzfeednews.com/article/jtes/how-glenn-greenwald-became-glenn-greenwald)
-- ``Nov 14, 2013`` Natasha Vargas-Cooper for BuzzFeed News: [David Miranda Is Nobody's Errand Boy](https://www.buzzfeed.com/natashavc/david-miranda-is-nobodys-errand-boy) _Updated Aug 21, 2020_
-
-
-
-
-## More Articles
+## Miscellaneous Published Articles
 
 - [Articles](articles.md)
 

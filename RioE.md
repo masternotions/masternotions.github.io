@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 classes: wide
 title: Rio Male Escorts
 sidebar:

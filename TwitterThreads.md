@@ -78,3 +78,6 @@ Glenn's brief legal career.
 <blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">I did not previously know about this one.<br><br>[I fixed the inaccurate eye coloration in the original].<br><br>2018.<br>Any more Moscow trips? <a href="https://t.co/UAYASCwdCf">pic.twitter.com/UAYASCwdCf</a></p>&mdash; Alan Stacey (@AlanVRK) <a href="https://twitter.com/AlanVRK/status/1399983068383940609?ref_src=twsrc%5Etfw">June 2, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 How many trips to Moscow?
 </div>
+<div class="tweet">
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The big problem with Brazilian press is,<br>well,<br>very limited pornographic horizons.<br><br>That 👆article contains five Pornhub links<br>to Glenn&#39;s movies made in Rio.<br><br>All produced before 2004.<br><br>Does it not occur to them he produced some<br>𝙖𝙛𝙩𝙚𝙧 he moved there?<a href="https://t.co/5kSTKA008K">https://t.co/5kSTKA008K</a></p>&mdash; Alan Stacey (@AlanVRK) <a href="https://twitter.com/AlanVRK/status/1403111424306548736?ref_src=twsrc%5Etfw">June 10, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
