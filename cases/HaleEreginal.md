@@ -5,7 +5,7 @@ title: The Most Egregious Constitutional Abuse
 header:
   image: /assets/images/LauraS.jpg
   og_image: "../assets/images/Laura.jpg"
-description: Glenn on denying a Law Licences to a Nazi
+description: Glenn's 2001 court filing on denying a Nazi a Law License
 sidebar:
  - image: "assets/images/050302_mattHale_vmed_4p.jpg"
  - title: Matthew Hale
