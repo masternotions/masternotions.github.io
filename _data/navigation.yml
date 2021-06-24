@@ -99,6 +99,16 @@ SunS:
    children:
    - title: 1985 results (pub. 2013)
      url: https://www.miamiherald.com/news/local/community/broward/article1953011.html
+Hale:
+ - title: "Complaint: An Egregious Abuse"
+   children:
+   - title: Text of complaint
+     url: /cases/HaleEText.html
+   - title: Original Formatting
+     url: /cases/HaleEgregious.html
+   - title: On the Wayback Machine
+     url: https://web.archive.org/web/20080409205157/http://hatemonitor.csusb.edu/NewsHeadlines/hale_complaint.htm
+
   
 
 
