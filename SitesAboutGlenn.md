@@ -2,7 +2,8 @@
 layout: single
 classes:
     wide
-title: Where Journalism Goes to Die
+title: \"Where Journalism Goes to Die\"
+description: The AntiFans of Glenn Greenwald
 header:
   image: assets/images/DM.jpg
 sidebar:
