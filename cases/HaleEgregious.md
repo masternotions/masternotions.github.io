@@ -14,6 +14,8 @@ date: 2001-06-27
 show_date: true
 ---
 
+_Glenn's Court Filing as pro bono attorney for Matthew Hale, a Nazi denied a law license._
+
 
 # IN THE UNITED STATES DISTRICT COURT
 ## FOR THE NORTHERN DISTRICT OF ILLINOIS <br> EASTERN DIVISION
