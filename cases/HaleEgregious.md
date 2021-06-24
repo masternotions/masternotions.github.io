@@ -3,7 +3,7 @@ layout: single
 classes: wide
 header:
   image: assets/images/LauraS.jpg
-  og_image: assets/images/Laura.jpg
+  og_image: /assets/images/Laura.jpg
 title: The Most Egregious Constitutional Abuse
 description: Glenn on denying a Law Licences to a Nazi
 sidebar:
