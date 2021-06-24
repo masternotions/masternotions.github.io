@@ -16,12 +16,9 @@ show_date: true
 
 
 # IN THE UNITED STATES DISTRICT COURT
-## FOR THE NORTHERN DISTRICT OF ILLINOIS  
-## EASTERN DIVISION
+## FOR THE NORTHERN DISTRICT OF ILLINOIS <br> EASTERN DIVISION
 
 <br>
-
-
 
 MATTHEW F. HALE,     :
 
@@ -31,7 +28,7 @@ Plaintiff,   : Case No. ________________
 v.
 
 
-COMMITTEE ON CHARACTER AND FITNESS FOR  
+COMMITTEE ON CHARACTER AND FITNESS FOR    
 THE STATE OF ILLINOIS; BOARD OF ADMISSIONS  
 TO THE BAR; COMMITTEE ON CHARACTER AND  
 FITNESS, STATE OF ILLINOIS, THIRD JUDICIAL  
@@ -65,7 +62,7 @@ Now comes Plaintiff Matthew F. Hale, by and through his attorneys, and alleges a
 ### THE PARTIES
 
 
-
+{:start="5"}
 5. Plaintiff Matthew F. Hale is a resident of the State of Illinois who, at all relevant times herein, resided in East Peoria, Illinois. In 1998, Hale graduated Southern Illinois University at Carbondale School of Law with a Juris Doctor degree, and thereafter sat for and passed the State of Illinois' Bar examination conducted in the summer of 1998. Despite his law school degree and successful Bar examination, Hale was denied a licence to practice law in Illinois by the Board of Admissions, the Committee of Character and Fitness, and its individual members, on June 30, 1999, when they purportedly concluded that Hale did not possess the requisite character and fitness to practice law in the State of Illinois.
 
 6. Defendant Committee on Character and Fitness of the State of Illinois is a committee appointed pursuant to Rule 708 of the Illinois Supreme Court Rules, and operates pursuant to Rule 4 of the Illinois Rules of Procedure for the Board of Admissions and Committee on Character and Fitness. Pursuant to these Rules, the Committee determines whether an applicant possesses the requisite character and fitness for admission to the practice of law. Upon the Committee's certification that the applicant possesses the requisite character and fitness, the Board of Admissions to the Bar, pursuant to Supreme Court Rule 708, will admit the applicant to practice law in Illinois. Absent the Committee's certification, the Board of Admissions to the Bar, pursuant to Rule 708, will deny the applicant the right to practice law in Illinois.
@@ -88,6 +85,7 @@ Now comes Plaintiff Matthew F. Hale, by and through his attorneys, and alleges a
 
 ### JURISDICTION AND VENUE
 
+{:start="15"}
 15. Jurisdiction is conferred upon this Court by 28 U.S.C. ** 1331 and 1343(a) (3) and (a) (4), as this action seeks redress pursuant to a law of the United States, and for violations of plaintiff's constitutional and civil rights.
 
 16. Plaintiff's claims for declaratory and injunctive relief are authorized by 28 U.S.C. ** 2201 and 2202 and Rule 57 of the Federal Rules of Civil Procedure.
@@ -98,6 +96,7 @@ Now comes Plaintiff Matthew F. Hale, by and through his attorneys, and alleges a
 
 ### FACTUAL ALLEGATIONS
 
+{:start="19"}
 19. Plaintiff Hale is a graduate of Southern Illinois University at Carbondale School of Law. Hale graduated in 1998 with a J.D. degree. Hale then took and passed the Illinois State Bar Examination and, having completed all requirements for admission to practice law in Illinois, applied for admission in the Summer of 1998. There were no incidents of misconduct in Hale's past to justify denial of Hale's application to practice law.
 
 20. The Committee on Character and Fitness and the Board of Admissions denied Hale's application on the ground that the political and religious views he holds are so disagreeable that those views, by themselves, render him unfit to practice law. As the Committee, in denying his application, reasoned: "Mr. Hale's long standing and strongly held beliefs are in absolute contradiction to the letter and spirit" of the Rules of Professional Conduct. In light of these views, the Committee predicted that, as a result of the political and religious beliefs he espouses, he "will quickly run afoul" -- in the future -- of the rules governing attorney conduct.
@@ -106,6 +105,7 @@ Now comes Plaintiff Matthew F. Hale, by and through his attorneys, and alleges a
 
 #### Background of Hale's application to practice law  
 
+{:start="22"}
 22. Hale is, and since 1996 has been, the "Pontifex Maximus," or Supreme Leader, of The World Church of the Creator ("WCOTC"), an avowedly racist and anti-Semitic church which espouses White Separatist views. As part of his leadership of the WCOTC, Hale has become a well-known advocate of racism and anti-Semitism, and has written numerous articles, given countless speeches, and regularly appeared on television shows and in the written media advocating and disseminating his and the WCOTC's racist and anti-Semitic ideas.
 
 23. Hale does not conceal or dilute his views. As part of the application process to become authorized to practice law in Illinois, he candidly acknowledged that he fervently believes in the ideas he advocates and does not intend to abandon them. He further acknowledged that he -- like many citizens -- stands firmly opposed to many laws and rules, including certain constitutional amendments, which the majority of the population favors.
@@ -116,6 +116,7 @@ Now comes Plaintiff Matthew F. Hale, by and through his attorneys, and alleges a
 
 #### The Inquiry Panel's Recommendation
 
+{:start="26"}
 26. Pursuant to Rule 5.1(a) of the Rules of Procedure of the Board of Admissions and the Committee on Character and Fitness for the State of Illinois (the "Rules of Procedure"), Hale's application was, in the first instance, referred to a single member of the Third District Committee for consideration. After reviewing the application, that member advised the Illinois Board of Admissions that he was not prepared to recommend that Hale be admitted to practice law in Illinois.
 
 27. Accordingly, pursuant to Rule 5.2(a) of the Rules of Procedure, the Chairperson of the Third District Committee assigned Hale's application to a three-person "Inquiry Panel" for further review, examination, and ultimately, the issuance of a recommendation to the Committee as to whether or not Hale was fit to practice law.
@@ -132,6 +133,7 @@ Now comes Plaintiff Matthew F. Hale, by and through his attorneys, and alleges a
 
 #### The Hearing Panel's June 30, 1999 rejection of Hale's application
 
+{:start="33"}
 33. Pursuant to Rule 5.3(a) of the Rules of Procedure, the Inquiry Panel's recommendation that Hale not be certified resulted in the automatic creation by the Committee of a 5-member "Hearing Panel" to determine with finality whether Hale should be certified for admission to practice law. Certification by the Hearing Panel would presumptively result in Hale's admission. Refusal to certify Hale would result in the denial of Hale's admission.
 
 34. The 5-member Hearing Panel, consisting of the 5 individual defendants, convened a hearing on April 10, 1999 in Joliet, Illinois. At that hearing, multiple witnesses testified that Hale possessed the requisite character and fitness to practice law and that he had always displayed a respect even for those laws with which he disagreed.
@@ -144,11 +146,11 @@ Now comes Plaintiff Matthew F. Hale, by and through his attorneys, and alleges a
 
 38. At the hearing, defendant Lustfeldt, the Chairman of the Hearing Panel, while denying that the inquiry was confined to Hale's beliefs and insisting that it instead was focused on his "character," simultaneously acknowledged that the focus of the Hearing Panel's assessment of Hale's "character" was the views and beliefs he espoused. As defendant Lustfeldt put it:
 
-    * As far as I'm concerned, this is really not about your beliefs except as they might be indicative of your character and fitness to be a member of the bar . . . . The question is whether you are credible when you say [that you can take the attorney oath], and I think the difficulty from that is that when someone says every day I believe this, I believe this, I believe this and they publicly advocate these positions repeatedly and encourage others to take them up and then for you to come in here today and say well, I know I say that Jews all have to be shipped out of the country and I know I say that blacks are like apes, but I'll tell you what, I can do this job, and that's the difficulty, you see, in trying to sort this out, and that's been the sources of these questions. . . .  
-    It's not about your beliefs, it's about your character and fitness, and one of the windows into somebody's character is what they will say, along with what they do, and I think that's the purpose of this as far as I'm concerned. 
-    Thus, even at the hearing, the Chairman of the Hearing Panel made perfectly clear that the reason that so much of the hearing was devoted to Hale's political and religious beliefs, rather than his conduct, was because -- in the view of the Hearing Panel -- Hale's political and religious beliefs were, by themselves, sufficient to question Hale's fitness to practice law, as such views provided a "window" into his character.
+    > As far as I'm concerned, this is really not about your beliefs except as they might be indicative of your character and fitness to be a member of the bar . . . . The question is whether you are credible when you say [that you can take the attorney oath], and I think the difficulty from that is that when someone says every day I believe this, I believe this, I believe this and they publicly advocate these positions repeatedly and encourage others to take them up and then for you to come in here today and say well, I know I say that Jews all have to be shipped out of the country and I know I say that blacks are like apes, but I'll tell you what, I can do this job, and that's the difficulty, you see, in trying to sort this out, and that's been the sources of these questions. . . .  
+    > It's not about your beliefs, it's about your character and fitness, and one of the windows into somebody's character is what they will say, along with what they do, and I think that's the purpose of this as far as I'm concerned. 
+    > Thus, even at the hearing, the Chairman of the Hearing Panel made perfectly clear that the reason that so much of the hearing was devoted to Hale's political and religious beliefs, rather than his conduct, was because -- in the view of the Hearing Panel -- Hale's political and religious beliefs were, by themselves, sufficient to question Hale's fitness to practice law, as such views provided a "window" into his character.
 
-
+{:start="39"}
 39. Consistent with defendant Lustfeldt's admissions at the hearing, the Hearing Panel decided, on June 30, 1999, to deny Hale's application for admission to practice law in Illinois. In a 6-page document, the Committee purported to cite 3 reasons for its conclusion:
 
     * that Hale's belief in private-sector racial discrimination, and his stated intent to privately discriminate, were inconsistent with the "letter and spirt" of the Rules of Professional Conduct;
@@ -167,6 +169,7 @@ Now comes Plaintiff Matthew F. Hale, by and through his attorneys, and alleges a
 
 #### The Rules governing the admissions process
 
+{:start="44"}
 44. Independent of the Committee's deprivation of Hale's Constitutional rights, both the Illinois Rules of Professional Conduct, as well as the Rules of Procedure for the Board of Admissions and Committee on Character and Fitness, are, on their face, unconstitutional in violation of the First and Fourteenth Amendments.
 
 45. Initially, despite the profound and serious constitutional challenges to the acts and decisions of the Committee in rejecting his application which Hale wanted to raise, Hale had no opportunity to have those constitutional challenges heard or adjudicated. This was so because the Rules governing the admissions process guarantee that an applicant who is denied admission to practice law in Illinois only has the right to appear before the Committee on Character and Fitness, and not before a court of general jurisdiction which is bestowed with jurisdiction to adjudicate such claims.
@@ -190,10 +193,12 @@ Now comes Plaintiff Matthew F. Hale, by and through his attorneys, and alleges a
 **As Applied Constitutional Challenges:**
 
 ### COUNT I
+{: .text-center}
 
-#### Claim Pursuant to 42 U.S.C. * 1983 for Violation  
-of Plaintiff's First Amendment Right of Freedom of statement 
+#### Claim Pursuant to 42 U.S.C. * 1983 for Violation <br> of Plaintiff's First Amendment Right of Freedom of statement 
+{: .text-center}
 
+{:start="54"}
 54. Plaintiff repeats and realleges paragraphs 1 through 53, as if fully set forth herein.
 
 55. Defendants Committee on Character and Fitness for the State of Illinois, Board of Admissions to the Bar, Committee on Character and Fitness for the State of Illinois, Third Judicial District, Gordon L. Lustfeldt, Thomas Dunn, Clark Erickson, Charles Marshall, and L. Lee Perrington acted with recklessness and deliberate indifference to the First Amendment rights of plaintiff. As a direct and proximate result of these acts and omissions, plaintiff's First Amendment right to freedom of statement, as incorporated by the Fourteenth Amendment, was violated by denying him the right to practice law in the State of Illinois, based upon his statement and advocacy of constitutionally protected political and religious views. Specifically, defendants' rejection of Hale's application to practice law in Illinois was motivated by their disagreement with his views and their desire to punish him for expressing, advocating and ascribing to those views.
@@ -208,13 +213,14 @@ of Plaintiff's First Amendment Right of Freedom of statement
 
 60. Moreover, the constitutional rights defendants violated are well-established and long-standing. As a result, defendants' conduct contravened clearly established constitutional rights which reasonable persons would have known. Thus, the acts of these defendants were intentional, wanton, malicious, reckless and oppressive, thus entitling plaintiff to punitive damages.
 
-WHEREFORE, Plaintiff prays that the Court enter judgment in his favor against Defendants on this Count I and award plaintiff an amount equal to all of the damages he has suffered as a result of these defendants' actions, attorneys' fees and costs, and, because these defendants acted maliciously, wilfully, wantonly and/or with reckless disregard for plaintiff's rights, award punitive damages and other relief as may be appropriate.
+**WHEREFORE**, Plaintiff prays that the Court enter judgment in his favor against Defendants on this Count I and award plaintiff an amount equal to all of the damages he has suffered as a result of these defendants' actions, attorneys' fees and costs, and, because these defendants acted maliciously, wilfully, wantonly and/or with reckless disregard for plaintiff's rights, award punitive damages and other relief as may be appropriate.
 
 ### COUNT II
+{: .text-center}
 
-#### Claim Pursuant to 42 U.S.C. * 1983 For Violations  
-of Plaintiff's First Amendment Right of Freedom of Association 
+#### Claim Pursuant to 42 U.S.C. * 1983 For Violations <br> of Plaintiff's First Amendment Right of Freedom of Association 
 
+{:start="61"}
 61. Plaintiff repeats and realleges paragraphs 1 through 53, and 55 through 60, as if fully set forth herein.
 
 62. Defendants Committee on Character and Fitness for the State of Illinois, Board of Admissions to the Bar, Committee on Character and Fitness for the State of Illinois, Third Judicial District, Gordon L. Lustfeldt, Thomas Dunn, Clark Erickson, Charles Marshall, and L. Lee Perrington acted with recklessness and deliberate indifference to the First Amendment rights of plaintiff. As a direct and proximate result of these acts and omissions, plaintiff's First Amendment right to freedom of association, as incorporated by the Fourteenth Amendment, was violated by denying him the right to practice law in the State of Illinois, based upon his belief in discriminating in his private associations on the basis of race and religion, and based on the exercise of his associational freedoms in accordance with those beliefs. Specifically, defendants' rejection of Hale's application to practice law in Illinois was motivated by their disagreement with his associational choices and their desire to punish him for exercising his associational freedoms in a discriminatory manner.
@@ -229,13 +235,14 @@ of Plaintiff's First Amendment Right of Freedom of Association
 
 67. Moreover, the constitutional rights defendants violated are well-established and long-standing. As a result, defendants' conduct contravened clearly established constitutional rights which reasonable persons would have known. Thus, the acts of these defendants were intentional, wanton, malicious, reckless and oppressive, thus entitling plaintiff to punitive damages.
 
-WHEREFORE, Plaintiff prays that the Court enter judgment in his favor against Defendants on this Count II and award plaintiff an amount equal to all of the damages he has suffered as a result of defendants' actions, attorneys' fees and costs, and, because these defendants acted maliciously, wilfully, wantonly and/or with reckless disregard for plaintiff's rights, award punitive damages and other relief as may be appropriate.
+**WHEREFORE**, Plaintiff prays that the Court enter judgment in his favor against Defendants on this Count II and award plaintiff an amount equal to all of the damages he has suffered as a result of defendants' actions, attorneys' fees and costs, and, because these defendants acted maliciously, wilfully, wantonly and/or with reckless disregard for plaintiff's rights, award punitive damages and other relief as may be appropriate.
 
 ### COUNT III
+{: .text-center}
 
-#### Claim Pursuant to 42 U.S.C. * 1983 For Violations  
-of Plaintiff's Fourteenth Amendment Right to Due Process of Law 
+#### Claim Pursuant to 42 U.S.C. * 1983 For Violations <br> of Plaintiff's Fourteenth Amendment Right to Due Process of Law 
 
+{:start="68"}
 68. Plaintiff repeats and realleges paragraphs 1 through 53, 55 through 60, 62 through 67, as if fully set forth herein.
 
 69. Defendants Committee on Character and Fitness for the State of Illinois, Board of Admissions to the Bar, Committee on Character and Fitness for the State of Illinois, Third Judicial District, Gordon L. Lustfeldt, Thomas Dunn, Clark Erickson, Charles Marshall, and L. Lee Perrington acted with recklessness and deliberate indifference to the Fourteenth Amendment rights of plaintiff. As a direct and proximate result of these acts and omissions, plaintiff's Fourteenth Amendment right to due process of law was violated by denying him his right to practice law in the State of Illinois not on the basis of any actual misconduct in which plaintiff actually engaged, but instead, based on the Committee's prediction that he will, in the future, engage in conduct violative of the Illinois Rules of Professional Conduct.
@@ -252,13 +259,14 @@ of Plaintiff's Fourteenth Amendment Right to Due Process of Law
 
 75. Moreover, the constitutional rights defendants violated are well-established and long-standing. As a result, defendants' conduct contravened clearly established constitutional rights which reasonable persons would have known. Thus, the acts of these defendants were intentional, wanton, malicious, reckless and oppressive, thus entitling plaintiff to punitive damages.
 
-WHEREFORE, Plaintiff prays that the Court enter judgment in his favor against Defendants on this Count III and award plaintiff an amount equal to all of the damages he has suffered as a result of defendants' actions, attorneys' fees and costs, and, because these defendants acted maliciously, wilfully, wantonly and/or with reckless disregard for plaintiff's rights, award punitive damages and other relief as may be appropriate.
+**WHEREFORE**, Plaintiff prays that the Court enter judgment in his favor against Defendants on this Count III and award plaintiff an amount equal to all of the damages he has suffered as a result of defendants' actions, attorneys' fees and costs, and, because these defendants acted maliciously, wilfully, wantonly and/or with reckless disregard for plaintiff's rights, award punitive damages and other relief as may be appropriate.
 
 ### COUNT IV
+{: .text-center}
 
-#### Claim Pursuant to 42 U.S.C. * 1983 For Violations  
-of Plaintiff's Fourteenth Amendment Right to Equal Protection Under the Law 
+#### Claim Pursuant to 42 U.S.C. * 1983 For Violations <br> of Plaintiff's Fourteenth Amendment Right to Equal Protection Under the Law 
 
+{:start="76"}
 76. Plaintiff repeats and realleges paragraphs 1 through 53, 55 through 60, 62 through 67, and 69 through 75, as if fully set forth herein.
 
 77. Defendants Committee on Character and Fitness for the State of Illinois, Board of Admissions to the Bar, Committee on Character and Fitness for the State of Illinois, Third Judicial District, Gordon L. Lustfeldt, Thomas Dunn, Clark Erickson, Charles Marshall, and L. Lee Perrington acted with recklessness and deliberate indifference to the Fourteenth Amendment rights of plaintiff. As a direct and proximate result of these acts and omissions, plaintiff's Fourteenth Amendment right to equal protection under the law was violated. To the extent that these defendants purported to rely on plaintiff's alleged misconduct as a basis for denying him his license to practice law in the State of Illinois, they treated plaintiff differently, unequally, and worse as compared to similarly situated applicants to practice law in Illinois. Plaintiff was treated unequally because of his statement and advocacy of constitutionally protected views, and because of his exercise of his constitutionally protected freedom of association.
@@ -273,16 +281,15 @@ of Plaintiff's Fourteenth Amendment Right to Equal Protection Under the Law
 
 82. Moreover, the constitutional rights defendants violated are well-established and long-standing. As a result, defendants' conduct contravened clearly established constitutional rights which reasonable persons would have known. Thus, the acts of these defendants were intentional, wanton, malicious, reckless and oppressive, thus entitling plaintiff to punitive damages.
 
-WHEREFORE, Plaintiff prays that the Court enter judgment in his favor against Defendants on this Count IV and award plaintiff an amount equal to all of the damages he has suffered as a result of defendants' actions, attorneys' fees and costs, and, because these defendants acted maliciously, wilfully, wantonly and/or with reckless disregard for plaintiff's rights, award punitive damages and other relief as may be appropriate.
+**WHEREFORE**, Plaintiff prays that the Court enter judgment in his favor against Defendants on this Count IV and award plaintiff an amount equal to all of the damages he has suffered as a result of defendants' actions, attorneys' fees and costs, and, because these defendants acted maliciously, wilfully, wantonly and/or with reckless disregard for plaintiff's rights, award punitive damages and other relief as may be appropriate.
 
-Facial Constitutional Challenges:
+__Facial Constitutional Challenges:__
 
 ### COUNT V
 
-#### Claim for Judgment Declaring Rule 8.4(a)5 of the Illinois  
-Rules of Professional Conduct Facially Unconstitutional in Violation  
-of the First Amendment Right to Freedom of Association and for Injunctive Relief 
+#### Claim for Judgment Declaring Rule 8.4(a)5 of the Illinois <br> Rules of Professional Conduct Facially Unconstitutional in Violation <br> of the First Amendment Right to Freedom of Association and for Injunctive Relief 
 
+{:start="83"}
 83. Plaintiff repeats and realleges paragraphs 1 through 53, 55 through 60, 62 through 67, 69 through 75, and 77 through 82, as if fully set forth herein.
 
 84. The Supreme Court of Illinois drafted, codified, implemented, enforced, encouraged and sanctioned Rule 8.4(a)5 of the Illinois Rules of Professional Conduct, a statute which is unconstitutional on its face, as it impermissibly infringes upon a bar applicant's and all attorneys' First Amendment right to freedom of association.
@@ -295,14 +302,16 @@ of the First Amendment Right to Freedom of Association and for Injunctive Relief
 
 88. Future application of this facially unconstitutional Rule is certain. Moreover, because plaintiff is entitled to re-apply for admission to practice law in Illinois, this facially unconstitutional Rule is almost certain to be again applied adversely to him. Plaintiff is therefore entitled to declaratory judgment declaring Rule 8.4(a)5 of the Illinois Rules of Professional Conduct to be unconstitutional on its face in violation of the First Amendment and an injunction permanently enjoining future application of this Rule to the extent it prohibits or punishes the exercise of freedom of association.
 
-WHEREFORE, Plaintiff prays that the Court enter judgment in his favor against Defendants on this Count V, declaring Rule 8.4(a)5 to be unconstitutional on its face in violation of the First and Fourteenth Amendments, and permanently enjoining future application of this Rule to prohibit or punish the exercise of freedom of association.
+**WHEREFORE**, Plaintiff prays that the Court enter judgment in his favor against Defendants on this Count V, declaring Rule 8.4(a)5 to be unconstitutional on its face in violation of the First and Fourteenth Amendments, and permanently enjoining future application of this Rule to prohibit or punish the exercise of freedom of association.
 
 ### COUNT VI
+{: .text-center}
 
 #### Claim for Judgment Declaring Rule 8.4(a)5 of the Illinois  
 Rules of Professional Conduct Unconstitutional as Violative of the  
 First Amendment Right to Freedom of statement and for Injunctive Relief 
 
+{:start="89"}
 89. Plaintiff repeats and realleges paragraphs 1 through 53, 55 through 60, 62 through 67, 69 through 75, 77 through 82, and 84 through 88, as if fully set forth herein.
 
 90. The Supreme Court of Illinois drafted, codified, implemented, enforced, encouraged and sanctioned Rule 8.4(a)5 of the Illinois Rules of Professional Conduct, a statute which is unconstitutional on its face, as it impermissibly infringes upon a bar applicant's and attorneys' First Amendment right to freedom of statement.
@@ -315,14 +324,14 @@ First Amendment Right to Freedom of statement and for Injunctive Relief
 
 94. Future application of this facially unconstitutional Rule is certain. Moreover, because plaintiff is entitled to re-apply for admission to practice law in Illinois, this facially unconstitutional Rule is almost certain to be again applied adversely to him. Plaintiff is therefore entitled to declaratory judgment declaring Rule 8.4(a)5 of the Illinois Rules of Professional Conduct to be unconstitutional on its face in violation of the First Amendment and an injunction permanently enjoining future application of this Rule to the extent it prohibits or punishes the exercise of freedom of statement.
 
-WHEREFORE, Plaintiff prays that the Court enter judgment in his favor against Defendants on this Count VI, declaring Rule 8.4(a)5 to be unconstitutional on its face in violation of the First and Fourteenth Amendments, and permanently enjoining future application of this Rule to prohibit or punish the exercise of freedom of statement.
+**WHEREFORE**, Plaintiff prays that the Court enter judgment in his favor against Defendants on this Count VI, declaring Rule 8.4(a)5 to be unconstitutional on its face in violation of the First and Fourteenth Amendments, and permanently enjoining future application of this Rule to prohibit or punish the exercise of freedom of statement.
 
 ### COUNT VII
+{: .text-center}
 
-#### Claim for Judgment Declaring Illinois Supreme Court Rule 708  
-and Rule 4 of the Committee's Rules of Procedure Unconstitutional in Violation  
-of the Fourteenth Amendment Right To Due Process of Law and for Injunctive Relief 
+#### Claim for Judgment Declaring Illinois Supreme Court Rule 708 <br> and Rule 4 of the Committee's Rules of Procedure Unconstitutional in Violation <br> of the Fourteenth Amendment Right To Due Process of Law and for Injunctive Relief 
 
+{:start="95"}
 95. Plaintiff repeats and realleges paragraphs 1 through 53, 55 through 60, 62 through 67, 69 through 75, 77 through 82, 84 through 88, and 90 through 94, as if fully set forth herein.
 
 96. The Supreme Court of Illinois drafted, codified, implemented, enforced, encouraged and sanctioned the Illinois Supreme Court Rule 708 and Rule 4 of the Rules of Procedure for Character and Fitness Committees. These Rules, taken together, allow the Committee on Character and Fitness and Board of Admissions to deprive bar applicants of rights, privileges and property while denying those applicants an opportunity to be heard with respect to their claim that such deprivation constitutes a violation of their constitutional rights.
@@ -341,7 +350,7 @@ of the Fourteenth Amendment Right To Due Process of Law and for Injunctive Relie
 
 103. Future application of these facially unconstitutional rules in order to deprive future applicants of due process rights is certain. Moreover, because plaintiff is entitled to re-apply for admission, these facially unconstitutional rules are almost certain to be applied adversely to him again in the future.
 
-WHEREFORE, Plaintiff prays that the Court enter judgment in his favor against Defendants on this Count VII: (a) declaring Supreme Court Rule 708 and Rule 4 of the Rules of Procedure of the Board of Admissions and the Committee on Character and Fitness to be unconstitutional on their face in violation of the Fourteenth Amendment to the extent that they allow the denial of admission to practice law without providing an opportunity to have constitutional challenges to said denial actually heard and adjudicated in a court of general jurisdiction authorized to hear and adjudicate such challenges, and (b) permanently enjoining future application of these Rules to deny applicants admission without providing the constitutionally mandated opportunity to be heard.
+**WHEREFORE**, Plaintiff prays that the Court enter judgment in his favor against Defendants on this Count VII: (a) declaring Supreme Court Rule 708 and Rule 4 of the Rules of Procedure of the Board of Admissions and the Committee on Character and Fitness to be unconstitutional on their face in violation of the Fourteenth Amendment to the extent that they allow the denial of admission to practice law without providing an opportunity to have constitutional challenges to said denial actually heard and adjudicated in a court of general jurisdiction authorized to hear and adjudicate such challenges, and (b) permanently enjoining future application of these Rules to deny applicants admission without providing the constitutionally mandated opportunity to be heard.
 
 Dated: June 27, 2001 
 
@@ -398,27 +407,22 @@ Glenn Greenwald
 
 GREENWALD, CHRISTOPH & HOLLAND, P.C.
 
-1370 Avenue of the Americas
-
-32nd Floor
-
+1370 Avenue of the Americas  
+32nd Floor  
 New York, NY 10019
 
-Telephone: (212) 489-6359
-
+Telephone: (212) 489-6359  
 Fax: (212) 246-2698 
 
 <br>
  
 
-OF COUNSEL PURSUANT
-
-TO LOCAL RULE 83.15:  
+#### OF COUNSEL PURSUANT
+#### TO LOCAL RULE 83.15:  
 
 Jason Gylling
 
-4445 N. Rockwell
-
+4445 N. Rockwell  
 Chicago, IL 60625
 
 Telephone: (773) 334-0498
