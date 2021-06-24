@@ -81,3 +81,7 @@ How many trips to Moscow?
 <div class="tweet">
 <blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">The big problem with Brazilian press is,<br>well,<br>very limited pornographic horizons.<br><br>That 👆article contains five Pornhub links<br>to Glenn&#39;s movies made in Rio.<br><br>All produced before 2004.<br><br>Does it not occur to them he produced some<br>𝙖𝙛𝙩𝙚𝙧 he moved there?<a href="https://t.co/5kSTKA008K">https://t.co/5kSTKA008K</a></p>&mdash; Alan Stacey (@AlanVRK) <a href="https://twitter.com/AlanVRK/status/1403111424306548736?ref_src=twsrc%5Etfw">June 10, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
+<div class="tweet">
+<blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">A thread on Glenn Greenwald&#39;s history of normalizing and empowering the white nationalist right as a free-speech absolutist. Greenwald was the lawyer for neo-Nazi Matt Hale who formed the World Church of the Creator religion linked to violent hate crimes <a href="https://t.co/Vj1NYXsvKE">https://t.co/Vj1NYXsvKE</a></p>&mdash; Heresy Labs (@heresysquad) <a href="https://twitter.com/heresysquad/status/1191762909325492225?ref_src=twsrc%5Etfw">November 5, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+A long thread from a fan.
+</div>
