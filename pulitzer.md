@@ -1,7 +1,6 @@
 ---
 layout: single
-classes:
-    wide
+classes: wide
 title: Does Glenn have a Pulitzer?
 description: "Will you let me hold your Pulitzer?"
 header:
@@ -9,6 +8,7 @@ header:
   og_image: assets/images/Rabbit1.jpeg
 sidebar:
   - image: assets/images/bigbunny.jpg
+share: true
 ---
 
 # Well, does he?

@@ -1,6 +1,6 @@
 ---
 layout: single
-toc: true
+classes: wide
 # entries_layout: grid
 title: A sexual predator named Glenn Greenwald, Part 1
 author: room16

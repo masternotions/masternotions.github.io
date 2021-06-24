@@ -13,12 +13,14 @@ header:
 
 **To be sorted**
 
+
+- ``Jun 26, 2013`` Jessica Testa for BuzzFeed News: [How Glenn Greenwald Became Glenn Greenwald](https://www.buzzfeednews.com/article/jtes/how-glenn-greenwald-became-glenn-greenwald)
+- ``Nov 14, 2013`` Natasha Vargas-Cooper for BuzzFeed News: [David Miranda Is Nobody's Errand Boy](https://www.buzzfeed.com/natashavc/david-miranda-is-nobodys-errand-boy) _Updated Aug 21, 2020_
+
 - ``Mar 09, 2005`` Jodi Wilgoren for The New York Times: [Supremacist Sent Code From Jail, Lawyer Says](https://www.nytimes.com/2005/03/09/us/supremacist-sent-code-from-jail-lawyer-says.html)
-- ``Jul 27, 2006`` Patterico on Blog: [Annotated WuzzaDem: The Facts Behind the Greenwald Sock-Puppetry](http://patterico.com/2006/07/27/annotated-wuzzadem-the-facts-behind-the-greenwald-sock-puppetry/)
 - ``Apr 18, 2011`` Fred Bernstein for Out Magazine: [Glenn Greenwald: Life Beyond Borders](https://www.out.com/news-commentary/2011/04/18/glenn-greenwald-life-beyond-borders)
 - ``Jan 01, 2012`` User msanthrope on Democratic Underground: [Glenn Greenwald Unethically Taped Witnesses While Working for Matt Hale, White Supremacist](https://upload.democraticunderground.com/1002101211)
 - ``Jul 25, 2012`` Adam Levick for The Times of Israel: [The Guardian and Glenn Greenwald: The anti-imperialism of fools](https://blogs.timesofisrael.com/the-guardian-and-glenn-greenwald-the-anti-imperialism-of-fools/)
-- ``Aug 26, 2012`` Adam Levick for Camera UK: [Background on Glenn Greenwald for Guardian Readers: 'Sock Pupppets' & 'Smart Spam'](https://camera-uk.org/2012/08/26/background-on-glenn-greenwald-for-guardian-readers-sock-puppets-smart-spam/)
 - ``Jun 07, 2013`` Andrew Belonsky for Out Magazine: [Glenn Greenwald: Same as Bradley Manning?](https://www.out.com/entertainment/popnography/2013/06/07/glenn-greenwald-whistleblower-bradley-manning)
 - ``Jun 26, 2013`` Abby Ohlheiser for The Atlantic: [Here Comes the Glenn Greenwald Hit Piece](https://www.theatlantic.com/national/archive/2013/06/here-comes-glenn-greenwald-hit-piece/313861/)
 - ``Jun 26, 2013`` Glenn Greenwald for The Guardian: [The personal side of taking on the NSA: emerging smears](https://www.theguardian.com/commentisfree/2013/jun/26/nsa-revelations-response-to-smears)
@@ -29,6 +31,7 @@ header:
 - ``Aug 21, 2013`` Editors for Out Magazine: [WATCH: Anderson Cooper Interviews Greenwald & Partner](https://www.out.com/entertainment/popnography/2013/08/21/watch-anderson-cooper-interviews-glenn-greenwald-david-miranda)
 - ``Oct 24, 2013`` Editors for Out Magazine: [10 Things We Learned from Glenn Greenwald](https://www.out.com/glenn-greenwald/2013/10/24/10-things-we-learned-glenn-greenwald)
 - ``Oct 24, 2013`` Editors for Out Magazine: [Behind the Story: Glenn Greenwald, Enemy of the State](https://www.out.com/news-opinion/2013/10/24/behind-story-glenn-greenwald-enemy-state)
+- ``Dec 04, 2013`` Rolling Stone. [Snowden and Greenwald: The Men Who Leaked the Secret](https://www.rollingstone.com/culture/culture-news/snowden-and-greenwald-the-men-who-leaked-the-secrets-104970/)
 - ``Jan 19, 2014`` Sean Wilentz for The New Republic: [Would You Feel Differently About Snowden, Greenwald, and Assange If You Knew What They Really Thought?](https://newrepublic.com/article/116253/edward-snowden-glenn-greenwald-julian-assange-what-they-believe)
 - ``Feb 20, 2014`` Brian John Spencer on Blog: [Glenn Greenwald - Lawyer, blogger, partisan journalist](http://brianjohnspencer.blogspot.com/2014/02/glenn-greenwald-lawyer-blogger-partisan.html)
 - ``May 12, 2014`` Michael Paterniti for GQ: [The Man Who Knows Too Much](https://www.gq.com/story/glenn-greenwald-edward-snowden-no-place-to-hide)
@@ -60,6 +63,7 @@ header:
 - ``Jan 21, 2020`` Ernesto Londoño and Letícia Casado for The New York Times: [Glenn Greenwald Charged With Cybercrimes in Brazil](https://www.nytimes.com/2020/01/21/world/americas/glenn-greenwald-brazil-cybercrimes.html)
 - ``Jan 26, 2020`` Jessica Testa on Ricardo Antunes Blog: [EXCLUSIVE: A millionaire, Glenn Greenwald advocated for Nazi leader Goldman Sachs and even sold porn. Know your trajectory.](https://ricardoantunes.com.br/exclusivo-milionario-glenn-greenwald-advogou-para-lider-nazista-goldman-sachs-e-vendeu-ate-filme-porno-conheca-sua-trajetoria/)
 - ``Feb 23, 2020`` Augusto Diniz for Jornal Opção: [Why professionals like Glenn Greenwald and Patrícia Campos Mello bother militants on the right](https://www.jornalopcao.com.br/colunas-e-blogs/conexao/por-que-profissionais-como-glenn-greenwald-e-patricia-campos-mello-incomodam-tanto-militantes-da-direita-237490/)
+- ``Jun 26, 2013`` Dylan Byers for Politico: [Greenwald aims to pre-empt 'smears'](https://www.politico.com/blogs/media/2013/06/greenwald-aims-to-pre-empt-smears-167191)
 
 <!--
 
@@ -86,5 +90,8 @@ header:
 - ``Dec 03, 2019`` [@BetterCallGlenn](https://twitter.com/BetterCallGlenn/status/1201900921367740416)
 - ``Dec 03, 2019`` [@BetterCallGlenn](https://twitter.com/BetterCallGlenn/status/1201923240131739654)
 - ``Dec 03, 2019`` [@BetterCallGlenn](https://twitter.com/BetterCallGlenn/status/1201923855360647168)
+
+Other
+- ``Jul 23, 2019`` Bruna de Pieri for Terça Livre TV: [Glenn Greenwald has been sued for pornography, according to foreign website](https://www.tercalivre.com.br/glenn-greenwald-ja-foi-processado-por-pornografia-segundo-site-estrangeiro/)
 
 -->
