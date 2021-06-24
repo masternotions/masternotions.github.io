@@ -10,7 +10,7 @@ header:
  og_image: "/assets/images/twitter-card2.jpg"
  image: "/assets/images/twitter-card2brlong.jpg"
 sidebar:
-  - image: /assets/images/GGSenado.jpg 
+  - image: /assets/images/GGSenadoS.jpg 
 feature_row:
   - image_path: /rion/images/banalto002.jpg
     alt: "Rio Gay Guides Banner"
@@ -43,10 +43,15 @@ share: true
 
 # Intro
 
-_This site is still very much under development_. 
-There are much more comprehensive details on Twitter, although spread over many months and many, many tweets.  
-We are building a list of some those [threads about Glenn on Twitter](TwitterThreads.md){: .btn .btn--success} 
+_This site is incomplete and under active development in June 2021_. 
+For those in search of further details and evidence, here are some starting points wtih [threads about Glenn on Twitter](TwitterThreads.md){: .btn .btn--success}. 
 
+# Matthew Hale 
+> Glenn condemned the denial of law license to a leading American Neo-Nazi as 
+> an "egregious constiutional abuse" in [this court filing.](/cases/HaleEgregious.md)
+_New_{: .notice .new}
+
+_More about Glenn's Legal Cases coming soon._
 
 
 # Glenn on Wikipedia and Other Sites 
@@ -58,7 +63,6 @@ The highlight of [this version](https://en.wikipedia.org/w/index.php?title=Glenn
 > starting with a recitation of the puppet-master’s resume.
 
 **New**{: .notice .new}
-
 Glenn was famous for his sock puppets when he wasn't known for anything else, so they have their own section in our collection of [pages by Glenn's Antifans.](SitesAboutGlenn.md){: .btn .btn--danger}
 
 # Glenn's Blue Period
