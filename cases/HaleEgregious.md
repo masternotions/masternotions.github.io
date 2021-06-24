@@ -8,10 +8,10 @@ title: The Most Egregious Constitutional Abuse
 description: Glenn on denying a Law Licences to a Nazi
 sidebar:
  - image: "assets/images/050302_mattHale_vmed_4p.jpg"
-   title: Matthew Hale
+ - title: Matthew Hale
    nav: Hale
 date: 2001-06-27
-show_date: true
+share: true
 ---
 
 
@@ -22,5 +22,5 @@ show_date: true
 </style>
 
 <div>
-<iframe src="/hale2/hale_complaint.htm" width="1200px" height="3500px" allow-forms="false"></iframe>
+<iframe src="hale2/hale_complaint.html" width="1500px" height="4000px" allow-forms="false"></iframe>
 </div>

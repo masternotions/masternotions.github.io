@@ -3,6 +3,7 @@ layout: single
 classes: wide
 header:
   image: assets/images/LauraS.jpg
+  og_image: assets/images/Laura.jpg
 title: Most Egregious Constitutional Abuse
 description: Glenn Greenwald on Nazi Law Licences
 sidebar:
@@ -53,15 +54,17 @@ Now comes Plaintiff Matthew F. Hale, by and through his attorneys, and alleges a
 
 3. Independent of the denial of Hale's specific application, both the substance and procedure of the Rules governing the admissions process are plainly unconstitutional on their face. Specifically, those Rules:
 
-* bar an applicant from receiving a law license who, in his/her private life, racially discriminates -- a clear violation of the First Amendment's freedom of association;
+    * bar an applicant from receiving a law license who, in his/her private life, racially discriminates -- a clear violation of the First Amendment's freedom of association;
 
-* bar an applicant who advocates racial discrimination from practicing law -- a clear violation of the First Amendment guarantee of free statement;
+    * bar an applicant who advocates racial discrimination from practicing law -- a clear violation of the First Amendment guarantee of free statement;
 
-* permit an applicant to be denied a license to practice law without providing the applicant an opportunity to have constitutional challenges to that denial be actually heard or adjudicated by a court that has jurisdiction to do so -- a clear violation of the Fourteenth Amendment's guarantee of due process of law.
+    * permit an applicant to be denied a license to practice law without providing the applicant an opportunity to have constitutional challenges to that denial be actually heard or adjudicated by a court that has jurisdiction to do so -- a clear violation of the Fourteenth Amendment's guarantee of due process of law.
 
 4. But for the patent constitutional abuses of the Committee on Character and Fitness and its individual members, Matthew Hale would be practicing law in Illinois today. Independently, but for the facially unconstitutional procedural and substantive rules governing the admissions process, Hale would be practicing law in Illinois today.  The members of the Committee on Character and Fitness, acting under color of law, knowingly and/or recklessly violated Matthew Hale's constitutional rights to free statement, free association, due process of law, and equal protection. Hale is thus entitled to compensatory damages, punitive damages, and the declaratory and injunctive relief sought herein.
 
 ### THE PARTIES
+
+
 
 5. Plaintiff Matthew F. Hale is a resident of the State of Illinois who, at all relevant times herein, resided in East Peoria, Illinois. In 1998, Hale graduated Southern Illinois University at Carbondale School of Law with a Juris Doctor degree, and thereafter sat for and passed the State of Illinois' Bar examination conducted in the summer of 1998. Despite his law school degree and successful Bar examination, Hale was denied a licence to practice law in Illinois by the Board of Admissions, the Committee of Character and Fitness, and its individual members, on June 30, 1999, when they purportedly concluded that Hale did not possess the requisite character and fitness to practice law in the State of Illinois.
 
@@ -141,17 +144,18 @@ Now comes Plaintiff Matthew F. Hale, by and through his attorneys, and alleges a
 
 38. At the hearing, defendant Lustfeldt, the Chairman of the Hearing Panel, while denying that the inquiry was confined to Hale's beliefs and insisting that it instead was focused on his "character," simultaneously acknowledged that the focus of the Hearing Panel's assessment of Hale's "character" was the views and beliefs he espoused. As defendant Lustfeldt put it:
 
-As far as I'm concerned, this is really not about your beliefs except as they might be indicative of your character and fitness to be a member of the bar . . . . The question is whether you are credible when you say [that you can take the attorney oath], and I think the difficulty from that is that when someone says every day I believe this, I believe this, I believe this and they publicly advocate these positions repeatedly and encourage others to take them up and then for you to come in here today and say well, I know I say that Jews all have to be shipped out of the country and I know I say that blacks are like apes, but I'll tell you what, I can do this job, and that's the difficulty, you see, in trying to sort this out, and that's been the sources of these questions. . . .  
-It's not about your beliefs, it's about your character and fitness, and one of the windows into somebody's character is what they will say, along with what they do, and I think that's the purpose of this as far as I'm concerned. 
-Thus, even at the hearing, the Chairman of the Hearing Panel made perfectly clear that the reason that so much of the hearing was devoted to Hale's political and religious beliefs, rather than his conduct, was because -- in the view of the Hearing Panel -- Hale's political and religious beliefs were, by themselves, sufficient to question Hale's fitness to practice law, as such views provided a "window" into his character.
+    * As far as I'm concerned, this is really not about your beliefs except as they might be indicative of your character and fitness to be a member of the bar . . . . The question is whether you are credible when you say [that you can take the attorney oath], and I think the difficulty from that is that when someone says every day I believe this, I believe this, I believe this and they publicly advocate these positions repeatedly and encourage others to take them up and then for you to come in here today and say well, I know I say that Jews all have to be shipped out of the country and I know I say that blacks are like apes, but I'll tell you what, I can do this job, and that's the difficulty, you see, in trying to sort this out, and that's been the sources of these questions. . . .  
+    It's not about your beliefs, it's about your character and fitness, and one of the windows into somebody's character is what they will say, along with what they do, and I think that's the purpose of this as far as I'm concerned. 
+    Thus, even at the hearing, the Chairman of the Hearing Panel made perfectly clear that the reason that so much of the hearing was devoted to Hale's political and religious beliefs, rather than his conduct, was because -- in the view of the Hearing Panel -- Hale's political and religious beliefs were, by themselves, sufficient to question Hale's fitness to practice law, as such views provided a "window" into his character.
+
 
 39. Consistent with defendant Lustfeldt's admissions at the hearing, the Hearing Panel decided, on June 30, 1999, to deny Hale's application for admission to practice law in Illinois. In a 6-page document, the Committee purported to cite 3 reasons for its conclusion:
 
-(a)  that Hale's belief in private-sector racial discrimination, and his stated intent to privately discriminate, were inconsistent with the "letter and spirt" of the Rules of Professional Conduct;
+    * that Hale's belief in private-sector racial discrimination, and his stated intent to privately discriminate, were inconsistent with the "letter and spirt" of the Rules of Professional Conduct;
 
-(b) that Hale's refusal, at the Committee's insistence, to "repudiate" a 1995 letter he had written to an advocate of affirmative action -- a letter the Committee believed was "insulting and totally inappropriate" -- shows a "monumental lack of sound judgement" which will put Hale "on a collision course with the Rules of Professional Conduct"; and,
+    * that Hale's refusal, at the Committee's insistence, to "repudiate" a 1995 letter he had written to an advocate of affirmative action -- a letter the Committee believed was "insulting and totally inappropriate" -- shows a "monumental lack of sound judgement" which will put Hale "on a collision course with the Rules of Professional Conduct"; and,
 
-(c) in a one-paragraph, indescribably conclusory assertion placed at the end of its decision, the Committee claimed that Hale "was not open with the panel during the hearing," but then cited two excerpts in the record to demonstrate this was so which pertained exclusively to Hale's political views: (i) where Hale did nothing more than refuse to assent to the Committee's characterization that Hale's statement of his beliefs in the above-referenced Affirmative Action letter was "inappropriate" and "insulting"; and (ii) where Hale did nothing more than refuse to agree with the Committee's apparent belief that disseminating literature with swastikas on them outside of a prayer breakfast was inappropriately "insulting." In short, the Committee disingenuously, and as a pretext, equated Hale's refusal to swear to the Rightness of the Committee's views regarding what is and is not "appropriate" statement with a lack of "candor" on Hale's part.
+    * in a one-paragraph, indescribably conclusory assertion placed at the end of its decision, the Committee claimed that Hale "was not open with the panel during the hearing," but then cited two excerpts in the record to demonstrate this was so which pertained exclusively to Hale's political views: (i) where Hale did nothing more than refuse to assent to the Committee's characterization that Hale's statement of his beliefs in the above-referenced Affirmative Action letter was "inappropriate" and "insulting"; and (ii) where Hale did nothing more than refuse to agree with the Committee's apparent belief that disseminating literature with swastikas on them outside of a prayer breakfast was inappropriately "insulting." In short, the Committee disingenuously, and as a pretext, equated Hale's refusal to swear to the Rightness of the Committee's views regarding what is and is not "appropriate" statement with a lack of "candor" on Hale's part.
 
 40. In sum, the Hearing Panel's denial of Hale's application to practice law in the State of Illinois was unmistakably, and unabashedly, motivated not by any conduct on Hale's part, but rather, by: (a) the Committee's disapproval of Hale's political and religious views; (b) the Committee's objections to Hale's intent to discriminate on the basis of race and religion when forming his private associations; and (c) the Committee's "prediction" as to what Hale's future conduct likely would be.
 
