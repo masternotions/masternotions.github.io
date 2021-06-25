@@ -2,10 +2,10 @@
 layout: single
 classes: wide
 header:
-  image: assets/images/LauraS.jpg
+  image: /assets/images/LauraS.jpg
   og_image: "../assets/images/Laura.jpg"
-title: Most Egregious Constitutional Abuse
-description: Glenn\'s 2001 court filing on denying a Nazi a Law License
+title: The Most Egregious Constitutional Abuse
+description: "Glenn's 2001 court filing on denying a Nazi a Law License"
 sidebar:
  - image: "assets/images/050302_mattHale_vmed_4p.jpg"
    title: Matthew Hale
