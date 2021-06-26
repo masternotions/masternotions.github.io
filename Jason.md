@@ -15,7 +15,7 @@ share: true
 
 <style type="text/css">
   .jason {
-    max-height: 160px;
+    max-height: 180px;
   }
 </style>
 
