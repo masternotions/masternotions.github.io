@@ -5,8 +5,7 @@ title: Rio Gay Guides
 sidebar:
   - image: /rion/images/ourguideservices004.jpg
   - title: GG historic websites
-    nav: RioGuides
-      
+    nav: RioGuides      
 header:
   og_image: rion/images/banalto002.jpg
 share: true

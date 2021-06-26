@@ -9,8 +9,6 @@ header:
 sidebar:
   - title: The Best Memes are from Brazil
   - image: assets/images/Verdevaldo.gif
-  - title: But don't call him Verdevaldo
-  - image: assets/images/Kermit.gif
 share: true
 ---
 
@@ -31,6 +29,7 @@ As far back as 2006, they were creating pages and entire sites to catelog his li
 
 ## Sock Puppetry
 
+![An Army of Glenns](assets/images/glens.jpg){: .align-right .jason}
 - ``Jul 27, 2006`` Patterico on Blog: [Annotated WuzzaDem: The Facts Behind the Greenwald Sock-Puppetry](http://patterico.com/2006/07/27/annotated-wuzzadem-the-facts-behind-the-greenwald-sock-puppetry/)
 - ``Aug 26, 2012`` Adam Levick for Camera UK: [Background on Greenwald for Guardian Readers: 'Sock Pupppets' & 'Smart Spam'](https://camera-uk.org/2012/08/26/background-on-glenn-greenwald-for-guardian-readers-sock-puppets-smart-spam/)
 - ``July 20, 2006`` [Glenn Greenwald’s IP Address Stolen](https://www.outsidethebeltway.com/glenn_greenwalds_ip_address_stolen/)
@@ -47,6 +46,7 @@ As far back as 2006, they were creating pages and entire sites to catelog his li
 
 ## The Intercept
 
+![Investigative Journalist](assets/images/Kermit.gif){: .align-right}
 - ``February 27, 2015`` Ken Silverstein for Politico: [Where Journalism Goes to Die](https://www.politico.com/magazine/story/2015/02/ken-silverstein-the-intercept-115586/)
 - ``December 15, 2014``   Was Taibbi's firing related to comments about Glenn?: [They can tell you’re an enormous asshole](https://www.wired.com/2014/12/life-and-death-of-the-racket/)
 - ``March 15, 2019`` Columbia Journalism Review [The Intercept Cuts Back](https://www.cjr.org/business_of_news/layoffs-the-intercept.php)
@@ -56,6 +56,13 @@ As far back as 2006, they were creating pages and entire sites to catelog his li
 ### Glenn's Defense of Proud Boys
 - ``21 August 2019`` Ari Paul on Souciant [The Greenwald Denial](http://souciant.com/2019/08/the-greenwald-denial/)
 
+
+
+### Wikipedia 
+<aside>Glenn's Wikipedia page resembles a war zone, heavily censored by its subject.</aside>
+The highlight of [this July 2006 version](https://en.wikipedia.org/w/index.php?title=Glenn_Greenwald&oldid=66453842){: .btn .btn--info} is a definition:
+> __glenn of sock puppets__: multiple sock-puppets driving home exactly the same points, usually
+> starting with a recitation of the puppet-master’s resume.
 
 <br>
 

@@ -33,9 +33,14 @@ feature_row:
 feature_row2:
   - image_path: assets/images/Babylon.png
     url: "https://washingtonbabylon.com/you-remember-carlos-danger-right-meet-hairy-studs-glenn-greenwalds-alter-ego-it-matters/"
-    btn_label: "You Remember Carlos Danger, Right?"
-    btn_class: "btn--warning"
-    excerpt: "May 2021 article in Washington Babylon"
+    btn_label: "Meet Hairy Studs"
+    btn_class: "btn--info"
+    excerpt: "Washington Babylon 2021"
+  - image_path: assets/images/NYDN.jpg
+    url: "https://www.nydailynews.com/news/national/greenwald-reporter-broke-nsa-story-lawyer-sued-porn-biz-article-1.1383448"
+    btn_label: "Secrets of Mr Secret"
+    btn_class: "btn--danger"
+    excerpt: "NY Daily News, 2013"
 share: true
 ---
 
@@ -46,24 +51,21 @@ share: true
 _This site is incomplete and under active development in June 2021_. 
 For those in search of further details and evidence, here are some starting points wtih [threads about Glenn on Twitter](TwitterThreads.md){: .btn .btn--success}. 
 
-# Matthew Hale 
-> Glenn condemned the denial of law license to a leading American Neo-Nazi as 
-> an "egregious constiutional abuse" in [this court filing.](/cases/HaleEgregious.md)
-_New_{: .notice .new}
 
-_More about Glenn's Legal Cases coming soon._
+## Other Sites About Glenn
+
+![Boys From Brazil](assets/images/boysbrazil.jpg){: .align-left .jason} Glenn has inspired a remarkable number of web pages - even entire sites - specifically about him. Few are praiseworthy. Some of the earliest were about Glenn's famous sock-puppets, in 2006.  
+See our collection of [pages by Glenn's Antifans.](SitesAboutGlenn.md){: .btn .btn--danger}
+{: .notice--success}
+
+<br>
+
+# Matthew Hale
+_New_{: .new}
+Glenn condemned the denial of law license to a leading American Neo-Nazi as 
+an "egregious constiutional abuse" in [this court filing.](/cases/HaleEgregious.md)
 
 
-# Glenn on Wikipedia and Other Sites 
-
-Glenn's Wikipedia page resembles a war zone, heavily censored by its subject.  
-The highlight of [this version](https://en.wikipedia.org/w/index.php?title=Glenn_Greenwald&oldid=66453842) is a definition:
-
-> __glenn of sock puppets__: multiple sock-puppets driving home exactly the same points, usually
-> starting with a recitation of the puppet-master’s resume.
-
-**New**{: .notice .new}
-Glenn was famous for his sock puppets when he wasn't known for anything else, so they have their own section in our collection of [pages by Glenn's Antifans.](SitesAboutGlenn.md){: .btn .btn--danger}
 
 # Glenn's Blue Period
 
@@ -94,7 +96,7 @@ Previously he was described as a
 </div>
 
 ### Jason Sketchy pages
-_NEW_{: .notice .new} 
+_NEW_{: .new} 
 Jake Jaxson's real name is Jason Buchtel, 
 but we just call him [Jason Sketchy](Jason.md){: .btn .btn--danger .btn--large}
 
@@ -132,11 +134,8 @@ Read it here:
 
 ## Published Articles about Greenwald's porn empire
 
-New York Daily News article: [Glenn Greenwald was once lawyer sued over porn business](https://www.nydailynews.com/news/national/greenwald-reporter-broke-nsa-story-lawyer-sued-porn-biz-article-1.1383448)
-[Alternative Link here](https://www.pressreader.com/usa/new-york-daily-news/20130627/281616712946068)
-
-
-{% include feature_row id="feature_row2" type="left" %}
+{% include feature_row id="feature_row2" %}
+[Alternative Link to NY Daily News article](https://www.pressreader.com/usa/new-york-daily-news/20130627/281616712946068)
 
 
 ### David Miranda - Director and Custodian of Records
