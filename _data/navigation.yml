@@ -11,7 +11,9 @@ main:
   - title: HX
     url: /hx.html  
   - title: Pulitzer
-    url: /pulitzer.html     
+    url: /pulitzer.html
+  - title: Hale
+    url: /cases/HaleEgregious.html       
 BCG1:
  - title: BetterCallGlenn.com Original Source (in Portuguese)
    children:
@@ -108,6 +110,11 @@ Hale:
      url: /cases/HaleEreginal.html
    - title: On the Wayback Machine
      url: https://web.archive.org/web/20080409205157/http://hatemonitor.csusb.edu/NewsHeadlines/hale_complaint.htm
+ - title: 2003 Judgement
+   url: /assets/pdfs/Hale2003.pdf
+ - title: Anderson v Hale 2000
+   url: /assets/pdfs/AvH2000.pdf  
+  
 
   
 
