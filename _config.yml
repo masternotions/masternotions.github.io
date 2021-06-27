@@ -24,3 +24,9 @@ baseurl: "/"
 logo: assets/images/hippopotamus-head.svg
 atom_feed:
   hide: true
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-J73QXGV4YW"
+    anonymize_ip: false # default
+
