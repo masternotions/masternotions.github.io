@@ -1,19 +1,25 @@
 main:
-  - title: More on Twitter
+  - title: Twitter Thread List
     description: Links to Twitter threads with more details
     url: /TwitterThreads.html
-  - title: GG Historic websites
+  - title: GG's Rio Websites
     description: sites Glenn owned & operated
     url: /RioG.html
   - title: Jake Jaxson
     description: Glenn's business partner 
     url: /Jason.html
+  - title: AntiFan Pages
+    description: Other sites about Glenn
+    url: /SitesAboutGlenn.html 
   - title: HX
-    url: /hx.html  
+    description: NYC's premier gay bar rag, and Glenn
+    url: /hx.html
+  - title: Matthew Hale
+    description: Defending a Nazi, pro bono
+    url: /cases/HaleEgregious.html 
   - title: Pulitzer
+    description: He only has a bunny
     url: /pulitzer.html
-  - title: Hale
-    url: /cases/HaleEgregious.html       
 BCG1:
  - title: BetterCallGlenn.com Original Source (in Portuguese)
    children:
@@ -113,7 +119,8 @@ Hale:
  - title: 2003 Judgement
    url: /assets/pdfs/Hale2003.pdf
  - title: Anderson v Hale 2000
-   url: /assets/pdfs/AvH2000.pdf  
+   url: /assets/pdfs/AvH2000.pdf
+
   
 
   
