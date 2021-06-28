@@ -8,10 +8,12 @@ $notice-background-mix: 80%;
 
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+
+
 @import "minimal-mistakes"; // main partials
 
 
-
+w
 
 video {
     /* override other styles to make responsive */
@@ -67,6 +69,25 @@ a.site-logo img{
 .jason {
   max-height: 180px;
 }
+
+a[href*="//"]:not([href*="mysite.com"]) {
+
+  &:not(.btn){
+    color: #5588a0;
+  }
+
+  &:hover {
+    color: #204060;
+  }
+
+  &.btn {
+    color: #f6e4f9;
+
+  }
+}
+
+
+
 
 
 
