@@ -3,6 +3,7 @@ layout: single
 classes: wide
 title: I am Jake Jaxson
 author: Jason
+overlay_image: assets/images/JJ.jpeg
 sidebar:
   nav: Jason
 author_profile: true
