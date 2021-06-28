@@ -98,14 +98,14 @@ Previously he was described as a
 ### Jason Sketchy pages
 _NEW_{: .new} 
 Jake Jaxson's real name is Jason Buchtel, 
-but we just call him [Jason Sketchy](Jason.md){: .btn .btn--danger .btn--large}
+but we just call him [Jason Sketchy](Jason.md).
 
 
 ## Glenn's forgotten websites
 
 We host our own reconstructions of some of Glenn's lost websites. I don't expect he will be grateful for their rediscovery.
 
-These are constructed almost entirely based on material from the [Wayback Machine](archive.org) but with faster and more reliable navigation, and fewer dead links.
+These are constructed almost entirely based on material from the [Wayback Machine](https://archive.org) but with faster and more reliable navigation, and fewer dead links.
 
 
 

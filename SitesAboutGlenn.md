@@ -26,6 +26,9 @@ As far back as 2006, they were creating pages and entire sites to catelog his li
 - ``Jun 27, 2013`` The Other McCain: [Glenn Greenwald Is a Ridiculous Joke](https://theothermccain.com/2013/06/27/glenn-greenwald-is-a-ridiculous-joke-and-alas-the-internet-never-forgets/)
 - ``Mar 11, 2014`` John Young on Cryptome: [Glenn Greenwald Eyeball](https://cryptome.org/2014-info/glenn-greenwald/glenn-greenwald.htm)
 - ``January 19 2014`` Sean Wilentz in New Republic: [Would You Feel Differently About Snowden, Greenwald, and Assange If You Knew What They Really Thought?](https://newrepublic.com/article/116253/edward-snowden-glenn-greenwald-julian-assange-what-they-believe)
+- ``May 13 2013`` Jacobinism Blog: [Drooling Self-Love & Dime-Store Third Worldism: The Rage, Relativism & Racism of Glenn Greenwald](http://jacobinism.blogspot.com/2013/05/drooling-self-love-dime-store-third.html)
+- ``May 2013`` Discussion related to preceding article.[defend the indefensible: glenn fucking greenwald](https://www.ilxor.com/ILX/ThreadSelectedControllerServlet?action=showall&boardid=40&threadid=96478)
+
 
 ## Sock Puppetry
 
