@@ -5,6 +5,9 @@ main:
   - title: GG's Rio Websites
     description: sites Glenn owned & operated
     url: /RioG.html
+  - title: BetterCallGlenn
+    description: Sites From Brazil
+    url: BCG.html
   - title: Jake Jaxson
     description: Glenn's business partner 
     url: /Jason.html
@@ -20,11 +23,10 @@ main:
   - title: Pulitzer
     description: He only has a bunny
     url: /pulitzer.html
-  - title: Better Call Glenn
-    description: Sites From Brazil
-    url: BCG.html
 BCG1:
- - title: BetterCallGlenn.com Original Source (in Portuguese)
+ - title: Introduction
+   url: /BCG.html
+ - title: BetterCallGlenn.com Original Source (in Portuguese)   
    children:
     - title: Um Sexual Predador Chamado Glenn Greenwald Ato I
       url: "https://web.archive.org/web/20190803233836/https://bettercallglenn.com/um-predador-sexual-chamado-glenn-greenwald-ato-i"
