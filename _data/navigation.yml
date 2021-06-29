@@ -1,5 +1,5 @@
 main:
-  - title: Twitter Thread List
+  - title: Twitter Threads
     description: Links to Twitter threads with more details
     url: /TwitterThreads.html
   - title: GG's Rio Websites
@@ -20,6 +20,9 @@ main:
   - title: Pulitzer
     description: He only has a bunny
     url: /pulitzer.html
+  - title: Better Call Glenn
+    description: Sites From Brazil
+    url: BCG.html
 BCG1:
  - title: BetterCallGlenn.com Original Source (in Portuguese)
    children:
@@ -27,6 +30,14 @@ BCG1:
       url: "https://web.archive.org/web/20190803233836/https://bettercallglenn.com/um-predador-sexual-chamado-glenn-greenwald-ato-i"
     - title: Um Sexual Predador Chamado Glenn Greenwald Ato II
       url: "https://web.archive.org/web/20190803233836/https://bettercallglenn.com/um-predador-sexual-chamado-glenn-greenwald-ato-ii"
+    - title: Ex Ator de Glenn Greenwald fale sobre seus filmes adultos Vol I
+      url: "https://web.archive.org/web/20191012162650/https://bettercallglenn.com/ex-ator-de-glenn-greenwald-fala-sobre-seus-filmes-adultos-vol-1/"  
+    - title: O que é a ENZULI de Glenn e David afinal?
+      url: "https://web.archive.org/web/20191223101927/https://bettercallglenn.com/o-que-e-a-enzuli-de-glenn-e-david-afinal/"
+ - title: Other Brazilian sites
+   children:
+   - title: David Miranda era garoto de programa
+     url: "https://www.agoraparana.com.br/politica/deputado-david-miranda-era-garoto-de-programa-e-vendia-drogas-em-boate-gay-no-rio-de-janeiro/"    
  - title: BetterCallGlenn translations
    children:
     - title: A sexual predator named Glenn Greenwald, Part 1
@@ -35,6 +46,10 @@ BCG1:
       url: /predator-part-2.html
     - title: Glenn Greenwald's ex-actor talks about his adult films
       url: /raul-interview.html
+    - title: What is Glenn & David's Enzuli Anyway?
+      url: /BCGEnzuli.html
+ - title: Further Info
+   url: MoreBCG.html
 HX:
  - title: All HX-related content
    children: 

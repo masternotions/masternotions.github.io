@@ -72,4 +72,4 @@ The highlight of [this July 2006 version](https://en.wikipedia.org/w/index.php?t
 _Better not forget_:
 ## David Miranda
 
-- ``August 5, 2019`` [David's talentspotting role descrribed](https://correiodesantamaria.com.br/noticia/9517/-marido-de-glenn-o-deputado-david-miranda-era-garoto-de-programa-e-vendia-drogas-diz-jornalista)
+- ``August 5, 2019`` [David's talentspotting role described](https://www.agoraparana.com.br/politica/deputado-david-miranda-era-garoto-de-programa-e-vendia-drogas-em-boate-gay-no-rio-de-janeiro/)
