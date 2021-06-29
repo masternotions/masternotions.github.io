@@ -8,7 +8,6 @@ date: 2019-12-04
 header:
     image: assets/images/glenn-greenwald-ENZULI.jpg
 sidebar:
-    image: assets/images/Enzuli.jpg
     nav: "BCG1"
 author_profile: true
 show_date: true
@@ -23,10 +22,9 @@ When he contacted Glenn or his representatives, the doorman's posture changed an
 
 ## Nobody Visits ENZULI Trying to Buy Airline Tickets or Tour Packages
 
+![Enzuli HQ](assets/images/Enzuli.jpg){: .align-left} It struck me how Greenwald maintains a network of contacts with suspicious and known criminals all over Rio de Janeiro and Região dos Lagos.. Things too important to be ignored about ENZULI and his former companies in that business that you all know he hates us bringing up.
 
-It struck me how Greenwald maintains a network of contacts with suspicious and known criminals all over Rio de Janeiro and Região dos Lagos.. Things too important to be ignored about ENZULI and his former companies in that business that you all know he hates us bringing up.
-
-The building where the IRS thinks ENZULI is actually part of Glenn Greenwald's headquarters. He lived there for years between 2007 and 2013. From there he operated his schemes that the blog has been raising and trying to help the police investigate what is said and found.
+The building where the IRS thinks ENZULI is, is actually part of Glenn Greenwald's headquarters. He lived there for years between 2007 and 2013. From there he operated his schemes that the blog has been raising and trying to help the police investigate what is said and found.
 
 I'm not going to make past mistakes and raise the ball for him to cut. The people I talked to and got important information from yesterday need now to have the courage, when called to testify as witnesses, not to give up.
 
