@@ -61,4 +61,3 @@ No, he just created the scripts. He didn't want anything mechanical or predictab
 
 &mdash;&mdash;
 
-[(source)](https://web.archive.org/web/20191012162650/https://bettercallglenn.com/ex-ator-de-glenn-greenwald-fala-sobre-seus-filmes-adultos-vol-1/)

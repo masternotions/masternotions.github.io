@@ -2,7 +2,7 @@
 layout: single
 classes: wide
 title: Does Glenn have a Pulitzer?
-description: "Will you let me hold your Pulitzer?"
+excerpt: \" Get the shelf space ready for the Pulitzer! \"
 header:
   image: assets/images/bunnyslow.gif
   og_image: assets/images/Rabbit1.jpeg

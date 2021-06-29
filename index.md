@@ -60,12 +60,6 @@ See our collection of [pages by Glenn's Antifans.](SitesAboutGlenn.md){: .btn .b
 
 <br>
 
-# Matthew Hale
-_New_{: .new}
-Glenn condemned the denial of law license to a leading American Neo-Nazi as 
-an "egregious constiutional abuse" in [this court filing.](/cases/HaleEgregious.md)
-
-
 
 # Glenn's Blue Period
 
@@ -184,23 +178,28 @@ Raul in Rio: [Glenn Greenwald's ex-actor talks about his adult films](raul-inter
 
 # Other Lies
 
-There cover all conceivable subjects. But one deserves singling out.
-[Does Glenn have a Pulitzer?](pulitzer.md){: .btn .btn--warning .btn--large}
 
 ## Glenn's earliest ventures
-
 
 The Sun Sentinel in 1985 [reported](SunSentinel.md) on Glenn's attempts to win his grandfather's old council seat.  
 That's the _self-taught, deprived childhood_ myth, shattered.
 
 
+## Legal Career: Matthew Hale
+
+Glenn condemned the denial of law license to a leading American Neo-Nazi as 
+an "egregious constiutional abuse" in [this court filing.](/cases/HaleEgregious.md)
 
 
+More recent lies cover all conceivable subjects. But one deserves singling out.
+[Does Glenn have a Pulitzer?](pulitzer.md){: .btn .btn--warning .btn--large}
+
+<br>
 
 # Keira Knightley Guest Appearance
 
-This only specific link this has with Glenn is that it's very creepy. 
-But we need somewhere to put a video Google appear to be trying very hard to hide.
+The only specific link this has with Glenn is that it's very creepy. 
+But we need somewhere to put a video that Google appear to be trying very hard to hide.
 
 [Weinstein-Zuckerberg party for one](Yuri.md){: .btn .btn--danger .btn--large} 
 
