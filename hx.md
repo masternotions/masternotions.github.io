@@ -4,11 +4,10 @@ classes: wide
 title: Cheap Trixxx
 author: Glenn
 header:
-    image: assets/images/HX_Cover1header.jpg
     og_image: assets/images/HX_Cover1.jpg
 sidebar:
   - title: HX magazine
-    image: assets/images/HX_Cover3.jpg
+    image: assets/images/HX_Cover1.jpg
     nav: HX
 author_profile: true
 share: true
