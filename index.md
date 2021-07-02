@@ -123,7 +123,11 @@ How did you ever manage without its handy advice?
 > Nothing is worse than the sound of hot sex being drowned out by sirens, passing buses and couples fighting next door.
 
 Read it here:
-[Cheap Trixxx by Glenn Greenwald](hx.html){: .btn .btn--warning .btn--large}   
+[Cheap Trixxx by Glenn Greenwald](hx.html){: .btn .btn--warning}
+
+Now updated to include [Razor Burned.](Sullivan.md){: .btn .btn--danger .btn--large}  
+How did Glenn get Andrew Sullivan, who was much more famous than Glenn at the time, to write this promotional piece for his porn company?
+{: .notice--success}
 
 
 ## Published Articles about Greenwald's porn empire
