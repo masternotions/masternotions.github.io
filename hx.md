@@ -11,9 +11,9 @@ sidebar:
     nav: HX
 author_profile: true
 share: true
-
+date: 2005-02-25
+show_date: true
 ---
-
 
 <style type="text/css">
   iframe {
