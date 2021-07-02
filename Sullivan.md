@@ -1,8 +1,8 @@
 ---
 layout: single
 classes: wide
-title: Razor Burned
-excerpt: " \"Just celebrating its one-year anniversary, HairyStudsVideo.com was named the
+title: Razor Burned by Andrew Sullivan
+excerpt: " \"..celebrating its one-year anniversary, HairyStudsVideo was named the
 'Best Kept Secret' by MenOnTheNet.com. So far, they've produced 21 videos.\" "
 header:
   overlay_image: assets/images/bodygh2.jpg
