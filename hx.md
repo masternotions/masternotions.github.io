@@ -24,7 +24,7 @@ show_date: true
 
 This may be the first article ever published by Glenn Greenwald under his own name.
 It came out in NYC's premier gay bar rag the same week he claims he met David: how very romantic!
-{: .notice-primary}
+{: .notice--primary}
 
 <div>
 <iframe src="hxn/web.archive.org/web/20050221102140if_/http:/www.hx.com/features/indexgreen.html" width="800px" height="3100px" allow-forms="false"></iframe>
