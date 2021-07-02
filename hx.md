@@ -2,19 +2,19 @@
 layout: single
 classes: wide
 title: Cheap Trixxx
+description: \"Nothing is worse than the sound of hot sex being drowned out by sirens, passing buses and couples fighting next door.\"
 author: Glenn
 header:
-    image: assets/images/HX_Cover1header.jpg
     og_image: assets/images/HX_Cover1.jpg
 sidebar:
   - title: HX magazine
-    image: assets/images/HX_Cover3.jpg
+    image: assets/images/HX_Cover1.jpg
     nav: HX
 author_profile: true
 share: true
-
+date: 2005-02-25
+show_date: true
 ---
-
 
 <style type="text/css">
   iframe {
@@ -22,6 +22,12 @@ share: true
   }
 </style>
 
+This may be the first article ever published by Glenn Greenwald under his own name.  
+This is as it appears on the HX website but most readers will have read the print version, a copy of which was posted on Glenn's Studmall website (see sidebar).
+{: .notice--primary}
+
+
 <div>
 <iframe src="hxn/web.archive.org/web/20050221102140if_/http:/www.hx.com/features/indexgreen.html" width="800px" height="3100px" allow-forms="false"></iframe>
 </div>
+
