@@ -23,6 +23,7 @@ show_date: true
 </style>
 
 This may be the first article ever published by Glenn Greenwald under his own name.  
+This is as it appears on the HX website but most readers will have read the print version, a copy of which was posted on Glenn's Studmall website (see sidebar).
 {: .notice--primary}
 
 
