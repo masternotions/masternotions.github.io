@@ -5,6 +5,12 @@ main:
   - title: GG's Rio Websites
     description: sites Glenn owned & operated
     url: /RioG.html
+  - title: HX
+    description: NYC's premier gay bar rag, and Glenn
+    url: /hx.html
+  - title: Matthew Hale
+    description: Defending a Nazi, pro bono
+    url: /cases/HaleEgregious.html
   - title: BetterCallGlenn
     description: Sites From Brazil
     url: BCG.html
@@ -13,13 +19,7 @@ main:
     url: /Jason.html
   - title: AntiFan Pages
     description: Other sites about Glenn
-    url: /SitesAboutGlenn.html 
-  - title: HX
-    description: NYC's premier gay bar rag, and Glenn
-    url: /hx.html
-  - title: Matthew Hale
-    description: Defending a Nazi, pro bono
-    url: /cases/HaleEgregious.html 
+    url: /SitesAboutGlenn.html    
   - title: Pulitzer
     description: He only has a bunny
     url: /pulitzer.html
@@ -130,18 +130,22 @@ SunS:
    - title: 1985 results (pub. 2013)
      url: https://www.miamiherald.com/news/local/community/broward/article1953011.html
 Hale:
- - title: "Complaint: An Egregious Abuse"
+ - title: Hale v Illinois Bar
    children:
-   - title: Text of complaint
+   - title: Greenwald court filing
      url: /cases/HaleEgregious.html
    - title: Original Formatting
      url: /cases/HaleEreginal.html
    - title: On the Wayback Machine
      url: https://web.archive.org/web/20080409205157/http://hatemonitor.csusb.edu/NewsHeadlines/hale_complaint.htm
- - title: 2003 Judgement
-   url: /assets/pdfs/Hale2003.pdf
- - title: Anderson v Hale 2000
-   url: /assets/pdfs/AvH2000.pdf
+   - title: 2003 Judgement
+     url: /assets/pdfs/Hale2003.pdf
+ - title: Anderson v Hale
+   children:
+   - title: 2001 ruling
+     url: /cases/AndersonHale2001.html  
+   - title: Anderson v Hale 2000
+     url: /assets/pdfs/AvH2000.pdf
 
   
 
