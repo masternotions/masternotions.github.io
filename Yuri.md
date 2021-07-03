@@ -3,8 +3,8 @@ layout: single
 classes:
     wide
 title: Come Try My Spaceship
-description: When Mark Zuckerberg and \"Google people\" threw a party Yuri Milner's Place.
-excerpt: \" I'm surprised they let you leave the mansion\"
+description: \"I went to Yuri\'s very large house and met Mark Zuckerberg. And...Google people\"
+excerpt: \"I\'m surprised they let you leave the mansion\"
 sidebar:
   - image: assets/images/YuriSergey.jpg
     imagelink: true
@@ -49,3 +49,4 @@ For convenience - hard to find this vid anyplace else.
 As far as we know this is not directly connected to Glenn in any way,
 but if we find out otherwise,
 avoid Glenn's spaceship, however much he talks about it.
+{: .notice--info}
