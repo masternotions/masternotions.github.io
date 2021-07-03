@@ -91,7 +91,6 @@ Previously he was described as a
 </div>
 
 ### Jason Sketchy pages
-_NEW_{: .new} 
 Jake Jaxson's real name is Jason Buchtel, 
 but we just call him [Jason Sketchy](Jason.md).
 
@@ -126,7 +125,7 @@ How did you ever manage without its handy advice?
 Read it here:
 [Cheap Trixxx by Glenn Greenwald](hx.html){: .btn .btn--warning}
 
-Now updated to include [Razor Burned.](Sullivan.md){: .btn .btn--danger .btn--large}  
+Now _UPDATED_{: .new}  to include [Razor Burned.](Sullivan.md){: .btn .btn--danger .btn--large}  
 How did Glenn get Andrew Sullivan, who was much more famous than Glenn at the time, to write this promotional piece for his porn company?
 {: .notice--success}
 

@@ -28,6 +28,19 @@ Otherwise we wouldn't know this ever happened.
 </video>
 
 
+> ### Update
+> This was a brief report in [Deadline](https://deadline.com/2014/11/oscar-facebooks-mark-zuckerberg-weinstein-imitation-game-1201279538/) one day earlier.  
+> The event seems to have taken place on Saturday November 8.
+
+### Attendees included:
+
+* Nathan Blecharczyk 
+* Elizabeth Holmes
+* Reid Hoffman
+* Sheryl Sandberg
+
+
+
 ## Why here?
 
 For convenience - hard to find this vid anyplace else.
