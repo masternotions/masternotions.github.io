@@ -8,6 +8,7 @@ title: Anderson v Hale
 excerpt: \"Seizing the opportunity, Defendants' counsel hit the record button and commenced surreptitiously taping the conversation\"
 sidebar:
  - image: "assets/images/050302_mattHale_vmed_4p.jpg"
+   imagelink: true
    title: Matthew Hale
    nav: Hale
 date: 2001-04-20

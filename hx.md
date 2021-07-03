@@ -9,6 +9,7 @@ header:
 sidebar:
   - title: HX magazine
     image: assets/images/HX_Cover1.jpg
+    imagelink: true
     nav: HX
 author_profile: true
 share: true

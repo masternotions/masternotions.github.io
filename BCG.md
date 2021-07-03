@@ -8,7 +8,8 @@ author: room16
 header:
     image: assets/images/rios.jpg
 sidebar:
-  - image: assets/images/Enzuli.jpg
+  - image: assets/images/EnzBig.jpg
+    imagelink: true
     nav: "BCG1"
 author_profile: true
 ---
