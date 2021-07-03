@@ -7,8 +7,10 @@ header:
   image: assets/images/about-us.jpg
 sidebar:
   - image: assets/images/JasonGlam.jpg
+    imagelink: true
     nav: Jason
   - image: assets/images/Jason2.jpg
+    imagelink: true
 share: true
 ---
 

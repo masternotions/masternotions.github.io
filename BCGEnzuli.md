@@ -6,8 +6,11 @@ excerpt: Nobody visits Enzuli to buy airline tickets
 author: room16
 date: 2019-12-04
 header:
-    image: assets/images/glenn-greenwald-ENZULI.jpg
+    overlay_image: assets/images/glenn-greenwald-ENZULI.jpg
+    overlay_filter: linear-gradient(90deg, rgba(100,0,20,0.4), rgba(180,200,50,0.01))
 sidebar:
+  - image: assets/images/EnzBig.jpg
+    imagelink: true
     nav: "BCG1"
 author_profile: true
 show_date: true

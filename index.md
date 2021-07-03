@@ -11,6 +11,7 @@ header:
  image: "/assets/images/twitter-card2brlong.jpg"
 sidebar:
   - image: /assets/images/GGSenadoS.jpg 
+    imagelink: true
 feature_row:
   - image_path: /rion/images/banalto002.jpg
     alt: "Rio Gay Guides Banner"
