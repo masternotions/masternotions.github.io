@@ -15,11 +15,6 @@ share: true
 ---
 
 
-<style type="text/css">
-  .jason {
-    max-height: 180px;
-  }
-</style>
 
 # Wallowing Partners
 
@@ -52,7 +47,7 @@ Glenn gets a big mention in the second sentence of the
 
 
 ![Benny Morecock](assets/images/bioBMC.jpg){: .align-left  .jason}
-We've reproduced [the superior 2015 version](morecocks/web.archive.org/web/20151128034652if_/https:/cockyboys.com/pages-meet-the-morecocks.html).
+We've reproduced [the superior 2015 version.](morecocks/web.archive.org/web/20151128034652if_/https:/cockyboys.com/pages-meet-the-morecocks.html){: .btn .btn--primary}
 The page just isn't the same without   
 **Benny** "I do porn things, but I also do so much more" **Morecock**  
 {: .notice--warning }  

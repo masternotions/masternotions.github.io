@@ -45,6 +45,8 @@ As far back as 2006, they were creating pages and entire sites to catelog his li
 - ``Jul 25, 2012`` Adam Levick for The Times of Israel: [The Guardian and Glenn Greenwald: The anti-imperialism of fools](https://blogs.timesofisrael.com/the-guardian-and-glenn-greenwald-the-anti-imperialism-of-fools/)
 - ``Jul 11, 2013`` Adam Levick for The Algemeiner: [Glenn Greenwald's Anti-Semitism Exposed](https://www.algemeiner.com/2013/07/11/glenn-greenwalds-anti-semitism-exposed/)
 - ``May 20, 2019`` David Niewert for the Daily Kos: [Glenn Greenwald's strange far-right blind spot](https://www.dailykos.com/stories/2019/5/20/1859118/-The-Tale-of-the-Pontifex-Maximus-and-His-Lawyer-Glenn-Greenwald-s-strange-far-right-blind-spot)
+- ``Mar 12 2004`` Greenwald is a Dolt chasing 15 Minutes of Fame: [Trial by Media](https://archive.org/details/TrialByMediaByEdgarJ.Steele2004-OnMattHalesTrial)
+- [History of Domestic Terrorism](http://www.historycommons.org/context.jsp?item=a0103halearrest#a0103halearrest)
 
 
 ## The Intercept
