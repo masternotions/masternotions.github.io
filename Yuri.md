@@ -3,7 +3,7 @@ layout: single
 classes:
     wide
 title: Come Try My Spaceship
-description: When Mark Zuckerberg and \"Google people\" threw a party Yuri Milner's Place.
+description: `"I went to Yuri's very large house and met Mark Zuckerberg. And...Google people\"
 excerpt: \" I'm surprised they let you leave the mansion\"
 sidebar:
   - image: assets/images/YuriSergey.jpg
