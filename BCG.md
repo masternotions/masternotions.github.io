@@ -6,9 +6,10 @@ title: Better Call Glenn
 description: Published online in Brazil in 2019
 author: room16
 header:
-    image: assets/images/rios.jpg
+    overlay_image: assets/images/rios.jpg
 sidebar:
-  - image: assets/images/Enzuli.jpg
+  - image: assets/images/EnzBig.jpg
+    imagelink: true
     nav: "BCG1"
 author_profile: true
 ---
@@ -17,7 +18,6 @@ author_profile: true
 <style type="text/css">
   iframe {
     max-width: 100%;
-    max-height: 75vh
   }
 </style>
 
@@ -33,5 +33,5 @@ they contain many details which we have verified and were not at all widely know
 ## Reproduction of The _Better Call Glenn_ Landing Page
 
 <div>
-<iframe src="/BCG/web.archive.org/web/20190803233731if_/https:/bettercallglenn.com/index.html" width="1400px" height="3000px" allow-forms="false"></iframe>
+<iframe src="/BCG/web.archive.org/web/20190803233731if_/https:/bettercallglenn.com/index.html" width="1400px" height="7700px" allow-forms="false" scrolling="no"></iframe>
 </div>

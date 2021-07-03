@@ -3,12 +3,15 @@ layout: single
 classes:
     wide
 title: Come Try My Spaceship
-description: When Mark Zuckerberg and Harvey Weinstein threw a small party.
+description: \"I went to Yuri\'s very large house and met Mark Zuckerberg. And...Google people\"
+excerpt: \"I\'m surprised they let you leave the mansion\"
 sidebar:
   - image: assets/images/YuriSergey.jpg
+    imagelink: true
+    nav: KK
 header:
+ overlay_image: "/assets/images/Brin1.jpg"
  og_image: "/assets/images/harv.jpg"
- image: "/assets/images/Brin1.jpg"
 share: true
 ---
 
@@ -24,7 +27,6 @@ Otherwise we wouldn't know this ever happened.
 <source src="assets/video/JKcut1.mp4" type="video/mp4">
 </video>
 
-
 ## Why here?
 
 For convenience - hard to find this vid anyplace else.
@@ -33,3 +35,4 @@ For convenience - hard to find this vid anyplace else.
 As far as we know this is not directly connected to Glenn in any way,
 but if we find out otherwise,
 avoid Glenn's spaceship, however much he talks about it.
+{: .notice--info}

@@ -23,9 +23,24 @@ main:
   - title: Pulitzer
     description: He only has a bunny
     url: /pulitzer.html
+  - title: Keira Knightley
+    description: Creepy Billionaires in Crocs
+    url: /Yuri.html
 BCG1:
  - title: Introduction
    url: /BCG.html
+ - title: BetterCallGlenn translations
+   children:
+    - title: A sexual predator named Glenn Greenwald, Part 1
+      url: /predator-part-1.html
+    - title: A sexual predator named Glenn Greenwald, Part 2
+      url: /predator-part-2.html
+    - title: Glenn Greenwald's ex-actor talks about his adult films
+      url: /raul-interview.html
+    - title: What is Glenn & David's Enzuli Anyway?
+      url: /BCGEnzuli.html
+ - title: Further Info
+   url: MoreBCG.html     
  - title: BetterCallGlenn.com Original Source (in Portuguese)   
    children:
     - title: Um Sexual Predador Chamado Glenn Greenwald Ato I
@@ -40,18 +55,6 @@ BCG1:
    children:
    - title: David Miranda era garoto de programa
      url: "https://www.agoraparana.com.br/politica/deputado-david-miranda-era-garoto-de-programa-e-vendia-drogas-em-boate-gay-no-rio-de-janeiro/"    
- - title: BetterCallGlenn translations
-   children:
-    - title: A sexual predator named Glenn Greenwald, Part 1
-      url: /predator-part-1.html
-    - title: A sexual predator named Glenn Greenwald, Part 2
-      url: /predator-part-2.html
-    - title: Glenn Greenwald's ex-actor talks about his adult films
-      url: /raul-interview.html
-    - title: What is Glenn & David's Enzuli Anyway?
-      url: /BCGEnzuli.html
- - title: Further Info
-   url: MoreBCG.html
 HX:
  - title: All HX-related content
    children: 
@@ -146,6 +149,14 @@ Hale:
      url: /cases/AndersonHale2001.html  
    - title: Anderson v Hale 2000
      url: /assets/pdfs/AvH2000.pdf
+KK:
+ - title: Keira Knightley and creepy billionaires
+   children:
+   - title: ValleyWag
+     url: http://valleywag.gawker.com/keira-knightley-talks-about-billionaire-tech-ceos-like-1657390405
+   - title: Vanity Fair
+     url: https://www.vanityfair.com/hollywood/2014/11/keira-knightley-mark-zuckerberg-the-imitation-game
+ 
 
   
 
