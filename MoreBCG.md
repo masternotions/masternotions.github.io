@@ -6,9 +6,10 @@ title: Better Call Glenn
 description: Published online in Brazil in 2019
 author: room16
 header:
-    image: assets/images/glenn-greenwald-ENZULI.jpg
+    overlay_image: assets/images/glenn-greenwald-ENZULI.jpg
 sidebar:
-    image: assets/images/Enzuli.jpg
+    image: assets/images/EnzBig.jpg
+    imagelink: true
     nav: "BCG1"
 author_profile: true
 ---

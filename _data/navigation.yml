@@ -29,6 +29,18 @@ main:
 BCG1:
  - title: Introduction
    url: /BCG.html
+ - title: BetterCallGlenn translations
+   children:
+    - title: A sexual predator named Glenn Greenwald, Part 1
+      url: /predator-part-1.html
+    - title: A sexual predator named Glenn Greenwald, Part 2
+      url: /predator-part-2.html
+    - title: Glenn Greenwald's ex-actor talks about his adult films
+      url: /raul-interview.html
+    - title: What is Glenn & David's Enzuli Anyway?
+      url: /BCGEnzuli.html
+ - title: Further Info
+   url: MoreBCG.html     
  - title: BetterCallGlenn.com Original Source (in Portuguese)   
    children:
     - title: Um Sexual Predador Chamado Glenn Greenwald Ato I
@@ -43,18 +55,6 @@ BCG1:
    children:
    - title: David Miranda era garoto de programa
      url: "https://www.agoraparana.com.br/politica/deputado-david-miranda-era-garoto-de-programa-e-vendia-drogas-em-boate-gay-no-rio-de-janeiro/"    
- - title: BetterCallGlenn translations
-   children:
-    - title: A sexual predator named Glenn Greenwald, Part 1
-      url: /predator-part-1.html
-    - title: A sexual predator named Glenn Greenwald, Part 2
-      url: /predator-part-2.html
-    - title: Glenn Greenwald's ex-actor talks about his adult films
-      url: /raul-interview.html
-    - title: What is Glenn & David's Enzuli Anyway?
-      url: /BCGEnzuli.html
- - title: Further Info
-   url: MoreBCG.html
 HX:
  - title: All HX-related content
    children: 

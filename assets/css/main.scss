@@ -39,6 +39,14 @@ video {
 a img {
   box-shadow:4px 2px 6px #010101;
   border: none
+} 
+
+.sidebar img {
+  max-width: 380px; 
+}
+
+.author__avatar img {
+  max-width: 110px;
 }
 
 .cl {
