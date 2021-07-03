@@ -3,8 +3,8 @@ layout: single
 classes:
     wide
 title: Come Try My Spaceship
-description: \"I went to Yuri's very large house and met Mark Zuckerberg. And...Google people\"
-excerpt: \" I'm surprised they let you leave the mansion\"
+description: \"I went to Yuri\'s very large house and met Mark Zuckerberg. And...Google people\"
+excerpt: \"I\'m surprised they let you leave the mansion\"
 sidebar:
   - image: assets/images/YuriSergey.jpg
     imagelink: true
@@ -26,7 +26,6 @@ Otherwise we wouldn't know this ever happened.
 <video controls width="640">
 <source src="assets/video/JKcut1.mp4" type="video/mp4">
 </video>
-
 
 ## Why here?
 
