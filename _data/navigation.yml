@@ -23,6 +23,9 @@ main:
   - title: Pulitzer
     description: He only has a bunny
     url: /pulitzer.html
+  - title: Keira Knightley
+    description: Creepy Billionaires in Crocs
+    url: /Yuri.html
 BCG1:
  - title: Introduction
    url: /BCG.html
@@ -146,6 +149,14 @@ Hale:
      url: /cases/AndersonHale2001.html  
    - title: Anderson v Hale 2000
      url: /assets/pdfs/AvH2000.pdf
+KK:
+ - title: Keira Knightley and creepy billionaires
+   children:
+   - title: ValleyWag
+     url: http://valleywag.gawker.com/keira-knightley-talks-about-billionaire-tech-ceos-like-1657390405
+   - title: Vanity Fair
+     url: https://www.vanityfair.com/hollywood/2014/11/keira-knightley-mark-zuckerberg-the-imitation-game
+ 
 
   
 

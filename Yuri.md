@@ -3,12 +3,15 @@ layout: single
 classes:
     wide
 title: Come Try My Spaceship
-description: When Mark Zuckerberg and Harvey Weinstein threw a small party.
+description: When Mark Zuckerberg and \"Google people\" threw a party Yuri Milner's Place.
+excerpt: \" I'm surprised they let you leave the mansion\"
 sidebar:
   - image: assets/images/YuriSergey.jpg
+    imagelink: true
+    nav: KK
 header:
+ overlay_image: "/assets/images/Brin1.jpg"
  og_image: "/assets/images/harv.jpg"
- image: "/assets/images/Brin1.jpg"
 share: true
 ---
 
