@@ -8,7 +8,7 @@ header:
 author: Jason
 sidebar:
   - title: Jason Sketchy
-    image: "iamjakej/web.archive.org/web/20130904130429im_/http:/thecockybeast.com/wp-content/themes/cockybeast/images/jake_jaxson_logo.png"
+    image: "assets/images/jake_jaxson_logo.png"
     nav: Jason
 author_profile: true
 date: 2013-07-03
@@ -33,7 +33,7 @@ Our God Dog Bella &amp; a snake named Samson._
 
 
 
-![Jake Jaxson portrait](iamjakej/web.archive.org/web/20130904130429im_/http:/media.tumblr.com/56e6068a4cc68a092d91dbf2b6154d89/tumblr_inline_mpcgxfAzKT1qz4rgp.jpg){: .align-center}
+![Jake Jaxson portrait](/asssets/images/jj.jpg){: .align-center}
 
 <p class="MsoNormal"><span><strong>by Jason Buchtel</strong><br/><br/> I&#8217;m not going to lie &#8212; last week was rough. But after working in the entertainment business for over 15 years, I’ve learned there’s always something positive to take away from weeks like these. </span><span></span></p>
 <p class="MsoNormal"><span><span class="aBn"><span class="aQJ">On Wednesday</span></span>, the <em>New York Daily News</em> put out what can only be described as a “smear/hit piece” against my friend and one-time business partner <a href="https://web.archive.org/web/20130904130429/http://www.guardian.co.uk/profile/glenn-greenwald" target="_blank">Glenn Greenwald, the news reporter from <em>The Guardian</em></a> responsible for bringing to light the extent of the NSA mass surveillance programs via the whistleblower, Edward Snowden. That piece was quickly followed up by a slightly more balanced profile from <a href="https://web.archive.org/web/20130904130429/http://www.buzzfeed.com/jtes/how-glenn-greenwald-became-glenn-greenwald" target="_blank"><em>BuzzFeed</em></a>. Both stories revealed details regarding a small part of my relationship with Glenn while we were business partners over 6 years ago. One of those revelations was that our marketing company, Master Notions Inc., owned and operated several gay adult sites. Naturally, this revelation became fodder for many journalists and bloggers reporting on the story.</span><span> I was asked and did not comment for either story. <br/></span></p>
