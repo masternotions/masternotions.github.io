@@ -13,6 +13,21 @@ $max-width: 1440px;
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+.page__hero {
+  max-height: 50vh;
+  overflow: hidden;
+}
+
+.page__hero-image {
+  width: 100%;
+  max-height: inherit;
+  object-fit: cover;
+  object-position: center center;
+}
+
+.page__hero--overlay {
+  min-height: 25vh;
+}
 
 video {
     /* override other styles to make responsive */
