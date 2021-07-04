@@ -3,10 +3,11 @@ layout: single
 classes: wide
 # entries_layout: grid
 title: A sexual predator named Glenn Greenwald, Part 1
+excerpt: After meeting at a nightclub, Greenwald gave his card to RZ, a card from Master Notions Inc. with his phone number on the back.
 author: room16
 date: 2019-08-01
 header:
-    image: assets/images/Predador1.jpg
+    overlay_image: assets/images/Predador1.jpg
 sidebar:
     image: assets/images/EshEH_WU4AE7WXV.jpg
     nav: "BCG1"
@@ -25,15 +26,15 @@ Translated from _Um Sexual Predador Chamado Glenn Greenwald Ato I_
 
 <!-- ![image-center](/assets/images/Predador1.jpg){: .align-center} -->
 
-Corner of Lorimer Street and Devoe Street in Brooklyn, New York. I leave the station and an SMS (yes, the good old SMS) informs me that my guest is already waiting at the agreed place. The place is not far from another point that almost sixteen years ago brought RZ, 37 years old, three nights that for a measly $560, cost him sleep, anxiety disorders, depression, humiliation and suicidal ideas.
+Corner of Lorimer Street and Devoe Street in Brooklyn, New York. I leave the station and an SMS (yes, the good old SMS) informs me that my guest is already waiting at the agreed place. The place is not far from another spot that almost sixteen years ago brought RZ, 37 years old, three nights that for a measly $560, cost him sleep, anxiety disorders, depression, humiliation and suicidal ideas.
 
-The New York-based Dominican arrived in the United States in 1999 with his brother, then a high-minded baseball player in the ranks of the New York Mets. From a strict Catholic family, RZ saw his brother walk away after catching him with another man in a humble apartment they both shared with his older sister in Upper Falls, in the city of Rochester, NY.
+The New York-based Dominican arrived in the United States in 1999 with his brother, then a top baseball prospect in the ranks of the New York Mets. From a strict Catholic family, RZ saw his brother walk away after catching him with another man in a humble apartment they both shared with his older sister in Upper Falls, Rochester, NY.
 
-Going to the gay scene in New York, RZ for a few months called for prostitution. He tried to reconnect with the family, especially the mother he loved as a deity; for the effort to raise the three children in the midst of absolute misery and a father who is sometimes absent, sometimes alcoholic and violent.
+A regular on the gay scene in New York, RZ turned to prostitution for a few months. He tried to reconnect with the family, especially the mother he loved as a deity; for her efforts in raising the three children in the midst of absolute misery and a father who is sometimes absent, sometimes alcoholic and violent.
 
 'My mother's rejection even today causes me pain, but I forgive and love her.' I do not wish my brothers any harm despite the humiliations, and I would like to have access to my nephews that I only know from photos. '
 
-RZ does not like to talk about his months in prostitution because it was in a meeting with Peter Haas that his eternal nightmare began. Haas, former owner of a ponographic studio dedicated to the LGBT audience, had the addition of Glenn Greenwald as a partner in 2003, as did Greenwald's ex-boyfriend: Jason Buchtel, Haas's partner at Master Notions Inc.
+RZ does not like to talk about his months in prostitution because it was in a meeting with Peter Haas that his eternal nightmare began. Haas, former owner of a ponographic studio dedicated to a gay audience, had the addition of Glenn Greenwald as a partner in 2003, as did Greenwald's ex-boyfriend: Jason Buchtel, Haas's partner at Master Notions Inc.
 
 After meeting at a nightclub, Greenwald gave his card to RZ, a card from Master Notions Inc. with his phone on the back.
 
