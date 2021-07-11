@@ -55,16 +55,17 @@ For those in search of further details and evidence, here are some starting poin
 
 ## Other Sites About Glenn
 
-![Boys From Brazil](assets/images/boysbrazil.jpg){: .align-left .jason} Glenn has inspired a remarkable number of web pages - even entire sites - specifically about him. Few are praiseworthy. Some of the earliest were about Glenn's famous sock-puppets, in 2006.  
-See our collection of [pages by Glenn's Antifans.](SitesAboutGlenn.md){: .btn .btn--danger}
-{: .notice--success}
+![Boys From Brazil](assets/images/boysbrazil.jpg){: .align-left .jason} Glenn has inspired a remarkable number of web pages - even entire sites - specifically about him. Few are praiseworthy. Some of the earliest were about Glenn's famous sock-puppets, in 2006. Others cover material from Edward Snowden, to porn production, to his whole history of lies.  
+_UPDATED_{: .new} See our collection of [pages by Glenn's Antifans.](SitesAboutGlenn.md){: .btn .btn--danger}
+{: .notice--success} 
 
-<br>
 
+<br>{: .cl}
 
 # Glenn's Blue Period
 
-Glenn has stated many times that his involvement in the porn industry ended in 2004, 2-3 years after it  started.  
+Glenn has stated in [profiles and interviews](/interviews) <span>New</span>{: .new }  
+that his involvement in the porn industry ended in 2004, 2-3 years after it started.
 
 That would make it exactly 100 years after Picasso's Blue Period,  
 although Picasso did not claim it was merely incidental to his legal work.  
@@ -73,7 +74,7 @@ although Picasso did not claim it was merely incidental to his legal work.
 _But is Glenn's claim true?_  
 The New York Daily News, Buzzfeed, The Guardian and others seemed too shy to check.
 
-## The Canadian Government Position _Updated_{: .notice--primary}  
+## The Canadian Government Position 
 
 Paul Calandra, likely informed by Canadian Intelligence, described him as a **Porn Spy**.
 <div class="vide">

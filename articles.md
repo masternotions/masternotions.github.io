@@ -16,7 +16,7 @@ header:
 
 - ``Jun 26, 2013`` Jessica Testa for BuzzFeed News: [How Glenn Greenwald Became Glenn Greenwald](https://www.buzzfeednews.com/article/jtes/how-glenn-greenwald-became-glenn-greenwald)
 - ``Nov 14, 2013`` Natasha Vargas-Cooper for BuzzFeed News: [David Miranda Is Nobody's Errand Boy](https://www.buzzfeed.com/natashavc/david-miranda-is-nobodys-errand-boy) _Updated Aug 21, 2020_
-
+- ``Jun 26, 2013`` Gay Pride in 2013 [In Light of DOMA Ruling, Glenn Greenwald May Move Back to the United States](https://slate.com/news-and-politics/2013/06/supreme-court-doma-ruling-glenn-greenwald-may-move-back-to-u-s.html)
 - ``Mar 09, 2005`` Jodi Wilgoren for The New York Times: [Supremacist Sent Code From Jail, Lawyer Says](https://www.nytimes.com/2005/03/09/us/supremacist-sent-code-from-jail-lawyer-says.html)
 - ``Apr 18, 2011`` Fred Bernstein for Out Magazine: [Glenn Greenwald: Life Beyond Borders](https://www.out.com/news-commentary/2011/04/18/glenn-greenwald-life-beyond-borders)
 - ``Jan 01, 2012`` User msanthrope on Democratic Underground: [Glenn Greenwald Unethically Taped Witnesses While Working for Matt Hale, White Supremacist](https://upload.democraticunderground.com/1002101211)

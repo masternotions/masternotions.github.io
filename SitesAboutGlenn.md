@@ -15,7 +15,6 @@ share: true
 # The Anti-Fandom of Glenn Greenwald.
 
 Glenn has an extraordinarily devoted antifan following.  
-Yes **Antifan** not _Antifa_, silly!  
 
 As far back as 2006, they were creating pages and entire sites to catelog his lies.
 
@@ -23,11 +22,20 @@ As far back as 2006, they were creating pages and entire sites to catelog his li
 ## All Things Glenn
 
 - ``Jan 31, 2016`` Dave Emory on Spitfire List: [Compendium on Citizen Greenwald: A Shiller for Killers](http://spitfirelist.com/for-the-record/ftr-888-compendium-on-citizen-greenwald-a-shiller-for-killers/)
+     - ``November 22, 2013`` also: [Citizen Greenwald's Problem With the Truth.](https://spitfirelist.com/news/citizen-greenwalds-problem-with-the-truth/)
 - ``Jun 27, 2013`` The Other McCain: [Glenn Greenwald Is a Ridiculous Joke](https://theothermccain.com/2013/06/27/glenn-greenwald-is-a-ridiculous-joke-and-alas-the-internet-never-forgets/)
 - ``Mar 11, 2014`` John Young on Cryptome: [Glenn Greenwald Eyeball](https://cryptome.org/2014-info/glenn-greenwald/glenn-greenwald.htm)
 - ``January 19 2014`` Sean Wilentz in New Republic: [Would You Feel Differently About Snowden, Greenwald, and Assange If You Knew What They Really Thought?](https://newrepublic.com/article/116253/edward-snowden-glenn-greenwald-julian-assange-what-they-believe)
 - ``May 13 2013`` Jacobinism Blog: [Drooling Self-Love & Dime-Store Third Worldism: The Rage, Relativism & Racism of Glenn Greenwald](http://jacobinism.blogspot.com/2013/05/drooling-self-love-dime-store-third.html)
 - ``May 2013`` Discussion related to preceding article.[defend the indefensible: glenn fucking greenwald](https://www.ilxor.com/ILX/ThreadSelectedControllerServlet?action=showall&boardid=40&threadid=96478)
+
+
+## Porn and Master Notions
+
+- ``June 16, 2020`` Oswaldo Eustáquio (Portuguese) [Glenn Greenwald humiliated Jews in Nazi porn productions in the US](https://emribeirao.com/policial/glenn-greenwald-humilhava-judeus-em-producoes-pornograficas-nazistas-nos-eua-37125)  
+Apparently based in part on an interview with someone now in Argentina, we cannot verify all the details. But like the Better Call Glenn pages, key details do fit documentary evidence.  
+Amongst other allegations, it says:  
+> Dressed as Darth Vader, Glenn Greenwald performed his sexual fantasies with young men without much hair on their bodies , who were called by the American “My Anaquim”.
 
 
 ## Sock Puppetry
