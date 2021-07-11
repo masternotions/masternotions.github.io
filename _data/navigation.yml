@@ -1,4 +1,7 @@
 main:
+  - title: AntiFan Pages
+    description: Other sites about Glenn
+    url: /SitesAboutGlenn.html  
   - title: Twitter Threads
     description: Links to Twitter threads with more details
     url: /TwitterThreads.html
@@ -16,10 +19,7 @@ main:
     url: BCG.html
   - title: Jake Jaxson
     description: Glenn's business partner 
-    url: /Jason.html
-  - title: AntiFan Pages
-    description: Other sites about Glenn
-    url: /SitesAboutGlenn.html    
+    url: /Jason.html  
   - title: Pulitzer
     description: He only has a bunny
     url: /pulitzer.html
