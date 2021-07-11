@@ -1,6 +1,7 @@
 ---
 layout: splash
 title: Glenn's own words on Porn
+excerpt: \"My personal life is complex and sometimes messy.\"
 header:
   image: assets/images/GG-Buzz.jpg
 share: true
@@ -24,12 +25,12 @@ Glenn appears to have carefully phoned the New York Daily News, to find out exac
 > > "I had no interest in business and entertainment. I was just looking around for what I was going to do next," Greenwald said.  
 > 
 > He assisted on the production of a movie, Showboy, a 2002 mockumentary about a fired Six Feet Under writer, and once consulted on a company's development of "some doll that was supposed to comfort people who had anxiety issues."  
-
+> 
 > Buchtel, who did not respond to interview requests, also worked in the adult entertainment industry, identifying himself in one court affidavit as the president of "MN" (Master Notions) Entertainment: 
 > > "We sign various producers to distribution contracts which furnish us with the right to distribute their videos for both wholesale and retail distribution."  
 > 
 > According to court documents, one of the distribution websites operated by MN Entertainment was StudMall, a gay porn DVD site. According to the New York state corporation and domain registry records, MN Entertainment and Stud Mall operated out of the same suites that housed Greenwald's law firm, but Greenwald said he was just the company's legal and consultancy arm.  
-
+> 
 > Greenwald — who bridled Wednesday at the Daily News' coverage of the porn tie — denied he was involved in any production of the adult videos. There was only a "corporate interest."  
 > > "But if I were, I'd be proud of it," he told BuzzFeed. "There'd be nothing wrong with it."  
 > 
@@ -43,19 +44,22 @@ In The Guardian on the same day, the Buzzfeed article came out, [Glenn wrote:](h
 
 ![GG on Security and Liberty](/assets/images/Glenn_Greenwald_620x140.gif){: .align-left}
 > I received an email last night from a reporter at the New York Daily News informing me that he had been "reviewing some old lawsuits" in which I was involved – "old" as in: more than a decade ago – and that "the paper wants to do a story on this for tomorrow".  
-> Upon calling him, I learned that he had somehow discovered two events from my past. The first was my 2002-04 participation in a multi-member LLC that had an interest in numerous businesses, including the distribution of adult videos. I was bought out of that company by my partners roughly nine years ago.
+> Upon calling him, I learned that he had somehow discovered two events from my past. The first was my 2002-04 participation in a **multi-member LLC** that had an interest in numerous businesses, including the distribution of adult videos. I was bought out of that company by my partners roughly nine years ago.
 > 
 > The lawsuit he referenced was one where the LLC had sued a video producer in (I believe) 2002 after the producer reneged on a profit-sharing contract. In response, that producer fabricated abusive and ugly emails he claimed were from me – they were not – in order to support his allegation that I had bullied him into entering into that contract and he should therefore be relieved from adhering to it. Once our company threatened to retain a forensic expert to prove that the emails were forgeries, the producer quickly settled the case by paying some substantial portion of what was owed, and granting the LLC the rights to use whatever it had obtained when consulting with him **to start its own competing business**.  
-> 
-> ...
+> ...  
 > So that's the big discovery: a corporate interest in adult videos (something the LLC shared with almost every hotel chain), fabricated emails, and some back taxes and other debt.  
-> I'm 46 years old and, like most people, have lived a complicated and varied adult life. I didn't manage my life from the age of 18 onward with the intention of being a Family Values US senator. My personal life, like pretty much everyone's, is complex and sometimes messy.
+> I'm 46 years old and, like most people, have lived a complicated and varied adult life. I didn't manage my life from the age of 18 onward with the intention of being a Family Values US senator. My personal life, like pretty much everyone's, is complex and sometimes __messy_  _.
 
-Corporate records show that _Master Notions Inc._ was shut down shortly after its lawsuit against the owners of _Hairy Jocks Video_ concluded in 2004. However at least five LLCs sprung up on the same day in 2003 with names like _Master Notions Video_ and _MN Entertainment_. They are still active to this day, in Glenn's name on the NY state records --- which must be renewed every two years.  
-_MN Entertainment_ was the owner of the [**Studmall.com**](https://web.archive.org/web/20120829132400/http://www.studmall.com/studmall-gay-dvd/) name until January 4, 2008, after which it transferred to another company at the same address -- the address which the NY Bar has for Glenn to this day.  
+
+Corporate records show that _Master Notions Inc._ was shut down shortly after its lawsuit against the owners of _Hairy Jocks Video_ concluded in 2004. However at least five LLCs sprung up on the same day in 2003 with names like _Master Notions Video_ and _MN Entertainment_. They are still active and in Glenn's name on the NY state records --- which must be renewed every two years.  
+The members of these "multi-member LLCs" appear to be just Glenn Greenwald and Jason Buchtel.
+[![Studmall DNS Record](/assets/images/stud.png){: .jason .align--right}](/assets/images/stud.png){: .align--right} _MN Entertainment_ was the owner of the [**Studmall.com**](https://web.archive.org/web/20120829132400/http://www.studmall.com/studmall-gay-dvd/) name until January 4, 2008, 
+after which it transferred to another company at the same address -- the address which the NY Bar has for Glenn to this day.  
 Note that we chose a 2012 version of the site for recommended browsing as in the past year or two the [current version](https://studmall.com) has become strangely shy about featuring its own videos.
 [How many centimeters is it?](https://web.archive.org/web/20141030104142/http://www.studmall.com/hairy-studs-video-4.html) features Glenn's famous voice.
-{: .notice--info}
+{: .notice--warning}
+
 
 # Brazil 2019
 
