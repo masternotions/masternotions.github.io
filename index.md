@@ -64,15 +64,38 @@ _UPDATED_{: .new} See our collection of [pages by Glenn's Antifans.](SitesAboutG
 
 # Glenn's Blue Period
 
-Glenn has stated in [profiles and interviews](/interviews) <span>New</span>{: .new }  
+Glenn has admitted to co-ownwership of Hairy Studs Video and Studmall
+but has stated in numerous profiles and interviews 
 that his involvement in the porn industry ended in 2004, 2-3 years after it started.
+[Key Excerpts and links](/interviews/){: .btn .btn--danger} <span>New</span>{: .new }
 
-That would make it exactly 100 years after Picasso's Blue Period,  
-although Picasso did not claim it was merely incidental to his legal work.  
-{: .notice--info}
-
-_But is Glenn's claim true?_  
+### But is Glenn's claim true?
+If it is true, then Glenn's Blue Period would be exactly 100 years after Picasso's.  
+{: .notice--warning}
 The New York Daily News, Buzzfeed, The Guardian and others seemed too shy to check.
+
+
+
+## HX articles: Glenn's porn tips
+
+
+![HX](hxn/web.archive.org/web/20050221102140im_/http:/www.hx.com/images/hxlogo.gif) was the leading gay listings magazine in New York City for most of the 90s and 00s.
+{: .notice--success}
+
+In February 2005, the very same week that Glenn and David "met on the beach" in Rio, back in NYC, HX published an article **Cheap Trixxx** under the by-line of an unknown writer and "resting" lawyer, Glenn Greenwald.  
+How did you ever manage without its handy advice?
+> DON'T forget about the sound. If you're shooting in New York, close your windows!  
+> Nothing is worse than the sound of hot sex being drowned out by sirens, passing buses and couples fighting next door.
+
+_UPDATED_{: .new .align-right}
+The article was simultaneously promoted on the Studmall.com website.
+[Read it here.](/hxpromo/){: .btn .btn--large .btn--danger}
+
+
+A couple of years earlier, HX published [Razor Burned.](Sullivan.md){: .btn .btn--primary}  promoting Hairy Studs Video, by Andrew Sullivan.  
+How did Glenn get Andrew Sullivan, who was much more famous than Glenn at the time, to write this promotional piece for his porn company?
+{: .notice--success}
+
 
 ## The Canadian Government Position 
 
@@ -111,24 +134,7 @@ _A reconstruction of sites Glenn and David set up in Brazil in 2005_.
 {% include feature_row %}
 
 
-### HX articles: Glenn's porn tips
-![Cheap Trixx](hxn/web.archive.org/web/20050221102140im_/http:/www.hx.com/images/hxlogo.gif) was the leading gay listings magazine in New York City for most of the 90s and 00s.
 
-In February 2005, the very same week that Glenn and David "met on the beach" in Rio, back in NYC, HX published an article under the by-line of an unknown writer and "resting" lawyer, Glenn Greenwald.  
-How did you ever manage without its handy advice?
-{: .notice--info}
-
-
-
-> DON'T forget about the sound. If you're shooting in New York, close your windows!  
-> Nothing is worse than the sound of hot sex being drowned out by sirens, passing buses and couples fighting next door.
-
-Read it here:
-[Cheap Trixxx by Glenn Greenwald](hx.html){: .btn .btn--warning}
-
-Now _UPDATED_{: .new}  to include [Razor Burned.](Sullivan.md){: .btn .btn--danger .btn--large}  
-How did Glenn get Andrew Sullivan, who was much more famous than Glenn at the time, to write this promotional piece for his porn company?
-{: .notice--success}
 
 
 ## Published Articles about Greenwald's porn empire
