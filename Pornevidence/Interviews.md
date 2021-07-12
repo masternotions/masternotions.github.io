@@ -52,9 +52,10 @@ In The Guardian on the same day, the Buzzfeed article came out, [Glenn wrote:](h
 > I'm 46 years old and, like most people, have lived a complicated and varied adult life. I didn't manage my life from the age of 18 onward with the intention of being a Family Values US senator. My personal life, like pretty much everyone's, is complex and sometimes __messy_  _.
 
 
+[![Studmall DNS Record](/assets/images/stud.png){: .align-right .modcard}](/assets/images/stud.png)
 Corporate records show that _Master Notions Inc._ was shut down shortly after its lawsuit against the owners of _Hairy Jocks Video_ concluded in 2004. However at least five LLCs sprung up on the same day in 2003 with names like _Master Notions Video_ and _MN Entertainment_. They are still active and in Glenn's name on the NY state records --- which must be renewed every two years.  
-The members of these "multi-member LLCs" appear to be just Glenn Greenwald and Jason Buchtel.  
-[![Studmall DNS Record](/assets/images/stud.png){: .jason .align--right}](/assets/images/stud.png) _MN Entertainment_ was the owner of the [**Studmall.com**](https://web.archive.org/web/20120829132400/http://www.studmall.com/studmall-gay-dvd/) name until January 4, 2008, 
+The members of these "multi-member LLCs" appear to be just Glenn Greenwald and Jason Buchtel.
+_MN Entertainment_ was the owner of the [**Studmall.com**](https://web.archive.org/web/20120829132400/http://www.studmall.com/studmall-gay-dvd/) name until January 4, 2008, 
 after which it transferred to another company at the same address -- the address which the NY Bar has for Glenn to this day.  
 Note that we chose a 2012 version of the site for recommended browsing as in the past year or two the [current version](https://studmall.com) has become strangely shy about featuring its own videos.
 [How many centimeters is it?](https://web.archive.org/web/20141030104142/http://www.studmall.com/hairy-studs-video-4.html) features Glenn's famous voice.

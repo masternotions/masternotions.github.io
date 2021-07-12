@@ -93,7 +93,11 @@ a.site-logo img{
   max-width: 200px;
 }
 
-a[href*="//"]:not([href*="mysite.com"]) {
+.modcard {
+  max-height: 220px;
+  max-width: 300px;
+}
+a[href*="//"]:not([href*="masternotions.com"]) {
 
   &:not(.btn){
     color: #784580;

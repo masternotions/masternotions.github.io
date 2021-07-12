@@ -1,7 +1,4 @@
 main:
-  - title: AntiFan Pages
-    description: Other sites about Glenn
-    url: /SitesAboutGlenn.html  
   - title: Twitter Threads
     description: Links to Twitter threads with more details
     url: /TwitterThreads.html
@@ -10,7 +7,13 @@ main:
     url: /RioG.html
   - title: HX
     description: NYC's premier gay bar rag, and Glenn
-    url: /hx.html
+    url: /hxpromo/
+  - title: Glenn Responds
+    description: Interviews where Glenn mentions his porn business
+    url: /interviews/
+  - title: AntiFan Pages
+    description: Other sites about Glenn  
+    url: /SitesAboutGlenn.html  
   - title: Matthew Hale
     description: Defending a Nazi, pro bono
     url: /cases/HaleEgregious.html
@@ -56,13 +59,15 @@ BCG1:
    - title: David Miranda era garoto de programa
      url: "https://www.agoraparana.com.br/politica/deputado-david-miranda-era-garoto-de-programa-e-vendia-drogas-em-boate-gay-no-rio-de-janeiro/"    
 HX:
- - title: All HX-related content
+ - title: Cheap Trixxx By Glenn Greenwald
    children: 
-    - title: Cheap Trixxx - web version
+    - title: Web version from hx.com
       url: /hx.html
-    - title: Studmall - Cheap Trixxx promotion
-      url: /studmallhx/web.archive.org/web/20070224182756if_/http:/www.studmall.com:80/hx1.htm
-    - title: Razor Burned by Andrew Sullivan
+    - title: Print version
+      url: /hxpromo/
+ - title: Razor Burned by Andrew Sullivan
+   children:
+    - title: Print version
       url: /Sullivan.html
  - title: Originals on Wayback Machine
    children:
