@@ -1,15 +1,19 @@
 ---
 layout: single
-toc: true
+classes: wide
 title: A sexual predator named Glenn Greenwald, Part 2
 author: room16
 date: 2019-08-03
 header:
     image: /assets/images/Predador2.png
 sidebar:
-    image: /assets/images/EshEH_WU4AE7WXV.jpg
-    nav: "BCG1"
+    - image: assets/images/EshEH_WU4AE7WXV.jpg
+      title: Better Call Glenn
+      nav: BCG1
+    - title: Other Brazil Reports
+      nav: BrazMisc
 author_profile: true
+show_date: true
 ---
 
 <!-- markdownlint-disable MD036 -->
