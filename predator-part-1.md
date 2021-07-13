@@ -8,10 +8,15 @@ author: room16
 date: 2019-08-01
 header:
     overlay_image: assets/images/Predador1.jpg
+    overlay_filter: linear-gradient(90deg, rgba(20, 15,9,0.4), rgba(70,30,30,0.01))
 sidebar:
-    image: assets/images/EshEH_WU4AE7WXV.jpg
-    nav: "BCG1"
+    - image: assets/images/EshEH_WU4AE7WXV.jpg
+      title: Better Call Glenn
+      nav: BCG1
+    - title: Other Brazil Reports
+      nav: BrazMisc
 author_profile: true
+show_date: true
 ---
 
 <!-- markdownlint-disable MD036 -->

@@ -30,7 +30,7 @@ main:
     description: Creepy Billionaires in Crocs
     url: /Yuri.html
 BCG1:
- - title: Introduction
+ - title: Intro & Home page
    url: /BCG.html
  - title: BetterCallGlenn translations
    children:
@@ -42,8 +42,6 @@ BCG1:
       url: /raul-interview.html
     - title: What is Glenn & David's Enzuli Anyway?
       url: /BCGEnzuli.html
- - title: Further Info
-   url: MoreBCG.html     
  - title: BetterCallGlenn.com Original Source (in Portuguese)   
    children:
     - title: Um Sexual Predador Chamado Glenn Greenwald Ato I
@@ -54,9 +52,16 @@ BCG1:
       url: "https://web.archive.org/web/20191012162650/https://bettercallglenn.com/ex-ator-de-glenn-greenwald-fala-sobre-seus-filmes-adultos-vol-1/"  
     - title: O que é a ENZULI de Glenn e David afinal?
       url: "https://web.archive.org/web/20191223101927/https://bettercallglenn.com/o-que-e-a-enzuli-de-glenn-e-david-afinal/"
- - title: Other Brazilian sites
+ - title: Further Info
    children:
-   - title: David Miranda era garoto de programa
+   - title: Source Credibility 
+     url: MoreBCG.html     
+BrazMisc:
+ - title: David Miranda era garoto de programa
+   children:
+   - title: this site (translation)
+     url: /DavidTalentScout.html
+   - title: Wayback original
      url: "https://www.agoraparana.com.br/politica/deputado-david-miranda-era-garoto-de-programa-e-vendia-drogas-em-boate-gay-no-rio-de-janeiro/"    
 HX:
  - title: Cheap Trixxx By Glenn Greenwald
