@@ -8,6 +8,9 @@ main:
   - title: HX
     description: NYC's premier gay bar rag, and Glenn
     url: /hxpromo/
+  - title: BetterCallGlenn
+    description: Sites From Brazil
+    url: BCG.html   
   - title: Glenn Responds
     description: Interviews where Glenn mentions his porn business
     url: /interviews/
@@ -17,9 +20,6 @@ main:
   - title: Matthew Hale
     description: Defending a Nazi, pro bono
     url: /cases/HaleEgregious.html
-  - title: BetterCallGlenn
-    description: Sites From Brazil
-    url: BCG.html
   - title: Jake Jaxson
     description: Glenn's business partner 
     url: /Jason.html  
