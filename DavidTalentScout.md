@@ -5,9 +5,9 @@ classes:
 title: David The Talent Scout
 excerpt: \"bigger than 22 centimeters, it would rise to R$ 1400.\"
 header:
- image: "/assets/images/DavidMEsc.jpg"
+ image: /assets/images/weekRJ.jpg
 sidebar:
- - image: /assets/images/David-Miranda-Husband-Glenn-Greenwald,jpg
+ - image: /assets/images/David-Miranda-Husband-Glenn-Greenwald.jpg
    imagelink: true
  - title: Brazilian Reports
    nav: BrazMisc

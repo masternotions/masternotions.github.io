@@ -11,6 +11,8 @@ sidebar:
   - image: assets/images/EnzBig.jpg
     imagelink: true
     nav: "BCG1"
+  - title: Other Brazil Reports
+    nav: BrazMisc  
 author_profile: true
 ---
 
