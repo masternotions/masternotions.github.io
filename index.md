@@ -69,11 +69,14 @@ but has stated in numerous profiles and interviews
 that his involvement in the porn industry ended in 2004, 2-3 years after it started.
 [Key Excerpts and links](/interviews/){: .btn .btn--danger} <span>New</span>{: .new }
 
-### But is Glenn's claim true?
+## But is Glenn's claim true?
 If it is true, then Glenn's Blue Period would be exactly 100 years after Picasso's.  
 {: .notice--warning}
 The New York Daily News, Buzzfeed, The Guardian and others seemed too shy to check.
 
+We have just started to add a _NEW_{: .new} section to host the documentary evidence.  
+View the domain name record history for Studmall and Hairy Studs Videos
+[here](/DNS/){: .btn .btn--danger}.
 
 
 ## HX articles: Glenn's porn tips
