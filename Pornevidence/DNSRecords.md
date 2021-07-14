@@ -43,6 +43,11 @@ Although a lot of current information is freely available --- some is even neces
 
 These are the complete reports produced by domaintools.com, a leading commercial provider of historical internet records. In pdf format, they contain fairly complete histories of domain registration, as well as home page screenshots and hosting information.
 
-The most revealing and least anonymous information is often the oldest. Start by checking out the oldest HairyStudsVideo.com. Werner Achatz was Glenn's significant other, and his name on a registration at Glenn's own law firm, may have just been to prevent Glenn's PA from opening the mail; this is the only reference to his name that we have seen.
+The most revealing and least anonymous information is often the oldest.  
+The 2002 record has HairyStudsVideo.com registered to Werner Achatz at the address of Glenn's own law firm.  
+Werner was Glenn's long-suffering significant other at the time, and his name may have  been used to prevent other staff from opening the mail; this is the only reference to his name that we have seen.
+
+HairyStudsVideo was wound down as Studmall took off starting in 2004. The records show Studmall registered to companies controlled by Glenn until at least 2008.  
+After that it was controlled by Kink Ink LLC and until 2013 the address was 250, West 54th Street --- the exact same address that the NY Bar currently have listed for Glenn Greenwald.
 
 {% include feature_row %}
