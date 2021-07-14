@@ -10,7 +10,7 @@ main:
     url: /hxpromo/
   - title: BetterCallGlenn
     description: Sites From Brazil
-    url: BCG.html   
+    url: /predator-part-1.html 
   - title: Glenn Responds
     description: Interviews where Glenn mentions his porn business
     url: /interviews/
@@ -61,8 +61,10 @@ BrazMisc:
    children:
    - title: this site (translation)
      url: /DavidTalentScout.html
-   - title: Wayback original
-     url: "https://www.agoraparana.com.br/politica/deputado-david-miranda-era-garoto-de-programa-e-vendia-drogas-em-boate-gay-no-rio-de-janeiro/"    
+   - title: Original article (in Portuguese)
+     url: "https://www.agoraparana.com.br/politica/deputado-david-miranda-era-garoto-de-programa-e-vendia-drogas-em-boate-gay-no-rio-de-janeiro/"
+   - title: Vartiant on Wayback Machine
+     url: "https://web.archive.org/web/20191104061049/https://www.agoraparana.com.br/noticia/deputado-david-miranda-era-garoto-de-programa-e-vendia-drogas-em-boate-gay-no-rio-de-janeiro"  
 HX:
  - title: Cheap Trixxx By Glenn Greenwald
    children: 
@@ -158,6 +160,13 @@ Hale:
      url: /cases/AndersonHale2001.html  
    - title: Anderson v Hale 2000
      url: /assets/pdfs/AvH2000.pdf
+Legal:
+  - title: Scanlon v Kessler
+    children:
+      - title: S/M copyright
+        url: https://cite.case.law/f-supp-2d/11/444/
+      - title: Exorbitant fees
+        url: https://cite.case.law/f-supp-2d/23/413/
 KK:
  - title: Keira Knightley and creepy billionaires
    children:
