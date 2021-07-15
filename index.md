@@ -53,30 +53,52 @@ _This site is incomplete and under active development in June 2021_.
 For those in search of further details and evidence, here are some starting points wtih [threads about Glenn on Twitter](TwitterThreads.md){: .btn .btn--success}. 
 
 
-## Other Sites About Glenn
 
-![Boys From Brazil](assets/images/boysbrazil.jpg){: .align-left .jason} Glenn has inspired a remarkable number of web pages - even entire sites - specifically about him. Few are praiseworthy. Some of the earliest were about Glenn's famous sock-puppets, in 2006. Others cover material from Edward Snowden, to porn production, to his whole history of lies.  
-_UPDATED_{: .new} See our collection of [pages by Glenn's Antifans.](SitesAboutGlenn.md){: .btn .btn--danger}
-{: .notice--success} 
-
-
-<br>{: .cl}
 
 # Glenn's Blue Period
 
 Glenn has admitted to co-ownwership of Hairy Studs Video and Studmall
 but has stated in numerous profiles and interviews 
 that his involvement in the porn industry ended in 2004, 2-3 years after it started.
-[Key Excerpts and links](/interviews/){: .btn .btn--danger} <span>New</span>{: .new }
+[Key Excerpts and links](/interviews/){: .btn .btn--danger}
+
+## US-Published Articles about Greenwald's porn empire
+
+{% include feature_row id="feature_row2" %}
+[Alternative Link to NY Daily News article](https://www.pressreader.com/usa/new-york-daily-news/20130627/281616712946068)
 
 ## But is Glenn's claim true?
-If it is true, then Glenn's Blue Period would be exactly 100 years after Picasso's.  
+If it is, then Glenn's Blue Period would be exactly 100 years after Picasso's.  
 {: .notice--warning}
-The New York Daily News, Buzzfeed, The Guardian and others seemed too shy to check.
+Had _New York Daily News_, _Buzzfeed_, _The Guardian_ and others not been too shy to check, they might have quickly realized there is overwhelming evidence against Glenn's version of events.
 
-We have just started to add a _NEW_{: .new} section to host the documentary evidence.  
+### Documentary evidence
+
+DNS and corporate records, and other key documents --- including video box covers themselves --- are being gradually added to this site.  
 View the domain name record history for Studmall and Hairy Studs Videos
-[here](/DNS/){: .btn .btn--danger}.
+[here.](/DNS/){: .btn .btn--danger}  
+The impatient will find most of them [already on Twitter.](TwitterThreads.md)
+
+## Brazilian Reporting
+
+[![David](/assets/images/DMstand.jpg){: .align-right .jason}](/assets/images/DMstand.jpg)
+Articles in the Brazilian press in August 2019, first alleged that said Glenn had produced porn in Brazil, with David, and for a considerable while.  
+They were based on interviews and did not seem to have any actual post-2004 records or movie titles. We do not know with whom and we cannot verify all the details.
+Yet some of the facts they stated about dates, locations  and people involved --- not previously published --- we can verify by other means. None of these articles is a hit piece that someone casually made up.  
+David's role as talent scout for movies Glenn produced was described in 
+[Era Garoto de Programa](/DavidTalentScout.html){: .btn .btn--warning} **NEW**{: .new}
+{: .notice--danger}
+
+
+
+### BetterCallGlenn
+
+A Brazilian site devoted to this subject, BetterCallGlenn.com, was created in 2019.
+The site is no longer active but most of the articles are preserved on the Internet Archive.  
+
+We have included a number of translations as well as links to the originals, which can be accessed from the sidebar those pages.  
+Start with [A sexual predator named Glenn Greenwald, Part 1](predator-part-1.md)
+
 
 
 ## HX articles: Glenn's porn tips
@@ -100,14 +122,16 @@ How did Glenn get Andrew Sullivan, who was much more famous than Glenn at the ti
 {: .notice--success}
 
 
+
 ## The Canadian Government Position 
 
 Paul Calandra, likely informed by Canadian Intelligence, described him as a **Porn Spy**.
 <div class="vide">
 {% include video id="CUOXOc68nKY" provider="youtube" %}
 </div>
-Previously he was described as a
-[former porn industry executive](https://www.youtube.com/watch?v=JNQ_aVaMMw4&t=23s){: .btn .btn--warning}
+Previously he had described Glenn as a
+[former porn industry executive](https://www.youtube.com/watch?v=JNQ_aVaMMw4&t=23s){: .btn .btn--warning}  
+These statements, made in late 2013, suggested a much greater involvement in the industry than Glenn had admitted to New York Daily News. But they did not give details.
 
 ## Nearly Eight Years
 > One person we can check with is Jake Jaxson, his former business partner.
@@ -140,10 +164,7 @@ _A reconstruction of sites Glenn and David set up in Brazil in 2005_.
 
 
 
-## Published Articles about Greenwald's porn empire
 
-{% include feature_row id="feature_row2" %}
-[Alternative Link to NY Daily News article](https://www.pressreader.com/usa/new-york-daily-news/20130627/281616712946068)
 
 
 ### David Miranda - Director and Custodian of Records
@@ -166,6 +187,14 @@ Especially the box covers.
 > although you won't find it in the list I just mentioned. **David Miranda, 2010**.
 {: .align-left}
 
+## Other Sites About Glenn
+
+![Boys From Brazil](assets/images/boysbrazil.jpg){: .align-left .jason} Glenn has inspired a remarkable number of web pages - even entire sites - specifically about him. Few are praiseworthy. Some of the earliest were about Glenn's famous sock-puppets, in 2006. Others cover material from Edward Snowden, to porn production, to his whole history of lies.  
+_UPDATED_{: .new} See our collection of [pages by Glenn's Antifans.](SitesAboutGlenn.md){: .btn .btn--danger}
+{: .notice--success} 
+
+
+<br>{: .cl}
 
 ### What's Glenn's Best Movie?
 
@@ -177,18 +206,6 @@ But since you asked, we're currently fond of this.
 <source src="assets/video/GreenCat.mp4" type="video/mp4">
 </video>
 
-## BetterCallGlenn
-
-A number of allegations appeared on the Brazilian site BetterCallGlenn.com in 2019.
-The site is no longer active but most of the articles are preserved on the Internet Archive.  
-Although we have been unable to confirm key parts of these,
-they contain many details which we have verified and were not at all widely known.
-
-RZ's NYC story: [A sexual predator named Glenn Greenwald, Part 1](predator-part-1.md)
-
-RZ's escape: [A sexual predator named Glenn Greenwald, Part 2](predator-part-2.md)
-
-Raul in Rio: [Glenn Greenwald's ex-actor talks about his adult films](raul-interview.md)
 
 # Other Lies
 
