@@ -67,16 +67,25 @@ _UPDATED_{: .new} See our collection of [pages by Glenn's Antifans.](SitesAboutG
 Glenn has admitted to co-ownwership of Hairy Studs Video and Studmall
 but has stated in numerous profiles and interviews 
 that his involvement in the porn industry ended in 2004, 2-3 years after it started.
-[Key Excerpts and links](/interviews/){: .btn .btn--danger} <span>New</span>{: .new }
+[Key Excerpts and links](/interviews/){: .btn .btn--danger}
+
+## US-Published Articles about Greenwald's porn empire
+
+{% include feature_row id="feature_row2" %}
+[Alternative Link to NY Daily News article](https://www.pressreader.com/usa/new-york-daily-news/20130627/281616712946068)
 
 ## But is Glenn's claim true?
-If it is true, then Glenn's Blue Period would be exactly 100 years after Picasso's.  
+If it is, then Glenn's Blue Period would be exactly 100 years after Picasso's.  
 {: .notice--warning}
-The New York Daily News, Buzzfeed, The Guardian and others seemed too shy to check.
+Had _New York Daily News_, _Buzzfeed_, _The Guardian_ and others not been too shy to check, they might have quickly realized there is overwhelming evidence against Glenn's version of events.
 
-We have just started to add a _NEW_{: .new} section to host the documentary evidence.  
+### Documentary evidence
+
+DNS and corporate records, and other key documents --- including video box covers themselves --- are being gradually added to this site.  
 View the domain name record history for Studmall and Hairy Studs Videos
-[here](/DNS/){: .btn .btn--danger}.
+[here.](/DNS/){: .btn .btn--danger}  
+The impatient will find most of them [already on Twitter.](TwitterThreads.md)
+
 
 
 ## HX articles: Glenn's porn tips
@@ -140,10 +149,7 @@ _A reconstruction of sites Glenn and David set up in Brazil in 2005_.
 
 
 
-## Published Articles about Greenwald's porn empire
 
-{% include feature_row id="feature_row2" %}
-[Alternative Link to NY Daily News article](https://www.pressreader.com/usa/new-york-daily-news/20130627/281616712946068)
 
 
 ### David Miranda - Director and Custodian of Records
