@@ -53,14 +53,7 @@ _This site is incomplete and under active development in June 2021_.
 For those in search of further details and evidence, here are some starting points wtih [threads about Glenn on Twitter](TwitterThreads.md){: .btn .btn--success}. 
 
 
-## Other Sites About Glenn
 
-![Boys From Brazil](assets/images/boysbrazil.jpg){: .align-left .jason} Glenn has inspired a remarkable number of web pages - even entire sites - specifically about him. Few are praiseworthy. Some of the earliest were about Glenn's famous sock-puppets, in 2006. Others cover material from Edward Snowden, to porn production, to his whole history of lies.  
-_UPDATED_{: .new} See our collection of [pages by Glenn's Antifans.](SitesAboutGlenn.md){: .btn .btn--danger}
-{: .notice--success} 
-
-
-<br>{: .cl}
 
 # Glenn's Blue Period
 
@@ -172,6 +165,14 @@ Especially the box covers.
 > although you won't find it in the list I just mentioned. **David Miranda, 2010**.
 {: .align-left}
 
+## Other Sites About Glenn
+
+![Boys From Brazil](assets/images/boysbrazil.jpg){: .align-left .jason} Glenn has inspired a remarkable number of web pages - even entire sites - specifically about him. Few are praiseworthy. Some of the earliest were about Glenn's famous sock-puppets, in 2006. Others cover material from Edward Snowden, to porn production, to his whole history of lies.  
+_UPDATED_{: .new} See our collection of [pages by Glenn's Antifans.](SitesAboutGlenn.md){: .btn .btn--danger}
+{: .notice--success} 
+
+
+<br>{: .cl}
 
 ### What's Glenn's Best Movie?
 
