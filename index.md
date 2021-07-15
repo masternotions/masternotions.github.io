@@ -79,6 +79,26 @@ View the domain name record history for Studmall and Hairy Studs Videos
 [here.](/DNS/){: .btn .btn--danger}  
 The impatient will find most of them [already on Twitter.](TwitterThreads.md)
 
+## Brazilian Reporting
+
+[![David](/assets/images/DMstand.jpg){: .align-right .jason}](/assets/images/DMstand.jpg)
+Articles in the Brazilian press in August 2019, first alleged that said Glenn had produced porn in Brazil, with David, and for a considerable while.  
+They were based on interviews and did not seem to have any actual post-2004 records or movie titles. We do not know with whom and we cannot verify all the details.
+Yet some of the facts they stated about dates, locations  and people involved --- not previously published --- we can verify by other means. None of these articles is a hit piece that someone casually made up.  
+David's role as talent scout for movies Glenn produced was described in 
+[Era Garoto de Programa](/DavidTalentScout.html){: .btn .btn--warning} **NEW**{: .new}
+{: .notice--danger}
+
+
+
+### BetterCallGlenn
+
+A Brazilian site devoted to this subject, BetterCallGlenn.com, was created in 2019.
+The site is no longer active but most of the articles are preserved on the Internet Archive.  
+
+We have included a number of translations as well as links to the originals, which can be accessed from the sidebar those pages.  
+Start with [A sexual predator named Glenn Greenwald, Part 1](predator-part-1.md)
+
 
 
 ## HX articles: Glenn's porn tips
@@ -102,14 +122,16 @@ How did Glenn get Andrew Sullivan, who was much more famous than Glenn at the ti
 {: .notice--success}
 
 
+
 ## The Canadian Government Position 
 
 Paul Calandra, likely informed by Canadian Intelligence, described him as a **Porn Spy**.
 <div class="vide">
 {% include video id="CUOXOc68nKY" provider="youtube" %}
 </div>
-Previously he was described as a
-[former porn industry executive](https://www.youtube.com/watch?v=JNQ_aVaMMw4&t=23s){: .btn .btn--warning}
+Previously he had described Glenn as a
+[former porn industry executive](https://www.youtube.com/watch?v=JNQ_aVaMMw4&t=23s){: .btn .btn--warning}  
+These statements, made in late 2013, suggested a much greater involvement in the industry than Glenn had admitted to New York Daily News. But they did not give details.
 
 ## Nearly Eight Years
 > One person we can check with is Jake Jaxson, his former business partner.
@@ -184,18 +206,6 @@ But since you asked, we're currently fond of this.
 <source src="assets/video/GreenCat.mp4" type="video/mp4">
 </video>
 
-## BetterCallGlenn
-
-A number of allegations appeared on the Brazilian site BetterCallGlenn.com in 2019.
-The site is no longer active but most of the articles are preserved on the Internet Archive.  
-Although we have been unable to confirm key parts of these,
-they contain many details which we have verified and were not at all widely known.
-
-RZ's NYC story: [A sexual predator named Glenn Greenwald, Part 1](predator-part-1.md)
-
-RZ's escape: [A sexual predator named Glenn Greenwald, Part 2](predator-part-2.md)
-
-Raul in Rio: [Glenn Greenwald's ex-actor talks about his adult films](raul-interview.md)
 
 # Other Lies
 
