@@ -4,10 +4,11 @@ classes: wide
 title: Does Glenn have a Pulitzer?
 excerpt: \" Get the shelf space ready for the Pulitzer! \"
 header:
-  image: assets/images/bunnyslow.gif
+  overlay_image: assets/images/bunnyslow.gif
   og_image: assets/images/Rabbit1.jpeg
 sidebar:
   - image: assets/images/bigbunny.jpg
+    nav: Lies
 share: true
 ---
 
@@ -40,6 +41,7 @@ Yes, that really is something Glenn tweeted.
 Well he really [does have a Hugh Hefner award](https://www.usnews.com/news/blogs/washington-whispers/2014/05/21/glenn-greenwald-accepts-hugh-hefner-award-for-journalism) of all his own
 Who needs a Pulitzer?
 
-He didn't show up for that ceremony, but that's a whole other story.
+He didn't show up for [that ceremony](https://www.usnews.com/news/blogs/washington-whispers/2014/05/21/glenn-greenwald-accepts-hugh-hefner-award-for-journalism) on May 20, 2014, but that's a whole other story:
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Snowden?src=hash&amp;ref_src=twsrc%5Etfw">#Snowden</a> takes a selfie in Moscow with <a href="https://twitter.com/ggreenwald?ref_src=twsrc%5Etfw">@ggreenwald</a>, David Miranda and Laura Poitras <a href="https://t.co/bA92i3ZcFl">https://t.co/bA92i3ZcFl</a> <a href="http://t.co/1qSOSpRFaI">pic.twitter.com/1qSOSpRFaI</a></p>&mdash; The Intercept (@theintercept) <a href="https://twitter.com/theintercept/status/469458955706458112?ref_src=twsrc%5Etfw">May 22, 2014</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 

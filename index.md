@@ -12,6 +12,20 @@ header:
 sidebar:
   - image: /assets/images/GGSenadoS.jpg 
     imagelink: true
+  - title: Legal Cases
+    nav: Legal
+  - nav: Hale
+  - title: Evidence
+    nav: evid
+  - title: HX articles
+    nav: HX  
+  - title: Glenn's Brazilian websites
+    nav: RioGuides
+  - title: Brazilian Reports
+    nav: BCG1
+  - nav: BrazMisc
+  - title: Other
+    nav: Lies
 feature_row:
   - image_path: /rion/images/banalto002.jpg
     alt: "Rio Gay Guides Banner"
@@ -96,8 +110,6 @@ Especially the box covers.
 > multiple box covers can exist for the same movie. Here's a genuine box cover for Tattooed Tops
 > although you won't find it in the list I just mentioned. **David Miranda, 2010**.
 {: .align-left}
-
-{% include figure}
 
 <br>
 {: .cl}
@@ -209,6 +221,10 @@ But since you asked, we're currently fond of this.
 # Other Lies
 
 
+The subject Glenn lies about the most is himself.
+In his telling, he [graduated top of his class](/Lies.html) and even
+thinks he has a [Pulitzer Prize](pulitzer.md){: .btn .btn--warning .btn--large}
+
 ## Glenn's earliest ventures
 
 The Sun Sentinel in 1985 [reported](SunSentinel.md) on Glenn's attempts to win his grandfather's old council seat.  
@@ -221,8 +237,6 @@ Glenn condemned the denial of law license to a leading American Neo-Nazi as
 an "egregious constiutional abuse" in [this court filing.](/cases/HaleEgregious.md)
 
 
-More recent lies cover all conceivable subjects. But one deserves singling out.
-[Does Glenn have a Pulitzer?](pulitzer.md){: .btn .btn--warning .btn--large}
 
 <br>
 

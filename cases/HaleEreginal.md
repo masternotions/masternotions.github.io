@@ -11,6 +11,8 @@ sidebar:
    imagelink: true
  - title: Matthew Hale
    nav: Hale
+ - title: other cases
+   nav: Legal  
 date: 2001-06-27
 share: true
 ---

@@ -8,6 +8,9 @@ main:
   - title: HX
     description: NYC's premier gay bar rag, and Glenn
     url: /hxpromo/
+  - title: Pulitzer
+    description: He only has a bunny
+    url: /pulitzer.html
   - title: BetterCallGlenn
     description: Sites From Brazil
     url: /predator-part-1.html 
@@ -23,9 +26,6 @@ main:
   - title: Jake Jaxson
     description: Glenn's business partner 
     url: /Jason.html  
-  - title: Pulitzer
-    description: He only has a bunny
-    url: /pulitzer.html
   - title: Keira Knightley
     description: Creepy Billionaires in Crocs
     url: /Yuri.html
@@ -65,6 +65,11 @@ BrazMisc:
      url: "https://www.agoraparana.com.br/politica/deputado-david-miranda-era-garoto-de-programa-e-vendia-drogas-em-boate-gay-no-rio-de-janeiro/"
    - title: Vartiant on Wayback Machine
      url: "https://web.archive.org/web/20191104061049/https://www.agoraparana.com.br/noticia/deputado-david-miranda-era-garoto-de-programa-e-vendia-drogas-em-boate-gay-no-rio-de-janeiro"  
+evid:
+ - title: Glenn's Interviews
+   url: /interviews/
+ - title: DNS Records
+   url: /DNS/
 HX:
  - title: Cheap Trixxx By Glenn Greenwald
    children: 
@@ -167,6 +172,13 @@ Legal:
         url: https://cite.case.law/f-supp-2d/11/444/
       - title: Exorbitant fees
         url: https://cite.case.law/f-supp-2d/23/413/
+  - title: Two Queens v Scoza
+    url: https://caselaw.findlaw.com/ny-supreme-court-appellate-division/1328137.html     
+Lies:
+ - title: About that Pulitzer
+   url: /pulitzer.html
+ - title: Top of His Class
+   url: /Lies.html
 KK:
  - title: Keira Knightley and creepy billionaires
    children:
