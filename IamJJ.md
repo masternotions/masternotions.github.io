@@ -4,6 +4,7 @@ title: I am Jake Jaxson
 excerpt: \"I'm not going to lie — last week was rough.\"
 description: "I'm not going to lie — last week was rough. But after working in the entertainment business for over 15 years, I’ve learned there's always something positive to take away from weeks..."
 header:
+  og_image: assets/images/JJ.jpeg
   overlay_image: assets/images/JJ.jpeg
 author: Jason
 sidebar:
