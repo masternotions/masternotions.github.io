@@ -12,6 +12,20 @@ header:
 sidebar:
   - image: /assets/images/GGSenadoS.jpg 
     imagelink: true
+  - title: Legal Cases
+    nav: Legal
+  - nav: Hale
+  - title: Evidence
+    nav: evid
+  - title: HX articles
+    nav: HX  
+  - title: Glenn's Brazilian websites
+    nav: RioGuides
+  - title: Brazilian Reports
+    nav: BCG1
+  - nav: BrazMisc
+  - title: Other
+    nav: Lies
 feature_row:
   - image_path: /rion/images/banalto002.jpg
     alt: "Rio Gay Guides Banner"
@@ -36,12 +50,12 @@ feature_row2:
     url: "https://washingtonbabylon.com/you-remember-carlos-danger-right-meet-hairy-studs-glenn-greenwalds-alter-ego-it-matters/"
     btn_label: "Meet Hairy Studs"
     btn_class: "btn--info"
-    excerpt: "Washington Babylon 2021"
+    title: "Washington Babylon 2021"
   - image_path: assets/images/NYDN.jpg
     url: "https://www.nydailynews.com/news/national/greenwald-reporter-broke-nsa-story-lawyer-sued-porn-biz-article-1.1383448"
     btn_label: "Secrets of Mr Secret"
     btn_class: "btn--danger"
-    excerpt: "NY Daily News, 2013"
+    title: "NY Daily News, 2013"
 share: true
 ---
 
@@ -78,6 +92,27 @@ DNS and corporate records, and other key documents --- including video box cover
 View the domain name record history for Studmall and Hairy Studs Videos
 [here.](/DNS/){: .btn .btn--danger}  
 The impatient will find most of them [already on Twitter.](TwitterThreads.md)
+
+#### David Miranda - Director and Custodian of Records
+*R or X-rated links*{: .notice--warning}
+
+![Piss Boys In Love GayEroticVideoIndex listing](/assets/images/PissBoysInLove.jpg){: .align-right .modcard}
+David Miranda's porn director career took off at exactly the same time as Glenn moved to Brazil.  
+[One major porn catalog lists him as director for eight movies](https://gay.aebn.com/gay/directors/19979/david-miranda)  
+The [Gay Erotic Video Index Studmall listing](https://www.gayeroticvideoindex.com/C/7/6277.html) has some interesting surprises.    
+Especially the box covers.
+{: .notice--success}
+
+
+
+> This can get a little complicated. Branding is not consistent, catalogs are not perfectly accurate, and
+> [![Tattooed Tops](assets/images/1528420bh-custodian.jpg){: .align-right}](assets/images/1528420bh.jpg)
+> multiple box covers can exist for the same movie. Here's a genuine box cover for Tattooed Tops
+> although you won't find it in the list I just mentioned. **David Miranda, 2010**.
+{: .align-left}
+
+<br>
+{: .cl}
 
 ## Brazilian Reporting
 
@@ -163,30 +198,6 @@ _A reconstruction of sites Glenn and David set up in Brazil in 2005_.
 
 
 
-
-
-
-
-### David Miranda - Director and Custodian of Records
-*R or X-rated links*{: .notice--warning}
-
-David Miranda's porn direction career really took off at exactly the same time as Glenn moved to Brazil.
-
-
-
-[One major porn catalog lists him as director for eight movies](https://gay.aebn.com/gay/directors/19979/david-miranda)
-
-The [Gay Erotic Video Index Studmall listing](https://www.gayeroticvideoindex.com/C/7/6277.html) has some interesting surprises.  
-Especially the box covers.
-
-
-
-> This can get a little complicated. Branding is not consistent, catalogs are not perfectly accurate, and
-> [![Tattooed Tops](assets/images/1528420bh-custodian.jpg){: .align-right}](assets/images/1528420bh.jpg)
-> multiple box covers can exist for the same movie. Here's a genuine box cover for Tattooed Tops
-> although you won't find it in the list I just mentioned. **David Miranda, 2010**.
-{: .align-left}
-
 ## Other Sites About Glenn
 
 ![Boys From Brazil](assets/images/boysbrazil.jpg){: .align-left .jason} Glenn has inspired a remarkable number of web pages - even entire sites - specifically about him. Few are praiseworthy. Some of the earliest were about Glenn's famous sock-puppets, in 2006. Others cover material from Edward Snowden, to porn production, to his whole history of lies.  
@@ -203,12 +214,16 @@ More of a _This Movie Really Exists and Glenn Really Produced It?_ site.
 
 But since you asked, we're currently fond of this. 
 <video controls width="720">
-<source src="assets/video/GreenCat.mp4" type="video/mp4">
+<source src="/assets/video/GreenCat.mp4" type="video/mp4">
 </video>
 
 
 # Other Lies
 
+
+The subject Glenn lies about the most is himself.
+In his telling, he [graduated top of his class](/Lies.html) and even
+thinks he has a [Pulitzer Prize](pulitzer.md){: .btn .btn--warning .btn--large}
 
 ## Glenn's earliest ventures
 
@@ -222,8 +237,6 @@ Glenn condemned the denial of law license to a leading American Neo-Nazi as
 an "egregious constiutional abuse" in [this court filing.](/cases/HaleEgregious.md)
 
 
-More recent lies cover all conceivable subjects. But one deserves singling out.
-[Does Glenn have a Pulitzer?](pulitzer.md){: .btn .btn--warning .btn--large}
 
 <br>
 

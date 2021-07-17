@@ -55,6 +55,7 @@ Amongst other allegations, it says:
 - ``May 20, 2019`` David Niewert for the Daily Kos: [Glenn Greenwald's strange far-right blind spot](https://www.dailykos.com/stories/2019/5/20/1859118/-The-Tale-of-the-Pontifex-Maximus-and-His-Lawyer-Glenn-Greenwald-s-strange-far-right-blind-spot)
 - ``Mar 12 2004`` Greenwald is a Dolt chasing 15 Minutes of Fame: [Trial by Media](https://archive.org/details/TrialByMediaByEdgarJ.Steele2004-OnMattHalesTrial)
 - [History of Domestic Terrorism](http://www.historycommons.org/context.jsp?item=a0103halearrest#a0103halearrest)
+- ``January 26 2001`` Glenn was the subject of a _Nazi Alert_. [Jewish Attorney Represents Jew-hater](https://web.archive.org/web/20020701035631/http://www.jdl.org/enemies/nazi/greenwald.shtml)
 
 
 ## The Intercept
@@ -71,6 +72,8 @@ Amongst other allegations, it says:
 
 
 
+
+
 ### Wikipedia 
 <aside>Glenn's Wikipedia page resembles a war zone, heavily censored by its subject.</aside>
 The highlight of [this July 2006 version](https://en.wikipedia.org/w/index.php?title=Glenn_Greenwald&oldid=66453842){: .btn .btn--info} is a definition:
@@ -83,3 +86,10 @@ _Better not forget_:
 ## David Miranda
 
 - ``August 5, 2019`` [David's talentspotting role described](https://www.agoraparana.com.br/politica/deputado-david-miranda-era-garoto-de-programa-e-vendia-drogas-em-boate-gay-no-rio-de-janeiro/)
+
+
+# Glenn in the replies
+
+A number of web pages are something of the opposite: not about Glenn at all, but noteworthy for the references to Glenn in the replies.
+
+``July 23, 2020`` Replying to Ezra Klein: _Wow, there are more sockpuppets here than a Glenn Greenwald slumber party._ [When Tucker Carlson asked to join Journolist](http://voices.washingtonpost.com/ezra-klein/2010/07/when_tucker_carlson_asked_to_j.html)

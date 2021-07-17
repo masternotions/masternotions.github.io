@@ -4,18 +4,25 @@ classes: wide
 header:
   image: /assets/images/LauraS.jpg
   og_image: "../assets/images/Laura.jpg"
-title: The Most Egregious Constitutional Abuse
+title: Matthew Hale  v Committee on Character & Fitness
+excerpt: \"The Most Egregious Constitutional Abuse\"
 description: "Glenn's 2001 court filing on denying a Nazi a Law License"
 sidebar:
  - image: "assets/images/050302_mattHale_vmed_4p.jpg"
    imagelink: true
    title: Matthew Hale
    nav: Hale
+ - title: other cases
+   nav: Legal
 date: 2001-06-27
 show_date: true
 ---
 
-_Glenn's Court Filing as pro bono attorney for Matthew Hale, a Nazi denied a law license._
+
+> ## Glenn's Court Filing as attorney for Matthew Hale, a Nazi denied a law license.
+> 
+> Even in 2001, Glenn's stated his case in unusually strong terms --- to put it generously --- as is clear just from Paragraph 1.
+{: .notice--primary}
 
 <br>
 

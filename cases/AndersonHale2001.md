@@ -11,6 +11,7 @@ sidebar:
    imagelink: true
    title: Matthew Hale
    nav: Hale
+ - nav: Legal  
 date: 2001-04-20
 show_date: true
 ---
