@@ -130,6 +130,12 @@ a[href*="//"]:not([href*="masternotions.com"]) {
   padding: 10px;
 }
 
+.sidebar {
+
+  position:  static !important;
+  max-height: 100% !important;
+}
+
 
 
 blockquote.twitter-tweet {

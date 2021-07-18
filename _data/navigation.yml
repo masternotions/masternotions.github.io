@@ -1,31 +1,31 @@
 main:
-  - title: Twitter Threads
-    description: Links to Twitter threads with more details
-    url: /TwitterThreads.html
   - title: GG's Rio Websites
     description: sites Glenn owned & operated
     url: /RioG.html
   - title: HX
     description: NYC's premier gay bar rag, and Glenn
     url: /hxpromo/
-  - title: Pulitzer
+  - title: Other Lies
     description: He only has a bunny
     url: /pulitzer.html
   - title: BetterCallGlenn
     description: Sites From Brazil
-    url: /predator-part-1.html 
-  - title: Glenn Responds
-    description: Interviews where Glenn mentions his porn business
-    url: /interviews/
+    url: /predator-part-1.html
+  - title: Jake Jaxson
+    description: Glenn's business partner 
+    url: /Jason.html
+  - title: Twitter Threads
+    description: Links to Twitter threads with more details
+    url: /TwitterThreads.html
   - title: AntiFan Pages
     description: Other sites about Glenn  
     url: /SitesAboutGlenn.html  
-  - title: Matthew Hale
-    description: Defending a Nazi, pro bono
+  - title: Legal Cases
+    description: Defending a Nazi
     url: /cases/HaleEgregious.html
-  - title: Jake Jaxson
-    description: Glenn's business partner 
-    url: /Jason.html  
+  - title: Glenn's Answers
+    description: Interviews where Glenn mentions his porn business
+    url: /interviews/
   - title: Keira Knightley
     description: Creepy Billionaires in Crocs
     url: /Yuri.html

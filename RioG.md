@@ -18,6 +18,8 @@ share: true
   }
 </style>
 
+[View Without Frame](rion/index.html){: .btn .btn--primary}
+
 <div>
 <iframe src="rion/index.html" width="900px" height="2500px" allow-forms="false"></iframe>
 </div>

@@ -7,6 +7,8 @@ excerpt: "slaughtered his rivals .. graduated top of his class...dazzling number
 header:
   image: assets/images/lies.jpg
 share: true
+sidebar:
+  nav: Lies
 ---
 
 # Glenn at NYU
@@ -14,7 +16,7 @@ share: true
 A 2013 [interview in the Advocate](https://www.advocate.com/print-issue/current-issue/2013/11/12/enemy-state) is one superlative after another, amongst which:
 > Grappling with the powerful head-on was more attractive to Greenwald than actual politicking or policymaking, so he went off to law school at NYU, graduated top of his class, and went to work for one of the most slickly prestigious law firms in New York: Wachtell, Lipton, Rosen & Katz. 
 
-It goes onto explain how this superstar lawyer sued Rollerblade (and lost) because he had a boyfriend who couldn't skate But let's back up a little:
+It goes onto explain how this superstar lawyer sued Rollerblade (and lost) because he had a boyfriend who couldn't skate. But let's back up a little:
 
 _graduated top of his class_ --- that's quite a bold claim.
 {: .notice--primary}
