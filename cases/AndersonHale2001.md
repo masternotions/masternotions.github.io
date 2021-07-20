@@ -16,24 +16,38 @@ date: 2001-04-20
 show_date: true
 ---
 
+# Anderson v. Hale, 202 F.R.D. 548 (2001)
+
+## IN THE UNITED STATES DISTRICT COURT <br> FOR THE NORTHERN DISTRICT OF ILLINOIS, EASTERN DIVISION
+
+<br>
+
 ## Opinion
 
 **Case No. 00 C 2021.**
 
 
-MARY ROSE ALEXANDER, Esq., STEPHEN A. SWEDLOW, Esq., AMY J. KAPPELER, Esq., KATHERINE D. VEGA, Esq., Latham Watkins, 233 South Wacker Drive Suite 5800, Chicago, IL 60606.
+### Reverend Stephen Tracy ANDERSON, Plaintiff, v. <br> Matthew F. HALE; the World Church of the Creator, an unincorporated association; the Estate of Benjamin Nathaniel Smith, Defendants
+{: .text-center}
 
-NANCY CHANG, Esq., WILLIAM H. GOODMAN, Esq., Center for Constitutional Rights, 666 Broadway, 7th Floor, New York, N.Y. 10012
 
-JANINE L. HOFT, Esq., People's Law Office, 1180 North Milwaukee Avenue Chicago, IL 60622, Attorneys for Plaintiff.
-
-GLENN GREENWALD, Esq., Greenwald, Christoph Holland, P.C. 1370 Avenue of the Americas, 32nd Floor, New York, N.Y. 10019, Attorneys for Defendants
+> ## Attorneys
+> MARY ROSE ALEXANDER, Esq., STEPHEN A. SWEDLOW, Esq., AMY J. KAPPELER, Esq., KATHERINE D. VEGA, Esq., Latham Watkins, 233 South Wacker Drive Suite 5800, Chicago, IL 60606.
+> 
+> NANCY CHANG, Esq., WILLIAM H. GOODMAN, Esq., Center for Constitutional Rights, 666 > Broadway, 7th Floor, New York, N.Y. 10012
+>
+> JANINE L. HOFT, Esq., People's Law Office, 1180 North Milwaukee Avenue Chicago, IL 60622, Attorneys for Plaintiff.
+> 
+> GLENN GREENWALD, Esq., Greenwald, Christoph Holland, P.C. 1370 Avenue of the Americas, 32nd Floor, New York, N.Y. 10019, Attorneys for Defendants
+{: .notice--success}
 
 -------------------
 
 # MEMORANDUM OPINION AND ORDER
 
 **Magistrate Judge, Martin C. Ashman**
+
+
 
 Plaintiff, Reverend Stephen Tracy Anderson, filed a complaint against Defendants, Matthew F. Hale, The World Church of the Creator (the "WCOTC"), and the Estate of Benjamin Nathaniel Smith, seeking relief under various federal and state laws for violating his rights by physically injuring him. The complaint arose out of Smith's widely publicized July 1999 shooting spree and its connection, as alleged by Plaintiff, to Hale and the WCOTC. Presently before this Court are Plaintiff's Motion to Compel and Motion for a Protective Order. The motions pertain to surreptitious tape recordings made by Defendants' counsel, who has been admitted pro hac vice to practice before this Court. For the reasons that follow, Plaintiff's Motion to Compel is granted in part and denied in part, and Plaintiff's Motion for a Protective Order is granted.
 
@@ -80,6 +94,7 @@ The dialogue before Judge Moran at the status hearing is best characterized as a
 To settle the dispute, and avoid any briefing on the complicated issues presented, Judge Moran suggested that the parties exchange certain information. The parties agreed. True, additional conversation led to the disclosure of some preliminary observations regarding the legality and ethics of surreptitious taping, but this is all they were, observations. A judicial decision on these issues was never made. Indeed, this is precisely why Plaintiff suggested that the issues may need to be briefed.
 
 In response to the parties' arguments regarding the applicability of the Illinois eavesdropping statute to this case, Judge Moran stated, "I think the recording is where the machine is." Similarly, in response to Plaintiff's argument regarding the ethical implications of surreptitiously taping witnesses in Illinois, Judge Moran stated, "I don't know about that." (Tr. Oral Argument 1/22/01, at 29.) These observations can hardly be described as rulings.
+{: .notice}
 
 ### B. Assertion of Work-Product Doctrine
 The remaining initiatory matter — whether Defendants timely and properly asserted the work-product doctrine as a basis for withholding disclosure of the tapes — can be ruled on almost as easily as the first. As Plaintiff correctly points out, the protection afforded by the work-product doctrine is not self-executing. See Marx v. Kelly, Hart Hallman, P.C., 929 F.2d 8, 12 (1st Cir. 1991); Applied Sys., Inc. v. N. Ins. Co. of N.Y., No. 97 C 1565, 1997 WL 639235, at *2-3 (N.D.Ill. 1997). Instead, parties asserting an objection to discovery on the ground of work-product doctrine must present that objection in a timely and proper manner as defined by the Rules. See Peat Marwick, Mitchell Co. v. West, 748 F.2d 540, 542 (10th Cir. 1984).
@@ -109,6 +124,7 @@ Taken to the extreme, full disclosure could discourage good lawyering. Attorneys
 To protect against this, the Supreme Court created the work-product doctrine. It creates a "certain degree of privacy" protected from the broad scope of discovery to maintain balance and fairness in adversarial competition. See id. at 510-11.
 
 In Upjohn, the Supreme Court elaborated on this zone of privacy, defining its limits based on the content of information sought and the need for that information. 449 U.S. at 397-402.
+{: .notice}
 
 #### 2. Requirements of the Work-Product Doctrine
 
@@ -145,6 +161,7 @@ After careful review of everything that has been presented, and much more, we si
 People who speak to attorneys in civil cases reasonably expect that they are not being recorded. The legal community fosters and protects this expectation; as it should because of the unique position attorneys hold in society as officers of the court. In this capacity, attorneys, like judges, are "bound to work for the advancement of justice." Hickman, 329 U.S. at 510.
 
 As this sentence expressly indicates, people's expectation when speaking to attorneys in criminal cases is beyond the scope of this opinion. Public policy considerations, not present here, are implicated in such circumstances. See ABA Comm. on Ethics and Prof'l Responsibility, Formal Op. 337.
+{: .notice}
 
 Whether justice is advanced depends on public confidence in the legal system. Public confidence in the legal system, of course, depends on public confidence in the legal profession. Indeed, this is why the legal profession holds itself out to the public as adhering to the highest possible ethical standards. The qualities of fairness and integrity are thereby attributed to the legal system.
 
@@ -177,6 +194,7 @@ Or as another commentator remarks: "To be sure, secretly recording a telephone c
 Even assuming the expectations of the public vis-a-vis each other have changed because of technological advancements, it must always be remembered that attorneys are held to a higher standard. See In re Hunter Studios, Inc., 164 B.R. at 438-39 (emphasizing the different ethical standards applicable to attorneys and nonattorneys in the context of surreptitious taping). As explained above, the legal profession's repeated announcement of this higher ethical standard creates different expectations of fairness and honesty than the public expects from others, notwithstanding any changes in technology. The attorney ethical code is not so whimsical. A failure to adequately address this important distinction between attorney conduct and nonattorney conduct requires us to set aside the minority position.
 
 Incidentally, this argument based on advancements in technology is nothing new. This is the same argument that served as the impetus for the ABA's 1974 opinion. See ABA Comm. on Ethics and Prof'l Responsibility, Formal Op. 337 ("Recent technical progress in the design and manufacture of sophisticated electronic recording equipment and revelations of the extent to which such equipment has been used . . . make it desirable to issue a Formal Opinion as to the ethical questions involved.").
+{: .notice}
 
 Finally, with regard to the minority's position that ABA Formal Opinion 337 is poorly reasoned, we proffer that the basis for that opinion can be easily understood by reviewing the formal and informal opinions cited in it. All of those opinions lead to the following conclusion: surreptitious taping of conversations by attorneys in civil cases is inherently deceitful. On this point the federal courts agree.
 
@@ -194,6 +212,7 @@ That being said, application of Local Rule 83.54.4 is elementary. Defendants' co
 This result should not come as a surprise. It is axiomatic that Defendants' counsel, as a pro hac vice admittee, must faithfully adhere to this Court's ethical rules. See United States v. Collins, 920 F.2d 619, 626 (10th Cir. 1990). This includes the self-contained rules, see Local R. 83.51.1 (competence), and those rules that are intrinsically bound to and necessarily require the consideration of substantive law. See Local R. 83.54.4 (respect for the rights of third persons). In this regard, by agreeing to faithfully comply with this district's ethical rules, Defendants' counsel agreed to become familiar with and abide by this district's substantive law, whether that be state or federal law.
 
 Defendants present no real argument on this issue. Admittedly, Defendants pointed out at oral argument that New York law permits surreptitious taping while Illinois law does not, and that Defendants' counsel taped the conversations from New York, but these facts alone raise no defense. Perhaps if Defendants had developed this argument and cited some authority, we would have a more difficult determination. See United States v. South, 28 F.3d 619, 629 (7th Cir. 1994) (placing the burden on the party making the argument to sufficiently develop the argument); United States v. Berkowitz, 927 F.2d 1376, 1384 (7th Cir. 1991) ("\[P\]erfunctory and undeveloped arguments, and arguments that are unsupported by pertinent authority, are waived.").
+{: .notice}
 
 This result makes sense. It seems clear that an Illinois attorney in Illinois cannot surreptitiously tape an Illinois resident without violating the law. Certainly that same Illinois attorney could not avoid application of the eavesdropping statute simply by setting up another office, say, in Indiana or Iowa, and then engaging in the same conduct from there. Similarly, for the same reason, it is equally clear that Defendants' counsel, which for purposes of this litigation is deemed a regularly admitted Illinois attorney, cannot avoid application of the eavesdropping statute simply by engaging in surreptitious taping from New York.
 
