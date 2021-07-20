@@ -24,7 +24,8 @@ show_date: true
 </style>
 
 This may be the first article ever published by Glenn Greenwald under his own name.  
-This is as it appears on the HX website but most readers will have read the print version, a copy of which was posted on Glenn's Studmall website (see sidebar).
+This is as it appears on the HX website but most readers will have read the print version, a copy of which was posted on Glenn's Studmall website (see sidebar).  
+HX magazine was also a [legal client](/cases/Theissen.html) of Glenn's on multiple occasions.
 {: .notice--primary}
 
 

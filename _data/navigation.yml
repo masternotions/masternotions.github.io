@@ -5,6 +5,9 @@ main:
   - title: HX
     description: NYC's premier gay bar rag, and Glenn
     url: /hxpromo/
+  - title: Legal Cases
+    description: Defending a Nazi
+    url: /cases/HaleEgregious.html   
   - title: Other Lies
     description: He only has a bunny
     url: /pulitzer.html
@@ -20,9 +23,6 @@ main:
   - title: AntiFan Pages
     description: Other sites about Glenn  
     url: /SitesAboutGlenn.html  
-  - title: Legal Cases
-    description: Defending a Nazi
-    url: /cases/HaleEgregious.html
   - title: Glenn's Answers
     description: Interviews where Glenn mentions his porn business
     url: /interviews/
@@ -173,7 +173,9 @@ Legal:
       - title: Exorbitant fees
         url: https://cite.case.law/f-supp-2d/23/413/
   - title: Two Queens v Scoza
-    url: https://caselaw.findlaw.com/ny-supreme-court-appellate-division/1328137.html     
+    url: https://caselaw.findlaw.com/ny-supreme-court-appellate-division/1328137.html
+  - title: Theissen v Two Queens
+    url: /cases/Theissen.html       
 Lies:
  - title: About that Pulitzer
    url: /pulitzer.html

@@ -6,6 +6,7 @@ twitter:
  image: assets/images/twitter-card2.jpg
  site: masternotions.com
 image: assets/images/twitter-card2.jpg
+customside: true
 header:
  og_image: "/assets/images/twitter-card2.jpg"
  image: "/assets/images/twitter-card2brlong.jpg"
@@ -221,6 +222,17 @@ But since you asked, we're currently fond of this.
 # Other Lies
 
 
+
+## Legal Career: Matthew Hale
+
+Glenn condemned the denial of law license to a leading American Neo-Nazi as 
+an "egregious constiutional abuse" in [this court filing.](/cases/HaleEgregious.md). Although he claims now to have been a "First Amendment" lawyer, his failed attempt to claim a constitutional right to a law license may have been his only such case.
+
+_NEW_{: .new}  We have collected some details of his cases, including two [representing HX Magazine.](/cases/Theissen.html){: .btn .btn--info}
+{: .notice--primary}
+
+## Awards
+
 The subject Glenn lies about the most is himself.
 In his telling, he [graduated top of his class](/Lies.html) and even
 thinks he has a [Pulitzer Prize](pulitzer.md){: .btn .btn--warning .btn--large}
@@ -231,10 +243,6 @@ The Sun Sentinel in 1985 [reported](SunSentinel.md) on Glenn's attempts to win h
 That's the _self-taught, deprived childhood_ myth, shattered.
 
 
-## Legal Career: Matthew Hale
-
-Glenn condemned the denial of law license to a leading American Neo-Nazi as 
-an "egregious constiutional abuse" in [this court filing.](/cases/HaleEgregious.md)
 
 
 
@@ -280,3 +288,8 @@ But we need somewhere to put a video that Google appear to be trying very hard t
 [4]: https://gay.aebn.com/gay/studios/19516/hairy-studs-video
 [Z1]: https://www.fbi.gov/wanted/cyber/evgeniy-mikhailovich-bogachev
 [Z2]: https://aficwomendirect.org/director/jenkleiner/
+
+
+<script defer>
+unstick();
+</script>
