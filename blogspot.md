@@ -24,6 +24,8 @@ But those links! Very revealing.
   }
 </style>
 
+[View Without Frame](/stdmbs/web.archive.org/web/20051215143803if_/http:/studmall.blogspot.com/index.html){: .btn .btn--primary}
+
 <div>
 <iframe src="/stdmbs/web.archive.org/web/20051215143803if_/http:/studmall.blogspot.com/index.html" width="1000px" height="1350px" allow-forms="false"></iframe>
 </div>

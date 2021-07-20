@@ -18,6 +18,8 @@ share: true
   }
 </style>
 
+[View Without Frame](riom/index.html){: .btn .btn--primary}
+
 <div>
 <iframe src="riom/index.html" width="900px" height="1500px" allow-forms="false"></iframe>
 </div>
