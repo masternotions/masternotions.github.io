@@ -39,15 +39,32 @@ _Yes, Glenn's first domain name record really did mispell the name of his own co
 
 # Domain reports
 
-Although a lot of current information is freely available --- some is even necessary for sites to be able to be found --- there is no single definitive source for historical domain information. 
+Although a lot of current information is freely available --- some is even necessary for sites to be able to be found --- there is no single definitive source for historical domain information. <br>  <br>
+Below are __the complete reports produced by domaintools.com__  , a leading commercial provider of historical internet records.  
+In pdf format, they contain fairly complete histories of domain registration, as well as home page screenshots and hosting information.  
+{: .notice--primary}
 
-These are the complete reports produced by domaintools.com, a leading commercial provider of historical internet records. In pdf format, they contain fairly complete histories of domain registration, as well as home page screenshots and hosting information.
 
-The most revealing and least anonymous information is often the oldest.  
-The 2002 record has HairyStudsVideo.com registered to Werner Achatz at the address of Glenn's own law firm.  
+The most revealing and least anonymous information is often the oldest.
+
+
+
+
+_The 2002 record has HairyStudsVideo.com registered to Werner Achatz at the address of
+Glenn's own law firm._  
+All the later records have a company as the registrant (domain owner).
+
 Werner was Glenn's long-suffering significant other at the time, and his name may have  been used to prevent other staff from opening the mail; this is the only reference to his name that we have seen.
+{: .notice--warning}
 
-HairyStudsVideo was wound down as Studmall took off starting in 2004. The records show Studmall registered to companies controlled by Glenn until at least 2008.  
-After that it was controlled by Kink Ink LLC and until 2013 the address was 250, West 54th Street --- the exact same address that the NY Bar currently have listed for Glenn Greenwald.
+HairyStudsVideo was wound down as Studmall took off starting in 2004.
+
+_The records show Studmall registered to companies controlled by Glenn until at least 2008, first at the Seventh Avenue address of Greenwald Christoph PC, Glenn's law firm, and subsequently at at 54th Street address._
+
+After that it was controlled by Kink Ink LLC, although until 2013 the address remained at 250, West 54th Street --- the very same address that the NY Bar currently have listed for Glenn Greenwald.
+
+## Complete Reports for Studmall, HairyStudsVideo and Bareback Inc.
+
+_More to come soon_
 
 {% include feature_row %}

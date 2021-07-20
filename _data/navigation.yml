@@ -163,6 +163,8 @@ Hale:
    children:
    - title: 2001 ruling
      url: /cases/AndersonHale2001.html  
+   - title: 2001 appeal ruling
+     url: https://law.justia.com/cases/federal/district-courts/FSupp2/159/1116/2384296/  
    - title: Anderson v Hale 2000
      url: /assets/pdfs/AvH2000.pdf
 Legal:
