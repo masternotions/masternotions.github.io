@@ -80,7 +80,7 @@ div.Section1
 
 ## As Promoted on Studmall.com in 2005.
 This is roughly how the article was presented when promoted on Studmall.com.  
-See the Sidebar for a link to an archive of the original.
+See the Sidebar for a link to an archive of the original as well as the [HX web version](/hx.html). 
 {: .align-right}
 
   <div align="center">
