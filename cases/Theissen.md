@@ -2,7 +2,7 @@
 layout: single
 classes: wide
 header:
-  image: /assets/images/RoxyBanner.jpg
+  image: /assets/images/RoxyBanner1.jpg
 title: Theissen v Two Queens Inc.    
 description: The Case of the Hot Photos
 sidebar:
@@ -11,6 +11,14 @@ sidebar:
  - title: other cases
    nav: Legal
  - nav: Hale  
+ - title: The Roxy
+   text: Photos depicted are of The Roxy, although not those in this case. Where's Glenndo?
+   image: /assets/images/theroxy.jpg
+   imagelink: true
+ - image: /assets/images/133_Roxy-2.jpg
+   imagelink: true
+ - image: /assets/images/132_Roxy-2.jpg
+   imagelink: true
 date: 2000-06-30
 show_date: true
 ---
