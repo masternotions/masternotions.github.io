@@ -14,7 +14,7 @@ header:
 _Only ever one page, which was promoted on the main Studmall site, 
 but it was unusually generous of Glenn to let David have it at all really._  
 It didn't last long.
-
+{: .notice--primary}
 
 But those links! Very revealing.
 

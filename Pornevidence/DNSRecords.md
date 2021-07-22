@@ -31,6 +31,17 @@ feature_row:
     btn_label: "BareBackInc"
     btn_class: "btn--info" 
     excerpt: Glenn and Jason owned many brands. _Tattooed Tops_, produced in Brazil, unusually has Studmall **and** Bareback Inc. on the cover. And a familiar name.
+feature_row2:
+  - image_path: /assets/images/RGGhome.jpg
+    alt: "RioGayGuides Records"
+    url: /assets/pdfs/RioGayGuides-com-2020-12-04.pdf
+    btn_label: "RioGayGuides"
+    btn_class: "btn--success"
+  - image_path: /assets/images/RMEhome.jpg
+    alt: "HSV records"
+    url: /assets/pdfs/RioMaleEscorts-com-2020-12-04.pdf
+    btn_label: "RioMaleEscorts"
+    btn_class: "btn--danger"
 permalink: /DNS/
 ---
 
@@ -68,3 +79,11 @@ After that it was controlled by Kink Ink LLC, although until 2013 the address re
 _More to come soon_
 
 {% include feature_row %}
+
+## Complete Reports for RioGayGuides and RioMaleEscorts
+
+These sites were kept anonymous throughout so the reports are less revealing, and they do tell us exactly when the sites were first registered and roughly how long they remained operational (2005--2008). Their ip addresses have considerable overlap with those used by Studmall and other sites Glenn owned, indicating a similar hosting pattern.
+
+_The most striking thing about these records are the home page screenshots, particularly the ones featuring David Miranda on page 29 of the RioGayGuides report. The Wayback Machine did not archive all the images so this add some further information._
+
+{% include feature_row id="feature_row2" %} 
