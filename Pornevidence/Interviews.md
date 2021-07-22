@@ -4,6 +4,7 @@ title: Glenn's own words on Porn
 excerpt: \"My personal life is complex and sometimes messy.\"
 header:
   overlay_image: assets/images/GG-Buzz.jpg
+  og_image: assets/images/dogs.jpeg
 share: true
 permalink: /interviews/
 ---
