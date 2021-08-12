@@ -3,13 +3,13 @@ layout: single
 classes: wide
 title: Master Notions
 twitter: 
- image: assets/images/twitter-card2.jpg
- site: masternotions.com
+  image: assets/images/twitter-card2.jpg
+  site: masternotions.com
 image: assets/images/twitter-card2.jpg
 customside: true
 header:
- og_image: "/assets/images/twitter-card2.jpg"
- image: "/assets/images/twitter-card2brlong.jpg"
+  og_image: assets/images/twitter-card2.jpg
+  image: assets/images/twitter-card2brlong.jpg
 sidebar:
   - image: /assets/images/GGSenadoS.jpg 
     imagelink: true
