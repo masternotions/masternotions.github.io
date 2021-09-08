@@ -61,11 +61,23 @@ Amongst other allegations, it says:
 ## The Intercept
 
 ![Investigative Journalist](assets/images/Kermit.gif){: .align-right}
+- ``November 27 2013`` Pando Daily by Mark Ames [Keeping Secrets: Pierre Omidyar, Glenn Greenwald and the privatization of Snowden's leaks](https://pando.com/2013/11/27/keeping-secrets/)
 - ``February 27, 2015`` Ken Silverstein for Politico: [Where Journalism Goes to Die](https://www.politico.com/magazine/story/2015/02/ken-silverstein-the-intercept-115586/)
 - ``December 15, 2014``   Was Taibbi's firing related to comments about Glenn?: [They can tell you’re an enormous asshole](https://www.wired.com/2014/12/life-and-death-of-the-racket/)
+- ``February 3 2016`` Pando Daily by Mark Ames [All the billionaire's men (Or: Shattered Glenn)](https://pando.com/2016/02/03/all-billionaires-men-or-shattered-glenn/)
 - ``March 15, 2019`` Columbia Journalism Review [The Intercept Cuts Back](https://www.cjr.org/business_of_news/layoffs-the-intercept.php)
+- ``December 11 2013`` JP Sottile in Shadow-Proof [Greenwald's Twitter War over PayPal-NSA Allegations](https://shadowproof.com/2013/12/11/twitter-hosts-epic-war-of-words-over-paypal-nsa-allegations/)
 
 ## Miscellaneous 
+
+- ``August 2021`` Eric Levitz in NY Magazine [Glenn Greenwald Speaks Truth to Reply Guys](https://nymag.com/intelligencer/2021/08/glenn-greenwald-speaks-truth-to-reply-guys.html)
+
+### Politics
+
+ - ``April 20, 2011`` Dana Houle, Rooted Cosmopolitan [Glenn Greenwald: Neither a Liberal Nor a Progressive](https://rootedcosmopolitan.wordpress.com/2011/04/20/glenn-greenwald-neither-a-liberal-nor-a-progressive/)
+- ``May 3 2019`` Novak Archive [Why Does Glenn Greenwald Keep Appearing on Tucker Carlson's Show?](https://www.novakarchive.com/foias/2019/4/20/why-does-glenn-greenwald-keep-going-on-tucker-carlsons-show)
+
+
 
 ### Glenn's Defense of Proud Boys
 - ``21 August 2019`` Ari Paul on Souciant [The Greenwald Denial](http://souciant.com/2019/08/the-greenwald-denial/)
@@ -86,6 +98,7 @@ _Better not forget_:
 ## David Miranda
 
 - ``August 5, 2019`` [David's talentspotting role described](https://www.agoraparana.com.br/politica/deputado-david-miranda-era-garoto-de-programa-e-vendia-drogas-em-boate-gay-no-rio-de-janeiro/)
+- ``August 30 2013`` The Jawa Report blog [Court Grants UK Police Right to View Snowden Files, Glenn Greenwald's Gay Porn Collection](https://web.archive.org/web/20131113034015/http://mypetjawa.mu.nu/archives/216819.php)
 
 
 # Glenn in the replies
