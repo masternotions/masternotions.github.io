@@ -1,28 +1,31 @@
 main:
+  - title: Legal Cases
+    description: Defending a Nazi and fighting for porn
+    url: /cases/Theissen.html
+  - title: AntiFan Pages
+    description: Other sites about Glenn  
+    url: /SitesAboutGlenn.html  
   - title: GG's Rio Websites
     description: sites Glenn owned & operated
     url: /RioG.html
   - title: HX
     description: NYC's premier gay bar rag, and Glenn
-    url: /hxpromo/
-  - title: Legal Cases
-    description: Defending a Nazi
-    url: /cases/HaleEgregious.html   
-  - title: Other Lies
-    description: He only has a bunny
-    url: /pulitzer.html
+    url: /hxpromo/ 
+  - title: Evidence
+    description: Many paper trails
+    url: /boxcovers/
   - title: BetterCallGlenn
     description: Sites From Brazil
     url: /predator-part-1.html
   - title: Jake Jaxson
     description: Glenn's business partner 
     url: /Jason.html
+  - title: Other Lies
+    description: He only has a bunny
+    url: /pulitzer.html
   - title: Twitter Threads
     description: Links to Twitter threads with more details
     url: /TwitterThreads.html
-  - title: AntiFan Pages
-    description: Other sites about Glenn  
-    url: /SitesAboutGlenn.html  
   - title: Glenn's Answers
     description: Interviews where Glenn mentions his porn business
     url: /interviews/
@@ -70,6 +73,10 @@ evid:
    url: /interviews/
  - title: DNS Records
    url: /DNS/
+ - title: Video Packaging
+   url: /boxcovers/
+ - title: Master Notions court case
+   url: /cases/PeterHaas.html
 HX:
  - title: Cheap Trixxx By Glenn Greenwald
    children: 

@@ -8,9 +8,10 @@ description: The Case of the Hot Photos
 sidebar:
  - image: "assets/images/GG-Theissen.png"
    imagelink: true
- - title: other cases
+ - title: Misc Legal Cases
    nav: Legal
- - nav: Hale  
+ - title: Matthew Hale cases
+   nav: Hale  
  - title: The Roxy
    text: Photos depicted are of The Roxy, although not the photos in this case. Where's Glenndo?
    image: /assets/images/theroxy.jpg
@@ -21,12 +22,19 @@ sidebar:
    imagelink: true
 date: 2000-06-30
 show_date: true
+permalink: /cases/Theissen.html
 ---
 
-First published in [Lesbian/Gay Legal News](http://www.qrd.org/qrd/www/legal/lgln/06.00.html)
-{: .notice--primary}
+Just one of at least three cases in which Glenn represented the owners of HX magazine, an exceptionally well-produced gay bar rag published in NYC from the early 90s to 2007.  
+As we know [HX](/hxpromo/) promoted Glenn's company in at least four prominent articles -- not an easy endorsement to get.
+{: .notice--success}
+
+
 
 # Model Release Saves _HX_ Magazine and The Roxy From Privacy and Defamation Claims by Bodybuilder Model
+
+First published in [Lesbian/Gay Legal News](http://www.qrd.org/qrd/www/legal/lgln/06.00.html) .
+{: .notice--primary}
 
 New York Supreme Court Justice Miller (N.Y. Co.) found that a release signed by Kenneth Theissen, a bodybuilder who agreed to have photos taken for a physique magazine layout, extended to the subsequent use of his photograph in HX Magazine, thus defeating his claims of invasion of privacy, defamation, and intentional infliction of emotional distress. _Theissen v. Two Queens, Inc._, reported in _New York Law Journal_ (May 18), p. 29.
 

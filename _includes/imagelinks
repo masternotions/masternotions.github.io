@@ -1,0 +1,16 @@
+{% if include.id %}
+  {% assign il = page[include.id] %}
+{% else %}
+  {% assign il = page.imagelinks %}
+{% endif %}
+
+
+  {%- for f in il -%}
+    {%- if f.description -%}
+      {%- assign desc = f.description -%}
+    {%- else -%}
+      {%- assign desc = "image" -%}
+    {%- endif -%}  
+  [![{{ desc }}]({{ f.path }}){: .align-left .vidbox .minigal}]({{ f.path }}) 
+  {%- endfor -%}
+
