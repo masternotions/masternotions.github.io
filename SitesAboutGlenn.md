@@ -9,6 +9,11 @@ header:
 sidebar:
   - title: The Best Memes are from Brazil
   - image: assets/images/Verdevaldo.gif
+  - title: More on Studmall
+    nav: evid
+  - image: assets/images/StudmallMontage.jpg
+    imagelink: true
+
 share: true
 ---
 
@@ -27,8 +32,9 @@ As far back as 2006, they were creating pages and entire sites to catelog his li
 - ``Mar 11, 2014`` John Young on Cryptome: [Glenn Greenwald Eyeball](https://cryptome.org/2014-info/glenn-greenwald/glenn-greenwald.htm)
 - ``January 19 2014`` Sean Wilentz in New Republic: [Would You Feel Differently About Snowden, Greenwald, and Assange If You Knew What They Really Thought?](https://newrepublic.com/article/116253/edward-snowden-glenn-greenwald-julian-assange-what-they-believe)
 - ``May 13 2013`` Jacobinism Blog: [Drooling Self-Love & Dime-Store Third Worldism: The Rage, Relativism & Racism of Glenn Greenwald](http://jacobinism.blogspot.com/2013/05/drooling-self-love-dime-store-third.html)
-- ``May 2013`` Discussion related to preceding article.[defend the indefensible: glenn fucking greenwald](https://www.ilxor.com/ILX/ThreadSelectedControllerServlet?action=showall&boardid=40&threadid=96478)
-
+- ``May 2013`` Discussion related to preceding article.[defend the indefensible: glenn fucking greenwald](https://www.ilxor.com/ILX/ThreadSelectedControllerServlet?action=showall&boardid=40&threadid=96478) 
+- ``January 2020`` This repeats a lot of lies from Glenn's 2013 Buzzfeed Interview. But it has much better photos. 
+[Milionário, Glenn Greenwald advogou para líder nazista, Goldman Sachs e vendeu até filme pornô.](https://ricardoantunes.com.br/exclusivo-milionario-glenn-greenwald-advogou-para-lider-nazista-goldman-sachs-e-vendeu-ate-filme-porno-conheca-sua-trajetoria/) 
 
 ## Porn and Master Notions
 

@@ -3,9 +3,12 @@ layout: single
 classes: wide
 title: Master Notions Inc v Transformation Productions Inc
 sidebar:
- - title: Glenn's Legal Cases
-   nav: Legal
+ - title: Hale Cases
    nav: Hale
+ - title: Other Cases
+   nav: Legal  
+ - title: Porn Empire evidence
+   nav: evid
 ---
 
 

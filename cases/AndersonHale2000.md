@@ -9,7 +9,8 @@ sidebar:
    imagelink: true
    title: Matthew Hale
    nav: Hale
- - nav: Legal  
+ - title: Other Cases  
+   nav: Legal  
 date: 2000-12-20
 show_date: true
 ---
