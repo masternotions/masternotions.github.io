@@ -2,8 +2,8 @@
 layout: single
 classes: wide
 header:
-  image: /assets/images/LauraS.jpg
-  og_image: "../assets/images/Laura.jpg"
+  overlay_image: /assets/images/extinguish.png
+  overlay_filter: linear-gradient(90deg, rgba(180,0,10,0.7), rgba(220,220,220,0.15))
 title: Matthew Hale  v Committee on Character & Fitness
 excerpt: \"The Most Egregious Constitutional Abuse\"
 description: "Glenn's 2001 court filing on denying a Nazi a Law License"

@@ -35,7 +35,7 @@ As far back as 2006, they were creating pages and entire sites to catelog his li
 - ``June 16, 2020`` Oswaldo Eustáquio (Portuguese) [Glenn Greenwald humiliated Jews in Nazi porn productions in the US](https://emribeirao.com/policial/glenn-greenwald-humilhava-judeus-em-producoes-pornograficas-nazistas-nos-eua-37125)  
 Apparently based in part on an interview with someone now in Argentina, we cannot verify all the details. But like the Better Call Glenn pages, key details do fit documentary evidence.  
 Amongst other allegations, it says:  
-> Dressed as Darth Vader, Glenn Greenwald performed his sexual fantasies with young men without much hair on their bodies , who were called by the American “My Anaquim”.
+> Dressed as Darth Vader, Glenn Greenwald performed his sexual fantasies with young men without much hair on their bodies, who were called by the American “My Anaquim”.
 
 
 ## Sock Puppetry
@@ -54,23 +54,24 @@ Amongst other allegations, it says:
 - ``Jul 11, 2013`` Adam Levick for The Algemeiner: [Glenn Greenwald's Anti-Semitism Exposed](https://www.algemeiner.com/2013/07/11/glenn-greenwalds-anti-semitism-exposed/)
 - ``May 20, 2019`` David Niewert for the Daily Kos: [Glenn Greenwald's strange far-right blind spot](https://www.dailykos.com/stories/2019/5/20/1859118/-The-Tale-of-the-Pontifex-Maximus-and-His-Lawyer-Glenn-Greenwald-s-strange-far-right-blind-spot)
 - ``Mar 12 2004`` Greenwald is a Dolt chasing 15 Minutes of Fame: [Trial by Media](https://archive.org/details/TrialByMediaByEdgarJ.Steele2004-OnMattHalesTrial)
-- [History of Domestic Terrorism](http://www.historycommons.org/context.jsp?item=a0103halearrest#a0103halearrest)
+- 2013 [Context of 'January 9, 2003: White Supremacist Church Leader Arrested for Soliciting Murder of a Judge'](https://web.archive.org/web/20130214223104/http://www.historycommons.org/context.jsp?item=a0103halearrest)
 - ``January 26 2001`` Glenn was the subject of a _Nazi Alert_. [Jewish Attorney Represents Jew-hater](https://web.archive.org/web/20020701035631/http://www.jdl.org/enemies/nazi/greenwald.shtml)
+- ``October 9, 2014`` Daily Banter report on Weev's release from jail . [iPad Hacker Released From Jail, Parties with Glenn Greenwald, Publishes Neo-Nazi Screeds](https://thedailybanter.com/2014/10/09/ipad-hacker-released-jail-parties-glenn-greenwald-publishes-neo-nazi-screeds/)
 
 
 ## The Intercept
 
 ![Investigative Journalist](assets/images/Kermit.gif){: .align-right}
-- ``November 27 2013`` Pando Daily by Mark Ames [Keeping Secrets: Pierre Omidyar, Glenn Greenwald and the privatization of Snowden's leaks](https://pando.com/2013/11/27/keeping-secrets/)
+- ``November 27, 2013`` Pando Daily by Mark Ames: [Keeping Secrets: Pierre Omidyar, Glenn Greenwald and the privatization of Snowden's leaks](https://pando.com/2013/11/27/keeping-secrets/)
 - ``February 27, 2015`` Ken Silverstein for Politico: [Where Journalism Goes to Die](https://www.politico.com/magazine/story/2015/02/ken-silverstein-the-intercept-115586/)
 - ``December 15, 2014``   Was Taibbi's firing related to comments about Glenn?: [They can tell you’re an enormous asshole](https://www.wired.com/2014/12/life-and-death-of-the-racket/)
-- ``February 3 2016`` Pando Daily by Mark Ames [All the billionaire's men (Or: Shattered Glenn)](https://pando.com/2016/02/03/all-billionaires-men-or-shattered-glenn/)
+- ``February 3, 2016`` Pando Daily by Mark Ames: [All the billionaire's men (Or: Shattered Glenn)](https://pando.com/2016/02/03/all-billionaires-men-or-shattered-glenn/)
 - ``March 15, 2019`` Columbia Journalism Review [The Intercept Cuts Back](https://www.cjr.org/business_of_news/layoffs-the-intercept.php)
-- ``December 11 2013`` JP Sottile in Shadow-Proof [Greenwald's Twitter War over PayPal-NSA Allegations](https://shadowproof.com/2013/12/11/twitter-hosts-epic-war-of-words-over-paypal-nsa-allegations/)
+- ``December 11, 2013`` JP Sottile in Shadow-Proof: [Greenwald's Twitter War over PayPal-NSA Allegations](https://shadowproof.com/2013/12/11/twitter-hosts-epic-war-of-words-over-paypal-nsa-allegations/)
 
 ## Miscellaneous 
 
-- ``August 2021`` Eric Levitz in NY Magazine [Glenn Greenwald Speaks Truth to Reply Guys](https://nymag.com/intelligencer/2021/08/glenn-greenwald-speaks-truth-to-reply-guys.html)
+- ``August 2021`` Eric Levitz in NY Magazine: [Glenn Greenwald Speaks Truth to Reply Guys](https://nymag.com/intelligencer/2021/08/glenn-greenwald-speaks-truth-to-reply-guys.html)
 
 ### Politics
 
@@ -81,8 +82,6 @@ Amongst other allegations, it says:
 
 ### Glenn's Defense of Proud Boys
 - ``21 August 2019`` Ari Paul on Souciant [The Greenwald Denial](http://souciant.com/2019/08/the-greenwald-denial/)
-
-
 
 
 
