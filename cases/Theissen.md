@@ -12,7 +12,7 @@ sidebar:
    nav: Legal
  - nav: Hale  
  - title: The Roxy
-   text: Photos depicted are of The Roxy, although not those in this case. Where's Glenndo?
+   text: Photos depicted are of The Roxy, although not the photos in this case. Where's Glenndo?
    image: /assets/images/theroxy.jpg
    imagelink: true
  - image: /assets/images/133_Roxy-2.jpg

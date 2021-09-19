@@ -2,10 +2,10 @@
 layout: single
 classes: wide
 header:
-  overlay_image: /assets/images/extinguish.png
-  overlay_filter: linear-gradient(90deg, rgba(180,0,10,0.7), rgba(220,220,220,0.15))
-title: Anderson v Hale 
-excerpt: \"Seizing the opportunity, Defendants' counsel hit the record button and commenced surreptitiously taping the conversation\"
+  overlay_image: /assets/images/mformurder.jpg
+title: Anderson v Hale
+description: How to make the case all about the conduct of the attorney.
+excerpt: \"Defendant's counsel's telephone rang. ..<br>  Seizing the opportunity, Greenwald....\"
 sidebar:
  - image: "assets/images/050302_mattHale_vmed_4p.jpg"
    imagelink: true
@@ -39,7 +39,7 @@ show_date: true
 > JANINE L. HOFT, Esq., People's Law Office, 1180 North Milwaukee Avenue Chicago, IL 60622, Attorneys for Plaintiff.
 > 
 > GLENN GREENWALD, Esq., Greenwald, Christoph Holland, P.C. 1370 Avenue of the Americas, 32nd Floor, New York, N.Y. 10019, Attorneys for Defendants
-{: .notice--success}
+{: .notice--info}
 
 -------------------
 
