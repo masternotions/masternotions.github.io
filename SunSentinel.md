@@ -9,6 +9,8 @@ sidebar:
  - image: "assets/images/Sentinel.png"
    title: Election 1985
    nav: SunS
+ - title: Other Lies
+   nav: Lies
 date: 1985-01-10
 show_date: true
 ---
