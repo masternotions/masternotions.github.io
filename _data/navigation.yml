@@ -155,6 +155,10 @@ SunS:
    children:
    - title: 1985 results (pub. 2013)
      url: https://www.miamiherald.com/news/local/community/broward/article1953011.html
+ - title: Advocate Interview
+   children:
+   - title: Rewriting history
+     url: https://www.advocate.com/print-issue/current-issue/2013/11/12/enemy-state
 Hale:
  - title: Hale v Illinois Bar
    children:
@@ -194,6 +198,8 @@ Lies:
    url: /pulitzer.html
  - title: Top of His Class
    url: /Lies.html
+ - title: Running for Office
+   url: /SunSentinel.html  
 KK:
  - title: Keira Knightley and creepy billionaires
    children:
