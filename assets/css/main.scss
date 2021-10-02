@@ -8,6 +8,7 @@ $notice-background-mix: 80%;
 $right-sidebar-width: 300px;
 $right-sidebar-width-narrow: 200px; 
 $max-width: 1440px; 
+$mfp-caption-title-color: #ff4477;
 
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
@@ -16,6 +17,12 @@ $max-width: 1440px;
 .page__hero {
   max-height: 50vh;
   overflow: hidden;
+}
+
+.mfp-title {
+  text-align: left;
+  font-style:italic;
+  color: #fff0f8;
 }
 
 .page__hero-image {
@@ -104,6 +111,16 @@ a.site-logo img{
 .vidbox {
   max-height: 500px;
   max-width: 200px;  
+}
+.boxtease   {
+  position: relative; 
+  height: 250px;
+}
+
+.boxtease img {
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
 }
 
 .minigal {
