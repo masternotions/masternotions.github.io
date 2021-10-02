@@ -6,8 +6,6 @@ excerpt: "Custodian of Records: <br> David Greenwald-Miranda, <br> Enzuli Pentho
 header:
   overlay_image: /assets/images/DavidCamera.png
 imagelinks:
-  - path: /assets/images/box/235955.jpg
-    description: Sebastian's Double Fuck Weekend
   - path: /assets/images/box/98902.jpg
     description: Sauna Boys
     caption: "That's a very early production date! Possibly it only applies to one scene.
@@ -24,6 +22,8 @@ imagelinks:
   - path: /assets/images/box/SB4.jpg
     description: Sauna Boys 4
     caption: Just who is J Hale anyway? 
+  - path: /assets/images/box/235955.jpg
+    description: Sebastian's Double Fuck Weekend
   - path: /assets/images/box/NYCEscorts.jpg
     description: "NYC Escorts Gone Wild"
     caption: This early movie got a major StudMall-branded promo piece in HX magazine, one of Glenn's clients.
@@ -83,7 +83,11 @@ If you're unclear why Jason left mainstream movies and moved into porn, here's A
 {% include video id="S2IQ-EY9jRg" provider="youtube" %}
 </div>
 
-### A Gallery of Box Covers
+## A Gallery of Box Covers
+
+Commentary is included with some of the linked images.  
+This gallery is so far from being finished, it's not even funny.
+{: .notice--warning}
 
 {% include captiongallery id="imagelinks" pos="boxtease" %}  
 
