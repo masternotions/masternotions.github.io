@@ -1,0 +1,32 @@
+{% if include.id %}
+  {% assign gallery = page[include.id] %}
+{% else %}
+  {% assign gallery = page.gallery %}
+{% endif %}
+
+
+
+<div class="grid__wrapper">
+
+  {% for f in gallery %}
+  <div class="grid__item{% if include.type %}--{{ include.type }}{% endif %}">
+        {% if f.path %}
+          <div class="archive__item-teaser {% if include.pos %}{{ include.pos }}{% endif %}">
+            <a href="{{ f.path | relative_url }}" >
+            <img src="{{ f.path | relative_url }}" 
+                 alt="{% if f.alt %}{{ f.alt }}{% endif %}">
+                 </a>
+          </div>
+        {% endif %}
+        <div class="archive__item-body">
+          {% if f.description %}
+            <span class="archive__item-title">{{ f.description }}</span>
+          {% endif %}
+        </div>
+
+        
+      </div>
+  {% endfor %}
+
+</div>
+

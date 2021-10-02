@@ -10,10 +10,15 @@ imagelinks:
     description: Sebastians Double Fuck Weekend
   - path: /assets/images/box/98902.jpg
     description: Sauna Boys
+    caption: That's a very early production date! Possibly it only applies to one scene. David M is listed as director and would have been 16.
   - path: /assets/images/box/hh1.jpg
-    description: Hairy Hustlers v1
+    description: "Hairy Hustlers v1"
   - path: /assets/images/box/hh2.jpg
-    description: Hairy Hustlers v2
+    description: "Hairy Hustlers v2"
+  - path: /assets/images/box/a50864_xlb.jpg
+    description: "Fuck Me Raw"
+  - path: /assets/images/box/SB4.jpg
+    description: Sauna Boys 4 
 sidebar:
  - title: Documents of All Kinds
    nav: evid
@@ -57,7 +62,7 @@ If you're unclear why Jason left mainstream movies and moved into porn, here's A
 
 ### A Gallery of Box Covers
 
-{% include imagelinks %}  
+{% include captiongallery id="imagelinks" pos="boxtease" %}  
 
 
 <br>

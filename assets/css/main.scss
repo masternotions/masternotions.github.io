@@ -105,6 +105,16 @@ a.site-logo img{
   max-height: 500px;
   max-width: 200px;  
 }
+.boxtease   {
+  position: relative; 
+  height: 250px;
+}
+
+.boxtease img {
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+}
 
 .minigal {
   display: inline-block;
