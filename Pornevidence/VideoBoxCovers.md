@@ -26,6 +26,9 @@ imagelinks:
   - path: /assets/images/box/NYCEscorts.jpg
     description: "NYC Escorts Gone Wild"
     caption: This early movie got a major StudMall-linked promo piece in HX magazine, one of Glenn's clients.
+  - path: /assets/images/box/tattooedback.jpg
+    description: Tattooed Tops
+    caption: Dated in 2010, one of the last movies with David's name as Custodian of Records.
 sidebar:
  - title: Documents of All Kinds
    nav: evid
