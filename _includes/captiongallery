@@ -12,7 +12,7 @@
   <div class="grid__item{% if include.type %}--{{ include.type }}{% endif %}">
         {% if f.path %}
           <div class="archive__item-teaser {% if include.pos %}{{ include.pos }}{% endif %}">
-            <a href="{{ f.path | relative_url }}" >
+            <a href="{{ f.path | relative_url }}" {% if f.caption %}title="{{ f.caption }}" {% endif %}>
             <img src="{{ f.path | relative_url }}" 
                  alt="{% if f.alt %}{{ f.alt }}{% endif %}">
                  </a>
@@ -23,10 +23,7 @@
             <span class="archive__item-title">{{ f.description }}</span>
           {% endif %}
         </div>
-
-        
       </div>
   {% endfor %}
-
 </div>
 

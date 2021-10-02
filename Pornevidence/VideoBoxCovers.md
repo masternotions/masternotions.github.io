@@ -7,18 +7,25 @@ header:
   overlay_image: /assets/images/DavidCamera.png
 imagelinks:
   - path: /assets/images/box/235955.jpg
-    description: Sebastians Double Fuck Weekend
+    description: Sebastian's Double Fuck Weekend
   - path: /assets/images/box/98902.jpg
     description: Sauna Boys
-    caption: That's a very early production date! Possibly it only applies to one scene. David M is listed as director and would have been 16.
+    caption: "That's a very early production date! Possibly it only applies to one scene.
+      David M is listed as director and would have been 16."
   - path: /assets/images/box/hh1.jpg
     description: "Hairy Hustlers v1"
   - path: /assets/images/box/hh2.jpg
     description: "Hairy Hustlers v2"
   - path: /assets/images/box/a50864_xlb.jpg
     description: "Fuck Me Raw"
+  - path: /assets/images/box/SB3a.jpg
+    description: "Sauna Boys 3: Tough Love"
   - path: /assets/images/box/SB4.jpg
-    description: Sauna Boys 4 
+    description: Sauna Boys 4
+    caption: Just who is J Hale anyway? 
+  - path: /assets/images/box/NYCEscorts.jpg
+    description: "NYC Escorts Gone Wild"
+    caption: This early movie got a major StudMall-linked promo piece in HX magazine, one of Glenn's clients.
 sidebar:
  - title: Documents of All Kinds
    nav: evid
@@ -50,7 +57,7 @@ The following excerpt from [18 U.S. Code § 2257](https://www.law.cornell.edu/us
 
 
 [![Double Fuck Me](/assets/images/DFM.jpg){: .align-right .jason}](/assets/images/DFM.jpg)
-Double Fuck Me was the first Brazilian movie released by StudMall, released a few months after Glenn moved there in 2005. It may the only video which features the Seventh Avenue address of Glenn's main law office on its cover.  
+Double Fuck Me was the first Brazilian movie released by StudMall, released a few months after Glenn moved there in 2005. It may the only video which features **the Seventh Avenue address of Glenn's main law office on its cover**.  
 In this instance the Custodian of Records was Adrian Armas (misspelt "Armos", posssibly deliberately), the husband of Glenn's business partner, Jason Buchtel. 
 {: .notice--success}
 
@@ -69,10 +76,6 @@ If you're unclear why Jason left mainstream movies and moved into porn, here's A
 {: .cl}
 
 
-
-
-<br>
-{: .cl}
 
 
 ## Many, many regulations.
