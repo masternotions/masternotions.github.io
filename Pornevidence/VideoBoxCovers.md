@@ -16,6 +16,7 @@ imagelinks:
     description: "Hairy Hustlers v1"
   - path: /assets/images/box/hh2.jpg
     description: "Hairy Hustlers v2"
+    caption: And those XXXXXXs are there why exactly?
   - path: /assets/images/box/a50864_xlb.jpg
     description: "Fuck Me Raw"
   - path: /assets/images/box/SB3a.jpg
@@ -25,10 +26,22 @@ imagelinks:
     caption: Just who is J Hale anyway? 
   - path: /assets/images/box/NYCEscorts.jpg
     description: "NYC Escorts Gone Wild"
-    caption: This early movie got a major StudMall-linked promo piece in HX magazine, one of Glenn's clients.
+    caption: This early movie got a major StudMall-branded promo piece in HX magazine, one of Glenn's clients.
   - path: /assets/images/box/tattooedback.jpg
     description: Tattooed Tops
     caption: Dated in 2010, one of the last movies with David's name as Custodian of Records.
+  - path: /assets/images/box/AllDatDick.jpg
+    description: All Dat Dick
+    caption: Was this the last work Glenn ever did in the United States?
+  - path: /assets/images/box/PBInLove.jpg
+    description: Piss Boys in Love
+    caption: "Released in late 2005 and directed by David  - like Double Fuck Me but with a totally different address. There's no consistency in those early vids!"
+  - path: /assets/images/box/BBCumPups2.jpg
+    description: Bareback Cum Pups 2
+    caption: So who is this S. Fernandes guy who keeps showing up anyway? This was released in 2009.
+  - path: /assets/images/box/PBInLoveNY.jpg
+    description: Piss Boys in Love Cover 2
+    caption: "Not Piss Boys in Love 2, although that is a thing. This is PBIL 1 again, but the records have moved from Rio to NYC."
 sidebar:
  - title: Documents of All Kinds
    nav: evid

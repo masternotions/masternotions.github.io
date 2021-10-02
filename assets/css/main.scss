@@ -8,7 +8,7 @@ $notice-background-mix: 80%;
 $right-sidebar-width: 300px;
 $right-sidebar-width-narrow: 200px; 
 $max-width: 1440px; 
-$mfp-caption-title-color: #ff4477;
+
 
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
