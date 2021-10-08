@@ -24,7 +24,8 @@ show_date: true
 
 <!-- by room16 -->
 
-Translated from _Um Sexual Predador Chamado Glenn Greenwald Ato I_
+## Translated from: _Um Sexual Predador Chamado Glenn Greenwald Ato I_  
+{: .notice--success}
 
 
 
@@ -49,7 +50,7 @@ The place where RZ was supposed to film, with a director specializing in actors 
 
 In the presentation, Greenwald demanded to be called solely and solely: Herr DomMascHry31, or just Herr DOM. The [obsession nazistóide][1] Greenwald (a Jew who hates Judaism, Israel, Christianity, but with a strong penchant for Islam and the idea of submission and domination ... is already public knowledge domain and the face Jeffrey Dahmer Glenn).
 
-'I didn't know his real name and didn't know it until I saw him on TV years and years later in an NBC story and the Bush son elections. After healthy years and without panic attacks, Greenwald's vision triggered all the perverse memories that Verdevaldo and his partner Buchtel had for the then young man in his 20s'.
+'I didn't know his real name and continued not knowing until I saw him on TV years and years later in an NBC story on George W Bush's elections. After years of good health without panic attacks, the sight of Greenwald triggered all the perverse memories that Verdevaldo and his partner Buchtel had inflicted on the then young 20-something.'
 
 Still in a non-fluent English, RZ asked Greenwald why so many computers and in a room attached to the 'studio' with several people on the phone who kept ringing. It was a sex disk, from which attendants drew interested parties to a site known as hairystuds.com - the same site that sparked a legal war between Glenn Greenwald and his former partner Peter Haas.
 
