@@ -32,27 +32,27 @@ show_date: true
 
 <!-- ![image-center](/assets/images/Predador1.jpg){: .align-center} -->
 
-Corner of Lorimer Street and Devoe Street in Brooklyn, New York. I leave the station and an SMS (yes, the good old SMS) informs me that my guest is already waiting at the agreed place. The place is not far from another spot that almost sixteen years ago brought RZ, 37 years old, three nights that for a measly $560, cost him sleep, anxiety disorders, depression, humiliation and suicidal ideas.
+Corner of Lorimer Street and Devoe Street in Brooklyn, New York. I leave the station and an SMS (yes, the good old SMS) informs me that my guest is already waiting at the agreed place. The place is not far from another spot that almost sixteen years ago brought RZ, 37 years old, three nights that for a measly $560, cost him sleep, anxiety disorders, depression, humiliation and suicidal thoughts.
 
 The New York-based Dominican arrived in the United States in 1999 with his brother, then a top baseball prospect in the ranks of the New York Mets. From a strict Catholic family, RZ saw his brother walk away after catching him with another man in a humble apartment they both shared with his older sister in Upper Falls, Rochester, NY.
 
 A regular on the gay scene in New York, RZ turned to prostitution for a few months. He tried to reconnect with the family, especially the mother he loved as a deity; for her efforts in raising the three children in the midst of absolute misery and a father who is sometimes absent, sometimes alcoholic and violent.
 
-'My mother's rejection even today causes me pain, but I forgive and love her.' I do not wish my brothers any harm despite the humiliations, and I would like to have access to my nephews that I only know from photos. '
+'My mother's rejection even today causes me pain, but I forgive and love her.' I do not wish my brothers any harm despite the humiliations, and I would like to be able to meet my nephews and nieces that I only know from photos. '
 
-RZ does not like to talk about his months in prostitution because it was in a meeting with Peter Haas that his eternal nightmare began. Haas, former owner of a ponographic studio dedicated to a gay audience, had the addition of Glenn Greenwald as a partner in 2003, as did Greenwald's ex-boyfriend: Jason Buchtel, Haas's partner at Master Notions Inc.
+RZ does not like to talk about his months in prostitution because it was in a hookup with Peter Haas that his eternal nightmare began. Haas, former owner of a porn studio for a gay audience, added Glenn Greenwald as a partner in 2003, along with Greenwald's ex-boyfriend: Jason Buchtel, Haas's partner at Master Notions Inc.
 
-After meeting at a nightclub, Greenwald gave his card to RZ, a card from Master Notions Inc. with his phone on the back.
+After meeting at a nightclub, Greenwald gave his card to RZ, a card from Master Notions Inc. with his phone number on the back.
 
-'The proposal was pornographic films and sensual rehearsals. I always valued my intimacy and discretion so I was not interested in having my face in films from all the gay corners of the world. ' RZ's partner at the time was the one who broke down the wall of fear and convinced the partner to participate in the auditions.
+'The proposal was pornographic films and erotic experiments. I always valued my intimacy and discretion so I was not interested in having my face in films from all the gay corners of the world. ' RZ's partner at the time was the one who broke down the wall of fear and convinced the partner to participate in the auditions.
 
-The place where RZ was supposed to film, with a director specializing in actors and actresses not yet 'experts' in adult films and how to behave to and from the camera, was a typical hell of cruising bars. The amount of products used for the practice of Sadomasochism, or BDSM, as it is better known, drew the attention of RZ.
+The place where RZ was supposed to film, with a director specializing in actors and actresses not yet 'experts' in adult films and how to behave to and from the camera, was a typical cruising bar hellhole. The amount of products used for the practice of Sadomasochism, or BDSM, as it is better known, captured  the attention of RZ.
 
 In the presentation, Greenwald demanded to be called solely and solely: Herr DomMascHry31, or just Herr DOM. The [obsession nazistóide][1] Greenwald (a Jew who hates Judaism, Israel, Christianity, but with a strong penchant for Islam and the idea of submission and domination ... is already public knowledge domain and the face Jeffrey Dahmer Glenn).
 
 'I didn't know his real name and continued not knowing until I saw him on TV years and years later in an NBC story on George W Bush's elections. After years of good health without panic attacks, the sight of Greenwald triggered all the perverse memories that Verdevaldo and his partner Buchtel had inflicted on the then young 20-something.'
 
-Still in a non-fluent English, RZ asked Greenwald why so many computers and in a room attached to the 'studio' with several people on the phone who kept ringing. It was a sex disk, from which attendants drew interested parties to a site known as hairystuds.com - the same site that sparked a legal war between Glenn Greenwald and his former partner Peter Haas.
+Still not fluent in English, RZ asked Greenwald why so many computers and a room next to the 'studio' with several people on the phones that didn't stop ringing. It was a sex disk, from which attendants drew interested parties to a site known as hairystuds.com - the same site that sparked a legal war between Glenn Greenwald and his former partner Peter Haas.
 
 Haas accused Greenwald of stealing his entire clientele behind the scenes through a service he had created by relating disk sex to subscribers for audio content, photos and pronographic videos aimed at gay male audiences. In 2004, Greenwald caused Haas to close the case with threats to spread amateur video of Haas and several of his friends; some of them, high-ranking men on Wall Street.
 
