@@ -52,7 +52,7 @@ In the presentation, Greenwald demanded to be called solely and solely: Herr Dom
 
 'I didn't know his real name and continued not knowing until I saw him on TV years and years later in an NBC story on George W Bush's elections. After years of good health without panic attacks, the sight of Greenwald triggered all the perverse memories that Verdevaldo and his partner Buchtel had inflicted on the then young 20-something.'
 
-Still not fluent in English, RZ asked Greenwald why so many computers and a room next to the 'studio' with several people on the phones that didn't stop ringing. It was a sex disk, from which attendants drew interested parties to a site known as hairystuds.com - the same site that sparked a legal war between Glenn Greenwald and his former partner Peter Haas.
+Still not fluent in English, RZ asked Greenwald why so many computers and a room next to the 'studio' with several people on the phones that didn't stop ringing. It was a sex chat, from which attendants drew interested parties to a site known as hairystuds.com - the same site that sparked a legal war between Glenn Greenwald and his former partner Peter Haas.
 
 Haas accused Greenwald of stealing his entire clientele behind the scenes through a service he had created by relating disk sex to subscribers for audio content, photos and pronographic videos aimed at gay male audiences. In 2004, Greenwald caused Haas to close the case with threats to spread amateur video of Haas and several of his friends; some of them, high-ranking men on Wall Street.
 
