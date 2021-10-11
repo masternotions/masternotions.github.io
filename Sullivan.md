@@ -6,6 +6,7 @@ excerpt: " \"..celebrating its one-year anniversary, HairyStudsVideo was named t
 'Best Kept Secret' by MenOnTheNet.com. So far, they've produced 21 videos.\" "
 header:
   overlay_image: assets/images/bodygh2.jpg
+  og_image: assets/images/SullivanBanner.jpg
   overlay_filter: linear-gradient(90deg, rgba(0,110,50,0.65), rgba(220,30,30,0.05))
 sidebar:
   - title: HX magazine
