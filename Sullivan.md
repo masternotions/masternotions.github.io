@@ -32,4 +32,8 @@ At the time, Andrew Sullivan was one of the most famous gay journalists in Ameri
 As the sidebar indicates, "Hairy Studs" were not normally featured in HX. Some readers likely thought it was a promotion for soft furnishings.
 {: .notice--warning}
 
+
+**Click each page for the full-size version.**{: .notice--primary}
+
+
 {% include gallery caption="Razor Burned" %}
