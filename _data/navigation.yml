@@ -180,6 +180,10 @@ Hale:
      url: /cases/AndersonHale2001.html  
    - title: 2001 appeal ruling
      url: https://law.justia.com/cases/federal/district-courts/FSupp2/159/1116/2384296/ 
+ - title: NYC Bar
+   children: 
+   - title: Clarifies rules for Glenn
+     url: https://www.nycbar.org/member-and-career-services/committees/reports-listing/reports/detail/formal-opinion-2003-02-undisclosed-taping-of-conversations-by-lawyers-1
  - title: Media reports
    children:
    - title: Glenn sues Illinois
