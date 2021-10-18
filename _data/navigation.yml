@@ -179,7 +179,15 @@ Hale:
    - title: 2001 ruling
      url: /cases/AndersonHale2001.html  
    - title: 2001 appeal ruling
-     url: https://law.justia.com/cases/federal/district-courts/FSupp2/159/1116/2384296/  
+     url: https://law.justia.com/cases/federal/district-courts/FSupp2/159/1116/2384296/ 
+ - title: NYC Bar
+   children: 
+   - title: Clarifies rules for Glenn
+     url: https://www.nycbar.org/member-and-career-services/committees/reports-listing/reports/detail/formal-opinion-2003-02-undisclosed-taping-of-conversations-by-lawyers-1
+ - title: Media reports
+   children:
+   - title: Glenn sues Illinois
+     url: https://dailyegyptian.com/34833/archives/hale-files-federal-lawsuit-against-state/      
 Legal:
   - title: Scanlon v Kessler
     children:
@@ -192,7 +200,9 @@ Legal:
   - title: Theissen v Two Queens
     url: /cases/Theissen.html
   - title: Master Notions case
-    url: /cases/PeterHaas.html         
+    url: /cases/PeterHaas.html
+  - title: Matthew Hale
+    url: /cases/AndersonHale2001.html
 Lies:
  - title: About that Pulitzer
    url: /pulitzer.html
@@ -211,8 +221,7 @@ KK:
      url: https://pagesix.com/2014/11/25/imitation-game-brings-donna-karan-to-tears/
    - title: Deadline
      url: https://deadline.com/2014/11/oscar-facebooks-mark-zuckerberg-weinstein-imitation-game-1201279538/
-         
- 
+
 
   
 
