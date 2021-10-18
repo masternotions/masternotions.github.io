@@ -4,7 +4,6 @@ classes: wide
 header:
   overlay_image: /assets/images/mformurder.jpg
 title: Anderson v Hale
-description: How to make the case all about the conduct of the attorney.
 excerpt: \"Defendant's counsel's telephone rang. ..<br>  Seizing the opportunity, Greenwald....\"
 sidebar:
  - image: "assets/images/050302_mattHale_vmed_4p.jpg"
