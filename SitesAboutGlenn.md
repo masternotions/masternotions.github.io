@@ -56,6 +56,7 @@ Amongst other allegations, it says:
 ## On Anti-Semitism and Defending Nazis
 
 - ``May 27, 2008`` Socialism of Fools Blog [Illegal Wiretapping Indeed](http://www.socialismfools.com/2008/05/illegal-wiretapping-indeed.html)
+- ``Jan 1 2912`` Good summary with links by Democratic Underground blog [Glenn Greenwald Unethically Taped Witnesses While Working for Matt Hale, White Supremacist.](https://www.democraticunderground.com/1002101211)
 - ``Jul 25, 2012`` Adam Levick for The Times of Israel: [The Guardian and Glenn Greenwald: The anti-imperialism of fools](https://blogs.timesofisrael.com/the-guardian-and-glenn-greenwald-the-anti-imperialism-of-fools/)
 - ``Jul 11, 2013`` Adam Levick for The Algemeiner: [Glenn Greenwald's Anti-Semitism Exposed](https://www.algemeiner.com/2013/07/11/glenn-greenwalds-anti-semitism-exposed/)
 - ``May 20, 2019`` David Niewert for the Daily Kos: [Glenn Greenwald's strange far-right blind spot](https://www.dailykos.com/stories/2019/5/20/1859118/-The-Tale-of-the-Pontifex-Maximus-and-His-Lawyer-Glenn-Greenwald-s-strange-far-right-blind-spot)
