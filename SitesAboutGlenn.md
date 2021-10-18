@@ -60,7 +60,7 @@ Amongst other allegations, it says:
 - ``Jul 11, 2013`` Adam Levick for The Algemeiner: [Glenn Greenwald's Anti-Semitism Exposed](https://www.algemeiner.com/2013/07/11/glenn-greenwalds-anti-semitism-exposed/)
 - ``May 20, 2019`` David Niewert for the Daily Kos: [Glenn Greenwald's strange far-right blind spot](https://www.dailykos.com/stories/2019/5/20/1859118/-The-Tale-of-the-Pontifex-Maximus-and-His-Lawyer-Glenn-Greenwald-s-strange-far-right-blind-spot)
 - ``Mar 12 2004`` Greenwald is a Dolt chasing 15 Minutes of Fame: [Trial by Media](https://archive.org/details/TrialByMediaByEdgarJ.Steele2004-OnMattHalesTrial)
-- 2013 [Context of 'January 9, 2003: White Supremacist Church Leader Arrested for Soliciting Murder of a Judge'](https://web.archive.org/web/20130214223104/http://www.historycommons.org/context.jsp?item=a0103halearrest)
+- ``January 9, 2013`` Matthew Hale timeline from History Commons [White Supremacist Church Leader Arrested for Soliciting Murder of a Judge'](https://web.archive.org/web/20130214223104/http://www.historycommons.org/context.jsp?item=a0103halearrest)
 - ``January 26 2001`` Glenn was the subject of a _Nazi Alert_. [Jewish Attorney Represents Jew-hater](https://web.archive.org/web/20020701035631/http://www.jdl.org/enemies/nazi/greenwald.shtml)
 - ``October 9, 2014`` Daily Banter report on Weev's release from jail . [iPad Hacker Released From Jail, Parties with Glenn Greenwald, Publishes Neo-Nazi Screeds](https://thedailybanter.com/2014/10/09/ipad-hacker-released-jail-parties-glenn-greenwald-publishes-neo-nazi-screeds/)
 
