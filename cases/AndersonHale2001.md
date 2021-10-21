@@ -5,6 +5,7 @@ header:
   overlay_image: /assets/images/mformurder.jpg
 title: Anderson v Hale
 excerpt: \"Defendant's counsel's telephone rang. ..<br>  Seizing the opportunity, Greenwald....\"
+description: "Defendant's counsel's telephone rang. ... Seizing the opportunity, Greenwald...."
 sidebar:
  - image: "assets/images/050302_mattHale_vmed_4p.jpg"
    imagelink: true
