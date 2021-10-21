@@ -168,10 +168,14 @@ Hale:
      url: /cases/Hale2002.html
    - title: 2003 Judgement
      url: /assets/pdfs/Hale2003.pdf
- - title: Alternative Formats
-   children:
    - title: Filing on the Wayback Machine
      url: https://web.archive.org/web/20080409205157/http://hatemonitor.csusb.edu/NewsHeadlines/hale_complaint.htm
+   - title: Press Report of Filing
+     url: https://dailyegyptian.com/34833/archives/hale-files-federal-lawsuit-against-state/ 
+ - title: Charitable Status
+   children:
+   - title: People Ryan v WCOTC
+     url: https://caselaw.findlaw.com/il-supreme-court/1193740.html
  - title: Anderson v Hale
    children:
    - title: Anderson v Hale 2000
@@ -183,11 +187,7 @@ Hale:
  - title: NYC Bar
    children: 
    - title: Clarifies rules for Glenn
-     url: https://www.nycbar.org/member-and-career-services/committees/reports-listing/reports/detail/formal-opinion-2003-02-undisclosed-taping-of-conversations-by-lawyers-1
- - title: Media reports
-   children:
-   - title: Glenn sues Illinois
-     url: https://dailyegyptian.com/34833/archives/hale-files-federal-lawsuit-against-state/      
+     url: https://www.nycbar.org/member-and-career-services/committees/reports-listing/reports/detail/formal-opinion-2003-02-undisclosed-taping-of-conversations-by-lawyers-1        
 Legal:
   - title: Scanlon v Kessler
     children:
@@ -201,8 +201,6 @@ Legal:
     url: /cases/Theissen.html
   - title: Master Notions case
     url: /cases/PeterHaas.html
-  - title: Matthew Hale
-    url: /cases/AndersonHale2001.html
 Lies:
  - title: About that Pulitzer
    url: /pulitzer.html
