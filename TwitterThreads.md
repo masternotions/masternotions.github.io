@@ -60,14 +60,14 @@ They do not necessarily link to the start of the thread. If a thread bifurcates 
 
 {% include gallery id="gal3" caption="No Coffee Boy, No Pulitzer and No Place to Buy an Airline Ticket" %}
 
-
+<div class="tweetgrid">
 <div class="tweet">
 <blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">Congratulations, Glenn.<br>After scouring the internet<br>for longer that it takes to find<br>your husband holding the camera for your porn company,<br>you quoted someone who knows nothing about this<br>to prove<br>&quot;The Clintons Did It&quot;.<br><br>[note distinctive pendant and mole - first in a series ↘️] <a href="https://t.co/ZLe33m0Kvo">pic.twitter.com/ZLe33m0Kvo</a></p>&mdash; Alan Stacey (@AlanVRK) <a href="https://twitter.com/AlanVRK/status/1363913785262637066?ref_src=twsrc%5Etfw">February 22, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 David's early career.
 </div>
 <div class="tweet">
-<blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">Literally Glenn Greenwald&#39;s OWN WORDS, now don&#39;t you feel exceptionally stupid <a href="https://t.co/A1NUST0bC7">pic.twitter.com/A1NUST0bC7</a></p>&mdash; CRITICAL HORSE THEORY THOT BONDS (@wokyleeks) <a href="https://twitter.com/wokyleeks/status/1403354497187868676?ref_src=twsrc%5Etfw">June 11, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-Glenn's early career.
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">You should ask Glenn if it is racist to go sexually exploit the Global South for quick cash <a href="https://t.co/sdVN42M15j">pic.twitter.com/sdVN42M15j</a></p>&mdash; SF SCHOOL BONDS (@wokbonds) <a href="https://twitter.com/wokbonds/status/1453182583181697030?ref_src=twsrc%5Etfw">October 27, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Repackaged audio from Hairy Studs 4.
 </div>
 <div class="tweet">
 <blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">I strongly suspect in his first year at Wachtell Lipton<br>he earned way more money than he&#39;d seen before<br>so he decided to,<br>err,<br>stop for a bit.<br><br>Although if what he told Buzzfeed was uncharacteristically true, he might have simply been fired. <a href="https://t.co/6mrj5Q0wqI">pic.twitter.com/6mrj5Q0wqI</a></p>&mdash; Alan Stacey (@AlanVRK) <a href="https://twitter.com/AlanVRK/status/1404621837271773187?ref_src=twsrc%5Etfw">June 15, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -84,4 +84,5 @@ How many trips to Moscow?
 <div class="tweet">
 <blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">A thread on Glenn Greenwald&#39;s history of normalizing and empowering the white nationalist right as a free-speech absolutist. Greenwald was the lawyer for neo-Nazi Matt Hale who formed the World Church of the Creator religion linked to violent hate crimes <a href="https://t.co/Vj1NYXsvKE">https://t.co/Vj1NYXsvKE</a></p>&mdash; Heresy Labs (@heresysquad) <a href="https://twitter.com/heresysquad/status/1191762909325492225?ref_src=twsrc%5Etfw">November 5, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 A long thread from a fan.
+</div>
 </div>

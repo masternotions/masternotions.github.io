@@ -10,13 +10,18 @@ imagelinks:
     description: Sauna Boys
     caption: "That's a very early production date! Possibly it only applies to one scene.
       David M is listed as director and would have been 16."
-  - path: /assets/images/box/hh1.jpg
+  - path: /assets/images/box/a129644_xlb.jpg
     description: "Hairy Hustlers v1"
+    caption: "Note the production dates when Glenn was likely shooting in Rio, and the explicit use of the Enzuli name." 
   - path: /assets/images/box/hh2.jpg
     description: "Hairy Hustlers v2"
     caption: And those XXXXXXs are there why exactly?
-  - path: /assets/images/box/a50864_xlb.jpg
+  - path: /assets/images/box/FuckMe.jpg
+    description: "Fuck Me"
+    caption: The production date in early May, 2005, fits the metadata of some still photos on Studmall.com (via the Waybackk Machine)
+  - path: /assets/images/box/FuckMeRawJune.jpg
     description: "Fuck Me Raw"
+    caption: "Production date of June 10, 2005 makes it one of the earliest"
   - path: /assets/images/box/SB3a.jpg
     description: "Sauna Boys 3: Tough Love"
   - path: /assets/images/box/SB4.jpg
@@ -42,7 +47,15 @@ imagelinks:
   - path: /assets/images/box/PBInLoveNY.jpg
     description: Piss Boys in Love Cover 2
     caption: "Not Piss Boys in Love 2, although that is a thing. This is PBIL 1 again, but the records have moved from Rio to NYC."
-sidebar:
+  - path: /assets/images/box/cumpupsb.jpg
+    description: Cum Pups
+    caption: "Appears to have been released in 2009, but the opening credits specify dates in 2005 - April 1, July 8 and July 20 as well as February 8 2006. April 1 2005 is the first known date after Glenn moved to Brazil"
+  - path: /assets/images/box/cumpupstitle.png
+    description: Cum Pups (title sequence)
+    caption: Not a box cover, but a still from the opening sequence
+  - path: /assets/images/box/BBCumPups2title.png
+    description: BB Cum Pups 2 (title seq.)
+sidebar:    
  - title: Documents of All Kinds
    nav: evid
    image: /assets/images/bamba.gif
@@ -53,6 +66,8 @@ _This new page is still a work in progess_
 {: .notice--warning}  
 
 ## The Custodian of Records
+
+DVD Box Covers and title sequences usually list a Custodian of Records, together with date(s) on which the movie was filmed. There is some supporting evidence to suggest that Studmall generally did list accurate dates, including metadata inadvertently left on some still photos clearly shot at the same time. This information is required by law and usually taken quite seriously --- more so than than now.
 
 The following excerpt from [18 U.S. Code § 2257](https://www.law.cornell.edu/uscode/text/18/2257) summarizes the job description.
 > ### 18 USC §2257 - Record Keeping Requirements
@@ -68,13 +83,13 @@ The following excerpt from [18 U.S. Code § 2257](https://www.law.cornell.edu/us
 > (e)
 > 1. Any person to whom subsection (a) applies shall cause to be affixed to every copy of any matter described in paragraph (1) of subsection (a) of this section, in such manner and in such form as the Attorney General shall by regulations prescribe, a statement describing where the records required by this section with respect to all performers depicted in that copy of the matter may be located. In this paragraph, the term “copy” includes every page of a website on which matter described in subsection (a) appears.
 > 2. If the person to whom subsection (a) of this section applies is an organization **the statement required by this subsection shall include the name, title, and business address of the individual** employed by such organization responsible for maintaining the records required by this section.
-{: .notice--primary}
+{: .notice--info}
 
 
 
 [![Double Fuck Me](/assets/images/DFM.jpg){: .align-right .jason}](/assets/images/DFM.jpg)
 Double Fuck Me was the first Brazilian movie released by StudMall, released a few months after Glenn moved there in 2005. It may the only video which features **the Seventh Avenue address of Glenn's main law office on its cover**.  
-In this instance the Custodian of Records was Adrian Armas (misspelt "Armos", posssibly deliberately), the husband of Glenn's business partner, Jason Buchtel. 
+In this instance the Custodian of Records was Adrian Armas (misspelt "Armos", possibly deliberately), the husband of Glenn's business partner, Jason Buchtel. 
 {: .notice--success}
 
 If you're unclear why Jason left mainstream movies and moved into porn, here's Adrian Armas in Showboy, which Jason produced.
@@ -84,6 +99,13 @@ If you're unclear why Jason left mainstream movies and moved into porn, here's A
 </div>
 
 ## A Gallery of Box Covers
+
+These come from a variety of sources including [The Gay Erotic Video Index](https://www.gayeroticvideoindex.com/C/7/6277.html) and [The Gay Adult Entertainment Broadcast Network ](https://gay.aebn.com/gay/studios/19725/stud-mall) - although not all [pages of interest](https://gay.aebn.com/gay/movies/129644/hairy-hustlers) are filed under StudMall.
+
+They are revealing for various reasons including the production dates which appear to be generally accurate where stated (a Date of Duplication is far less informative) and the name and address provided.
+
+Note that David Miranda is explicitly listed as director on a number of sites, including [Gay AEBN](https://gay.aebn.com/gay/search/movies/page/1?queryType=Free+Form&sysQuery=&criteria=%7B%22sort%22%3A%22Newest%22%2C%22directorFilters%22%3A%5B19979%5D%7D) which credits him with eight movies including the entire Sauna Boys series.
+
 
 Commentary is included with some of the linked images.  
 This gallery is so far from being finished, it's not even funny.
