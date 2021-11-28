@@ -2,8 +2,7 @@
 layout: single
 classes:
     wide
-title: \"Where Journalism Goes to Die\"
-description: The AntiFans of Glenn Greenwald
+title: The Anti-Fandom of Glenn Greenwald
 header:
   image: assets/images/DM.jpg
 sidebar:
@@ -16,12 +15,9 @@ sidebar:
 
 share: true
 ---
-
-# The Anti-Fandom of Glenn Greenwald.
-
-Glenn has an extraordinarily devoted antifan following.  
-
-As far back as 2006, they were creating pages and entire sites to catelog his lies.
+Many others have devoted webpages, or in some cases entire sites, to pointing out Glenn's faults: his anti-fans.  In fact the only people with more devoted anti-fans than Glenn are, or have at some point been, autocratic dictators of fair-sized nations.  
+Here we catalog some of those pages and similar material, loosely arranged by subject matter.
+{: .notice--success}
 
 
 ## All Things Glenn
@@ -64,9 +60,13 @@ Amongst other allegations, it says:
 - ``January 9, 2013`` Matthew Hale timeline from History Commons: [White Supremacist Church Leader Arrested for Soliciting Murder of a Judge'](https://web.archive.org/web/20130214223104/http://www.historycommons.org/context.jsp?item=a0103halearrest)
 - ``January 26 2001`` Glenn was the subject of a _Nazi Alert_. [Jewish Attorney Represents Jew-hater](https://web.archive.org/web/20020701035631/http://www.jdl.org/enemies/nazi/greenwald.shtml)
 - ``October 9, 2014`` Daily Banter report on Weev's release from jail . [iPad Hacker Released From Jail, Parties with Glenn Greenwald, Publishes Neo-Nazi Screeds](https://thedailybanter.com/2014/10/09/ipad-hacker-released-jail-parties-glenn-greenwald-publishes-neo-nazi-screeds/)
+- _NEW_{: .new} ``July 12, 2006`` Classical Values blog on Glenn's description of Neo-Nazi shooting victims as "odious and repugnant". [Classical Wisdom Of Opportunistic Repugnance](http://www.classicalvalues.com/archives/2006/07/funny_wisd.html).
 
 
 ## The Intercept
+
+In the era of The Intercept, a number of journalists and noted bloggers seem to have ended up in all-out war with Glenn, including Mark Ames, Ken Silverstein, and Charles Foster Johnson of Little Green Footballs.
+{: .notice--info}
 
 ![Investigative Journalist](assets/images/Kermit.gif){: .align-right}
 - ``November 27, 2013`` Pando Daily by Mark Ames: [Keeping Secrets: Pierre Omidyar, Glenn Greenwald and the privatization of Snowden's leaks](https://pando.com/2013/11/27/keeping-secrets/)
@@ -75,6 +75,8 @@ Amongst other allegations, it says:
 - ``February 3, 2016`` Pando Daily by Mark Ames: [All the billionaire's men (Or: Shattered Glenn)](https://pando.com/2016/02/03/all-billionaires-men-or-shattered-glenn/)
 - ``March 15, 2019`` Columbia Journalism Review [The Intercept Cuts Back](https://www.cjr.org/business_of_news/layoffs-the-intercept.php)
 - ``December 11, 2013`` JP Sottile in Shadow-Proof: [Greenwald's Twitter War over PayPal-NSA Allegations](https://shadowproof.com/2013/12/11/twitter-hosts-epic-war-of-words-over-paypal-nsa-allegations/)
+- _New_{: .new} ``February 25, 2014`` Charles Johnson's political blog, Little Green Footballs asks _Misleading, hyperbolic headlines totally unsupported by evidence — is this the future of journalism?_ :  [If You Read Down to Paragraph 18, You Discover That Glenn Greenwald’s Latest Article Has No Evidence](http://littlegreenfootballs.com/article/43112_If_You_Read_Down_to_Paragraph_18_You_Discover_That_Glenn_Greenwalds_Latest_Article_Has_No_Evidence). There was a follow-up:
+    * Glenn's former law firm partner (with whom he has an enduring love-hate relationship to this day) weighs in. [In Which Glenn Greenwald’s Friend Mona Holland Equates Me to a Neo-Nazi in Prison for Trying to Murder a Judge](http://littlegreenfootballs.com/article/43115_In_Which_Glenn_Greenwalds_Friend_Mona_Holland_Equates_Me_to_a_Neo-Nazi_in_Prison_for_Trying_to_Murder_a_Judge/comments/)
 
 ## Miscellaneous 
 
@@ -84,7 +86,7 @@ Amongst other allegations, it says:
 
  - ``April 20, 2011`` Dana Houle, Rooted Cosmopolitan [Glenn Greenwald: Neither a Liberal Nor a Progressive](https://rootedcosmopolitan.wordpress.com/2011/04/20/glenn-greenwald-neither-a-liberal-nor-a-progressive/)
 - ``May 3 2019`` Novak Archive [Why Does Glenn Greenwald Keep Appearing on Tucker Carlson's Show?](https://www.novakarchive.com/foias/2019/4/20/why-does-glenn-greenwald-keep-going-on-tucker-carlsons-show)
-- ``Dec 15, 2013`` Daily Kos Community on "Koch Libertarian - Faux progressive Ratfucker" [Glenn Greenwald advocates letting Republicans destroy the country](https://www.dailykos.com/stories/2013/12/15/1262880/-Glenn-Greenwald-advocates-letting-Republicans-destroy-the-country), which cites:
+- _New_{: .new} ``Dec 15, 2013`` Daily Kos Community describes GG as a "Koch Libertarian - Faux progressive Ratfucker": [Glenn Greenwald advocates letting Republicans destroy the country](https://www.dailykos.com/stories/2013/12/15/1262880/-Glenn-Greenwald-advocates-letting-Republicans-destroy-the-country). This cites:
     * ``November 7, 2010`` MSNBC with Joe and Mika: [Progressive Glenn Greenwald Vs Socialist Lawrence O'Donnell](https://www.youtube.com/watch?v=aMM9D9ge8uY)
     * ``April 22, 2011`` Joy Reid's old blog, The Reid Report. [Re-rise of the Naderites: Glenn Greenwald’s third party dreamin’ - UPDATE: on Libertarianism](https://web.archive.org/web/20110801052732/http://blog.reidreport.com/2011/04/re-rise-of-the-naderites-glenn-greenwalds-third-party-dreamin/). Comments section especially recommended.
     * ``November 3, 2010`` The Badger Herald (student newspaper) on Glenn at UW-Madison: [Does U.S. use terrorism to abuse civil liberties?](https://badgerherald.com/news/2010/11/03/does-us-use-terroris/) This has links to three videos on Vimeo.
@@ -122,3 +124,13 @@ _Better not forget_:
 A number of web pages are something of the opposite: not about Glenn at all, but noteworthy for the references to Glenn in the replies.
 
 ``July 23, 2020`` Replying to Ezra Klein: _Wow, there are more sockpuppets here than a Glenn Greenwald slumber party._ [When Tucker Carlson asked to join Journolist](http://voices.washingtonpost.com/ezra-klein/2010/07/when_tucker_carlson_asked_to_j.html)
+
+
+# Thanking You Back
+
+_New_{: .new}
+Websites which have been kind enough to acknowledge this one.
+
+- ``June 9, 2021`` The Socratic Gadfly Blog: [Glenn Greenwald really met David Miranda on a Brazilian beach?](https://socraticgadfly.blogspot.com/2021/06/glenn-greenwald-really-met-david.html)
+- ``May 25, 2021`` Ken Silverstein's Washington Babylon: [You Remember Carlos Danger, Right? Meet Hairy Studs, Glenn Greenwald’s Alter Ego. It Matters.](https://washingtonbabylon.com/you-remember-carlos-danger-right-meet-hairy-studs-glenn-greenwalds-alter-ego-it-matters/)
+
