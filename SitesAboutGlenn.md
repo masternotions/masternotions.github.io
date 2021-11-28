@@ -61,7 +61,7 @@ Amongst other allegations, it says:
 - ``Jul 11, 2013`` Adam Levick for The Algemeiner: [Glenn Greenwald's Anti-Semitism Exposed](https://www.algemeiner.com/2013/07/11/glenn-greenwalds-anti-semitism-exposed/)
 - ``May 20, 2019`` David Niewert for the Daily Kos: [Glenn Greenwald's strange far-right blind spot](https://www.dailykos.com/stories/2019/5/20/1859118/-The-Tale-of-the-Pontifex-Maximus-and-His-Lawyer-Glenn-Greenwald-s-strange-far-right-blind-spot)
 - ``Mar 12 2004`` Greenwald is a Dolt chasing 15 Minutes of Fame: [Trial by Media](https://archive.org/details/TrialByMediaByEdgarJ.Steele2004-OnMattHalesTrial)
-- ``January 9, 2013`` Matthew Hale timeline from History Commons [White Supremacist Church Leader Arrested for Soliciting Murder of a Judge'](https://web.archive.org/web/20130214223104/http://www.historycommons.org/context.jsp?item=a0103halearrest)
+- ``January 9, 2013`` Matthew Hale timeline from History Commons: [White Supremacist Church Leader Arrested for Soliciting Murder of a Judge'](https://web.archive.org/web/20130214223104/http://www.historycommons.org/context.jsp?item=a0103halearrest)
 - ``January 26 2001`` Glenn was the subject of a _Nazi Alert_. [Jewish Attorney Represents Jew-hater](https://web.archive.org/web/20020701035631/http://www.jdl.org/enemies/nazi/greenwald.shtml)
 - ``October 9, 2014`` Daily Banter report on Weev's release from jail . [iPad Hacker Released From Jail, Parties with Glenn Greenwald, Publishes Neo-Nazi Screeds](https://thedailybanter.com/2014/10/09/ipad-hacker-released-jail-parties-glenn-greenwald-publishes-neo-nazi-screeds/)
 
@@ -84,7 +84,17 @@ Amongst other allegations, it says:
 
  - ``April 20, 2011`` Dana Houle, Rooted Cosmopolitan [Glenn Greenwald: Neither a Liberal Nor a Progressive](https://rootedcosmopolitan.wordpress.com/2011/04/20/glenn-greenwald-neither-a-liberal-nor-a-progressive/)
 - ``May 3 2019`` Novak Archive [Why Does Glenn Greenwald Keep Appearing on Tucker Carlson's Show?](https://www.novakarchive.com/foias/2019/4/20/why-does-glenn-greenwald-keep-going-on-tucker-carlsons-show)
-
+- ``Dec 15, 2013`` Daily Kos Community on "Koch Libertarian - Faux progressive Ratfucker" [Glenn Greenwald advocates letting Republicans destroy the country](https://www.dailykos.com/stories/2013/12/15/1262880/-Glenn-Greenwald-advocates-letting-Republicans-destroy-the-country), which cites:
+    * ``November 7, 2010`` MSNBC with Joe and Mika: [Progressive Glenn Greenwald Vs Socialist Lawrence O'Donnell](https://www.youtube.com/watch?v=aMM9D9ge8uY)
+    * ``April 22, 2011`` Joy Reid's old blog, The Reid Report. [Re-rise of the Naderites: Glenn Greenwald’s third party dreamin’ - UPDATE: on Libertarianism](https://web.archive.org/web/20110801052732/http://blog.reidreport.com/2011/04/re-rise-of-the-naderites-glenn-greenwalds-third-party-dreamin/). Comments section especially recommended.
+    * ``November 3, 2010`` The Badger Herald (student newspaper) on Glenn at UW-Madison: [Does U.S. use terrorism to abuse civil liberties?](https://badgerherald.com/news/2010/11/03/does-us-use-terroris/) This has links to three videos on Vimeo.
+    * ``November 4, 2010`` One Video from The Badger Herald is also on YouTube: [Glenn Greenwald on civil liberties and terrorism after Obama (highlights)](https://www.youtube.com/watch?v=xVjuBT5twJ4)
+    
+    The two main videos which are not on YouTube require a logon to Vimeo if viewed on their website, but not when embedded, thus:
+<div class="vide">
+{% include video id="16494687" provider="vimeo" %}  
+{% include video id="16505647" provider="vimeo" %}
+</div>
 
 
 ### Glenn's Defense of Proud Boys
