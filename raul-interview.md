@@ -8,8 +8,8 @@ header:
   image: /assets/images/Glenn-Greenwald-fala-sobre-seus-filmes-adultos.jpg
 show_date: true
 sidebar:
-   images: /assets/images/Enzuli.jpg
-   nav: BCG1
+   - image: /assets/images/Enzuli.jpg
+     nav: BCG1
 ---
 
 <!-- markdownlint-disable MD026 MD036 -->
