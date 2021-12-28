@@ -22,6 +22,7 @@ Here we catalog some of those pages and similar material, loosely arranged by su
 
 ## All Things Glenn
 
+- ``Dec 25, 2008`` Daniel Drezner in Foreign Policy with literally the most versatile Greenwald headline ever. It has a Twitter preview: drop it in: [Glenn Greenwald enjoys waterboarding puppies](https://foreignpolicy.com/2008/12/25/glenn-greenwald-enjoys-waterboarding-puppies/)
 - ``Jan 31, 2016`` Dave Emory on Spitfire List: [Compendium on Citizen Greenwald: A Shiller for Killers](http://spitfirelist.com/for-the-record/ftr-888-compendium-on-citizen-greenwald-a-shiller-for-killers/)
      - ``November 22, 2013`` also: [Citizen Greenwald's Problem With the Truth.](https://spitfirelist.com/news/citizen-greenwalds-problem-with-the-truth/)
 - ``Jun 27, 2013`` The Other McCain: [Glenn Greenwald Is a Ridiculous Joke](https://theothermccain.com/2013/06/27/glenn-greenwald-is-a-ridiculous-joke-and-alas-the-internet-never-forgets/)
@@ -52,7 +53,7 @@ Amongst other allegations, it says:
 ## On Anti-Semitism and Defending Nazis
 
 - ``May 27, 2008`` Socialism of Fools Blog [Illegal Wiretapping Indeed](http://www.socialismfools.com/2008/05/illegal-wiretapping-indeed.html)
-- ``Jan 1 2912`` Good summary with links by Democratic Underground blog [Glenn Greenwald Unethically Taped Witnesses While Working for Matt Hale, White Supremacist.](https://www.democraticunderground.com/1002101211)
+- ``Jan 1 2012`` Good summary with links by Democratic Underground blog [Glenn Greenwald Unethically Taped Witnesses While Working for Matt Hale, White Supremacist.](https://www.democraticunderground.com/1002101211)
 - ``Jul 25, 2012`` Adam Levick for The Times of Israel: [The Guardian and Glenn Greenwald: The anti-imperialism of fools](https://blogs.timesofisrael.com/the-guardian-and-glenn-greenwald-the-anti-imperialism-of-fools/)
 - ``Jul 11, 2013`` Adam Levick for The Algemeiner: [Glenn Greenwald's Anti-Semitism Exposed](https://www.algemeiner.com/2013/07/11/glenn-greenwalds-anti-semitism-exposed/)
 - ``May 20, 2019`` David Niewert for the Daily Kos: [Glenn Greenwald's strange far-right blind spot](https://www.dailykos.com/stories/2019/5/20/1859118/-The-Tale-of-the-Pontifex-Maximus-and-His-Lawyer-Glenn-Greenwald-s-strange-far-right-blind-spot)

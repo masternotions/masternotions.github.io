@@ -105,6 +105,7 @@ These come from a variety of sources including [The Gay Erotic Video Index](http
 They are revealing for various reasons including the production dates which appear to be generally accurate where stated (a Date of Duplication is far less informative) and the name and address provided.
 
 Note that David Miranda is explicitly listed as director on a number of sites, including [Gay AEBN](https://gay.aebn.com/gay/search/movies/page/1?queryType=Free+Form&sysQuery=&criteria=%7B%22sort%22%3A%22Newest%22%2C%22directorFilters%22%3A%5B19979%5D%7D) which credits him with eight movies including the entire Sauna Boys series.
+{: .notice--danger}
 
 
 Commentary is included with some of the linked images.  

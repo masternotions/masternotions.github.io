@@ -62,11 +62,17 @@ share: true
 
 
 
-# Intro
 
-_This site is incomplete and under active development in June 2021_. 
-For those in search of further details and evidence, here are some starting points wtih [threads about Glenn on Twitter](TwitterThreads.md){: .btn .btn--success}. 
+**NEW**{: .new} A second article published by HX, under Glenn Greenwald's own byline, promoting his own companies has been found: [His Name is Rio](hxRio.md){: .btn .btn--danger}.  
+The first article in 2005, promoted Studmall.  
+This article is a shameless plug for their RioMaleEscorts and RioGayGuides agencies; particularly its second half entitled _Brazilian Boys_ and co-authored by his husband David Miranda, The first half, "text by Glenn Greenwald", contains many distinctively prolix descriptions identical to those found in the websites themselves.  
 
+
+
+# Further Info
+
+_This site is incomplete_.
+For those in search of further details and evidence, here are some starting points with [threads about Glenn on Twitter](TwitterThreads.md){: .btn .btn--success}. 
 
 
 
