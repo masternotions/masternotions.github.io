@@ -13,7 +13,7 @@ main:
     url: /SitesAboutGlenn.html  
   - title: HX
     description: NYC's premier gay bar rag, and Glenn
-    url: /hxpromo/ 
+    url: /hxRio.html 
   - title: BetterCallGlenn
     description: Sites From Brazil
     url: /predator-part-1.html
@@ -84,6 +84,10 @@ HX:
       url: /hx.html
     - title: Print version
       url: /hxpromo/
+ - title: His Name is Rio
+   children:
+    - title: RioMaleEscorts Promotion by Glenn & David
+      url: /hxRio.html
  - title: Razor Burned by Andrew Sullivan
    children:
     - title: Print version
@@ -94,6 +98,8 @@ HX:
       url: https://web.archive.org/web/20050221102140/http://www.hx.com/features/index.cfm?id=2255&page=features&sub_page=weekly
     - title: Studmall - Cheap Trixxx promotion
       url: https://web.archive.org/web/20050511030808/http://www.studmall.com:80/Articles/hx.php
+    - title: His Name is Rio
+      url: "https://web.archive.org/web/20060323124950/http://www.hx.com/features/index.cfm?page=weekly&id=2686&sub_page=weekly"  
     - title: Razor Burned - Hairy Studs promotion by Andrew Sullivan HX website
       url: "https://web.archive.org/web/20031015125135/hx.com/features/index.cfm?id=1588&page=features&sub_page=weekly"             
 RioGuides:
@@ -187,7 +193,11 @@ Hale:
  - title: NYC Bar
    children: 
    - title: Clarifies rules for Glenn
-     url: https://www.nycbar.org/member-and-career-services/committees/reports-listing/reports/detail/formal-opinion-2003-02-undisclosed-taping-of-conversations-by-lawyers-1        
+     url: https://www.nycbar.org/member-and-career-services/committees/reports-listing/reports/detail/formal-opinion-2003-02-undisclosed-taping-of-conversations-by-lawyers-1
+ - title: News Reports
+   children:
+   - title: Glenn calls victims "odious and repugnant"
+     url: https://web.archive.org/web/20000511124354if_/http://www.lawnewsnetwork.com/stories/A20627-2000Apr5.html 
 Legal:
   - title: Scanlon v Kessler
     children:
