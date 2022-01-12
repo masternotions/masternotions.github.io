@@ -44,7 +44,9 @@ HX was an influential magazine and the kind of publicity these promotional puff 
 
 ## _Pack your bags and meet the Boys From Ipanema_, by Glenn Greenwald  <br> - incorporating  _Brazilian Boys_, by David Miranda who has some for sale.
 
-The exact date of this article is unclear. It appeared on the Wayback Machine in March, but there were references to it on RioGayGuides.com as early as January 4, although it is not clear they contained live links at that point.
+The exact date of this article is unclear. It appeared on the Wayback Machine in March 2006 (link in sidebar),
+but there were references to it on RioGayGuides.com as early as January 4.
+The primary medium was the printed magazine, and we are still working on finding the exact edition in which it appeared: we'll get there.
 {: .notice}
 
 <div>
