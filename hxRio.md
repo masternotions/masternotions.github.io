@@ -36,8 +36,7 @@ show_date: true
 
 # His Name is Rio
 
-Roughly a year after publishing the first [article under Glenn's byline](hx.md), promoting Studmall,  
-HX magazine published another.  
+This was the second full article in HX magainze under Glenn's byline, appearing in early 2006, roughly after a year after [his Studmall promo](hx.md).  
 
 
 This time its clear purpose was to promote Glenn's RioMaleEscorts.com, which it did in the second half, subtitled _Brazilian Boys_. The first half covered other aspects of Rio, including gay nightlife which is HX's primary subject matter. Thanks to its focus on "working boys" and total omission of the spectular parties Rio has to offer, it could be the single worse nightlife review HX ever published.
