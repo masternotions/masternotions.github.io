@@ -8,6 +8,11 @@ header:
   og_image: /assets/images/SullivanBanner.jpg
   overlay_image: assets/images/bodygh2.jpg
   overlay_filter: linear-gradient(90deg, rgba(0,110,50,0.65), rgba(220,30,30,0.05))
+  actions:
+    - label: web version archived
+      url: "https://web.archive.org/web/20031015125135/hx.com/features/index.cfm?id=1588&page=features&sub_page=weekly"             
+    - label: Wut Dis?
+      url: /AboutArchives.html  
 sidebar:
   - title: HX magazine
     image: assets/images/nothairy.jpg

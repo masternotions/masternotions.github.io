@@ -9,6 +9,11 @@ date: 2019-08-01
 header:
     overlay_image: assets/images/Predador1.jpg
     overlay_filter: linear-gradient(90deg, rgba(20, 15,9,0.4), rgba(70,30,30,0.01))
+    actions:
+      - label: Original
+        url: https://web.archive.org/web/20190803233836/https://bettercallglenn.com/um-predador-sexual-chamado-glenn-greenwald-ato-i"
+      - label: "Wut Dis?"
+        url: /AboutArchives.html
 sidebar:
     - image: assets/images/EshEH_WU4AE7WXV.jpg
       title: Better Call Glenn

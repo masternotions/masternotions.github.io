@@ -13,7 +13,8 @@ permalink: /interviews/
 
 On the morning of June 27, 2013, the print edition of New York Daily News published [Secrets of Mr Secret](https://www.nydailynews.com/news/national/greenwald-reporter-broke-nsa-story-lawyer-sued-porn-biz-article-1.1383448)
 about Glenn's porn companies.  
-Between their email, the evening of June 25, and publication less than 36 hours later, Glenn managed to publish two piece of his own, an interview in Buzzfeed and first-person article in The Guardian.
+Between their email, the evening of June 25, and publication less than 36 hours later, Glenn managed to publish two piece of his own, an interview in Buzzfeed and first-person article in The Guardian.  
+Key excerpts from those articles are reproduced here, with links to the full originals.
 
 Glenn appears to have carefully phoned the New York Daily News, to find out exactly what they had found out, before writing his own stories. In the Guardian he commented, with evident relief, "So that's the big discovery".
 {: .notice--warning}
