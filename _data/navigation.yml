@@ -1,7 +1,7 @@
 main:
-  - title: Evidence
-    description: Many paper trails
-    url: /boxcovers/
+  - title: HX
+    description: NYC's premier gay bar rag, and Glenn
+    url: /hxRio.html 
   - title: Rio Websites
     description: sites Glenn owned & operated in Brazil
     url: /RioG.html
@@ -11,12 +11,12 @@ main:
   - title: AntiFans
     description: Other sites about Glenn  
     url: /SitesAboutGlenn.html  
-  - title: HX
-    description: NYC's premier gay bar rag, and Glenn
-    url: /hxRio.html 
   - title: BetterCallGlenn
     description: Sites From Brazil
     url: /predator-part-1.html
+  - title: Evidence
+    description: Many paper trails
+    url: /boxcovers/  
   - title: Jake Jaxson
     description: Glenn's business partner 
     url: /Jason.html

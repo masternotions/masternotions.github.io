@@ -146,6 +146,11 @@ a[href*="//"]:not([href*="masternotions.com"]) {
     color: #1d021f;
 
   }
+
+  &.btn--light-outline {
+    color: white;
+  }
+  
 }
 
 .tweetgrid {

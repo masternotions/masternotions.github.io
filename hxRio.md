@@ -6,8 +6,15 @@ excerpt: \"Residents of Rio...are striking in every way. The Life of a Carioca y
 description: \"Escorting in Brazil is legal. And jobs in Rio are scarce.\", they write enthusiastically. 
 author: Glenn
 header:
-    overlay_image: assets/images/CrazyDesk.jpg
-    og_image: assets/images/GlennDeskSharp.jpg
+  overlay_image: assets/images/CrazyDesk.jpg
+  og_image: assets/images/GlennDeskSharp.jpg
+  actions:
+    - label: Original
+      url: "https://web.archive.org/web/20060323124950/https://www.hx.com/features/index.cfm?page=weekly&id=2686&sub_page=weekly"
+    - label: Plain View
+      url:  "/hxRio/web.archive.org/web/20060323124950if_/http:/www.hx.com/features/indexRio.html"
+    - label: "Wut Dis?"
+      url: /AboutArchives.html
 sidebar:
   - title: HX magazine
     image: assets/images/HXPages/JPHXCOVER.JPG
