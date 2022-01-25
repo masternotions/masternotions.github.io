@@ -36,7 +36,7 @@ Here we catalog some of those pages and similar material, loosely arranged by su
 ## Porn and Master Notions
 
 - ``June 16, 2020`` Oswaldo Eustáquio (Portuguese) [Glenn Greenwald humiliated Jews in Nazi porn productions in the US](https://emribeirao.com/policial/glenn-greenwald-humilhava-judeus-em-producoes-pornograficas-nazistas-nos-eua-37125)  
-Apparently based in part on an interview with someone now in Argentina, we cannot verify all the details. But like the Better Call Glenn pages, key details do fit documentary evidence.  
+Apparently based in part on an interview with someone now in Argentina, we cannot verify all the details. But like the [Better Call Glenn pages](/predator-part-2.md), key details do fit documentary evidence.  
 Amongst other allegations, it says:  
 > Dressed as Darth Vader, Glenn Greenwald performed his sexual fantasies with young men without much hair on their bodies, who were called by the American “My Anaquim”.
 
