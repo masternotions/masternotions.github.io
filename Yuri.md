@@ -4,10 +4,11 @@ classes:
     wide
 title: Come Try My Spaceship
 description: \"I went to Yuri\'s very large house and met Mark Zuckerberg. And...Google people\"
-excerpt: \"I\'m surprised they let you leave the mansion\"
+excerpt: \"I went to Yuri\'s very large house <br> and met Mark Zuckerberg. <br> And Google people\"
 sidebar:
   - image: assets/images/YuriSergey.jpg
     imagelink: true
+  - title: Weirdness without Glenn
     nav: KK
 header:
  overlay_image: "/assets/images/Brin1.jpg"
