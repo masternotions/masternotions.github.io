@@ -12,6 +12,24 @@ sidebar:
   - image: assets/images/Jason2.jpg
     imagelink: true
 share: true
+videogallery:
+  - id: 338537323
+    provider: vimeo
+    im: jason17.jpg
+    title: Grabbys 2019
+    caption: Best Screenplay
+  - id: 7KjEFbsCI_E
+    provider: youtube
+    im: sketchy1.jpg
+    title: Best Director Str8UpGayPorn 2017
+    excerpt: Rachel Maddow is the first person he mentions in his acceptance speech. Glenn has been forgotten again. 
+  - id: ewWomB92Rjs
+    provider: youtube
+    im: jason13.jpg
+    title: Grabbys 2013
+    caption: _Project Gogoboy_ won four awards including Best Screenplay
+after_footer_scripts:
+  - /assets/js/videogal.js
 ---
 
 
@@ -28,6 +46,7 @@ refers to Glenn and Jason.
 
 ## I am Jake Jaxson
 
+{% include videogallery %}
 
 ![I am Jake Jaxson](assets/images/jj.jpg){: .align-left .jason} When [NY Daily News linked Glenn and Jason](https://www.nydailynews.com/news/national/greenwald-reporter-broke-nsa-story-lawyer-sued-porn-biz-article-1.1383448) through court documents in June 2013,  
 Jason published the biographical article
@@ -68,8 +87,11 @@ Shortly after that, Jason started winning awards
 
 This clip of the awards ceremony showcases the professionalism for which the industry is famous.
 
-{% include video id="ewWomB92Rjs" provider="youtube" %}
 
+
+<a class="popup-youtube" href="https://www.youtube.com/watch?v=ewWomB92Rjs" >
+<img src="/assets/images/jason13.jpg" class="modcard">
+</a>
 
 
 ## In 2017 He won Best Director at the Str8UpGayPorn Awards.
@@ -81,13 +103,20 @@ Glenn has been forgotten again.
 
 ## And Best Director at the Grabbys in 2017 also
 
-Just in case that last awards ceremony wasn't classy enough, this one has a bigger stage.
+Just in case that last awards ceremony wasn't classy enough, this one has a bigger stage. 
 
 {% include video id="219318053" provider="vimeo" %}
 
 ## In 2019 he won Best ScreenPlay at the Grabbys
 
-{% include video id="338537323" provider="vimeo" %}
+
+<a href="https://vimeo.com/338537323" class="popup-vimeo">
+<img src="/assets/images/jason17.jpg" class="modcard">
+  </a>
+
+
+{% include pop-video id="386269895" provider="vimeo" im="/sketchy2.jpg" %}
+
 
 ## Gay VN 2020 Best Director
 This took place in January, in case you're wondering why they're not all six feet apart.
@@ -95,5 +124,15 @@ This took place in January, in case you're wondering why they're not all six fee
 
 
 
+<!-- <a class="popup-youtube" href="https://www.youtube.com/watch?v=SoR6TVG4ZqQ">Open 2019 YouTube</a><br>
 
 
+<a class="popup-youtube" href="https://www.youtube.com/watch?v=zGFkJFg_uYg">Open 2015 Youtube</a><br>
+
+
+
+<a class="popup-youtube" href="https://www.youtube.com/watch?v=zGFkJFg_uYg">Open 2015 Youtube</a><br> -->
+
+
+
+<!-- <script src="/assets/js/videogal.js" defer>  </script>  -->
