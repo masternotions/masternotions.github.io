@@ -94,7 +94,5 @@ This took place in January, in case you're wondering why they're not all six fee
 {% include video id="386269895" provider="vimeo" %}
 
 
-{% include video id="SoR6TVG4ZqQ" provider="youtube" %}
-
 
 
