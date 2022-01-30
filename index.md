@@ -69,10 +69,19 @@ This article is a shameless plug for their RioMaleEscorts and RioGayGuides agenc
 
 
 
-# Further Info
 
-_This site is incomplete_.
-For those in search of further details and evidence, here are some starting points with [threads about Glenn on Twitter](TwitterThreads.md){: .btn .btn--success}. 
+## Other Sites About Glenn
+
+
+>![Boys From Brazil](assets/images/boysbrazil.jpg){: .align-right .jason} Glenn has inspired a remarkable number of web pages - even entire sites - specifically about him.  Some of the earliest were about Glenn's famous sock-puppets, in 2006. Others cover material from Edward Snowden, to porn production, to his whole history of lies.  Few are praiseworthy and quite have an expressly stated goal of warning abouut Glenn, such as this from 2013.
+> > It is inexplicable that so few have ever called him out by name for such deplorable, unethical behavior.
+> > So I am doing it as plainly as I possibly can. Glenn Greenwald is a serial liar.
+> > He is a bully. And he has no business being taken seriously ever again.  
+> 
+> See our _UPDATED_{: .new} collection of [pages by Glenn's Antifans.](SitesAboutGlenn.md){: .btn .btn--danger}
+{: .notice--primary} 
+
+
 
 
 
@@ -205,13 +214,6 @@ _A reconstruction of sites Glenn and David set up in Brazil in 2005_.
 
 
 
-## Other Sites About Glenn
-
-![Boys From Brazil](assets/images/boysbrazil.jpg){: .align-left .jason} Glenn has inspired a remarkable number of web pages - even entire sites - specifically about him. Few are praiseworthy. Some of the earliest were about Glenn's famous sock-puppets, in 2006. Others cover material from Edward Snowden, to porn production, to his whole history of lies.  
-_UPDATED_{: .new} See our collection of [pages by Glenn's Antifans.](SitesAboutGlenn.md){: .btn .btn--danger}
-{: .notice--success} 
-
-
 <br>{: .cl}
 
 ### What's Glenn's Best Movie?
@@ -248,7 +250,10 @@ thinks he has a [Pulitzer Prize](pulitzer.md){: .btn .btn--warning .btn--large}
 The Sun Sentinel in 1985 [reported](SunSentinel.md) on Glenn's attempts to win his grandfather's old council seat.  
 That's the _self-taught, deprived childhood_ myth, shattered.
 
+# Further Info
 
+_This site is incomplete_.
+For those in search of further details and evidence, here are some starting points with [threads about Glenn on Twitter](TwitterThreads.md){: .btn .btn--success}. 
 
 
 
