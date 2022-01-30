@@ -23,6 +23,8 @@ Here we catalog some of those pages and similar material, loosely arranged by su
 ## All Things Glenn
 
 - ``Dec 25, 2008`` Daniel Drezner in Foreign Policy with literally the most versatile Greenwald headline ever. It has a Twitter preview: drop it in: [Glenn Greenwald enjoys waterboarding puppies](https://foreignpolicy.com/2008/12/25/glenn-greenwald-enjoys-waterboarding-puppies/)
+- ``Aug 23, 2013`` Joshua Frost's blog warns about Glenn in: [A Pathetic Slap from a Lying Bully](https://joshuafoust.com/pathetic-slap-from-lying-bully/)
+- ``April 1, 2021`` Claire Potter calls out Glenn and Jesse Singal's internet bullying in [Glenn Greenwald Punches Down](https://publicseminar.org/essays/glenn-greenwald-punches-down/)
 - ``Jan 31, 2016`` Dave Emory on Spitfire List: [Compendium on Citizen Greenwald: A Shiller for Killers](http://spitfirelist.com/for-the-record/ftr-888-compendium-on-citizen-greenwald-a-shiller-for-killers/)
      - ``November 22, 2013`` also: [Citizen Greenwald's Problem With the Truth.](https://spitfirelist.com/news/citizen-greenwalds-problem-with-the-truth/)
 - ``Jun 27, 2013`` The Other McCain: [Glenn Greenwald Is a Ridiculous Joke](https://theothermccain.com/2013/06/27/glenn-greenwald-is-a-ridiculous-joke-and-alas-the-internet-never-forgets/)
