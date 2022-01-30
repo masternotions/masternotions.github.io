@@ -24,6 +24,8 @@ baseurl: "/"
 logo: assets/images/hippopotamus-head.svg
 atom_feed:
   hide: true
+after_footer_scripts:
+  - /assets/js/videogal.js
 analytics:
   provider: "google-gtag"
   google:

@@ -1,0 +1,25 @@
+{% capture video_id %}{{ include.id }}{% endcapture %}
+{% capture video_provider %}{{ include.provider }}{% endcapture %}
+{% capture video_danmaku %}{{ include.danmaku | default: 0 }}{% endcapture %}
+
+{% capture video_src %}
+  {% case video_provider %}
+  {% when "vimeo" %}
+    https://vimeo.com/{{ video_id }}
+  {% when "youtube" %}
+    https://www.youtube.com/watch?v={{ video_id }}
+  {% when "google-drive" %}
+    https://drive.google.com/file/d/{{ video_id }}/preview
+  {% when "bilibili" %}
+    https://player.bilibili.com/player.html?bvid={{ video_id }}&page=1&as_wide=1&high_quality=1&danmaku={{ video_danmaku }}
+  {% endcase %}
+{% endcapture %}
+{% assign video_src = video_src | strip %}
+
+<!-- Courtesy of embedresponsively.com //-->
+{% unless video_src == "" %}
+
+  <a href="{{ video_src }}" class="popup-{{include.provider}}" >
+    <img src="/assets/images/{{include.im}}" class="modcard">
+  </a>
+{% endunless %}
