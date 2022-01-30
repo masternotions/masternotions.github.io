@@ -46,16 +46,16 @@ video {
 .new {
   display: inline-block;
   margin-top: 0.2em;
-  padding: 0.3em 0.8em 0.3em;
+  padding: 0.2em 0.7em 0.2em;
   font-size: $type-size-5;
   font-weight: bold;
   text-align: center;
   text-decoration: none;
   border-style: ridge;
-  border-color: black;
+  border-color: rgba(0, 0, 139, 0.2);
   border-width: 3px;
   border-radius: 8px;
-  background-color: darkblue;    
+  background-color: rgba(0, 0, 139, 0.6);    
   color: yellow;
 }
 
@@ -83,6 +83,11 @@ a img {
 .popvide {
   max-width: 640px;
 }
+
+.bott {
+  
+}
+
 
 
 a.site-logo img{
